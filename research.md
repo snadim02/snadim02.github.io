@@ -48,14 +48,14 @@ we will have the power to detect extremely rare variants that play roles in huma
 * PertInInt: An integrative, analytical approach to rapidly uncover cancer driver genes with perturbed interactions and functionalities. [*Cell Systems*](https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30202-7), 2020. :star:
 * Ongoing challenges and innovative approaches for recognizing patterns across large-scale, integrative biomedical datasets. [*Pac Symp Biocomput*](https://psb.stanford.edu/psb-online/proceedings/psb20/Intro_Biomed%20Data.pdf), 2020. :star:
 * Systematic, domain-based aggregation of protein structures highlights DNA-, RNA-, and other ligand-binding positions. [*Nucleic Acids Research*](https://academic.oup.com/nar/article/47/2/582/5232439), 2019. :star:
-* Pervasive variation of transcription factor orthologs contributes to regulatory network divergence. [*PLoS Genetics*](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005011), 2015. :star:
-* Formatt: Correcting protein structural alignments by sequence peeking. [*ACM-BCB'11*](http://dl.acm.org/citation.cfm?doid=2147805.2147842), 2011. :star:
+* Pervasive variation of transcription factor orthologs contributes to regulatory network divergence. [*PLoS Genetics*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005011), 2015. :star:
+* Formatt: Correcting protein structural alignments by sequence peeking. [*ACM-BCB'11*](https://dl.acm.org/citation.cfm?doid=2147805.2147842), 2011. :star:
 * Phenotypic overlap between rare disease patients and variant carriers in a large population cohort informs biological mechanisms. *In submission*, 2024. :love_letter:
 * VarPPUD: Variant pathogenicity predictor developed for undiagnosed genetic disorders. *In preparation*, 2024. :love_letter:
 * Deep learning for diagnosing patients with rare genetics diseases. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1), 2023. :busts_in_silhouette:
 * Polygenic risk scores for autoimmune related diseases are significantly different and skewed in cancer exceptional responders. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2023.02.22.23285773v2), 2023. :busts_in_silhouette:
 * RExPRT: a machine learning tool to predict pathogenicity of tandem repeat loci. [*Genome Biology*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03171-4, 2024.), 2024. :busts_in_silhouette:
 * The contribution of mosaicism to genetic diseases and de novo pathogenic variants. [*Am J Med Genet Part A*](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.a.63309), 2023. :busts_in_silhouette:
-* Formatt: Correcting protein structural alignments by incorporating sequence alignment. [*BMC Bioinformatics*](http://www.biomedcentral.com/1471-2105/13/259), 2012. :busts_in_silhouette:
-* Evolving soft robotic locomotion in PhysX. [*ACM-GECCO'09*](http://dl.acm.org/citation.cfm?doid=1570256.1570351), 2009. :busts_in_silhouette:
+* Formatt: Correcting protein structural alignments by incorporating sequence alignment. [*BMC Bioinformatics*](https://www.biomedcentral.com/1471-2105/13/259), 2012. :busts_in_silhouette:
+* Evolving soft robotic locomotion in PhysX. [*ACM-GECCO'09*](https://dl.acm.org/citation.cfm?doid=1570256.1570351), 2009. :busts_in_silhouette:
 * A patient-centric information commons for a national undiagnosed diseases network. *In preparation*, 2024. :busts_in_silhouette:
