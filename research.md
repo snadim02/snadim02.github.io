@@ -4,7 +4,7 @@ title: Research
 subtitle: uncovering genetic drivers of rare human diseases
 ---
 
-> My research currently focuses on developing methods to analyze genome sequencing data in the context of other 'omics and clinical 
+> I develop methods to analyze genome sequencing data in the context of other 'omics and clinical 
 > health data to prioritize and functionally interpret genetic variants with roles in human disease. See
 > [my CV](../assets/ShilpaKobren_CV.pdf) for details.
 
