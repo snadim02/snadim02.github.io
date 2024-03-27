@@ -18,4 +18,4 @@ You get it. [Maybe](https://www.americanprogress.org/article/covid-19-pandemic-f
 *independently find and use their stuff* safely and *put it away themselves* was essential for life but also, turns out, an essential form of selfcare for me. 
 Friends and family have been so delighted by some of my systems that they've encouraged me to share my ideas!  
 
-### Come back here soon to see example projects!
+### Come back here soon to see more example projects!
