@@ -41,7 +41,7 @@ the wood shims between the cabinets and floor, [caulked](https://www.homedepot.c
 [loose brick veneers](https://shop.oldmillbuildingproducts.com/products/seaside). I cut a piece of birch plywood to size between the cabinets 
 (a trapezoid, thanks to the slanted floor) and cut an opening for the fireplace to slide in. I secured the plywood to the 
 two side cabinets with [small corner braces](https://www.homedepot.com/p/Everbilt-2-in-Zinc-Plated-Double-Wide-Corner-Brace-2-Pack-15051/202033994). 
-Then I cut my bricks to size on a wet tile saw in our condo's shared backyard and secured them to the plywood with
+Then I cut my bricks to size on a wet tile saw and secured them to the plywood with
 [construction adhesive](https://www.homedepot.com/p/Loctite-Power-Grab-Heavy-Duty-Instant-Grab-9-oz-Latex-Construction-Adhesive-White-Cartridge-each-2032666/206432103), 
 [grouted](https://www.homedepot.com/p/Custom-Building-Products-SimpleGrout-09-Natural-Gray-1-qt-Pre-Mixed-Grout-PMG09QT/100676322) 
 [between](https://www.homedepot.com/p/Anvil-Grout-Bag-57542/300997951) the bricks, then [sealed the whole thing](https://www.homedepot.com/p/Custom-Building-Products-SimpleSealer-165-Delorean-Gray-1-qt-Premixed-Sealer-TLPS24Z/202919172).
