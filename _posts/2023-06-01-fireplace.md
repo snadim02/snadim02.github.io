@@ -28,7 +28,7 @@ No way! So I needed to find a way to get one!
 * breakables out of reach
 * looks good as a backdrop to Zoom calls
 * $2000 maximum budget for everything (I came in at $2173.04)
-* finished within 6 weeks (since my baby niece would be coming to stay with us)
+* finished within 6 weeks during evenings/weekends (since my baby niece would be coming to stay with us)
 
 Here's the finished project: 
 
