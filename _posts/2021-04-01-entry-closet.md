@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Front entry closet & pantry
-subtitle: I call it my "crown jewel"
+title: Multipurpose closet
+subtitle: AKA my organizational "crown jewel"
 cover-img: /assets/img/frontcloset01.jpg
 thumbnail-img: /assets/img/frontcloset01.jpg
 share-img: /assets/img/frontcloset01.jpg
@@ -9,20 +9,19 @@ tags: [entryway, pantry, coat closet, ikea boaxel, bulk food storage, kids stora
 #author: Sharon Smith and Barry Simpson
 ---
 
-We have a single closet in our hallway and *no other entryway* in our (third floor walkup) condo. This tiny 3'8"x3'3" space is the 
-most utilized square footage in our entire space and has an enormous number of required functions to check off. 
+Our (third floor walkup) condo has no entryway, no pantry, and a single hallway closet. This tiny 3'8"x3'3" closet is the 
+*most utilized* square footage in our home and has an enormous number of functions to fulfill. 
 
 ![Closet](../assets/img/frontcloset07.jpg){: .mx-auto.d-block :}
-*Clearly, the closet was not optimized and not even remotely functional for everything we needed...*
+*The current setup was failing our family and desperately needed some intentional planning to improve.*
 
 ### Storage requirements
 * coats
 * hats, scarves, mittens
 * kids' backpacks for daycare
-* extra packaged food
+* backstock and overflow (bulk) food
 * oversized appliances and seldom-used cookware
 * extra paper towels, sponges, trash bags
-* bulk food 
 * folding chairs 
 * stepstool
 * broom, Swiffer, dustpan
@@ -41,43 +40,47 @@ most utilized square footage in our entire space and has an enormous number of r
 * put groceries away 
 * know what food we have and what we are running low on 
 * access and put away ingredients while cooking 
-* grab broom and dustpan for spills 
+* grab broom and dustpan for quick cleanup 
 * pull out extra folding chairs for (sometimes spontaneous) guests
 
-*That's a long list!* Here's the final project: 
+*That's a long list!* Space planning and optimization takes real effort, but the payoff is totally worth it for 
+improving the efficiency of everyday life. Here's how our closet looks now: 
 
 ![Closet](../assets/img/frontcloset01.jpg){: .mx-auto.d-block :}
-*This solution checks off every one of our requirements (so far) and required a lot of cerebral planning effort!*
+*WOOO we checked off ALL of our requirements (so far)!*
 
 ## The Details
 
 ![Closet](../assets/img/frontcloset06.jpg){: .mx-auto.d-block :}
-*I hung the broom, dustpan, and Swiffer (which is used primarily to fish toy cars out from under couches) and a 
-plastic bag dispenser directly on the back of the closet door. Best possible location!*
+*I hung the broom, dustpan, and Swiffer (used primarily to fish toy cars out from under couches) and a 
+plastic bag dispenser directly on the back of the closet door.*
 
 ![Closet](../assets/img/frontcloset05.jpg){: .mx-auto.d-block :}
-*Installed two rows of hooks, the bottom level that the kids can reach. They do end up leaving their backpacks right on the
-floor, but that's fine! The stepstool is also accessible and our 4-year-old can pull it out himself to watch and "help" 
-my husband cook dinner. Bottom rod enables hanging by kiddos, and our folding chairs are accessible, too!*
+*Installed two [rows of hooks](https://www.amazon.com/gp/product/B08TLX2Y75/) so that kids can reach the bottom level. These hooks fold back to save space and 
+don't clobber your back when you're facing the other way. The stepstool is also accessible to our toddler and the folding chairs accessible for the grown-ups.*
 
 ![Closet](../assets/img/frontcloset04.jpg){: .mx-auto.d-block :}
-*Bulk storage of food items was essential during the Covid pandemic when going to a grocery store was potentially risky 
-(and anyway the options were restaurant-supply quantities or nothing). We now use these bins 
+
+**Bulk food storage** was essential during the pandemic when the grocery options were buy (1) a restaurant-supply quantity or (2) nothing. 
+These days, we're using the bins for storing and organizing all sorts of dried goods, and they're great!
 for storing and organizing dry goods of all varieties!*
 
 ![Closet](../assets/img/frontcloset03.jpg){: .mx-auto.d-block :}
-*Clear bins are the BEST for immediately seeing what you have (and what you're low on). I understand that there may be 
-prettier (wood, basket-weave) options, but I was going for **functionality first** in this tiny space. Putting groceries away (and making a grocery shopping list) is now a breeze. 
-Don't you love the icons with each label? The idea came to me for organizing my 3-year-old's stuff (since he can't quite read), but it turns out they're useful for adults, too!*
+
+**About the bins:** I cannot think of a more effective solution for being able to immediately see what we have (and what we're low on) 
+than clear plastic bins. Also c'mon, don't you love my labels with the little ICONS?! The idea came to me for organizing my 3-year-old's stuff 
+(since he can't read yet), but these seem to be easier for me (and random guests) to read, too!
 
 ![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
-*We do not hang our reusable grocery bags. It's easier to stuff them in a bin, actually (and we keep the large ones organized on a mini shelf). I also 
-spent a long time trying to figure out where our plastic bag recycling bin should go, and this was the only spot I could find. It is in fact better to have 
-this out of the kitchen so that packaging can be put away immediately without getting in the way of someone cooking or ashing dishes in the kitchen.*
 
-## The Process and Cost
+**Reusable grocery bags:** Honestly it's easier to stuff them in a bin than actually hang 'em up, and we keep the large ones lined up on a mini shelf. 
+
+**Plastic bag recycling:** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option (I'll admit it). 
+Seems to be working well so far at enabling us to put away packaging easily without getting in anyone's way in the kitchen!*
+
+## Process and Cost
 
 I explored *so many* organizer options before finally settling on the [Ikea Boaxel system](https://www.ikea.com/us/en/cat/boaxel-system-47394/), because it seemed to maximize 
-the space and included an option for a coat rod that did *not* span wall to wall. I also like having fully open shelves attached 
-directly to the walls so that there are no vertical rods in front of the shelves to block your view, access, and storage flexibility. 
+our specific space and included an option for a coat rod that did *not* span wall to wall. I also believe that having fully open shelves attached 
+directly to the walls is optimal, since there are no vertical rods in front of the shelves to block your view, access, and storage flexibility. 
 **The total cost for the entire shelving system was only $167** (plus $10.44 in tax and a drive to Stoughton for late-night pickup). 
