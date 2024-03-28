@@ -62,8 +62,7 @@ don't clobber your back when you're facing the other way. The stepstool is also 
 ![Closet](../assets/img/frontcloset04.jpg){: .mx-auto.d-block :}
 
 **Bulk food storage** was essential during the pandemic when the grocery options were buy (1) a restaurant-supply quantity or (2) nothing. 
-These days, we're using the bins for storing and organizing all sorts of dried goods, and they're great!
-for storing and organizing dry goods of all varieties!*
+These days, we're using the bins for storing and organizing all sorts of dried goods, and they're great! I cut some [transparencies](https://www.amazon.com/dp/B091BVB3GF) to make pockets (and cover the ugly "don't fall in" warning labels), then slid labels in.
 
 ![Closet](../assets/img/frontcloset03.jpg){: .mx-auto.d-block :}
 
