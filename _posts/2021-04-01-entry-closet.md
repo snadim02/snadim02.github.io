@@ -75,7 +75,7 @@ than clear plastic bins. Also c'mon, don't you love my labels with the little IC
 **Reusable grocery bags:** Honestly it's easier to stuff them in a bin than actually hang 'em up, and we keep the large ones lined up on a mini shelf. 
 
 **Plastic bag recycling:** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option (I'll admit it). 
-Seems to be working well so far at enabling us to put away packaging easily without getting in anyone's way in the kitchen!*
+Seems to be working well so far at enabling us to put away packaging easily without getting in anyone's way in the kitchen!
 
 ## Process and Cost
 
