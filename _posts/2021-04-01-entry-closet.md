@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Multipurpose closet
-subtitle: AKA my organizational "crown jewel"
+title: Multipurpose 3'x3'...
+subtitle: entryway, pantry, coat closet, drop zone...
 cover-img: /assets/img/frontcloset01.jpg
-thumbnail-img: /assets/img/frontcloset01.jpg
+thumbnail-img: /assets/img/frontcloset08.jpg
 share-img: /assets/img/frontcloset01.jpg
 tags: [entryway, pantry, coat closet, ikea boaxel, bulk food storage, kids storage, labels]
 #author: Sharon Smith and Barry Simpson
@@ -73,6 +73,7 @@ than clear plastic bins. Also c'mon, don't you love my labels with the little IC
 ![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
 
 **Reusable grocery bags:** Honestly it's easier to stuff them in a bin than actually hang 'em up, and we keep the large ones lined up on a mini shelf. 
+It became *easiest* when we pared down our ridiculous collection to functional bags we really use! 
 
 **Plastic bag recycling:** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option (I'll admit it). 
 Seems to be working well so far at enabling us to put away packaging easily without getting in anyone's way in the kitchen!
@@ -80,6 +81,7 @@ Seems to be working well so far at enabling us to put away packaging easily with
 ## Process and Cost
 
 I explored *so many* organizer options before finally settling on the [Ikea Boaxel system](https://www.ikea.com/us/en/cat/boaxel-system-47394/), because it seemed to maximize 
-our specific space and included an option for a coat rod that did *not* span wall to wall. I also believe that having fully open shelves attached 
-directly to the walls is optimal, since there are no vertical rods in front of the shelves to block your view, access, and storage flexibility. 
-**The total cost for the entire shelving system was only $167** (plus $10.44 in tax and a drive to Stoughton for late-night pickup). 
+our specific space and included an option for a coat rod that did *not* span wall to wall. I've also found that uninterrupted shelves (attached 
+directly to the wall) are so much better than anything requiring front vertical supports that block your view, access, and flexibility. 
+**The total cost for the entire shelving system was only $167** (plus $10.44 in tax and a drive to Stoughton for late-night pickup). My mom watched our kids for one weekend day, and
+it was surprisingly easy to take down the existing shelf/rod and get this new system installed in a few hours. 
