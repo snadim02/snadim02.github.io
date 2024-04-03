@@ -24,7 +24,7 @@ need* (but didn't want to deal with) and a whole bunch of stuff *we did need* bu
 * easy access to:
   * scooters, kids' bikes & helmets
   * soccer balls and nets
-  * outdoor toys (chalk, rocket launchers, bubbles, cars, cornhole)
+  * outdoor toys (chalk, stomp rockets, bubbles, toy cars, cornhole)
   * bike pump
   * bike trailer and kids' bike seat attachment
   * bug spray, bike lights, bike repair tools
@@ -82,21 +82,32 @@ for what it is (but was the only way to have shelves that spanned this full "wal
 
 ## Getting rid of stuff
 
-Surprise? The *biggest and most time-consuming* part of this project was getting rid of stuff that we do not need!
-I made trips to our [local recycling center](https://www.cambridgema.gov/services/recyclingcenter) to get rid of broken appliances and spare metal parts.
-I drove out to Roxbury over two nights to recycle scrap wood and warped wood risers at a [construction debris dropoff](https://resourcewasteservices.com/our-facilities/resource-roxbury/) site.
-I returned (years overdue) unused supplies to Ikea.
-I donated an absurd amount of white paint to our local [Somerville theater group](https://www.theatreatfirst.org/).
-I sold extra wall and flooring tiles on FB Marketplace and gave away unused furniture (folding chairs, carts), baby items, construction materials (grout, wood floor finish, paint samples)
+Surprise? The *biggest and most time-consuming* part of this project was getting rid of stuff! I...
+* made trips to our [local recycling center](https://www.cambridgema.gov/services/recyclingcenter) to get rid of broken appliances and spare metal parts.
+* drove out to Roxbury over two nights to recycle scrap wood and warped wood risers at a [construction debris dropoff](https://resourcewasteservices.com/our-facilities/resource-roxbury/) site.
+* returned (years overdue) unused supplies to Ikea.
+* donated an absurd amount of white paint to our local [Somerville theater group](https://www.theatreatfirst.org/).
+* sold extra wall and flooring tiles on FB Marketplace
+* gave away unused furniture (folding chairs, carts), baby items, construction materials (grout, wood floor finish, paint samples)
 and *so many other things* on the [FB Buy Nothing Cambridge](https://www.facebook.com/groups/476638806418590) group.
- **My proudest moment of this project has been that nothing ended up in the trash.**
+
+**My proudest moment of this project has been that nothing ended up in the trash.**
 
 ## Final touches
 
 ![Storage unit](../assets/img/storageunit02.jpg){: .mx-auto.d-block :}
 *Shelves reloaded with organized, labeled bins (my fave) !*
 
-Stay tuned for an update with details for exactly why this space is so perfectly organized now!
+![Storage unit](../assets/img/storageunit09.jpg){: .mx-auto.d-block :}
+***Kids' corner** right at the entrance where the tiniest family members can get (and put back) their scooters, balls, chalk and bubbles.
+We keep this [big mesh shoulder bag](https://www.amazon.com/gp/product/B0B2RHFXCB/) here too, and it is AMAZING for heading outdoors with babies.*
+
+![Storage unit](../assets/img/storageunit10.jpg){: .mx-auto.d-block :}
+*I have had this set of drawers since my freshman year of college, and it continues to work for us! I popped off the bottom drawer and keep small, highly-accessed items here now.*
+
+![Storage unit](../assets/img/storageunit11.jpg){: .mx-auto.d-block :}
+*An extremely annoying thing to store is our [amazing Saris bike rack](https://www.amazon.com/dp/B085WTVV18/) (with its straps and hooks catching on everything).
+A fancy pillow purchased years ago came in this clear PVC bag with handles, and storing our bike rack in this has been **perfect** :astonished:.*
 
 ## Cost breakdown
 
@@ -109,7 +120,7 @@ Stay tuned for an update with details for exactly why this space is so perfectly
 | two used [clear ball bins](https://www.amazon.com/gp/product/B0085U20JG/) | 57.20 |
 | [sukkah and s'chach storage bag](https://www.sukkot.com/shop/sukkah-storage-bags/) | 56.39 |
 | [bolt cutter](https://www.homedepot.com/p/Milwaukee-18-in-Bolt-Cutter-with-3-8-in-Maximum-Cut-Capacity-48-22-4018/312620426) | 50.97 |
-| wood screws and metal corner supports | 43.66 |
+| wood screws and metal joint supports | 43.66 |
 | [IRIS 74qt WeatherPro box](https://www.homedepot.com/p/IRIS-74-Qt-WeatherPro-Storage-Box-in-Clear-110586/300735908) | 37.20 |
 | two [110qt clear bins](https://www.target.com/p/sterilite-110qt-clear-view-storage-bin-with-latch-purple/-/A-13794501) | 31.85 |
 | [ProSlat other wall hooks](https://www.homedepot.com/p/Proslat-Slatwall-4-in-Hooks-12-Pack-13002/204743455) | 30.80 |
