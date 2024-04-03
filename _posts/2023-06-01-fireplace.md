@@ -82,10 +82,12 @@ few [shelf L brackets](https://www.amazon.com/gp/product/B08QFVZXL8/).
 *Found the [perfect (tiny) couch](https://www.wayfair.com/furniture/pdp/corrigan-studio-alverce-58-square-arm-loveseat-w006875006.html) and a lamp and side tables at Good Will.*
 
 ![Fireplace](../assets/img/fireplace05.jpg){: .mx-auto.d-block :}
-*Sit-to-stand desk worked well in this corner only because I screwed my monitor stands directly into the desktop (so the monitors won't fall over the railing)!*
+*[Sit-to-stand desk](https://www.imovr.com/studio470-electric-standing-desk-base.html) worked well in this corner 
+only because I screwed my [monitor stands](https://www.amazon.com/gp/product/B09LCL9JHS/) directly into the desktop (so the monitors won't fall over the railing)!*
 
 ![Fireplace](../assets/img/fireplace06.jpg){: .mx-auto.d-block :}
-*That light switch was annoyingly placed, so I put peel-and-stick wallpaper around the whole thing (including the switch cover). I got wood rail trim, mitered the corners, glued it together, stained it, and attached it to the wall with command strips as a frame for my faux art. 
+*That light switch was annoyingly placed, so I put [peel-and-stick wallpaper](https://www.wayfair.com/decor-pillows/pdp/millwood-pines-wunsch-birch-18-l-x-205-w-peel-and-stick-wallpaper-roll-mxwx1133.html) 
+around the whole thing (including the switch cover). I got wood rail trim, mitered the corners, glued it together, stained it, and attached it to the wall with command strips as a frame for my faux art. 
 The picture on the back of the door is a [Ravi Varma](https://en.wikipedia.org/wiki/Raja_Ravi_Varma) print from ~1900 that once hung in my great-grandfather's home.*
 
 ![Fireplace](../assets/img/fireplace07.jpg){: .mx-auto.d-block :}
