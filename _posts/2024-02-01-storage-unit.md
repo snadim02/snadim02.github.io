@@ -57,7 +57,7 @@ for ~36 hours over the weekend, and that was my timeframe constraint to *finish 
 
 **The floor:** We first laid down these
 [interlocking deck tiles](https://www.homedepot.com/p/326396808). I didn't realize how uneven the floor was until we
-moved all of our stuff out, and we filled in giant ditches with some cut foam mats first. *(TBD if that was a good idea...)* I borrowed a [circular saw](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-7-1-4-in-Circular-Saw-Tool-Only-PBLCS300B/314109411) and
+moved all of our stuff out, and we filled in giant ditches with layers of foam mats cut to size. *(TBD if that was a good idea...)* I borrowed a [circular saw](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-7-1-4-in-Circular-Saw-Tool-Only-PBLCS300B/314109411) and
 [tabletop jigsaw](https://www.amazon.com/Rockwell-BladeRunner-Portable-Tabletop-Accessories/dp/B00L47FZ8A/) to cut the tiles to fit into corners, against the 130-year-old stackstone foundation, and around support posts.
 
 ![Storage unit](../assets/img/storageunit01.jpg){: .mx-auto.d-block :}
@@ -69,17 +69,16 @@ system where we could cut the 12' shelves to size exactly with a [bolt cutter](h
 for what it is (but was the only way to have shelves that spanned this full "wall").
 
 ![Storage unit](../assets/img/storageunit04.jpg){: .mx-auto.d-block :}
-*The heavy-duty, 20" deep wire shelves spanned the maximum width of the unit to take advantage of every last inch. No front vertical supports = flexible bin size and access to slide around and put away things easily.*
+*No front vertical supports = flexible bin size and access to slide around and put away things easily.*
 
-**The slat wall:** How do we get four bikes to fit? :persevere: Vertical storage! I went with the
-[Proslat system](https://www.homedepot.com/p/Proslat-PVC-Slatwall-8-ft-x-4-ft-White-88102/203496104) because I could cut the slats to size and
-[hang helmets and the bike pump](https://www.homedepot.com/p/Proslat-Slatwall-4-in-Hooks-12-Pack-13002/204743455) with the [hanging bikes](https://www.homedepot.com/p/Proslat-Slatwall-Vertical-Bike-Hook-2-Pack-13028/204743464).
+**The slat wall:** How do we get **four bikes** to fit? :persevere: Vertical storage! :smile: I went with the
+[Proslat system](https://www.homedepot.com/p/Proslat-PVC-Slatwall-8-ft-x-4-ft-White-88102/203496104) because I could cut the slats to fill the whole wall and [hang helmets and the bike pump](https://www.homedepot.com/p/Proslat-Slatwall-4-in-Hooks-12-Pack-13002/204743455) with the [hanging bikes](https://www.homedepot.com/p/Proslat-Slatwall-Vertical-Bike-Hook-2-Pack-13028/204743464).
 
 ![Storage unit](../assets/img/storageunit08.jpg){: .mx-auto.d-block :}
-*Welp. We needed to add vertical support framing for the slats to take the weight of the bikes. It was snowing during construction day, but it was the only time we had to get the project done! :muscle:*
+*We needed to add vertical support framing for the slats to take the weight of the bikes. It was snowing during construction day, but it was the only time we had to get the project done! :muscle:*
 
 ![Storage unit](../assets/img/storageunit05.jpg){: .mx-auto.d-block :}
-*Check it out! How cute are those little 14-inch-bike and balance bikes? :bicyclist: In truth, the kids can't get their bikes on and off this wall (yet). But the grown-ups **can** walk in to get them now, though!*
+*SUCCESS! How cute are those little 14-inch and balance bikes? :bicyclist: In truth, the kids can't get their bikes on and off this wall (yet). But the grown-ups **can** walk in to help get them now, though!*
 
 ## Getting rid of stuff
 
@@ -88,8 +87,8 @@ I made trips to our [local recycling center](https://www.cambridgema.gov/service
 I drove out to Roxbury over two nights to recycle scrap wood and warped wood risers at a [construction debris dropoff](https://resourcewasteservices.com/our-facilities/resource-roxbury/) site.
 I returned unused supplies to Ikea.
 I donated an enormous amount of white paint to our local [Somerville theater group](https://www.theatreatfirst.org/).
-I sold extra wall and flooring tiles on FB Marketplace and gave away unused furniture (folding chairs, carts, etc.), baby items, construction materials (grout, wood floor finish, paint samples)
-and so many other things on the [FB Buy Nothing Cambridge](https://www.facebook.com/groups/476638806418590) group.
+I sold extra wall and flooring tiles on FB Marketplace and gave away unused furniture (folding chairs, carts), baby items, construction materials (grout, wood floor finish, paint samples)
+and *so many other things* on the [FB Buy Nothing Cambridge](https://www.facebook.com/groups/476638806418590) group.
  **My proudest moment of this project has been that nothing ended up in the trash.**
 
 ## Final touches
@@ -97,5 +96,28 @@ and so many other things on the [FB Buy Nothing Cambridge](https://www.facebook.
 ![Storage unit](../assets/img/storageunit02.jpg){: .mx-auto.d-block :}
 *Shelves reloaded with organized, labeled bins (my fave) !*
 
-Stay tuned for an update with details for exactly why this space is so perfectly organized now (and a total cost breakdown)!
+Stay tuned for an update with details for exactly why this space is so perfectly organized now!
 
+## Cost breakdown
+
+| Item | Cost (+ tax/shipping) |
+| --- | ---: |
+| Everbilt [shelves](https://www.homedepot.com/p/Everbilt-12-ft-x-20-in-Heavy-Duty-Wire-Shelf-90175/314183873), [shelf brackets](https://www.homedepot.com/p/Everbilt-20-in-L-White-Steel-Heavy-Duty-Support-Bracket-90316/314700560), [vertical supports](https://www.homedepot.com/p/Everbilt-84-in-L-White-Steel-Heavy-Duty-Vertical-Rail-90290/314586379), [horizontal hang tracks](https://www.homedepot.com/p/Everbilt-80-in-Heavy-Duty-Steel-Hang-Track-90288/314586388), [end caps](https://www.homedepot.com/p/Everbilt-Small-End-Caps-20-Pack-90234/314184189) | 750.35 |
+| [ProSlat 8'x4' set](https://www.homedepot.com/p/Proslat-PVC-Slatwall-8-ft-x-4-ft-White-88102/203496104) | 212.49 |
+| [interlocking deck tiles](https://www.homedepot.com/p/11-8-in-x-11-8-in-Outdoor-Square-Plastic-Interlocking-Flooring-Deck-Tiles-for-Courtyard-Garden-44-pieces-in-Brown-C-F-B-90469/326396808) | 212.48 |
+| [ProSlat bike wall hooks](https://www.homedepot.com/p/Proslat-Slatwall-Vertical-Bike-Hook-2-Pack-13028/204743464) | 63.73 |
+| two used [clear ball bins](https://www.amazon.com/gp/product/B0085U20JG/) | 57.20 |
+| [sukkah and s'chach storage bag](https://www.sukkot.com/shop/sukkah-storage-bags/) | 56.39 |
+| [bolt cutter](https://www.homedepot.com/p/Milwaukee-18-in-Bolt-Cutter-with-3-8-in-Maximum-Cut-Capacity-48-22-4018/312620426) | 50.97 |
+| wood screws and metal corner supports | 43.66 |
+| [IRIS 74qt WeatherPro box](https://www.homedepot.com/p/IRIS-74-Qt-WeatherPro-Storage-Box-in-Clear-110586/300735908) | 37.20 |
+| two [110qt clear bins](https://www.target.com/p/sterilite-110qt-clear-view-storage-bin-with-latch-purple/-/A-13794501) | 31.85 |
+| [ProSlat other wall hooks](https://www.homedepot.com/p/Proslat-Slatwall-4-in-Hooks-12-Pack-13002/204743455) | 30.80 |
+| [long "underbed" 56qt box](https://www.containerstore.com/s/closet/closet-boxes-bins/our-clear-storage-boxes/12d?productId=11004743) | 30.68 |
+| extra 2x4 lumber for wall studs | 19.55 |
+| SOLD baby carrier backpack | +175 |
+| SOLD baby beach toys, beach tent, and kiddie pool | +50 |
+| SOLD 10 sq ft of porcelain tiles | +50 |
+| SOLD clip-on high chair | +35 |
+| SOLD camp tent storage bag | +15 |
+| **TOTAL** | **$1272.35** |
