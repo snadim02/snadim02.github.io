@@ -92,7 +92,7 @@ The picture on the back of the door is a [Ravi Varma](https://en.wikipedia.org/w
 *We needed board game storage in these cabinets! Success! (The other cabinet is equally packed.)*
 
 ![Fireplace](../assets/img/fireplace08.jpg){: .mx-auto.d-block :}
-*I moved our smaller games into these 4x6" photo boxes. I couldn't find perfectly-sized baskets to put the boxes into (to pull out like drawers), so I just made my own with scrap cardboard and duct tape.*
+*I moved our smaller games into these [4x6" photo boxes](https://www.amazon.com/dp/B00GLQX3CO). I couldn't find perfectly-sized baskets to put the boxes into (to pull out like drawers), so I just made my own with scrap cardboard and duct tape.*
 
 ![Fireplace](../assets/img/fireplace09.jpg){: .mx-auto.d-block :}
 *From left to right: My husband's grandfather who my 1-year-old is named for, that grandfather's grandfather, my great-great-grandfather, and his grandson (my grandfather) who my 4-year-old is named for. 
