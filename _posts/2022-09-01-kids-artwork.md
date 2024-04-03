@@ -58,8 +58,9 @@ so they don't get torn apart by baby brother.
 
 ![artwork](../assets/img/artwork08.jpg){: .mx-auto.d-block :}
 
-But it wasn't enough! Now, when artwork comes home, I immediately scan it using my [Google Photo Scan phone app](https://www.google.com/photos/scan/) and show it to our 4-year-old (so he knows we have a picture).
-Then I tell him that we can get rid of the original to make space for more (and he is fine with it). I go the extra mile and put his artwork into a 
+But it wasn't enough! Now, when artwork comes home, I immediately scan it using my [Google Photo Scan phone app](https://www.google.com/photos/scan/) 
+and show it to our 4-year-old (so he knows we have a digital copy).
+Then I tell him that we can get rid of the original to make space for more (and he is fine with it). I go the extra mile and (once a month) add the newly-scanned artwork to a 
 [magazine-style photo book](https://www.blurb.com/pricing#/tab/magazines) that is only ~$20 for 100 double-sided pages on [Blurb](https://www.blurb.com/magazine)! 
 I suspect some companies might bind your kids' artwork into a book for you, too.
 
