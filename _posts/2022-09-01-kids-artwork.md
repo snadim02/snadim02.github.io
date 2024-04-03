@@ -34,7 +34,8 @@ Finding a way to *throw away the resulting trash artwork* also required inventiv
 **Paper:** Paper and all workbooks/coloring books and stickers are stored in these [Ikea magazine files](https://www.ikea.com/us/en/p/droenjoens-magazine-file-white-10439694/) 
 which are super easy for kids to pull out, look less cluttered than clear acrylic versions, and are made of metal so aren't easily squashed or broken. It's a mistake to store
 loose paper in these (oops), but [bound drawing pads](https://www.amazon.com/Melissa-Doug-Drawing-Paper-inches/dp/B01AW5V7PE) are excellent. We also keep
-brown paper grocery and takeout bags here because they are perfect for [markers](https://www.amazon.com/Crayola-Pip-Squeaks-Skinnies-Washable-Markers/dp/B0019665DK) and [paint stick](https://www.amazon.com/Giftable-Twistable-Including-Scrapbooking-Journaling/dp/B01AUP5U04) art!
+brown paper grocery and takeout bags here because they are perfect for 
+art with [markers](https://www.amazon.com/Crayola-Pip-Squeaks-Skinnies-Washable-Markers/dp/B0019665DK) and [paint sticks](https://www.amazon.com/Giftable-Twistable-Including-Scrapbooking-Journaling/dp/B01AUP5U04)!
 Using these decorated bags as gift bags are a huge hit, too.
 
 ![artwork](../assets/img/artwork09.jpg){: .mx-auto.d-block :}
@@ -59,7 +60,7 @@ so they don't get torn apart by baby brother.
 ![artwork](../assets/img/artwork08.jpg){: .mx-auto.d-block :}
 
 But it wasn't enough! Now, when artwork comes home, I immediately scan it using my [Google Photo Scan phone app](https://www.google.com/photos/scan/) 
-and show it to our 4-year-old (so he knows we have a digital copy).
+and show it to our 3-year-old (so he knows we have a digital copy).
 Then I tell him that we can get rid of the original to make space for more (and he is fine with it). I go the extra mile and (once a month) add the newly-scanned artwork to a 
 [magazine-style photo book](https://www.blurb.com/pricing#/tab/magazines) that is only ~$20 for 100 double-sided pages on [Blurb](https://www.blurb.com/magazine)! 
 I suspect some companies might bind your kids' artwork into a book for you, too.
