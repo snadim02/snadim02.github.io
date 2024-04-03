@@ -133,10 +133,11 @@ I enhanced the pictures with MyHeritage's AI tool (the best of the six options I
 | "caulk-saver" strip to fill wall/floor gap (once baseboards were removed) | $4.18 |
 | wood glue (leftover from previous project) | $0 |
 | wood gel stain (leftover from previous project) | $0 |
+| command-strip tape (leftover from previous project) | $0 |
+| peel-and-stick wallpaper (leftover from previous project) | $0 | 
 | wet tile saw (borrowed) | $0 |
 | multitool to cut baseboard (borrowed) | $0 |
 | miter saw with beveler (borrowed) | $0 |
-| command-strip tape (leftover from previous project) | $0 |
 | circular saw (borrowed) | $0 |
 | **TOTAL** | **$1535.33** | 
 
