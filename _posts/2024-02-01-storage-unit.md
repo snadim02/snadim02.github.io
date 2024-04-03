@@ -69,7 +69,7 @@ system where we could cut the 12' shelves to size exactly with a [bolt cutter](h
 for what it is (but was the only way to have shelves that spanned this full "wall").
 
 ![Storage unit](../assets/img/storageunit04.jpg){: .mx-auto.d-block :}
-*No front vertical supports = flexible bin size and access to slide around and put away things easily.*
+*No front vertical supports = flexible bin size and access to move and put things away easily.*
 
 **The slat wall:** How do we get **four bikes** to fit? :persevere: Vertical storage! :smile: I went with the
 [Proslat system](https://www.homedepot.com/p/Proslat-PVC-Slatwall-8-ft-x-4-ft-White-88102/203496104) because I could cut the slats to fill the whole wall and [hang helmets and the bike pump](https://www.homedepot.com/p/Proslat-Slatwall-4-in-Hooks-12-Pack-13002/204743455) with the [hanging bikes](https://www.homedepot.com/p/Proslat-Slatwall-Vertical-Bike-Hook-2-Pack-13028/204743464).
@@ -78,15 +78,15 @@ for what it is (but was the only way to have shelves that spanned this full "wal
 *We needed to add vertical support framing for the slats to take the weight of the bikes. It was snowing during construction day, but it was the only time we had to get the project done! :muscle:*
 
 ![Storage unit](../assets/img/storageunit05.jpg){: .mx-auto.d-block :}
-*SUCCESS! How cute are those little 14-inch and balance bikes? :bicyclist: In truth, the kids can't get their bikes on and off this wall (yet). But the grown-ups **can** walk in to help get them now, though!*
+*SUCCESS! How cute are those little 14-inch and balance bikes? :bicyclist: In truth, my 4- and 2-year-old can't get their bikes on and off this wall (yet). But the grown-ups can finally walk in to help them, though!*
 
 ## Getting rid of stuff
 
-You might be surprised to learn that the *biggest and most time-consuming* part of this project was actually getting rid of stuff that we absolutely did not need!
+Surprise? The *biggest and most time-consuming* part of this project was getting rid of stuff that we do not need!
 I made trips to our [local recycling center](https://www.cambridgema.gov/services/recyclingcenter) to get rid of broken appliances and spare metal parts.
 I drove out to Roxbury over two nights to recycle scrap wood and warped wood risers at a [construction debris dropoff](https://resourcewasteservices.com/our-facilities/resource-roxbury/) site.
-I returned unused supplies to Ikea.
-I donated an enormous amount of white paint to our local [Somerville theater group](https://www.theatreatfirst.org/).
+I returned (years overdue) unused supplies to Ikea.
+I donated an absurd amount of white paint to our local [Somerville theater group](https://www.theatreatfirst.org/).
 I sold extra wall and flooring tiles on FB Marketplace and gave away unused furniture (folding chairs, carts), baby items, construction materials (grout, wood floor finish, paint samples)
 and *so many other things* on the [FB Buy Nothing Cambridge](https://www.facebook.com/groups/476638806418590) group.
  **My proudest moment of this project has been that nothing ended up in the trash.**
