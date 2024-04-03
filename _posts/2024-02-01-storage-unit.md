@@ -4,7 +4,7 @@ title: A faux garage in Cambridge
 subtitle: or how I decked out my storage unit
 thumbnail-img: /assets/img/storageunit01.jpg
 cover-img: /assets/img/storageunit02.jpg
-share-img: /assets/img/fireplace02.jpg
+share-img: /assets/img/storageunit02.jpg
 tags: [storage unit, basement, bike storage, garage, sports equipment]
 #author: Sharon Smith and Barry Simpson
 ---
