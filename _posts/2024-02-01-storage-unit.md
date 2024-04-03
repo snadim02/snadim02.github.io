@@ -125,10 +125,11 @@ A fancy pillow purchased years ago came in this clear PVC bag with handles, and 
 | two [110qt clear bins](https://www.target.com/p/sterilite-110qt-clear-view-storage-bin-with-latch-purple/-/A-13794501) | 31.85 |
 | [ProSlat other wall hooks](https://www.homedepot.com/p/Proslat-Slatwall-4-in-Hooks-12-Pack-13002/204743455) | 30.80 |
 | [long "underbed" 56qt box](https://www.containerstore.com/s/closet/closet-boxes-bins/our-clear-storage-boxes/12d?productId=11004743) | 30.68 |
+| heavy-duty [long cable ties](https://www.acehardware.com/departments/lighting-and-electrical/cable-management-cable-ties-and-electrical-tape/cable-ties/3004703) | 21.23 |
 | extra 2x4 lumber for wall studs | 19.55 |
 | SOLD baby carrier backpack | +175 |
 | SOLD baby beach toys, beach tent, and kiddie pool | +50 |
 | SOLD 10 sq ft of porcelain tiles | +50 |
 | SOLD clip-on high chair | +35 |
 | SOLD camp tent storage bag | +15 |
-| **TOTAL** | **$1272.35** |
+| **TOTAL** | **$1293.58** |
