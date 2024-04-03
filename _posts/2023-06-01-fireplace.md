@@ -45,7 +45,7 @@ the wood shims between the cabinets and floor, [caulked](https://www.homedepot.c
 **The fireplace:** I bought a relatively cheap [plug-in fireplace](https://www.amazon.com/PuraFlame-Western-Electric-Fireplace-Control/dp/B00R7347RU/) and some 
 [loose brick veneers](https://shop.oldmillbuildingproducts.com/products/seaside). I cut a piece of birch plywood to size between the cabinets 
 (a trapezoid, thanks to the slanted floor) and cut an opening for the fireplace to slide in. I secured the plywood to the 
-two side cabinets with [small corner braces](https://www.homedepot.com/p/Everbilt-2-in-Zinc-Plated-Double-Wide-Corner-Brace-2-Pack-15051/202033994). 
+two side cabinets with [small corner braces](https://www.homedepot.com/p/Everbilt-2-in-Zinc-Plated-Double-Wide-Corner-Brace-2-Pack-15051/202033994) and wood glue. 
 Then I cut my bricks to size on a wet tile saw and secured them to the plywood with
 [construction adhesive](https://www.homedepot.com/p/Loctite-Power-Grab-Heavy-Duty-Instant-Grab-9-oz-Latex-Construction-Adhesive-White-Cartridge-each-2032666/206432103), 
 [grouted](https://www.homedepot.com/p/Custom-Building-Products-SimpleGrout-09-Natural-Gray-1-qt-Pre-Mixed-Grout-PMG09QT/100676322) 
