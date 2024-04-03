@@ -86,7 +86,7 @@ few [shelf L brackets](https://www.amazon.com/gp/product/B08QFVZXL8/).
 
 ![Fireplace](../assets/img/fireplace06.jpg){: .mx-auto.d-block :}
 *That light switch was annoyingly placed, so I put peel-and-stick wallpaper around the whole thing (including the switch cover). I got wood rail trim, mitered the corners, glued it together, stained it, and attached it to the wall with command strips as a frame for my faux art. 
-The picture on the back of the door is a Ravi Varma print from ~1920 that once hung in my great-grandfather's home.*
+The picture on the back of the door is a [Ravi Varma](https://en.wikipedia.org/wiki/Raja_Ravi_Varma) print from ~1900 that once hung in my great-grandfather's home.*
 
 ![Fireplace](../assets/img/fireplace07.jpg){: .mx-auto.d-block :}
 *We needed board game storage in these cabinets! Success! (The other cabinet is equally packed.)*
