@@ -11,12 +11,12 @@ tags: [coloring books, workbooks, kids artwork, painting, crafts, creativity, ph
 
 Enabling kids' independent "art" and then shamelessly getting rid of the results without triggering any tantrums is most definitely an art in and of itself.
 
-**The perpetual issue:** I probably mentioned once (twice? a million times?) how rough it is to have toddlers home with you without
+**The perpetual issue:** I probably mentioned once (twice? a million times?) how rough it is to have toddlers home without
 childcare while you are trying to work a full time job. :cold_sweat: :dizzy_face: Fall of 2022 marked the first semester that kids were *finally*
 allowed back in school (mask-free), and it unsurprisingly also marked a *record-breaking "tridemic" surge* of 
 Covid, [RSV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9844019/), and the [flu](https://www.vox.com/2022/12/6/23494948/flu-influenza-rsv-covid-vaccine-chart-tripledemic-tridemic). 
-Our 3-year-old was chronically absent from school for TWENTY-TWO days (and our 1-year-old home from daycare for at least that much time). 
-*The adults in our household were also not spared.*
+Our 3-year-old was chronically absent from school for TWENTY days (and our 1-year-old home from daycare for at least that much time). 
+*The adults in our household were also not spared... c'mon B-cells.*
 
 **One fun solution:** In the (few, fleeting) moments when they weren't actively throwing up all over the couch, 
 I wanted the boys to entertain themselves while sitting still (joke's on me, I know). 
