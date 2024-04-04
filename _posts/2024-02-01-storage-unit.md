@@ -57,7 +57,7 @@ for ~36 hours over the weekend, and that was my timeframe constraint to *finish 
 
 **The floor:** We first laid down these
 [interlocking deck tiles](https://www.homedepot.com/p/326396808). I didn't realize how uneven the floor was until we
-moved all of our stuff out, and we filled in giant ditches with layers of foam mats cut to size. *(TBD if that was a good idea...)* I borrowed a [circular saw](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-7-1-4-in-Circular-Saw-Tool-Only-PBLCS300B/314109411) and
+moved all of our stuff out. Our in-the-moment decision was to fill the giant ditches with foam mats. *(TBD if that was a good idea...)* I borrowed a [circular saw](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-7-1-4-in-Circular-Saw-Tool-Only-PBLCS300B/314109411) and
 [tabletop jigsaw](https://www.amazon.com/Rockwell-BladeRunner-Portable-Tabletop-Accessories/dp/B00L47FZ8A/) to cut the tiles to fit into corners, against the 130-year-old stackstone foundation, and around support posts.
 
 ![Storage unit](../assets/img/storageunit01.jpg){: .mx-auto.d-block :}

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Mess-free masterpieces → tearless trash
-subtitle: enabling (and successfully disposing of!) kids' "artwork"
+title: Making (and getting rid of) kids artwork
+subtitle: sans tears from Amma or babies
 thumbnail-img: /assets/img/artwork01.jpg
 cover-img: /assets/img/artwork01.jpg
 share-img: /assets/img/artwork01.jpg
@@ -24,7 +24,6 @@ In addition to organizing their toys, I also enabled easy artwork that didn't le
 Finding a way to *throw away the resulting trash artwork* also required inventive thinking! 
 
 ![artwork](../assets/img/artwork02.jpg){: .mx-auto.d-block :}
-![artwork](../assets/img/artwork03.jpg){: .mx-auto.d-block :}
 *The art station is right next to the (glass-covered) dining table, and our house rule is that all art stays at the table. Working very well so far!*
 
 ## Details
