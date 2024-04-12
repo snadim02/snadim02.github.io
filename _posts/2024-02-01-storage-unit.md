@@ -9,8 +9,8 @@ tags: [storage unit, basement, bike storage, garage, sports equipment]
 #author: Sharon Smith and Barry Simpson
 ---
 
-Our storage unit in the shared, unfinished basement of our 1890 condo had turned into a **dark, scary** dumping ground for stuff we *didn't
-need* (but didn't want to deal with) and a whole bunch of stuff *we did need* but couldn't access! Our need to convert our storage unit into usable space was desperate.
+Our storage unit in the shared, unfinished basement of our 1890 condo had turned into a **dark, scary** dumping ground for stuff *we didn't
+need* (but didn't want to deal with) and a whole bunch of stuff *we did need* but couldn't access! Time for a fix!
 
 ### Constraints
 * nothing stored against the (damp, dusty) walls
