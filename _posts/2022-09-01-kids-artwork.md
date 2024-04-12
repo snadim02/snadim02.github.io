@@ -39,8 +39,7 @@ Using these decorated bags as gift bags are a huge hit, too.
 
 ![artwork](../assets/img/artwork09.jpg){: .mx-auto.d-block :}
 
-**Writing and drawing:** I have found *so many uses* for these [Ikea Glis clear boxes](https://www.ikea.com/us/en/p/glis-box-with-lid-clear-40466148/), one of which
-is storing crayons, markers and paint sticks for the kids to use. They are easy to open/close, stack nicely, and seem to be utterly indestructible.
+**Writing and drawing:** I have found *so many uses* for these [Ikea Glis clear boxes](https://www.ikea.com/us/en/p/glis-box-with-lid-clear-40466148/). They are easy to open/close, stack nicely, and seem to be utterly indestructible.
 Yeah... I do give away gifted art supplies that don't fit in these boxes.
 
 ![artwork](../assets/img/artwork05.jpg){: .mx-auto.d-block :}
