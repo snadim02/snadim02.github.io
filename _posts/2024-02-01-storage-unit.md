@@ -99,8 +99,7 @@ and *so many other things* on the [FB Buy Nothing Cambridge](https://www.faceboo
 *Shelves reloaded with organized, labeled bins (my fave) !*
 
 ![Storage unit](../assets/img/storageunit09.jpg){: .mx-auto.d-block :}
-***Kids' corner** right at the entrance where the tiniest family members can get (and put back) their scooters, balls, chalk and bubbles.
-We keep this [big mesh shoulder bag](https://www.amazon.com/gp/product/B0B2RHFXCB/) here too, and it is AMAZING for heading outdoors with babies.*
+***Kids' corner** for kids to access their stuff! This [big mesh shoulder bag](https://www.amazon.com/gp/product/B0B2RHFXCB/) is AMAZING for heading outdoors with babies.*
 
 ![Storage unit](../assets/img/storageunit10.jpg){: .mx-auto.d-block :}
 *I have had this set of drawers since my freshman year of college, and it continues to work for us! I popped off the bottom drawer and keep small, highly-accessed items here now.*
