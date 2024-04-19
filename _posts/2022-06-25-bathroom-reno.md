@@ -8,8 +8,8 @@ share-img: /assets/img/bathroom1.jpg
 tags: [bathroom reno, bathroom diy, godmorgon vanity, large format tiles, peel and stick wallpaper]
 ---
 
-Ah, the joys and horrors of **POTTY TRAINING** !!! I don't have to tell you that what is **NOT** going to work 
-is a bathroom that the kids can't access, can't turn the light on for, and can't wash/dry their hands in. 
+Ah, the joys and horrors of **POTTY TRAINING** !!! Let me tell you what is **NOT** going to work: 
+A bathroom that the kids... :x: can't access, :x: can't turn the light on for, and :x: can't wash/dry their hands in. 
 (Plus anyway this bathroom was gross and weird.)
 
 ### The problems: too many to list?!
