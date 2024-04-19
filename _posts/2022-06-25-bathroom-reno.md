@@ -14,15 +14,15 @@ is a bathroom that the kids can't access, can't turn the light on for, and can't
 
 ### The problems: too many to list?!
 * Floor grout is crumbly and stinks
-* Bathroom vanity has a single sink (that the door nearly hits it when opening)
-* Toilet is behind said door (and can't be accessed until door is closed)
-* No kid-reachable towel bar or hook
+* Bathroom vanity has a single sink (that the door nearly hits when opening)
+* Toilet is behind said door (can't be accessed until door is closed)
+* No kid-reachable towel bar/hook
 * No kid-reachable light switch
 * No spot for a stool
-* Windowless white bathrooms = dingy (in my opinion)
+* Windowless white bathroom = dingy (in my opinion)
 
 ![bathroom](../assets/img/bathroom1.jpg){: .mx-auto.d-block :}
-*Check it out now! Replaced the floor, toilet, vanity, and mirror (and added hooks, towel bars, and peel and stick wallpaper.
+***Check it out now!** Replaced the floor, toilet, vanity, and mirror (and added hooks, towel bars, and peel and stick wallpaper.
 Also added this clever [light switch extender](https://www.amazon.com/gp/product/B01HKJY5Z4) (out of frame of this pic),
 which is delightful and perfectly functional. Notice that the stepstool now slides right under the wall-mounted vanity.*
 
@@ -55,6 +55,7 @@ wound care supplies.*
 ### The AFTER :heart_eyes:
 
 ![bathroom](../assets/img/bathroom8.jpg){: .mx-auto.d-block :}
+*You can see the [light switch extender](https://www.amazon.com/gp/product/B01HKJY5Z4) reflected in the mirror!*
 
 ### Cost & time breakdown
 
