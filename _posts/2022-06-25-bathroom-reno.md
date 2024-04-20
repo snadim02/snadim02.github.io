@@ -9,7 +9,7 @@ tags: [bathroom reno, bathroom diy, godmorgon vanity, large format tiles, peel a
 ---
 
 Ah, the joys and horrors of **POTTY TRAINING** !!! Let me tell you what is **NOT** going to work: 
-A bathroom that the kids... :x: can't access, :x: can't turn the light on for, and :x: can't wash/dry their hands in. 
+A bathroom where the kids can't... :x: access the toilet, :x: turn the light on/off, and :x: wash/dry their hands. 
 (Plus anyway this bathroom was gross and weird.)
 
 ### The problems: too many to list?!
