@@ -13,25 +13,20 @@ Our storage unit in the shared, unfinished basement of our 1890 condo had turned
 need* (but didn't want to deal with) and a whole bunch of stuff *we did need* but couldn't access! Time for a fix!
 
 ### Constraints
-* nothing stored against the (damp, dusty) walls
-* nothing stored directly on the (floodable, dusty) floor
-* floor storage units are tricky because of the uneven, crumbly floors
-* wall storage units are tricky because there are no actual walls, and the exposed "studs" are >18" apart
+* nothing stored against the (damp, dusty, floodable) walls and floor
+  * *floor storage units* are tricky because of the uneven, crumbly floors
+  * *wall storage units* are tricky because there are no actual walls, and the exposed "studs" are >18" apart
 * everything sealed because of said dampness, dust, and silverfish (ew!)
 
 ### Storage Requirements
-* space for 2 adult and 2 child bicycles
 * easy access to:
-  * scooters, kids' bikes & helmets
-  * soccer balls and nets
-  * outdoor toys (chalk, stomp rockets, bubbles, toy cars, cornhole)
-  * bike pump
-  * bike trailer and kids' bike seat attachment
-  * bug spray, bike lights, bike repair tools
+  * all 4 bikes and helmets
+  * bike accessories
+  * kids' outdoor toys
 * organized storage for:
   * holiday accessories
-  * car camping (tents, tarps, chairs, cookware & stove, sleeping pads & bags)
-  * sentimental items (cards, kids' art and toys)
+  * car camping
+  * sentimental items
   * backpacking gear
   * beach stuff
 
@@ -132,3 +127,4 @@ A fancy pillow purchased years ago came in this clear PVC bag with handles, and 
 | SOLD clip-on high chair | +35 |
 | SOLD camp tent storage bag | +15 |
 | **TOTAL** | **$1293.58** |
+

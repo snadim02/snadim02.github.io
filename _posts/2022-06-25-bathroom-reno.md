@@ -22,14 +22,14 @@ A bathroom that the kids... :x: can't access, :x: can't turn the light on for, a
 * Windowless white bathroom = dingy (in my opinion)
 
 ![bathroom](../assets/img/bathroom1.jpg){: .mx-auto.d-block :}
-***Check it out now!** Replaced the floor, toilet, vanity, and mirror (and added hooks, towel bars, and peel and stick wallpaper.
+***Check it out now!** Replaced the floor, toilet, vanity, and mirror (and added hooks, towel bars, and peel and stick wallpaper).
 Also added this clever [light switch extender](https://www.amazon.com/gp/product/B01HKJY5Z4) (out of frame of this pic),
 which is delightful and perfectly functional. Notice that the stepstool now slides right under the wall-mounted vanity.*
 
-### Organization treats
+### Organizational treats
 
 ![bathroom](../assets/img/bathroom2.jpg){: .mx-auto.d-block :}
-**Drawers.** There are *four* drawers in this 
+**(Unbelievable) drawers.** There are *four* super practical drawers in this 
 [Ikea Godmorgon vanity](https://www.ikea.com/us/en/p/godmorgon-bathroom-vanity-with-4-drawers-high-gloss-white-30344096/) 
 with [double sinks](https://www.ikea.com/us/en/p/odensvik-double-bowl-sink-80148328/) that I was able to fit everything we needed into.
 
