@@ -59,4 +59,5 @@ Cringe.
 
 ### Cost & time breakdown
 
-Coming soon! 
+To be honest, this bathroom was one of those "keep iterating to make it better" projects that truly occurred over nearly a full
+year. But the active work time (sans all the thinking) was under two weeks. 

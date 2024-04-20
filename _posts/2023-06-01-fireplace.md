@@ -88,7 +88,7 @@ only because I screwed my [monitor stands](https://www.amazon.com/gp/product/B09
 ![Fireplace](../assets/img/fireplace06.jpg){: .mx-auto.d-block :}
 *That light switch was annoyingly placed, so I put [peel-and-stick wallpaper](https://www.wayfair.com/decor-pillows/pdp/millwood-pines-wunsch-birch-18-l-x-205-w-peel-and-stick-wallpaper-roll-mxwx1133.html) 
 around the whole thing (including the switch cover). I got wood rail trim, mitered the corners, glued it together, stained it, and attached it to the wall with command strips as a frame for my faux art. 
-The picture on the back of the door is a [Ravi Varma](https://en.wikipedia.org/wiki/Raja_Ravi_Varma) print from ~1900 that once hung in my great-grandfather's home.*
+The picture on the back of the door is a [Ravi Varma](https://en.wikipedia.org/wiki/Raja_Ravi_Varma) print from ~1900 that once hung in my great-grandfather's (and eventually my childhood) home.*
 
 ![Fireplace](../assets/img/fireplace07.jpg){: .mx-auto.d-block :}
 *We needed board game storage in these cabinets! Success! (The other cabinet is equally packed.)*
