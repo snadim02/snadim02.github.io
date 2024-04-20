@@ -35,8 +35,8 @@ can slide the stepstool right under the wall-mounted vanity.*
 with [double sinks](https://www.ikea.com/us/en/p/odensvik-double-bowl-sink-80148328/) that I was able to fit *everything we needed* into.
 
 ![bathroom](../assets/img/bathroom3.jpg){: .mx-auto.d-block :}
-**Travel toiletries.** I cleaned up my *super annoying and inefficient* pile of (mostly empty) TSA-sized toiletries
-and organized everything else so that I can quickly grab what I need when traveling. Time to pack toiletries for a family (flight) trip is now <5 minutes.
+**Travel toiletries.** I cleaned up my *super annoying and inefficient pile* of (mostly empty) TSA-sized toiletries
+and organized what was left so that I can quickly grab what I need when traveling. Time to pack toiletries for a family (flight) trip is now <5 minutes.
 
 ![bathroom](../assets/img/bathroom4.jpg){: .mx-auto.d-block :}
 **Medicine cabinet.** The only way to actually SEE what you HAVE! 
@@ -59,5 +59,10 @@ Cringe.
 
 ### Cost & time breakdown
 
-To be honest, this bathroom was one of those "keep iterating to make it better" projects that truly occurred over nearly a full
+To be honest, this bathroom is one of those "keep iterating to make it better" projects that truly occurred over nearly a full
 year. But the active work time (sans all the thinking) was under two weeks. 
+
+| Item | Cost (+ tax/shipping) | 
+| --- | --- | 
+| Details coming soon! | $0 | 
+| **TOTAL** | **$0$$ | 
