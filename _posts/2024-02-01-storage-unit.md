@@ -14,8 +14,8 @@ need* (but didn't want to deal with) and a whole bunch of stuff *we did need* bu
 
 ### Constraints
 * nothing stored against the (damp, dusty, floodable) walls and floor
-  * *floor storage units* are tricky because of the uneven, crumbly floors
-  * *wall storage units* are tricky because there are no actual walls, and the exposed "studs" are >18" apart
+  * *free-standing* storage units are tricky because of the uneven, crumbly floors
+  * *wall-mounted* storage units are tricky because there are no actual walls, and the exposed "studs" are >18" apart
 * everything sealed because of said dampness, dust, and silverfish (ew!)
 
 ### Storage Requirements
@@ -24,11 +24,11 @@ need* (but didn't want to deal with) and a whole bunch of stuff *we did need* bu
   * bike accessories
   * kids' outdoor toys
 * organized storage for:
-  * holiday accessories
   * car camping
-  * sentimental items
   * backpacking gear
   * beach stuff
+  * holiday accessories
+  * sentimental items
 
 ![Storage unit](../assets/img/storageunit06.jpg){: .mx-auto.d-block :}
 *Yikes. :expressionless:*

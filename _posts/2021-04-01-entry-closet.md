@@ -22,12 +22,13 @@ Our (third floor walkup) condo has no entryway, no pantry, and a single hallway 
 * some food while helping in the kitchen
 
 ### Adults' (easy/fast) access requirements
-* coats/hats/mittens
-* get and put back cloth/plastic bags
-* know what food we have and what we are running low on 
-* access and put away ingredients while cooking 
-* grab broom and dustpan for quick cleanup (IYKYK)
-* pull out extra folding chairs for (sometimes spontaneous) guests
+* get and put back
+  * coats/hats/mittens
+  * cloth/plastic bags
+  * ingredients while cooking 
+  * broom and dustpan for quick cleanup (IYKYK)
+  * extra folding chairs for (sometimes spontaneous) guests
+* know what food we have and what we are running low on
 * stash plastic packaging for eventual recycling
 
 ### Additional storage requirements
