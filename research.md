@@ -52,7 +52,7 @@ we will have the power to detect extremely rare variants that play roles in huma
 * Formatt: Correcting protein structural alignments by sequence peeking. [*ACM-BCB'11*](https://dl.acm.org/citation.cfm?doid=2147805.2147842), 2011. :star:
 * Phenotypic overlap between rare disease patients and variant carriers in a large population cohort informs biological mechanisms. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2024.04.18.24305861v1), 2024. :love_letter:
 * VarPPUD: Variant post prioritization developed for undiagnosed genetic disorders. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2024.04.15.24305876), 2024. :love_letter:
-* Deep learning for diagnosing patients with rare genetics diseases. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1), 2023. :busts_in_silhouette:
+* Deep learning for diagnosing patients with rare genetic diseases. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1), 2023. :busts_in_silhouette:
 * Polygenic risk scores for autoimmune related diseases are significantly different and skewed in cancer exceptional responders. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2023.02.22.23285773v2), 2023. :busts_in_silhouette:
 * RExPRT: a machine learning tool to predict pathogenicity of tandem repeat loci. [*Genome Biology*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03171-4, 2024.), 2024. :busts_in_silhouette:
 * The contribution of mosaicism to genetic diseases and de novo pathogenic variants. [*Am J Med Genet Part A*](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajmg.a.63309), 2023. :busts_in_silhouette:

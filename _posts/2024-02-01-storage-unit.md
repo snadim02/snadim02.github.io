@@ -128,3 +128,8 @@ A fancy pillow purchased years ago came in this clear PVC bag with handles, and 
 | SOLD camp tent storage bag | +15 |
 | **TOTAL** | **$1293.58** |
 
+![Signoff](../assets/img/shilpa_signoff.jpeg)
+
+*Shilpa Kobren is a research fellow in biomedical informatics at Harvard Medical School where she focuses on analyzing genomic data and
+patient clinical information to derive insights into human diseases. Shilpa lives in a 1890 urban apartment in Cambridge, Massachusetts
+with her husband and two energetic baby boys. She loves to create systems that optimize daily efficiency in family's constrained living space.*
