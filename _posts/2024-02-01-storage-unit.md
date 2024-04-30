@@ -24,56 +24,61 @@ need* (but didn't want to deal with) and a whole bunch of stuff *we did need* bu
   * bike accessories
   * kids' outdoor toys
 * organized storage for:
-  * car camping
-  * backpacking gear
+  * camping and backpacking gear
   * beach stuff
   * holiday accessories
   * sentimental items
 
+**Check out the before...** *yikes*. :expressionless:
+
 ![Storage unit](../assets/img/storageunit06.jpg){: .mx-auto.d-block :}
-*Yikes. :expressionless:*
 
 It occurred to me that our problem is a widely-cited reason for parents to ditch urban living and move to the 'burbs for *space* (like a *garage*).
 :anguished: I spent several post-kids-bedtime evenings over the course of two months heading down to our storage unit to take
 measurements and scour the internet for inspiration pictures and products that might meet our requirements.
 
-**Here is how the space looks now:**
+**Here is how the space looks now!** Huge improvement! :heart_eyes: :relaxed:
 
 ![Storage unit](../assets/img/storageunit07.jpg){: .mx-auto.d-block :}
-*HUGE IMPROVEMENT! :heart_eyes: :relaxed:*
 
 ## The Process
 
 After deciding on the solution, I ordered everything I (thought) I'd need in advance. My parents watched my 2- and 4-year-old
 for ~36 hours over the weekend, and that was my timeframe constraint to *finish all construction*.
 
-![Storage unit](../assets/img/storageunit03.jpg){: .mx-auto.d-block :}
-***Step 1:** Move **our junk** out of our unit, AND relocate **everyone else's junk** that had been blocking access to our unit.*
+The **first step** was to move *our junk* out of our unit, AND relocate *everyone else's junk* that had been blocking access to our unit.
 
-**The floor:** We first laid down these
+![Storage unit](../assets/img/storageunit03.jpg){: .mx-auto.d-block :}
+
+#### The Floor
+We first laid down these
 [interlocking deck tiles](https://www.homedepot.com/p/326396808). I didn't realize how uneven the floor was until we
 moved all of our stuff out. Our in-the-moment decision was to fill the giant ditches with foam mats. *(TBD if that was a good idea...)* I borrowed a [circular saw](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-7-1-4-in-Circular-Saw-Tool-Only-PBLCS300B/314109411) and
 [tabletop jigsaw](https://www.amazon.com/Rockwell-BladeRunner-Portable-Tabletop-Accessories/dp/B00L47FZ8A/) to cut the tiles to fit into corners, against the 130-year-old stackstone foundation, and around support posts.
 
-![Storage unit](../assets/img/storageunit01.jpg){: .mx-auto.d-block :}
-***11:42 P.M.** My only picture before loading everything back in (so you can see the floor).*
+Here is my only picture (11:42 P.M.) before loading everything back in, so you can see the floor:
 
-**The shelves:** The lack of drywall and nonstandard stud spacing limited our wall shelf options drastically.
+![Storage unit](../assets/img/storageunit01.jpg){: .mx-auto.d-block :}
+
+#### The Shelves
+The lack of drywall and nonstandard stud spacing limited our wall shelf options drastically.
 The optimal solution given our constraints was this [Everbilt heavy-duty wire frame](https://www.homedepot.com/p/Everbilt-6-ft-x-20-in-Heavy-Duty-Wire-Shelf-90257/314183866)
 system where we could cut the 12' shelves to size exactly with a [bolt cutter](https://www.homedepot.com/p/Milwaukee-18-in-Bolt-Cutter-with-3-8-in-Maximum-Cut-Capacity-48-22-4018/312620426) and had flexibility with where the vertical rails attached to studs. IMHO, this is overpriced
-for what it is (but was the only way to have shelves that spanned this full "wall").
+for what it is (but was the only way to have shelves that spanned this full "wall"). No front vertical supports = flexible bin size and access to move and put things away easily.
 
 ![Storage unit](../assets/img/storageunit04.jpg){: .mx-auto.d-block :}
-*No front vertical supports = flexible bin size and access to move and put things away easily.*
 
-**The slat wall:** How do we get **four bikes** to fit? :persevere: Vertical storage! :smile: I went with the
+#### The Slat Wall
+How do we get **four bikes** to fit? :persevere: Vertical storage! :smile: I went with the
 [Proslat system](https://www.homedepot.com/p/Proslat-PVC-Slatwall-8-ft-x-4-ft-White-88102/203496104) because I could cut the slats to fill the whole wall and [hang helmets and the bike pump](https://www.homedepot.com/p/Proslat-Slatwall-4-in-Hooks-12-Pack-13002/204743455) with the [hanging bikes](https://www.homedepot.com/p/Proslat-Slatwall-Vertical-Bike-Hook-2-Pack-13028/204743464).
 
+We needed to add vertical support framing for the slats to take the weight of the bikes. It was snowing during construction day, but it was the only time we had to get the project done! :muscle:
+
 ![Storage unit](../assets/img/storageunit08.jpg){: .mx-auto.d-block :}
-*We needed to add vertical support framing for the slats to take the weight of the bikes. It was snowing during construction day, but it was the only time we had to get the project done! :muscle:*
+
+SUCCESS! How cute are those little 14-inch and balance bikes? :bicyclist: In truth, my 4- and 2-year-old can't get their bikes on and off this wall (yet). But the grown-ups can finally walk in to help them, though!
 
 ![Storage unit](../assets/img/storageunit05.jpg){: .mx-auto.d-block :}
-*SUCCESS! How cute are those little 14-inch and balance bikes? :bicyclist: In truth, my 4- and 2-year-old can't get their bikes on and off this wall (yet). But the grown-ups can finally walk in to help them, though!*
 
 ## Getting rid of stuff
 
@@ -90,18 +95,22 @@ and *so many other things* on the [FB Buy Nothing Cambridge](https://www.faceboo
 
 ## Final touches
 
+I reloaded the shelves with organized, labeled bins (my fave) !
+
 ![Storage unit](../assets/img/storageunit02.jpg){: .mx-auto.d-block :}
-*Shelves reloaded with organized, labeled bins (my fave) !*
+
+Here is the **kids' corner** for kids to access their stuff! This [big mesh shoulder bag](https://www.amazon.com/gp/product/B0B2RHFXCB/) is AMAZING for heading outdoors with babies.
 
 ![Storage unit](../assets/img/storageunit09.jpg){: .mx-auto.d-block :}
-***Kids' corner** for kids to access their stuff! This [big mesh shoulder bag](https://www.amazon.com/gp/product/B0B2RHFXCB/) is AMAZING for heading outdoors with babies.*
+
+I have had this set of drawers since my freshman year of college, and it continues to work for us! I popped off the bottom drawer and keep small, highly-accessed items here now.
 
 ![Storage unit](../assets/img/storageunit10.jpg){: .mx-auto.d-block :}
-*I have had this set of drawers since my freshman year of college, and it continues to work for us! I popped off the bottom drawer and keep small, highly-accessed items here now.*
+
+An extremely annoying thing to store is our [amazing Saris bike rack](https://www.amazon.com/dp/B085WTVV18/) (with its straps and hooks catching on everything).
+A fancy pillow purchased years ago came in this clear PVC bag with handles, and storing our bike rack in this has been **perfect** :astonished:.
 
 ![Storage unit](../assets/img/storageunit11.jpg){: .mx-auto.d-block :}
-*An extremely annoying thing to store is our [amazing Saris bike rack](https://www.amazon.com/dp/B085WTVV18/) (with its straps and hooks catching on everything).
-A fancy pillow purchased years ago came in this clear PVC bag with handles, and storing our bike rack in this has been **perfect** :astonished:.*
 
 ## Cost breakdown
 
@@ -127,9 +136,3 @@ A fancy pillow purchased years ago came in this clear PVC bag with handles, and 
 | SOLD clip-on high chair | +35 |
 | SOLD camp tent storage bag | +15 |
 | **TOTAL** | **$1293.58** |
-
-![Signoff](../assets/img/shilpa_signoff.jpeg)
-
-*Shilpa Kobren is a research fellow in biomedical informatics at Harvard Medical School where she focuses on analyzing genomic data and
-patient clinical information to derive insights into human diseases. Shilpa lives in a 1890 urban apartment in Cambridge, Massachusetts
-with her husband and two energetic baby boys. She loves to create systems that optimize daily efficiency in her family's constrained living space.*

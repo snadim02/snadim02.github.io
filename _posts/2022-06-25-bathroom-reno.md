@@ -91,10 +91,4 @@ year. But the active work time (sans all the thinking) was under two weeks.
 | [tile sponges](https://www.homedepot.com/p/QEP-7-1-2-in-x-5-1-2-in-Extra-Large-Grouting-Cleaning-and-Washing-Sponge-70005QP/100173109) | $5.37 |
 | [2 gallon bucket](https://www.homedepot.com/p/The-Home-Depot-2-gal-Homer-Bucket-RG502HD/316355946) | $4.98 |
 | [1/16" tile spacers](https://www.homedepot.com/p/QEP-1-16-in-Hard-Tile-Spacers-for-Traditional-or-LeaveIn-Installation-300-pack-10330-20/310863736) | $4.27 |
-| **TOTAL** | **$4462.05** | 
-
-![Signoff](../assets/img/shilpa_signoff.jpeg)
-
-*Shilpa Kobren is a research fellow in biomedical informatics at Harvard Medical School where she focuses on analyzing genomic data and
-patient clinical information to derive insights into human diseases. Shilpa lives in a 1890 urban apartment in Cambridge, Massachusetts
-with her husband and two energetic baby boys. She loves to create systems that optimize daily efficiency in her family's constrained living space.*
+| **TOTAL** | **$4462.05** |

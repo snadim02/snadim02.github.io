@@ -90,7 +90,7 @@ only because I screwed my [monitor stands](https://www.amazon.com/gp/product/B09
 
 ![Fireplace](../assets/img/fireplace06.jpg){: .mx-auto.d-block :}
 *That light switch was annoyingly placed, so I put [peel-and-stick wallpaper](https://www.wayfair.com/decor-pillows/pdp/millwood-pines-wunsch-birch-18-l-x-205-w-peel-and-stick-wallpaper-roll-mxwx1133.html) 
-around the whole thing (including the switch cover). I got wood picture-frame moulding trim, mitered the corners, glued it together, stained it, and attached it to the wall with command strips as a frame for my faux art. 
+around the whole thing (including the switch cover). I got [wood picture-frame moulding trim](https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-3-4-in-x-96-in-Hardwood-Picture-Frame-Moulding-3U/204296123), mitered the corners, glued it together, stained it, and attached it to the wall with command strips as a frame for my faux art. 
 The picture on the back of the door is a [Ravi Varma](https://en.wikipedia.org/wiki/Raja_Ravi_Varma) print from ~1900 that once hung in my great-grandfather's (and my childhood) home.*
 
 ![Fireplace](../assets/img/fireplace07.jpg){: .mx-auto.d-block :}
@@ -100,7 +100,7 @@ The picture on the back of the door is a [Ravi Varma](https://en.wikipedia.org/w
 *I moved our smaller games into these [4x6" photo boxes](https://www.amazon.com/dp/B00GLQX3CO). I couldn't find perfectly-sized baskets to put the boxes into (to pull out like drawers), so I just made my own with scrap cardboard and duct tape.*
 
 ![Fireplace](../assets/img/fireplace09.jpg){: .mx-auto.d-block :}
-*From left to right: My husband's grandfather who my 1-year-old is named for, that grandfather's grandfather, my great-great-grandfather, and his grandson (my grandfather) who my 4-year-old is named for. 
+***From left to right:** My husband's grandfather who my 1-year-old is named for, that grandfather's grandfather, my great-great-grandfather, and his grandson (my grandfather) who my 4-year-old is named for. 
 I enhanced the pictures with MyHeritage's AI tool (the best of the six options I tried) to print.*
 
 ## Cost breakdown
@@ -158,10 +158,4 @@ I enhanced the pictures with MyHeritage's AI tool (the best of the six options I
 | [clear book ends](https://www.amazon.com/gp/product/B08DD521S1) | $16.99 |
 | [picture prints](https://www.mpix.com/) | $9.35 |
 | lamp (purchased at Good Will years ago) | $6? |
-| **TOTAL** | **$637.71** | 
-
-![Signoff](../assets/img/shilpa_signoff.jpeg)
-
-*Shilpa Kobren is a research fellow in biomedical informatics at Harvard Medical School where she focuses on analyzing genomic data and
-patient clinical information to derive insights into human diseases. Shilpa lives in a 1890 urban apartment in Cambridge, Massachusetts
-with her husband and two energetic baby boys. She loves to create systems that optimize daily efficiency in her family's constrained living space.*
+| **TOTAL** | **$637.71** |

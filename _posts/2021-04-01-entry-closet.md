@@ -77,10 +77,4 @@ I explored *so many* organizer options before finally settling on the [Ikea Boax
 our specific space and included an option for a coat rod that did *not* span wall to wall. 
 I prefer shelves attached directly to the wall, since standing units with front vertical supports block your view, access, and flexibility. 
 **The total cost for the entire shelving system was only $167** (plus $10.44 in tax and a drive to Stoughton for late-night pickup). My mom watched our kids for one weekend day, and
-it was surprisingly easy to take down the existing shelf/rod and get this new system installed in a few hours. 
-
-![Signoff](../assets/img/shilpa_signoff.jpeg)
-
-*Shilpa Kobren is a research fellow in biomedical informatics at Harvard Medical School where she focuses on analyzing genomic data and
-patient clinical information to derive insights into human diseases. Shilpa lives in a 1890 urban apartment in Cambridge, Massachusetts
-with her husband and two energetic baby boys. She loves to create systems that optimize daily efficiency in her family's constrained living space.*
+it was surprisingly easy to take down the existing shelf/rod and get this new system installed in a few hours.
