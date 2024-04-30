@@ -71,4 +71,4 @@ I suspect some companies might bind your kids' artwork into a book for you, too.
 
 *Shilpa Kobren is a research fellow in biomedical informatics at Harvard Medical School where she focuses on analyzing genomic data and
 patient clinical information to derive insights into human diseases. Shilpa lives in a 1890 urban apartment in Cambridge, Massachusetts
-with her husband and two energetic baby boys. She loves to create systems that optimize daily efficiency in family's constrained living space.*
+with her husband and two energetic baby boys. She loves to create systems that optimize daily efficiency in her family's constrained living space.*
