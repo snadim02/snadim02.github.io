@@ -2,7 +2,7 @@
 layout: post
 title: A faux garage in Cambridge
 subtitle: or how I decked out my storage unit
-thumbnail-img: /assets/img/storageunit01.jpg
+thumbnail-img: /assets/img/storageunit-icon.jpg
 cover-img: /assets/img/storageunit02.jpg
 share-img: /assets/img/storageunit02.jpg
 tags: [storage unit, basement, bike storage, garage, sports equipment]
@@ -46,11 +46,13 @@ measurements and scour the internet for inspiration pictures and products that m
 After deciding on the solution, I ordered everything I (thought) I'd need in advance. My parents watched my 2- and 4-year-old
 for ~36 hours over the weekend, and that was my timeframe constraint to *finish all construction*.
 
-The **first step** was to move *our junk* out of our unit, AND relocate *everyone else's junk* that had been blocking access to our unit.
+### Step 1: Move stuff.
+
+We first had to move *our junk* out of our unit, AND relocate *everyone else's junk* that had been blocking access to our unit.
 
 ![Storage unit](../assets/img/storageunit03.jpg){: .mx-auto.d-block :}
 
-#### The Floor
+### Step 2: The Floor.
 We first laid down these
 [interlocking deck tiles](https://www.homedepot.com/p/326396808). I didn't realize how uneven the floor was until we
 moved all of our stuff out. Our in-the-moment decision was to fill the giant ditches with foam mats. *(TBD if that was a good idea...)* I borrowed a [circular saw](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-7-1-4-in-Circular-Saw-Tool-Only-PBLCS300B/314109411) and
@@ -60,7 +62,7 @@ Here is my only picture (11:42 P.M.) before loading everything back in, so you c
 
 ![Storage unit](../assets/img/storageunit01.jpg){: .mx-auto.d-block :}
 
-#### The Shelves
+### Step 3: The Shelves.
 The lack of drywall and nonstandard stud spacing limited our wall shelf options drastically.
 The optimal solution given our constraints was this [Everbilt heavy-duty wire frame](https://www.homedepot.com/p/Everbilt-6-ft-x-20-in-Heavy-Duty-Wire-Shelf-90257/314183866)
 system where we could cut the 12' shelves to size exactly with a [bolt cutter](https://www.homedepot.com/p/Milwaukee-18-in-Bolt-Cutter-with-3-8-in-Maximum-Cut-Capacity-48-22-4018/312620426) and had flexibility with where the vertical rails attached to studs. IMHO, this is overpriced
@@ -68,7 +70,7 @@ for what it is (but was the only way to have shelves that spanned this full "wal
 
 ![Storage unit](../assets/img/storageunit04.jpg){: .mx-auto.d-block :}
 
-#### The Slat Wall
+### Step 4: The Slat Wall.
 How do we get **four bikes** to fit? :persevere: Vertical storage! :smile: I went with the
 [Proslat system](https://www.homedepot.com/p/Proslat-PVC-Slatwall-8-ft-x-4-ft-White-88102/203496104) because I could cut the slats to fill the whole wall and [hang helmets and the bike pump](https://www.homedepot.com/p/Proslat-Slatwall-4-in-Hooks-12-Pack-13002/204743455) with the [hanging bikes](https://www.homedepot.com/p/Proslat-Slatwall-Vertical-Bike-Hook-2-Pack-13028/204743464).
 
@@ -80,7 +82,7 @@ SUCCESS! How cute are those little 14-inch and balance bikes? :bicyclist: In tru
 
 ![Storage unit](../assets/img/storageunit05.jpg){: .mx-auto.d-block :}
 
-## Getting rid of stuff
+### Step 5: Get rid of stuff.
 
 Surprise? The *biggest and most time-consuming* part of this project was getting rid of stuff! I...
 * made trips to our [local recycling center](https://www.cambridgema.gov/services/recyclingcenter) to get rid of broken appliances and spare metal parts.
