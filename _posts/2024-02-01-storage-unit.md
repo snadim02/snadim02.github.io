@@ -53,7 +53,7 @@ We first had to move *our junk* out of our unit, AND relocate *everyone else's j
 ![Storage unit](../assets/img/storageunit03.jpg){: .mx-auto.d-block :}
 
 ### Step 2: The Floor.
-We first laid down these
+Then we laid down these
 [interlocking deck tiles](https://www.homedepot.com/p/326396808). I didn't realize how uneven the floor was until we
 moved all of our stuff out. Our in-the-moment decision was to fill the giant ditches with foam mats. *(TBD if that was a good idea...)* I borrowed a [circular saw](https://www.homedepot.com/p/RYOBI-ONE-HP-18V-Brushless-Cordless-7-1-4-in-Circular-Saw-Tool-Only-PBLCS300B/314109411) and
 [tabletop jigsaw](https://www.amazon.com/Rockwell-BladeRunner-Portable-Tabletop-Accessories/dp/B00L47FZ8A/) to cut the tiles to fit into corners, against the 130-year-old stackstone foundation, and around support posts.
@@ -95,11 +95,13 @@ and *so many other things* on the [FB Buy Nothing Cambridge](https://www.faceboo
 
 **My proudest moment of this project has been that nothing ended up in the trash.**
 
-## Final touches
+### Step 6: Organize and reload.
 
 I reloaded the shelves with organized, labeled bins (my fave) !
 
 ![Storage unit](../assets/img/storageunit02.jpg){: .mx-auto.d-block :}
+
+## Final touches
 
 Here is the **kids' corner** for kids to access their stuff! This [big mesh shoulder bag](https://www.amazon.com/gp/product/B0B2RHFXCB/) is AMAZING for heading outdoors with babies.
 
