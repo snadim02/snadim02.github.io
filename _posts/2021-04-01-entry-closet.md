@@ -12,8 +12,11 @@ tags: [entryway, pantry, coat closet, ikea boaxel, bulk food storage, kids stora
 Our (third floor walkup) condo has no entryway, no pantry, and a single hallway closet. This tiny 3'8"x3'3" closet is the 
 *most utilized* square footage in our home and has an enormous number of functions to fulfill. 
 
+Here's the before. This setup was  failing our family and desperately needed some intentional planning to improve.
+
 ![Closet](../assets/img/frontcloset07.jpg){: .mx-auto.d-block :}
-*The current setup was failing our family and desperately needed some intentional planning to improve.*
+
+These were the requirements (at the time, and for planning ahead): 
 
 ### Kids' independently get and put away
 * stepstool
@@ -37,31 +40,40 @@ Our (third floor walkup) condo has no entryway, no pantry, and a single hallway 
 * extra paper towels, sponges, trash bags
 
 *That's a long list!* Space planning and optimization takes real effort, but the payoff is totally worth it for 
-improving the efficiency of everyday life. Here's how our closet looks now: 
+improving the efficiency of everyday life. 
+
+Here's how our closet looks now! :heart_eyes:
 
 ![Closet](../assets/img/frontcloset01.jpg){: .mx-auto.d-block :}
-*WOOO we checked off ALL of our requirements (so far)!*
 
 ## The Details
 
+I hung the broom, dustpan, and Swiffer (used primarily to fish toy cars out from under couches) and a 
+plastic bag dispenser directly on the back of the closet door.
+
 ![Closet](../assets/img/frontcloset06.jpg){: .mx-auto.d-block :}
-*I hung the broom, dustpan, and Swiffer (used primarily to fish toy cars out from under couches) and a 
-plastic bag dispenser directly on the back of the closet door.*
+
+I also installed two [rows of hooks](https://www.amazon.com/gp/product/B08TLX2Y75/). The bottom row is low enough for the kids to access. These hooks fold back to save space and avoid clobbering your back when you're facing the other way.
 
 ![Closet](../assets/img/frontcloset05.jpg){: .mx-auto.d-block :}
-*Installed two [rows of hooks](https://www.amazon.com/gp/product/B08TLX2Y75/) so that kids can reach the bottom level. These hooks fold back to save space and 
-don't clobber your back when you're facing the other way. The stepstool is also accessible to our toddler and the folding chairs accessible for the grown-ups.*
+
+The stepstool is also accessible to our toddler and the folding chairs accessible for the grown-ups.
+
+**Bulk food storage** was essential during the pandemic when the grocery options were buy (1) a restaurant-supply quantity or (2) nothing. 
+These days, we're using these large food-safe bins (see below) for storing all sorts of dried goods, and they're great! 
+I cut some [transparencies](https://www.amazon.com/dp/B091BVB3GF) to make pockets (and cover the ugly "don't fall in" warning labels), then slid labels in.
 
 ![Closet](../assets/img/frontcloset04.jpg){: .mx-auto.d-block :}
 
-**Bulk food storage** was essential during the pandemic when the grocery options were buy (1) a restaurant-supply quantity or (2) nothing. 
-These days, we're using the bins for storing all sorts of dried goods, and they're great! I cut some [transparencies](https://www.amazon.com/dp/B091BVB3GF) to make pockets (and cover the ugly "don't fall in" warning labels), then slid labels in.
+**Clear plastic bins** are the most effective solution for being able to immediately see what we have (and what we're low on). 
+Not the most environmentally-friendly option, but I'll never throw these in the garbage, and wasting a bunch of food that was hidden and forgotten about isn't so environmentally-friendly, either. 
 
 ![Closet](../assets/img/frontcloset03.jpg){: .mx-auto.d-block :}
 
-**About the bins:** I cannot think of a more effective solution for being able to immediately see what we have (and what we're low on) 
-than clear plastic bins. Also c'mon, don't you love my labels with the little ICONS?! The idea came to me for organizing my (pre-reading) 2-year-old's stuff, 
+Also c'mon, don't you love my labels with the little ICONS?! The idea came to me for organizing my (pre-reading) 2-year-old's stuff, 
 but these seem to be easier for me (and random guests) to read, too!
+
+Here's another angle to show you how we store grocery bags and plastic recycling:
 
 ![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
 

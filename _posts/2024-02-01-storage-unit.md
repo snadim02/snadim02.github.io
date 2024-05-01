@@ -93,7 +93,7 @@ Surprise? The *biggest and most time-consuming* part of this project was getting
 * gave away unused furniture (folding chairs, carts), baby items, construction materials (grout, wood floor finish, paint samples)
 and *so many other things* on the [FB Buy Nothing Cambridge](https://www.facebook.com/groups/476638806418590) group.
 
-**My proudest moment of this project has been that nothing ended up in the trash.**
+:sparkles: *My proudest moment of this project has been that nothing ended up in the trash.* :sparkles:
 
 ### Step 6: Organize and reload.
 

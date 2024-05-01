@@ -9,7 +9,7 @@ tags: [bathroom reno, bathroom diy, godmorgon vanity, large format tiles, peel a
 ---
 
 Ah, the joys and horrors of **POTTY TRAINING** !!! Let me tell you what is **NOT** going to work: 
-A bathroom where the kids can't... :x: access the toilet, :x: turn the light on/off, and :x: wash/dry their hands. 
+A bathroom where the kids can't... :x: access the toilet, :x: turn the light on/off, or :x: wash/dry their hands. 
 (Plus anyway this bathroom was gross and weird.)
 
 ### The problems: too many to list?!
@@ -21,9 +21,16 @@ A bathroom where the kids can't... :x: access the toilet, :x: turn the light on/
 * No spot for a stool
 * Windowless white bathrooms can start to feel... dingy.
 
-**Check it out now!** Replaced the floor, toilet, vanity, and mirror (and added hooks, towel bars, and peel and stick wallpaper).
-Also added this clever [light switch extender](https://www.amazon.com/gp/product/B01HKJY5Z4) (out of frame of this pic), and 
-can slide the stepstool right under the wall-mounted vanity.
+**Check it out now!** I replaced the 
+[floor](https://www.homedepot.com/p/MSI-Alexandra-White-12-in-x-24-in-Matte-Porcelain-Marble-Look-Floor-and-Wall-Tile-16-sq-ft-Case-NHDALEX12X24/316823076), 
+[toilet](https://www.homedepot.com/p/Gerber-Avalanche-Two-Piece-1-28-GPF-Single-Flush-Elongated-ADA-Toilet-in-White-with-Slow-Close-Seat-GWS31818S/326990887), 
+[vanity](https://www.ikea.com/us/en/p/godmorgon-bathroom-vanity-with-4-drawers-high-gloss-white-30344096/), 
+and [mirror](https://www.ikea.com/us/en/p/godmorgon-mirror-cabinet-with-2-doors-mirror-glass-10304355/) 
+(and added [hooks](https://www.amazon.com/gp/product/B008K4O52M), [towel bars](https://www.homedepot.com/p/Nameeks-General-Hotel-14-2-in-Wall-Mounted-Towel-Bar-in-Chrome-Nameeks-NCB09/306181637), and [peel and stick wallpaper](https://www.spoonflower.com/en/wallpaper/10321351-water-blue-silver-by-ceciliamok)).
+Now the kids can slide their stepstool right under the wall-mounted vanity.
+
+I also added this clever [light switch extender](https://www.amazon.com/gp/product/B01HKJY5Z4) for the kids to reach the light (out of frame of this pic). 
+
 
 ![bathroom](../assets/img/bathroom1.jpg){: .mx-auto.d-block :}
 
@@ -35,16 +42,16 @@ with [double sinks](https://www.ikea.com/us/en/p/odensvik-double-bowl-sink-80148
 
 ![bathroom](../assets/img/bathroom2.jpg){: .mx-auto.d-block :}
 
-I cleaned up my inefficient pile of (mostly empty) TSA-sized toiletries
+Here's a closeup. I cleaned up my inefficient pile of (mostly empty) TSA-sized toiletries
 and organized what was left so that I can quickly grab what I need when traveling. Time to pack toiletries for a family (flight) trip is now <5 minutes.
 
 ![bathroom](../assets/img/bathroom3.jpg){: .mx-auto.d-block :}
 
-Medicine cabinets, IMO, are the only way to actually SEE what you HAVE! I refuse to store toiletries in deep cabinets (anymore), and since then, I rarely forget about or misplace (expensive) toiletries!
+Medicine cabinets, IMO, are the only way to actually SEE what you HAVE! I refuse to store toiletries in deep cabinets (anymore), and since then, I rarely forget about or misplace (expensive) makeup, lotion, shampoos, etc.!
 
 ![bathroom](../assets/img/bathroom4.jpg){: .mx-auto.d-block :}
 
-Yet again, I have found a use for the [Ikea Glis boxes](https://www.ikea.com/us/en/p/glis-box-with-lid-clear-40466148/): this time to organize cough/cold meds and drops, bandaids, and miscellaneous
+Yet again, I have found a use for the [Ikea Glis boxes](https://www.ikea.com/us/en/p/glis-box-with-lid-clear-40466148/). This time they're being used to organize cough/cold meds and drops, bandaids, and miscellaneous
 wound care supplies.
 
 ![bathroom](../assets/img/bathroom5.jpg){: .mx-auto.d-block :}
@@ -57,7 +64,7 @@ Remember all the problems I listed at the top of this post? :disappointed:
 
 ![bathroom](../assets/img/bathroom7.jpg){: .mx-auto.d-block :}
 
-The new version is so much better! Also, you can see the [light switch extender](https://www.amazon.com/gp/product/B01HKJY5Z4) reflected in the mirror.
+Our renovated bathroom is so much better for our family! (Btw, you can see the [light switch extender](https://www.amazon.com/gp/product/B01HKJY5Z4) reflected in the mirror.)
 
 ![bathroom](../assets/img/bathroom8.jpg){: .mx-auto.d-block :}
 

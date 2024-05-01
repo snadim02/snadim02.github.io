@@ -13,18 +13,14 @@ Is there anything cozier than a warm fire crackling in a brick-surround fireplac
 No way! So I needed to find a way to get one!
 
 ### Requirements for the fireplace
-* looks like a fire (in my blurry periph behind a book)
-* sounds like a fire
-* feels like a fire
-* won't require neighbors' approval
-* won't require permitting
-* won't require busting open the roof
+* looks :see_no_evil:, sounds :hear_no_evil:, and feels :open_hands: like a fire (in my blurry periph behind a book) 
+* won't require permitting :ticket:, neighbors' approval :unamused:, or busting open the roof :hammer:
 * won't burn the house down
 * won't be a hazard for babies
 
 ### Requirements for the space
 * cozy
-* storage for books 
+* storage for books :books:
 * (lockable, child-proof) storage for board games
 * breakables out of reach
 * looks good as a backdrop to Zoom calls
@@ -99,21 +95,23 @@ only because I screwed my [monitor stands](https://www.amazon.com/gp/product/B09
 
 ![Fireplace](../assets/img/fireplace05.jpg){: .mx-auto.d-block :}
 
-Notice that annoyingly-placed light switch... I put [peel-and-stick wallpaper](https://www.wayfair.com/decor-pillows/pdp/millwood-pines-wunsch-birch-18-l-x-205-w-peel-and-stick-wallpaper-roll-mxwx1133.html) 
-around the whole thing (including the switch cover). I got [wood picture-frame moulding trim](https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-3-4-in-x-96-in-Hardwood-Picture-Frame-Moulding-3U/204296123), mitered the corners, glued it together, stained it, and attached it to the wall with command strips as a frame for my faux art. 
-The picture on the back of the door is a [Ravi Varma](https://en.wikipedia.org/wiki/Raja_Ravi_Varma) print from ~1900 that once hung in my great-grandfather's (and my childhood) home.
+Here's another view of the room while sitting on the couch. The picture on the back of the door is a [Ravi Varma](https://en.wikipedia.org/wiki/Raja_Ravi_Varma) print from ~1900 that once hung in my great-grandfather's (and my childhood) home.
 
 ![Fireplace](../assets/img/fireplace06.jpg){: .mx-auto.d-block :}
 
-We needed board game storage in these cabinets! Success! (The other cabinet is equally packed.)
+Notice that annoyingly-placed light switch... (or can you even see it?! :stuck_out_tongue_winking_eye:) I put [peel-and-stick wallpaper](https://www.wayfair.com/decor-pillows/pdp/millwood-pines-wunsch-birch-18-l-x-205-w-peel-and-stick-wallpaper-roll-mxwx1133.html) 
+around the whole thing (including the switch cover). I got [wood picture-frame moulding trim](https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-3-4-in-x-96-in-Hardwood-Picture-Frame-Moulding-3U/204296123), mitered the corners, 
+glued it together, stained it, and attached it to the wall with command strips as a frame. Now it looks like large art!
+
+We also needed board game storage in these cabinets! Success! (The other cabinet is equally packed.)
 
 ![Fireplace](../assets/img/fireplace07.jpg){: .mx-auto.d-block :}
 
-I moved our smaller games into these [4x6" photo boxes](https://www.amazon.com/dp/B00GLQX3CO). I couldn't find perfectly-sized baskets to put the boxes into (to pull out like drawers), so I just made my own with scrap cardboard and duct tape.
+I moved our smaller games into these [4x6" photo boxes](https://www.amazon.com/dp/B00GLQX3CO) (see below). I couldn't find perfectly-sized baskets to put the boxes into (to pull out like drawers), so I just made my own with scrap cardboard and duct tape.
 
 ![Fireplace](../assets/img/fireplace08.jpg){: .mx-auto.d-block :}
 
-I also framed some family pictures, that I enhanced with MyHeritage's AI tool (the best of the six options I tried) to print.
+Another fun detail: I framed *old* family pictures. I needed to enhance them for printing, and I used [MyHeritage's AI tool](https://www.myheritage.com/photo-enhancer) (the best of the six options I tried) in the end.
 
 ![Fireplace](../assets/img/fireplace09.jpg){: .mx-auto.d-block :}
 ***From left to right:** My husband's grandfather who my 1-year-old is named for, that grandfather's grandfather, my great-great-grandfather, and his grandson (my grandfather) who my 4-year-old is named for.*
