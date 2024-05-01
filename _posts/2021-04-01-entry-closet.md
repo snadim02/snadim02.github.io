@@ -3,7 +3,7 @@ layout: post
 title: Multipurpose 3'x3'...
 subtitle: entryway, pantry, coat closet, drop zone...
 cover-img: /assets/img/frontcloset01.jpg
-thumbnail-img: /assets/img/frontcloset08.jpg
+thumbnail-img: /assets/img/entryway-icon.jpg
 share-img: /assets/img/frontcloset01.jpg
 tags: [entryway, pantry, coat closet, ikea boaxel, bulk food storage, kids storage, labels]
 #author: Sharon Smith and Barry Simpson
