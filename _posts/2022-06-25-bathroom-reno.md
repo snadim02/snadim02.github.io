@@ -75,7 +75,7 @@ year. But the active work time (sans all the thinking) was under two weeks.
 
 | Item | Cost (+ tax/shipping) | 
 | --- | --- | 
-| plumber cost | $1100 |
+| plumber cost | $800 |
 | [Ikea Godmorgon vanity](https://www.ikea.com/us/en/p/godmorgon-bathroom-vanity-with-4-drawers-high-gloss-white-30344096/) | $540.81 |
 | [peel-and-stick wallpaper](https://www.spoonflower.com/en/wallpaper/10321351-water-blue-silver-by-ceciliamok) | $502.35 |
 | [toilet](https://www.homedepot.com/p/Gerber-Avalanche-Two-Piece-1-28-GPF-Single-Flush-Elongated-ADA-Toilet-in-White-with-Slow-Close-Seat-GWS31818S/326990887) | $352.54 |
@@ -102,4 +102,4 @@ year. But the active work time (sans all the thinking) was under two weeks.
 | [tile sponges](https://www.homedepot.com/p/QEP-7-1-2-in-x-5-1-2-in-Extra-Large-Grouting-Cleaning-and-Washing-Sponge-70005QP/100173109) | $5.37 |
 | [2 gallon bucket](https://www.homedepot.com/p/The-Home-Depot-2-gal-Homer-Bucket-RG502HD/316355946) | $4.98 |
 | [1/16" tile spacers](https://www.homedepot.com/p/QEP-1-16-in-Hard-Tile-Spacers-for-Traditional-or-LeaveIn-Installation-300-pack-10330-20/310863736) | $4.27 |
-| **TOTAL** | **$4462.05** |
+| **TOTAL** | **$4162.05** |
