@@ -60,7 +60,7 @@ So I ended up special-ordering
 instead and had it ripped down to the right depth using a table saw at Home Depot.
 I [glued](https://www.homedepot.com/p/Titebond-III-16-oz-Ultimate-Wood-Glue-1414/100522343) 
 two pieces of plywood together for the countertop and used a [rasp](https://www.rockler.com/4-way-shoe-rasp) to shave the edge of the plywood to fit snugly against the sloped ceiling. 
-Then I borrowed a miter saw that could cut beveled edges into two shelves to fit against the ceiling, too. 
+Then I borrowed a miter saw to cut beveled edges into two shelves to fit against the ceiling, too. 
 I finished the shelves and countertop with [walnut edge banding](https://www.rockler.com/2-x-25-pre-glued-edge-banding-walnut) and sealed it all with three coats of 
 [clear flat finish](https://www.rockler.com/general-finishes-high-performance-water-based-top-coat-flat) (sanding in-between coats), and mounted the shelves with a 
 few [shelf L brackets](https://www.amazon.com/gp/product/B08QFVZXL8/). 
