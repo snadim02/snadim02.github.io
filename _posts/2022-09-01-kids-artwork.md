@@ -51,14 +51,18 @@ Yeah... I do give away gifted art supplies that don't fit in these boxes.
 
 ![artwork](../assets/img/artwork09.jpg){: .mx-auto.d-block :}
 
-### Play dough and crafts.
+### Crafts and play dough.
 
-Some of our play dough is homemade, and the usual containers are opaque and hard to open. I divvied our play 
-dough into these [clear cosmetic jars](https://www.amazon.com/gp/product/B08X1MM1HT) and pared down the tool collection to what the kids actually 
-use (and added some plastic butter knives). Crafts include bulky artwork that comes home from school (pipe cleaners, beads, ribbons, dowels) and 
+Crafts include bulky artwork that comes home from school (pipe cleaners, beads, ribbons, dowels) and 
 glue sticks and kid scissors.
 
 ![artwork](../assets/img/artwork05.jpg){: .mx-auto.d-block :}
+
+Some of our play dough is homemade, and the usual containers are opaque and hard to open. I divvied our play 
+dough into these [clear cosmetic jars](https://www.amazon.com/gp/product/B08X1MM1HT) and pared down the tool collection to what the kids actually 
+use (and added some plastic butter knives). 
+
+![artwork](../assets/img/artwork10.jpg){: .mx-auto.d-block :}
 
 ## Getting rid of the artwork!
 

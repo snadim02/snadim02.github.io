@@ -78,7 +78,7 @@ Here's another angle to show you how we store grocery bags and plastic recycling
 ![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
 
 **Reusable grocery bags:** It's easier to stuff 'em in a bin or on the shelf than actually hang 'em up. 
-It became *easiest* when we pared down the bag collection (why does this happen). 
+It became *easiest* when we pared down our bag collection. 
 
 **Plastic bag recycling:** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option.
 Seems to be working GREAT so far to ditch (plastic #4) packaging promptly without getting in anyone's way!
