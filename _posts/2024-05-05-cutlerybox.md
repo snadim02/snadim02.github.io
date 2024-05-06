@@ -44,7 +44,7 @@ Since no one seems to manufacture the perfect bin inserts, I decided to **design
 
 * First, I made a free account on [TinkerCad](https://www.tinkercad.com/). It turns out that my 8- and 11-year-old nieces already use this program in their middle school engineering classes! That gave me (and probably should give you) the confidence to try it out...
 * I spent about 20 minutes working my way through their free tutorials. 
-* In <1 hour, I designed two different types of bin inserts: one for the 4 boxes in the corners of the bins, and one for the middle 2 boxes (that wouldn't block the handle insert).
+* In <1 hour, I designed two different types of bin inserts: one for the 4 boxes in the corners of the bins, and one for the middle 2 boxes (that wouldn't block the handle cutout).
 
 ![Fireplace](../assets/img/cutlerybox04.jpg){: .mx-auto.d-block :}
 
@@ -52,7 +52,7 @@ I exported my designs in .STL format and used the [Prusa slicer software app](ht
 
 ![Fireplace](../assets/img/cutlerybox05.jpg){: .mx-auto.d-block :}
 
-**THE MOST SATISFYING SUCCESS!** *Check out the inside of this disposable cutlery bin now!* I printed out six box inserts total (took ~17 hours each): 
+**THE MOST SATISFYING SUCCESS!** *Check out the inside of this disposable cutlery bin now!* I printed out six box inserts total, which took ~15 hours each and less than [one reel of plastic filament](https://www.amazon.com/dp/B00J0GMMP6) in total. 
 
 ![Fireplace](../assets/img/cutlerybox06.jpg){: .mx-auto.d-block :}
 
