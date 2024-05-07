@@ -2,7 +2,7 @@
 layout: post
 title: Organizing extra takeout cutlery
 subtitle: with VERY EXTRA custom 3D-printed bins
-thumbnail-img: /assets/img/cutlerybox-icon.jpg
+thumbnail-img: /assets/img/cutlerybox-icon2.jpg
 cover-img: /assets/img/cutlerybox-icon.jpg
 share-img: /assets/img/cutlerybox-icon.jpg
 tags: [3d printer, unconventional storage, disposable cutlery, dining, kitchen, custom boxes]
@@ -52,10 +52,15 @@ I exported my designs in .STL format and used the [Prusa slicer software app](ht
 
 ![Fireplace](../assets/img/cutlerybox05.jpg){: .mx-auto.d-block :}
 
+Here's a dorky picture of me utterly delighted with the progress of my bin prints: 
+
+![Fireplace](../assets/img/cutlerybox-icon2.jpg){: .mx-auto.d-block :}
+*Photo credit to [Vicky Yao](https://www.cs.rice.edu/~vy/)*
+
 **THE MOST SATISFYING SUCCESS!** *Check out the inside of this disposable cutlery bin now!* I printed out six box inserts total, which took ~15 hours each and less than [one reel of plastic filament](https://www.amazon.com/dp/B00J0GMMP6) in total. 
 
 ![Fireplace](../assets/img/cutlerybox06.jpg){: .mx-auto.d-block :}
 
 I no longer needed Ziplock bags here because the inside of these bin inserts won't get dislocated and spill contents into each other, and the cutlery won't scratch or tear up the bottom of the cloth bin. 
 
-I'm quite pleased with my very nerdy solution! 
+I'm quite pleased with my engineered solution! 
