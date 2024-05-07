@@ -31,7 +31,7 @@ we ended up pulling out each bag anyway because we couldn't really see what was 
 
 ### Iteration 2
 
-I couldn't find any custom dividers that would work with this size of a bin that didn't also block the handle cutouts, so 
+I couldn't find any custom dividers that would work with the size of this bin that didn't also block the handle cutouts, so 
 I crafted my own dividers from an old diaper box and added labels. Unfortunately, we couldn't see the labels on the back side. I still couldn't take things out of their bags because of how they'd get mixed up under the divider.
 
 This solution also *did not stand the test of time*. The cardboard got floppy, and the white duct tape started to crinkle and peel. 
@@ -56,6 +56,6 @@ I exported my designs in .STL format and used the [Prusa slicer software app](ht
 
 ![Fireplace](../assets/img/cutlerybox06.jpg){: .mx-auto.d-block :}
 
-I was able to get rid of the bags because the inside of these bin inserts won't get dislocated and spill contents into each other, and the cutlery won't scratch or tear up the bottom of the cloth bin. 
+I no longer needed Ziplock bags here because the inside of these bin inserts won't get dislocated and spill contents into each other, and the cutlery won't scratch or tear up the bottom of the cloth bin. 
 
 I'm quite pleased with my very nerdy solution! 
