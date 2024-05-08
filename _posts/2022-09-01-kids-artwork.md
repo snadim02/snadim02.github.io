@@ -20,7 +20,7 @@ Our 3-year-old was chronically absent from school for TWENTY days (and our 1-yea
 
 **One fun solution:** In the (few, fleeting) moments when they weren't actively throwing up all over the couch, 
 I wanted the boys to entertain themselves while sitting still (joke's on me, I know). 
-In addition to organizing their toys, I also enabled easy artwork that didn't lead to a huge mess! 
+In addition to [organizing their toys](../2022-12-30-toys), I also enabled easy artwork that didn't lead to a huge mess! 
 Finding a way to *throw away the resulting trash artwork* also required inventive thinking! 
 
 The art station is right next to the (glass-covered) dining table, and our house rule is that all art stays at the table. Working very well so far!
