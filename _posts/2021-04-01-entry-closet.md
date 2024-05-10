@@ -70,7 +70,7 @@ Not the most environmentally-friendly option, but I'll never throw these in the 
 
 ![Closet](../assets/img/frontcloset03.jpg){: .mx-auto.d-block :}
 
-Also c'mon, don't you love my labels with the little ICONS?! The idea came to me for organizing my (pre-reading) 2-year-old's stuff, 
+Also c'mon, don't you love my labels with the little ICONS?! The idea came to me when [organizing my (pre-reading) 2-year-old's toys](../2022-12-30-toys), 
 but these seem to be easier for me (and random guests) to read, too!
 
 Here's another angle to show you how we store grocery bags and plastic recycling:
