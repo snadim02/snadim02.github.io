@@ -134,7 +134,7 @@ Another fun detail: I framed *old* family pictures. I needed to enhance them for
 | [cabinet knobs](https://www.amazon.com/dp/B0BXNVQ17S/) | $23.99 |
 | [wood sealant](https://www.rockler.com/general-finishes-high-performance-water-based-top-coat-flat) | $23.36 |
 | [rasp](https://www.rockler.com/4-way-shoe-rasp) | $19.11 |
-| [brick and grouter spray sealer](https://www.homedepot.com/p/Custom-Building-Products-SimpleSealer-165-Delorean-Gray-1-qt-Premixed-Sealer-TLPS24Z/202919172) | $18.35 |
+| [brick and grout spray sealer](https://www.homedepot.com/p/Custom-Building-Products-SimpleSealer-165-Delorean-Gray-1-qt-Premixed-Sealer-TLPS24Z/202919172) | $18.35 |
 | [cable covers](https://www.amazon.com/gp/product/B07RZQXRQK) | $18.05 |
 | [1 qt premixed sanded grout](https://www.homedepot.com/p/Custom-Building-Products-SimpleGrout-09-Natural-Gray-1-qt-Pre-Mixed-Grout-PMG09QT/100676322) | $17.82 |
 | [special chalk paintbrush](https://www.amazon.com/gp/product/B07CQ8G86Z) | $16.97 |

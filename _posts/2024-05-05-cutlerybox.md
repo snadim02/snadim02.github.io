@@ -10,7 +10,7 @@ tags: [3d printer, unconventional storage, disposable cutlery, dining, kitchen, 
 ---
 
 I was looking for an excuse to design a custom 3D print in [TinkerCad](https://www.tinkercad.com/) anyway, so what 
-better project than to finally fix an irksome problem: organizing our disposible, takeout cutlery?!
+better project than to finally fix an irksome problem: organizing our disposable, takeout cutlery?!
 
 **Argh excess plastic cutlery:** Despite specifically selecting *not* to receive disposable plates and utensils, restaurants stuff these things into our 
 takeout bags anyway. After a while, we started to accumulate perfectly good paper/plastic dining products that I didn't 
