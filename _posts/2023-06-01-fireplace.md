@@ -84,6 +84,8 @@ Here's the same space NOW! I covered the router cables and, in lieu of a coffee 
 
 ![Fireplace](../assets/img/fireplace04.jpg){: .mx-auto.d-block :}
 
+![Fireplace](../assets/img/fireplace13.jpg){: .mx-auto.d-block :}
+
 ## The Details.
 
 I found the [perfect (tiny) couch](https://www.wayfair.com/furniture/pdp/corrigan-studio-alverce-58-square-arm-loveseat-w006875006.html) and a lamp and side tables at Good Will.
@@ -107,11 +109,11 @@ We also needed board game storage in these cabinets! Success! (The other cabinet
 
 ![Fireplace](../assets/img/fireplace07.jpg){: .mx-auto.d-block :}
 
-I moved our smaller games into these [4x6" photo boxes](https://www.amazon.com/dp/B00GLQX3CO) (see below). I couldn't find perfectly-sized baskets to put the boxes into (to pull out like drawers), so I just made my own with scrap cardboard and duct tape.
+I moved our smaller games into these [4x6" photo boxes](https://www.amazon.com/dp/B00GLQX3CO) (see below). My thoughts about the [pros and cons of "game decanting"]((../2022-12-30-toys/#Games)) are described in my [toy organization post](../2022-12-30-toys). I couldn't find perfectly-sized baskets to put the boxes into (to pull out like drawers), so I just made my own with scrap cardboard and duct tape.
 
 ![Fireplace](../assets/img/fireplace08.jpg){: .mx-auto.d-block :}
 
-Another fun detail: I framed *old* family pictures. I needed to enhance them for printing, and I used [MyHeritage's AI tool](https://www.myheritage.com/photo-enhancer) (the best of the six options I tried) in the end.
+Another fun detail: I framed *old family pictures* of the grandfathers our boys are named for (and *their* grandfathers)! I needed to enhance them for printing, and I used [MyHeritage's AI tool](https://www.myheritage.com/photo-enhancer) (the best of the six options I tried) in the end.
 
 ![Fireplace](../assets/img/fireplace09.jpg){: .mx-auto.d-block :}
 ***From left to right:** My husband's grandfather who my 1-year-old is named for, that grandfather's grandfather, my great-great-grandfather, and his grandson (my grandfather) who my 4-year-old is named for.*
