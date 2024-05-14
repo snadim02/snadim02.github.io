@@ -58,11 +58,13 @@ glue sticks and kid scissors.
 
 ![artwork](../assets/img/artwork05.jpg){: .mx-auto.d-block :}
 
-Some of our play dough is homemade, and the usual containers are opaque and hard to open. I divvied our play 
-dough into these [clear cosmetic jars](https://www.amazon.com/gp/product/B08X1MM1HT) and pared down the tool collection to what the kids actually 
-use (and added some plastic butter knives). 
+**Play dough problem:** Some of our play dough is homemade (no container), the store-bought containers are opaque and hard to open, and the tools don't fit in the same bin. 
 
 ![artwork](../assets/img/artwork13.jpg){: .mx-auto.d-block :}
+
+**Play dough solution:** I divvied our play 
+dough into these [clear cosmetic jars](https://www.amazon.com/gp/product/B08X1MM1HT) and pared down the tool collection to what the kids actually 
+use: 
 
 ![artwork](../assets/img/artwork10.jpg){: .mx-auto.d-block :}
 
