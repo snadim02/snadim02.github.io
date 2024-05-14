@@ -62,6 +62,8 @@ Some of our play dough is homemade, and the usual containers are opaque and hard
 dough into these [clear cosmetic jars](https://www.amazon.com/gp/product/B08X1MM1HT) and pared down the tool collection to what the kids actually 
 use (and added some plastic butter knives). 
 
+![artwork](../assets/img/artwork13.jpg){: .mx-auto.d-block :}
+
 ![artwork](../assets/img/artwork10.jpg){: .mx-auto.d-block :}
 
 ## Getting rid of the artwork!
@@ -78,10 +80,14 @@ so they don't get torn apart by baby brother.
 
 But it wasn't enough! Now, when artwork comes home, I immediately scan it using my [Google Photo Scan phone app](https://www.google.com/photos/scan/) 
 and show it to our 3-year-old (so he knows we have a digital copy).
-Then I tell him that we can get rid of the original to make space for more (and he is fine with it). I go the extra mile and (once a month) add the newly-scanned artwork to a 
+Then I tell him that we can get rid of the original to make space for more (and he is fine with it). 
+
+![artwork](../assets/img/artwork11.jpg){: .mx-auto.d-block :}
+
+I go the extra mile and (once a month) add the newly-scanned artwork to a 
 [magazine-style photo book](https://www.blurb.com/pricing#/tab/magazines) that is only ~$20 for 100 double-sided pages on [Blurb](https://www.blurb.com/magazine)! 
 I suspect some companies might bind your kids' artwork into a book for you, too.
 
-![artwork](../assets/img/artwork07.jpg){: .mx-auto.d-block :}
+![artwork](../assets/img/artwork12.jpg){: .mx-auto.d-block :}
 
 *Et voilà!*
