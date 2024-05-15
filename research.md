@@ -16,8 +16,7 @@ subtitle: uncovering genetic drivers of rare human diseases
 The genome is a **big space**, and accurately pinpointing variants that underlie specific human health conditions is a formidable challenge.
 Traditionally, genes have been treated as black box functional units, but we now know that individual variants within and between genes 
 can have wildly different impacts on phenotypes and disease. Because comprehensive, *in vivo* (in a living system) functional assessment of all possible genetic 
-variants is infeasible in many cases, 
-we instead turn to *in silico* (computational) variant functionality predictions. We develop integrative tools for assessing
+variants is often infeasible, we instead turn to *in silico* (computational) variant functionality predictions. We develop integrative tools for assessing
 the functionality of specific genomic positions and are interested in leveraging multimodal biological and biomedical data to derive new insights on the 
 functional impact of genetic variants. \[[30535108](https://pubmed.ncbi.nlm.nih.gov/30535108/), [33580225](https://pubmed.ncbi.nlm.nih.gov/33580225/)\]
 
