@@ -20,14 +20,14 @@ need* (but didn't want to deal with) and a whole bunch of stuff *we did need* bu
 
 ### Storage Requirements
 * easy access to:
-  * all 4 bikes and helmets
-  * bike accessories
-  * kids' outdoor toys
+  * all 4 bikes and helmets :bike: :military_helmet:
+  * bike accessories :mega: :flashlight:
+  * kids' outdoor toys :tractor: :kick_scooter: :soccer:
 * organized storage for:
-  * camping and backpacking gear
-  * beach stuff
-  * holiday accessories
-  * sentimental items
+  * camping and backpacking gear :camping:
+  * beach stuff :beach_umbrella:
+  * holiday accessories :jack_o_lantern: :confetti_ball:
+  * sentimental items :teddy_bear: :framed_picture:
 
 **Check out the before...** *yikes*. :expressionless:
 

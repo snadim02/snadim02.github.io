@@ -19,25 +19,25 @@ Here's the before. This setup was  failing our family and desperately needed som
 These were the requirements (at the time, and for planning ahead): 
 
 ### Kids' independently get and put away
-* stepstool
-* their own backpacks
-* their own coats/hats/mittens
-* some food while helping in the kitchen
+* stepstool :ladder:
+* their own backpacks :school_satchel:
+* their own coats/hats/mittens :coat: :gloves: :scarf:
+* some food while helping in the kitchen :canned_food: :salt:
 
 ### Adults' (easy/fast) access requirements
 * get and put back
-  * coats/hats/mittens
-  * cloth/plastic bags
-  * ingredients while cooking 
-  * broom and dustpan for quick cleanup (IYKYK)
-  * extra folding chairs for (sometimes spontaneous) guests
+  * coats/hats/mittens :coat: :gloves: :scarf:
+  * cloth/plastic bags :shopping:
+  * ingredients while cooking :rice: :peanuts:
+  * broom and dustpan for quick cleanup (IYKYK) :broom:
+  * extra folding chairs for (sometimes spontaneous) guests :chair:
 * know what food we have and what we are running low on
-* stash plastic packaging for eventual recycling
+* stash plastic packaging for eventual recycling :recycle:
 
 ### Additional storage requirements
 * backstock and overflow (bulk) food
-* oversized appliances and seldom-used cookware
-* extra paper towels, sponges, trash bags
+* oversized appliances and seldom-used cookware :electric_plug:
+* extra paper towels, sponges, trash bags :roll_of_paper: :sponge:
 
 *That's a long list!* Space planning and optimization takes real effort, but the payoff is totally worth it for 
 improving the efficiency of everyday life. 
