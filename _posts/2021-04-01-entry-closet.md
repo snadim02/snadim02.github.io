@@ -66,22 +66,22 @@ I cut some [transparencies](https://www.amazon.com/dp/B091BVB3GF) to make pocket
 ![Closet](../assets/img/frontcloset04.jpg){: .mx-auto.d-block :}
 
 **Clear plastic bins** are the most effective solution for being able to immediately see what we have (and what we're low on). 
-Not the most environmentally-friendly option, but I'll never throw these in the garbage, and wasting a bunch of food that was hidden and forgotten about isn't so environmentally-friendly, either. 
+These have near-infinite reuse potential (so I'll never throw them in the garbage), and wasting a bunch of food that was hidden and forgotten about isn't so environmentally-friendly, either. 
 
 ![Closet](../assets/img/frontcloset03.jpg){: .mx-auto.d-block :}
 
 Also c'mon, don't you love my labels with the little ICONS?! The idea came to me when [organizing my (pre-reading) 2-year-old's toys](../2022-12-30-toys), 
 but these seem to be easier for me (and random guests) to read, too!
 
-Here's another angle to show you how we store grocery bags and plastic recycling:
+Here's another angle to show you how we store plastic recycling (left) and reusable grocery bags (right):
 
 ![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
 
+**Plastic bag recycling:** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option.
+Seems to be working GREAT so far to stash (plastic #4) packaging promptly (before [properly disposing of it](https://www.cambridgema.gov/Departments/publicworks/getridofitright#!rc-cpage=463661)) without getting in anyone's way!
+
 **Reusable grocery bags:** It's easier to stuff 'em in a bin or on the shelf than actually hang 'em up. 
 It became *easiest* when we pared down our bag collection. 
-
-**Plastic bag recycling:** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option.
-Seems to be working GREAT so far to ditch (plastic #4) packaging promptly without getting in anyone's way!
 
 ## Process and Cost
 
