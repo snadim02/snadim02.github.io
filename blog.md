@@ -5,9 +5,9 @@ subtitle: optimizing life with computational thinking
 ---
 
 **The backstory.** Part of what draws me to Computer Science research is my general love of thinking about optimal solutions given a set of 
-constraints, and testing out (and measuring the success of) new ideas. I like playing strategy board games, 
-planning routes to minimize travel time and distance, and packing *exactly* without excess.
-Unrelated: I'm also sensitive to visual overcrowding and cannot concentrate when my surroundings are messy or disorganized.
+constraints, and testing out (and measuring the success of) new ideas :balance_scale: :chart_with_upwards_trend:. I like playing strategy board games :chess_pawn:, 
+planning routes to minimize travel time and distance :world_map: :stopwatch:, and packing *exactly* without excess :briefcase:.
+Unrelated: I'm also sensitive to visual overcrowding and cannot concentrate when my surroundings are messy or disorganized :face_with_spiral_eyes:.
 
 **The catalyst.** Enter two baby boys across [three](https://www.who.int/news-room/spotlight/why-we-need-to-talk-about-losing-a-baby) [rough pregnancies](https://en.wikipedia.org/wiki/Hyperemesis_gravidarum) 
 during my postdoc and a worldwide pandemic imprisoning our family of 4 in a tiny urban apartment 
