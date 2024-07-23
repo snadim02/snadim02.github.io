@@ -116,6 +116,17 @@ A fancy pillow purchased years ago came in this clear PVC bag with handles, and 
 
 ![Storage unit](../assets/img/storageunit11.jpg){: .mx-auto.d-block :}
 
+My most favorite storage solution of all is for our [sukkah](https://www.sukkot.com/products/sukkah-kits/),
+which is a temporary "hut" we set up for a week each fall to celebrate the [Jewish harvest holiday of Sukkot](https://www.chabad.org/library/article_cdo/aid/4784/jewish/What-Is-Sukkot.htm).
+
+![Storage unit](../assets/img/storageunit13.jpg){: .mx-auto.d-block :}
+*Our sukkah all set up from October 2022!*
+
+Our sukkah is constructed from *super heavy poles* that are obnoxious to store and even more obnoxious to drag all together up the stairs and outside every year.
+I installed our bottom shelf so that we can slide the poles out one-by-one without hassle each year, and this is just :grin: :star_struck: !!!
+
+![Storage unit](../assets/img/storageunit12.jpg){: .mx-auto.d-block :}
+
 ## Cost breakdown
 
 | Item | Cost (+ tax/shipping) |
