@@ -105,6 +105,8 @@ Notice that annoyingly-placed light switch... (or can you even see it?! :stuck_o
 around the whole thing (including the switch cover). I got [wood picture-frame moulding trim](https://www.homedepot.com/p/HOUSE-OF-FARA-3-4-in-x-3-4-in-x-96-in-Hardwood-Picture-Frame-Moulding-3U/204296123), mitered the corners, 
 glued it together, stained it, and attached it to the wall with command strips as a frame. Now it looks like large art!
 
+![Fireplace](../assets/img/fireplace14.jpg){: .mx-auto.d-block :}
+
 We also needed board game storage in these cabinets! Success! (The other cabinet is equally packed.)
 
 ![Fireplace](../assets/img/fireplace07.jpg){: .mx-auto.d-block :}
