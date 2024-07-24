@@ -109,7 +109,7 @@ We also needed board game storage in these cabinets! Success! (The other cabinet
 
 ![Fireplace](../assets/img/fireplace07.jpg){: .mx-auto.d-block :}
 
-I moved our smaller games into these [4x6" photo boxes](https://www.amazon.com/dp/B00GLQX3CO) (see below). My thoughts about the [pros and cons of "game decanting"](../2022-12-30-toys/#Games) are described in my [toy organization post](../2022-12-30-toys). I couldn't find perfectly-sized baskets to put the boxes into (to pull out like drawers), so I just made my own with scrap cardboard and duct tape.
+I moved our smaller games into these [4x6" photo boxes](https://www.amazon.com/dp/B00GLQX3CO) (see below). My thoughts about the [pros and cons of "game decanting"](../2022-12-30-toys/#games) are described in my [toy organization post](../2022-12-30-toys). I couldn't find perfectly-sized baskets to put the boxes into (to pull out like drawers), so I just made my own with scrap cardboard and duct tape.
 
 ![Fireplace](../assets/img/fireplace08.jpg){: .mx-auto.d-block :}
 
