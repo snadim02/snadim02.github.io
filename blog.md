@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Life, Refactored
+title: Home, Refactored
 subtitle: optimizing life with computational thinking
 ---
 
