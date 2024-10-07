@@ -84,14 +84,16 @@ SUCCESS! How cute are those little 14-inch and balance bikes? :bicyclist: In tru
 
 ### Step 5: Get rid of stuff.
 
-Surprise? The *biggest and most time-consuming* part of this project was getting rid of stuff! I...
-* made trips to our [local recycling center](https://www.cambridgema.gov/services/recyclingcenter) to get rid of broken appliances and spare metal parts.
-* drove out to Roxbury over two nights to recycle scrap wood and warped wood risers at a [construction debris dropoff](https://resourcewasteservices.com/our-facilities/resource-roxbury/) site.
-* returned (years overdue) unused supplies to Ikea.
-* donated an absurd amount of white paint to our local [Somerville theater group](https://www.theatreatfirst.org/).
-* sold extra wall and flooring tiles on FB Marketplace
-* gave away unused furniture (folding chairs, carts), baby items, construction materials (grout, wood floor finish, paint samples)
-and *so many other things* on the [FB Buy Nothing Cambridge](https://www.facebook.com/groups/476638806418590) group.
+Surprise? The *biggest and most time-consuming* part of this project was getting rid of stuff!
+
+| Got rid of... | Solution |
+| --- | --- |
+| :wastebasket: broken appliances and spare metal parts | :heavy_check_mark: dropped off at our [local recycling center](https://www.cambridgema.gov/services/recyclingcenter) |
+| :wood: scrap wood and warped wood risers | :heavy_check_mark: drove out to a [construction debris dropoff](https://resourcewasteservices.com/our-facilities/resource-roxbury/) site in Roxbury |
+| :file_cabinet: unused Ikea supplies | :heavy_check_mark: returned (years overdue)! |
+| :paintbrush: absurd amount of white paint | :heavy_check_mark: donated to our local [Somerville theater group](https://www.theatreatfirst.org/) |
+| :bricks: extra wall and flooring tiles | :heavy_check_mark: sold on FB Marketplace |
+| :chair: unused furniture (folding chairs, carts), baby items, construction materials (grout, wood floor finish, paint samples) and *so many other things* | :heavy_check_mark: gave away on the [FB Buy Nothing Cambridge](https://www.facebook.com/groups/476638806418590) group |
 
 :sparkles: *My proudest moment of this project has been that nothing ended up in the trash.* :sparkles:
 
