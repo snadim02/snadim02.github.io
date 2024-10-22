@@ -48,8 +48,10 @@ Here's how our closet looks now! :heart_eyes:
 
 ## The Details
 
-I hung the broom, dustpan, and Swiffer (used primarily to fish toy cars out from under couches) and a 
-plastic bag dispenser directly on the back of the closet door.
+I hung the [broom](https://www.amazon.com/OXO-Good-Grips-Angle-Broom/dp/B00940DUFY), 
+[dustpan](https://www.amazon.com/OXO-Grips-Dustpan-Brush-White/dp/B00004OCL4/), and 
+[Swiffer](https://www.amazon.com/MOP-Dry-Wet-Starter-KIT/dp/B0CG4S4ZGQ/) (used primarily to fish toy cars out from under couches) and a 
+[plastic bag dispenser](https://www.amazon.com/gp/product/B007ZF638G/) directly on the back of the closet door.
 
 ![Closet](../assets/img/frontcloset06.jpg){: .mx-auto.d-block :}
 
@@ -57,10 +59,11 @@ I also installed two [rows of hooks](https://www.amazon.com/gp/product/B08TLX2Y7
 
 ![Closet](../assets/img/frontcloset05.jpg){: .mx-auto.d-block :}
 
-The stepstool is also accessible to our toddler and the folding chairs accessible for the grown-ups.
+The [stepstool](https://www.amazon.com/Rubbermaid-RMS-2-TRV205044-Steel-Stool/dp/B01B9K23WC/) is also accessible to our toddler and the folding chairs accessible for the grown-ups.
 
 **Bulk food storage** was essential during the pandemic when the grocery options were buy (1) a restaurant-supply quantity or (2) nothing. 
-These days, we're using these large food-safe bins (see below) for storing all sorts of dried goods, and they're great! 
+These days, we're using these [large food-safe bins](https://www.amazon.com/gp/product/B01BLKPDHM/) (see below) for storing all sorts 
+of dry goods, and they're great! 
 I cut some [transparencies](https://www.amazon.com/dp/B091BVB3GF) to make pockets (and cover the ugly "don't fall in" warning labels), then slid labels in.
 
 ![Closet](../assets/img/frontcloset04.jpg){: .mx-auto.d-block :}
@@ -86,7 +89,7 @@ It became *easiest* when we pared down our bag collection.
 ## Process and Cost
 
 I explored *so many* organizer options before finally settling on the [Ikea Boaxel system](https://www.ikea.com/us/en/cat/boaxel-system-47394/), which seemed to maximize 
-our specific space and included an option for a coat rod that did *not* span wall to wall. 
+our specific space and included an option for a [coat rod](https://www.ikea.com/us/en/p/boaxel-clothes-rail-white-90448741/) that did *not* span wall to wall. 
 I prefer shelves attached directly to the wall, since standing units with front vertical supports block your view, access, and flexibility. 
 **The total cost for the entire shelving system was only $167** (plus $10.44 in tax and a drive to Stoughton for late-night pickup). My mom watched our kids for one weekend day, and
 it was surprisingly easy to take down the existing shelf/rod and get this new system installed in a few hours.
