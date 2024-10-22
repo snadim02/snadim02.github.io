@@ -51,7 +51,7 @@ Here's how our closet looks now! :heart_eyes:
 I hung the [broom](https://www.amazon.com/OXO-Good-Grips-Angle-Broom/dp/B00940DUFY), 
 [dustpan](https://www.amazon.com/OXO-Grips-Dustpan-Brush-White/dp/B00004OCL4/), and 
 [Swiffer](https://www.amazon.com/MOP-Dry-Wet-Starter-KIT/dp/B0CG4S4ZGQ/) (used primarily to fish toy cars out from under couches) and a 
-[plastic bag dispenser](https://www.amazon.com/gp/product/B007ZF638G/) directly on the back of the closet door.
+[plastic bag dispenser](https://www.amazon.com/gp/product/B007ZF638G/) directly on the [back of the closet door](https://www.amazon.com/Reliahom-Organization-Storage-Kitchen-Organizer/dp/B095RQ1F3T).
 
 ![Closet](../assets/img/frontcloset06.jpg){: .mx-auto.d-block :}
 
