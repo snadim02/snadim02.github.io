@@ -62,7 +62,7 @@ I also installed two [rows of hooks](https://www.amazon.com/gp/product/B08TLX2Y7
 The [stepstool](https://www.containerstore.com/s/garage-and-shelving/stepstools-and-ladders/premium-folding-step-stool/12d?productId=10031897) is also accessible to our toddler and the folding chairs accessible for the grown-ups.
 
 **Bulk food storage** was essential during the pandemic when the grocery options were buy (1) a restaurant-supply quantity or (2) nothing. 
-These days, we're using these [large food-safe bins](https://www.amazon.com/gp/product/B01BLKPDHM/) with [gamme seal lids](https://www.amazon.com/gp/product/B005CJVME2) (see below) for storing all sorts 
+These days, we're using these [large food-safe bins](https://www.amazon.com/gp/product/B01BLKPDHM/) with [gamma-seal lids](https://www.amazon.com/gp/product/B005CJVME2) (see below) for storing all sorts 
 of dry goods, and they're great! 
 I cut some [transparencies](https://www.amazon.com/dp/B091BVB3GF) to make pockets (and cover the ugly "don't fall in" warning labels), then slid labels in.
 
