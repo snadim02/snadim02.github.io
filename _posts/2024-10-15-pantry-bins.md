@@ -20,7 +20,7 @@ So [if you remember](../2021-04-01-entry-closet), we had these six [large food-s
 bins on higher shelves. :weight_lifting:
 
 ### Constraints for the new bins
-* Store three heavy food categories (canned goods :canned_food:, oils and vinegars :champagne: :sake:, condiments :baby_bottle: :honey_pot:)
+* Store three heavy food categories (canned goods :canned_food:, oils and vinegars :champagne: :sake:, condiments :baby_bottle: :honey_pot:) directly on the floor
 * Fit under the bottom [shelf brackets](https://www.ikea.com/us/en/p/boaxel-bracket-white-60448733/) and be <13" wide (each)
 * Be easily wiped clean in case of spills :soap: :sponge:
 * Be see-through enough to see contents :window:
