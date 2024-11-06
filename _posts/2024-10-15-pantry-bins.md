@@ -53,4 +53,4 @@ attached the frames at each corner with black cable twist ties (saved in a drawe
 
 ![pantrybins](../assets/img/pantrybin01.jpg){: .mx-auto.d-block :}
 
-These bins are holding up super well and (according to my husband, since I don't cook) make grabbing ingredients for meals much easier!
+These bins are holding up super well and (according to my husband, the chef of the family :man_cook:) make grabbing ingredients for meals much easier!
