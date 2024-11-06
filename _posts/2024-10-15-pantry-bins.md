@@ -5,7 +5,7 @@ subtitle: this time with wheeeeeeels!
 thumbnail-img: /assets/img/pantrybin01.jpg
 cover-img: /assets/img/pantrybin01.jpg
 share-img: /assets/img/pantrybin01.jpg
-tags: [phone, wallet, keys, tags, hooks, storage]
+tags: [pantry, ikea boaxel, bulk food storage, labels, 3d printer, wire bins]
 #author: Shilpa Kobren
 ---
 
