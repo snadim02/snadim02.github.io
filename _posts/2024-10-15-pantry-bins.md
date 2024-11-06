@@ -24,7 +24,7 @@ bins on higher shelves. :weight_lifting:
 * Fit under the bottom [shelf brackets](https://www.ikea.com/us/en/p/boaxel-bracket-white-60448733/)
 * Be easily wiped clean in case of spills :soap: :sponge:
 * Be see-through enough to see contents :window:
-* Slide out without scratching floor :skateboard:
+* Slide out without scratching the floor :skateboard:
 
 ### Step 1: Install wheels on mesh bins
 
