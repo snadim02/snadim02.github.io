@@ -45,7 +45,7 @@ Adhesives stick poorly to this patterned material, and clip-on labels are limite
 
 I 3D-printed the frames with [black filament](https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0ECR5I) to match the bins. 
 I cut labels and [transparent covers](https://www.amazon.com/gp/product/B091BVB3GF) to size to fit into the frames, then 
-attached them at each corner with black cable twist ties (saved in a drawer in my [newly organized utility room](../2024-06-26-laundry)). 
+attached the frames at each corner with black cable twist ties (saved in a drawer in my [newly organized utility room](../2024-06-26-laundry)). 
 
 ![pantrybins](../assets/img/pantrybin05.jpg){: .mx-auto.d-block :}
 
