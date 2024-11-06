@@ -19,18 +19,18 @@ So [if you remember](../2021-04-01-entry-closet), we had these [large food-safe 
 *BUT*, 3.5 years later, we weren't really filling them anymore. *AND* some other (super heavy) categories were overflowing their
 bins on higher shelves. :weight_lifting:
 
-### Constraints for new bins
-* Must fit three heavy food categories (canned goods :canned_food:, oils and vinegars :champagne: :sake:, condiments :baby_bottle: :honey_pot:)
-* Cannot hit the bottom [shelf brackets](https://www.ikea.com/us/en/p/boaxel-bracket-white-60448733/) or be wider than 13"
-* Easily wiped clean in case of spills :soap: :sponge:
-* See-through enough to see contents :window:
+### Constraints for the new bins
+* Store three heavy food categories (canned goods :canned_food:, oils and vinegars :champagne: :sake:, condiments :baby_bottle: :honey_pot:)
+* Fit under the bottom [shelf brackets](https://www.ikea.com/us/en/p/boaxel-bracket-white-60448733/) and be <13" wide (each)
+* Be easily wiped clean in case of spills :soap: :sponge:
+* Be see-through enough to see contents :window:
 * Slide out without scratching floor :skateboard:
 
 ### Step 1: Install wheels on mesh bins
 
-I bought three [large mesh bins with handles](https://www.target.com/p/large-metal-mesh-bin-black-brightroom-8482/-/A-86383818) 
+I bought three [metal mesh bins with handles](https://www.target.com/p/large-metal-mesh-bin-black-brightroom-8482/-/A-86383818) 
 which neatly tucked under the bottom shelf. 
-Then, I attached four of these [discreet 1" high appliance wheels](https://www.amazon.com/dp/B0C69FPVPB?th=1) to the bottom of each bin 
+Then, I attached four of these [discreet 1" appliance wheels](https://www.amazon.com/dp/B0C69FPVPB?th=1) to the bottom of each bin 
 with [#6 3/4" machine screws and hex nuts](https://www.homedepot.com/p/Everbilt-6-32-x-3-4-in-Stainless-Steel-Phillips-Flat-Head-Machine-Screw-6-Pack-833681/320773347). 
 
 ![pantrybins](../assets/img/pantrybin03.jpg){: .mx-auto.d-block :}
@@ -52,3 +52,5 @@ attached them at each corner with black cable twist ties (saved in a drawer in m
 **SO GOOD!** :raised_hands: :heart_eyes:
 
 ![pantrybins](../assets/img/pantrybin01.jpg){: .mx-auto.d-block :}
+
+These bins are holding up super well, and (according to my husband, since I don't cook) make grabbing ingredients for meals much easier!
