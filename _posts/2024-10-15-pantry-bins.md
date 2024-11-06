@@ -10,7 +10,7 @@ tags: [pantry, ikea boaxel, bulk food storage, labels, 3d printer, wire bins]
 ---
 
 I redid [our entry closet](../2021-04-01-entry-closet) during Covid to make a pantry, but... (1) who knows how sturdy those shelves are :muscle: :grimacing:, and (2) we no longer buy 
-commercial-sized quantity goods (phew) :package: :canned_food:! Time for yet another functional refactor of this space! :hammer:
+commercial-quantity goods (phew) :package: :canned_food:! Time for yet another functional refactor of this space! :hammer:
 
 So [if you remember](../2021-04-01-entry-closet), we had these six [large food-safe bins](https://www.amazon.com/gp/product/B01BLKPDHM/) at the bottom of our pantry:
 
