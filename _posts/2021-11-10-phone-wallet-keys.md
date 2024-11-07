@@ -72,7 +72,7 @@ for the back entrance, and we keep our sunglasses and parking pass (on a binder 
 
 ![phone](../assets/img/keys03.jpg){: .mx-auto.d-block :}
 
-The front entrance has [big (robe) hooks](https://www.amazon.com/dp/B01LWJB9D4/), too, which are more 
-functional for key bunches than any "specialized" key hooks...
+The front entrance has [big (robe) hooks](https://www.amazon.com/dp/B01LWJB9D4/), too, which I find to be more 
+functional for key bunches than "specialized" key hooks.
 
 ![phone](../assets/img/keys04.jpg){: .mx-auto.d-block :}
