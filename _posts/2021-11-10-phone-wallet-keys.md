@@ -9,7 +9,7 @@ tags: [phone, wallet, keys, tags, hooks, storage]
 #author: Shilpa Kobren
 ---
 
-Or, as [Adam Sandler might say](https://open.spotify.com/track/72GwyI9zO3bGEzNE5PDFus), 
+[Adam Sandler said it first](https://open.spotify.com/track/72GwyI9zO3bGEzNE5PDFus): 
 "Good things come in threes: need my phone :iphone:, wallet :moneybag:, keys :key:." It's true! We need this trifecta *every single day*, 
 and so micro-optimizing how we interact with these things has enabled us to start our days efficiently and stressfree. :relaxed: :relieved:
 
@@ -34,7 +34,7 @@ My husband's wallet (okay, so we named names) *also* had another problem: it nee
 * **Solution Part 2:** I installed this [acrylic remote control storage box](https://www.amazon.com/gp/product/B08XB5GZMD/ref=ppx_yo_dt_b_search_asin_title?th=1) in our dining room 
 as his wallet's home. It's conveniently located (whether he's coming or going), 
   *and* we can always see whether the wallet is in its spot. :mag:
-  Took <1 week for his wallet to be habitually returned there, 
+  Took <1 week to form a habit of returning his wallet there, 
   and we no longer spend any time searching for it on our way out the door! :detective: :raised_hands:
   
 PIC HERE
@@ -50,7 +50,7 @@ I saved the best for last. Our key situation is *awesome.*
 * :people_holding_hands: **Friends:** It's convenient to give friends labeled, spare key sets as needed. 
 * :bike: **Bikes:** Our bike lock keys look almost identical (and came in two-packs). 
 * :door: **Entrances:** We alternate between using the front entrance *and* the back entrance. 
-* :mailbox_with_mail: **Mailbox:** It's annoying to come in through the front entrance and not have the mail key (did I mention we live in the 3rd-floor walkup?) 
+* :mailbox_with_mail: **Mailbox:** It's annoying to come in through the front entrance and not have the mail key (did I mention we live in a 3rd-floor walkup?) 
 
 *Ta-da!* I made several house key bunches with [colored key ring label tags](https://www.amazon.com/gp/product/B01G8L4T74/?th=1). 
 Each bundle has an outside door key (with a [key cap](https://www.amazon.com/Uniclife-Assorted-Colors-Identifier-Covers/dp/B071D9XD4C/)), 
