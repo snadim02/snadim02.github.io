@@ -37,7 +37,7 @@ as his wallet's home. It's conveniently located (whether he's coming or going),
   Took <1 week to form a habit of returning his wallet there, 
   and we no longer spend any time searching for it on our way out the door! :detective: :raised_hands:
   
-PIC HERE
+![phone](../assets/img/wallet01.jpg){: .mx-auto.d-block :}
 
 # 3. Keys
 
