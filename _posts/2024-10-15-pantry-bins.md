@@ -33,9 +33,9 @@ overflowing their bins on higher shelves. :weight_lifting:
 ### Step 1: Install wheels on mesh bins
 
 I bought three [13" metal mesh bins with handles](https://www.target.com/p/large-metal-mesh-bin-black-brightroom-8482/-/A-86383818) 
-which neatly tucked under the bottom shelf. 
-Then, I attached four of these [discreet 1" appliance wheels](https://www.amazon.com/dp/B0C69FPVPB?th=1) to the bottom of each bin 
+and attached four [1" appliance wheels](https://www.amazon.com/dp/B0C69FPVPB?th=1) to the bottom of each bin 
 with [#6 3/4" machine screws and hex nuts](https://www.homedepot.com/p/Everbilt-6-32-x-3-4-in-Stainless-Steel-Phillips-Flat-Head-Machine-Screw-6-Pack-833681/320773347). 
+They tucked neatly under the bottom shelf.
 
 ![pantrybins](../assets/img/pantrybin03.jpg){: .mx-auto.d-block :}
 
