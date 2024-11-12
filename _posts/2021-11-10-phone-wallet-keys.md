@@ -10,7 +10,7 @@ tags: [phone, wallet, keys, tags, hooks, storage]
 ---
 
 [Adam Sandler said it first](https://open.spotify.com/track/72GwyI9zO3bGEzNE5PDFus): 
-"Good things come in threes: need my phone :iphone:, wallet :moneybag:, keys :key:." It's true! We need this trifecta *every single day*, 
+"Good things come in threes: need my [phone](#1-phone) :iphone:, [wallet](#2-wallet) :moneybag:, [keys](#3-keys) :key:." It's true! We need this trifecta *every single day*, 
 and so micro-optimizing how we interact with these things has enabled us to start our days efficiently and stressfree. :relaxed: :relieved:
 
 # 1. Phone
@@ -48,7 +48,7 @@ I saved the best for last. Our key situation is *awesome.*
 * :car: **Car:** We rarely drive (our single, shared car), so it's better to keep those keys separately. 
 * :jeans: **Pockets:** Keys that fit in pockets let us be hands-free outside.
 * :people_holding_hands: **Friends:** It's convenient to give friends labeled, spare key sets as needed. 
-* :bike: **Bikes:** Our bike lock keys look almost identical (and came in two-packs). 
+* :bike: **Bikes:** Our [bike lock](https://www.rei.com/product/126200/kryptonite-new-u-kryptolok-standard-u-lock-with-cable) keys look almost identical (and came in two-packs). 
 * :door: **Entrances:** We alternate between using the front entrance *and* the back entrance. 
 * :mailbox_with_mail: **Mailbox:** It's annoying to come in through the front entrance and not have the mail key (did I mention we live in a 3rd-floor walkup?) 
 
