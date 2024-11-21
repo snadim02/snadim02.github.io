@@ -18,7 +18,7 @@ Here's the before. This setup was  failing our family and desperately needed som
 
 These were the requirements (at the time, and for planning ahead): 
 
-### Kids' independently get and put away
+### Kids independently get and put away
 * stepstool :ladder:
 * their own backpacks :school_satchel:
 * their own coats/hats/mittens :coat: :gloves: :scarf:
@@ -87,8 +87,8 @@ The floor bins needed to (1) fit under the bottom [shelf brackets](https://www.i
 (4) slide out without scratching the floor :skateboard:.
 
 I attached four [1" appliance wheels](https://www.amazon.com/dp/B0C69FPVPB?th=1) to the bottom of each of these 
-[13" metal mesh bins with handles](https://www.target.com/p/large-metal-mesh-bin-black-brightroom-8482/-/A-86383818) 
-with [#6 3/4" machine screws and hex nuts](https://www.homedepot.com/p/Everbilt-6-32-x-3-4-in-Stainless-Steel-Phillips-Flat-Head-Machine-Screw-6-Pack-833681/320773347). 
+[13" metal mesh bins](https://www.target.com/p/large-metal-mesh-bin-black-brightroom-8482/-/A-86383818) 
+using [#6 3/4" machine screws and hex nuts](https://www.homedepot.com/p/Everbilt-6-32-x-3-4-in-Stainless-Steel-Phillips-Flat-Head-Machine-Screw-6-Pack-833681/320773347). 
 
 ![pantrybins](../assets/img/pantrybin03.jpg){: .mx-auto.d-block :}
 
@@ -119,7 +119,7 @@ These have near-infinite reuse potential (so I'll never throw them in the garbag
 Also c'mon, don't you love my labels with the little ICONS?! The idea came to me when [organizing my (pre-reading) 2-year-old's toys](../2022-12-30-toys), 
 but these seem to be easier for me (and random guests) to read, too!
 
-Here's another angle to show you how we store plastic recycling (left) and reusable grocery bags (right):
+Check out how we store plastic bag recycling (left) and reusable grocery bags (right):
 
 ![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
 
