@@ -15,5 +15,6 @@ during my postdoc and a worldwide pandemic imprisoning our family of 4 in a tiny
 You get it. [Maybe](https://www.americanprogress.org/article/covid-19-pandemic-forcing-millennial-mothers-workforce/).
 
 **The outcome.** Planning, executing, and iteratively refactoring organization solutions to enable everyone in the family to 
-*independently find and use their stuff* safely and *put it away themselves* was essential for life but also, turns out, an essential form of selfcare for me. 
+*independently find and use their stuff* safely and *put it away themselves* was essential for life but also, turns out, an 
+[essential form of selfcare for me](https://www.nature.com/articles/s44220-024-00268-4). 
 Our friends have been so delighted by some of my systems that they've encouraged me to share my ideas with you all. Hope you enjoy!
