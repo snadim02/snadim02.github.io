@@ -46,32 +46,75 @@ Here's how our closet looks now! :heart_eyes:
 
 ![Closet](../assets/img/frontcloset01.jpg){: .mx-auto.d-block :}
 
-## The Details
+# The Details
+
+**Jump ahead** to see how we organized [the door](#the-door), 
+the [left (non-shelf) walls](#the-non-shelf-side), 
+the [floor and bottom shelves](#bottom-shelves), and the [upper shelves](#upper-shelves).
+
+### The Door
 
 I hung the [broom](https://www.amazon.com/OXO-Good-Grips-Angle-Broom/dp/B00940DUFY), 
 [dustpan](https://www.amazon.com/OXO-Grips-Dustpan-Brush-White/dp/B00004OCL4/), and 
-[Swiffer](https://www.amazon.com/MOP-Dry-Wet-Starter-KIT/dp/B0CG4S4ZGQ/) (used primarily to fish toy cars out from under couches) and a 
-[plastic bag dispenser](https://www.amazon.com/gp/product/B007ZF638G/) directly on the [back of the closet door](https://www.amazon.com/Reliahom-Organization-Storage-Kitchen-Organizer/dp/B095RQ1F3T).
+[Swiffer](https://www.amazon.com/MOP-Dry-Wet-Starter-KIT/dp/B0CG4S4ZGQ/) :broom: (used primarily to fish toy cars out from under couches) and a 
+[plastic bag dispenser](https://www.amazon.com/gp/product/B007ZF638G/) :shopping: directly on the [back of the closet door](https://www.amazon.com/Reliahom-Organization-Storage-Kitchen-Organizer/dp/B095RQ1F3T). :door:
 
 ![Closet](../assets/img/frontcloset06.jpg){: .mx-auto.d-block :}
 
-I also installed two [rows of hooks](https://www.amazon.com/gp/product/B08TLX2Y75/). The bottom row is low enough for the kids to access. These hooks fold back to save space and avoid clobbering your back when you're facing the other way.
+### The Non-Shelf Side
+
+I also installed two [rows of hooks](https://www.amazon.com/gp/product/B08TLX2Y75/). The bottom row is low enough for the kids to access. 
+These hooks fold back to save space and avoid clobbering your back when you're facing the other way.
 
 ![Closet](../assets/img/frontcloset05.jpg){: .mx-auto.d-block :}
 
-The [stepstool](https://www.containerstore.com/s/garage-and-shelving/stepstools-and-ladders/premium-folding-step-stool/12d?productId=10031897) is also accessible to our toddler and the folding chairs accessible for the grown-ups.
+The [stepstool](https://www.containerstore.com/s/garage-and-shelving/stepstools-and-ladders/premium-folding-step-stool/12d?productId=10031897) is also accessible to our toddler and the folding chairs accessible for the grown-ups. :ladder: :chair:
+
+### Bottom Shelves
 
 **Bulk food storage** was essential during the pandemic when the grocery options were buy (1) a restaurant-supply quantity or (2) nothing. 
 These days, we're using these [large food-safe bins](https://www.amazon.com/gp/product/B01BLKPDHM/) with [gamma-seal lids](https://www.amazon.com/gp/product/B005CJVME2) (see below) for storing all sorts 
 of dry goods, and they're great! 
 I cut some [transparencies](https://www.amazon.com/dp/B091BVB3GF) to make pockets (and cover the ugly "don't fall in" warning labels), then slid labels in.
 
-![Closet](../assets/img/frontcloset04.jpg){: .mx-auto.d-block :}
+![Closet](../assets/img/pantrybin01.jpg){: .mx-auto.d-block :}
+
+**Heavy food categories** (canned goods :canned_food:, oils and vinegars :champagne: :sake:, 
+condiments :baby_bottle: :honey_pot:) are safer on the ground than on high shelves. :weight_lifting:
+The floor bins needed to (1) fit under the bottom [shelf brackets](https://www.ikea.com/us/en/p/boaxel-bracket-white-60448733/), 
+(2) clean easily in case of spills :soap: :sponge:, 
+(3) be see-through enough to see contents :window:, and 
+(4) slide out without scratching the floor :skateboard:.
+
+I attached four [1" appliance wheels](https://www.amazon.com/dp/B0C69FPVPB?th=1) to the bottom of each of these 
+[13" metal mesh bins with handles](https://www.target.com/p/large-metal-mesh-bin-black-brightroom-8482/-/A-86383818) 
+with [#6 3/4" machine screws and hex nuts](https://www.homedepot.com/p/Everbilt-6-32-x-3-4-in-Stainless-Steel-Phillips-Flat-Head-Machine-Screw-6-Pack-833681/320773347). 
+
+![pantrybins](../assets/img/pantrybin03.jpg){: .mx-auto.d-block :}
+
+If you didn't already know, *labeling wire mesh bins is not easy!*
+Adhesives stick poorly to this patterned material, and clip-on labels are limited. 
+I designed my own [label frames on TinkerCad](https://www.tinkercad.com/things/4rl1ghTSPQB-label-frame?sharecode=cwNn2gDKjLwdvM10SBTowvJ3qeFwapp3-Hj2iHge15o)! 
+
+![pantrybins](../assets/img/pantrybin04.jpg){: .mx-auto.d-block :}
+
+I 3D-printed the frames with [black filament](https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0ECR5I) to match the bins. 
+I cut labels and [transparent covers](https://www.amazon.com/gp/product/B091BVB3GF) to fit into the frames, then 
+attached the frames at each corner with black cable twist ties 
+(saved in a drawer in my [newly organized utility room](../2024-06-26-laundry)). 
+
+![pantrybins](../assets/img/pantrybin05.jpg){: .mx-auto.d-block :}
+
+These bins are holding up super well and make grabbing ingredients and putting away groceries much easier! :man_cook:
+
+![pantrybins](../assets/img/pantrybin06.jpg){: .mx-auto.d-block :}
+
+### Upper Shelves
 
 **Clear plastic bins** are the most effective solution for being able to immediately see what we have (and what we're low on). 
 These have near-infinite reuse potential (so I'll never throw them in the garbage), and wasting a bunch of food that was hidden and forgotten about isn't so environmentally-friendly, either. 
 
-![Closet](../assets/img/frontcloset03.jpg){: .mx-auto.d-block :}
+![Closet](../assets/img/pantrybin07.jpg){: .mx-auto.d-block :}
 
 Also c'mon, don't you love my labels with the little ICONS?! The idea came to me when [organizing my (pre-reading) 2-year-old's toys](../2022-12-30-toys), 
 but these seem to be easier for me (and random guests) to read, too!
