@@ -83,7 +83,7 @@ I cut some [transparencies](https://www.amazon.com/dp/B091BVB3GF) to make pocket
 condiments :baby_bottle: :honey_pot:) are safer on the ground than on high shelves. :weight_lifting:
 The floor bins needed to (1) fit under the bottom [shelf brackets](https://www.ikea.com/us/en/p/boaxel-bracket-white-60448733/), 
 (2) clean easily in case of spills :soap: :sponge:, 
-(3) be see-through enough to see contents :window:, and 
+(3) allow visibility of contents :window:, and 
 (4) slide out without scratching the floor :skateboard:.
 
 I attached four [1" appliance wheels](https://www.amazon.com/dp/B0C69FPVPB?th=1) to the bottom of each of these 
