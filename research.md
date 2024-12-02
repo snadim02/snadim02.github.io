@@ -11,7 +11,7 @@ subtitle: uncovering genetic drivers of rare human diseases
 ![integration of patient phenotype in variant prioritization](../assets/img/clinical_integration.png)
 *Image from our [Nat Comm, 2023](https://www.nature.com/articles/s41467-023-41980-6) paper.*
 
-### Functional genomics for "N of 1" analyses
+### Functional genomics for case-based, "N-of-1" analyses
 
 The genome is a **big space**, and accurately pinpointing variants that underlie specific human health conditions is a formidable challenge.
 Traditionally, genes have been treated as black box functional units, but we now know that individual variants within and between genes 
@@ -38,7 +38,7 @@ compatible with life, as well as recurrence of disease-relevant variants in phen
 Indeed, the number of sequenced 
 tumor genomes has surpassed 10s of thousands; collective cohorts of sequenced Mendelian patients is exceeding 100s of thousands;
 and ancestrally-diverse, control cohorts of healthy sequenced individuals is set to pass a million. 
-By integrating predicted and experimentally-derived variant functionality information, evolutionary constraint, and accurate mutational models,
+By integrating predicted and experimentally-derived variant functionality information, evolutionary signals of selection and constraint, and accurate mutational models,
 we will have the power to detect extremely rare variants that play roles in human cancers and other diseases by jointly analyzing these sequenced cohorts. \[[32711844](https://pubmed.ncbi.nlm.nih.gov/32711844/), [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.13.580158v1)\]
 
 ### Publications
