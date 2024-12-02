@@ -36,7 +36,7 @@ Even though the genome is a big space, it is also a **finite space** with respec
 This means that as the number of sequenced genomes continues to grow, we will begin to see a *saturation of all possible simple variants* that are
 compatible with life, as well as recurrence of disease-relevant variants in phenotypically-matched patient cohorts. 
 Indeed, the number of sequenced 
-tumor genomes has surpassed 10s of thousands, collective cohorts of sequenced Mendelian patients is exceeding 100s of thousands,
+tumor genomes has surpassed 10s of thousands; collective cohorts of sequenced Mendelian patients is exceeding 100s of thousands;
 and ancestrally-diverse, control cohorts of healthy sequenced individuals is set to pass a million. 
 By integrating predicted and experimentally-derived variant functionality information, evolutionary constraint, and accurate mutational models,
 we will have the power to detect extremely rare variants that play roles in human cancers and other diseases by jointly analyzing these sequenced cohorts. \[[32711844](https://pubmed.ncbi.nlm.nih.gov/32711844/), [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.13.580158v1)\]
