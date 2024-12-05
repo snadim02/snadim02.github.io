@@ -65,15 +65,17 @@ I hung the [broom](https://www.amazon.com/OXO-Good-Grips-Angle-Broom/dp/B00940DU
 
 **Fold-back hooks** are excellent space-savers and don't clobber your back when you're 
 facing the other way. The bottom [row of hooks](https://www.amazon.com/gp/product/B08TLX2Y75/) is low enough for the kids to access
-and hang up their hats and bags.
+and hang up their hats and bags. :gloves: :scarf: :school_satchel:
 
 ![Closet](../assets/img/frontcloset05.jpg){: .mx-auto.d-block :}
 
-**Coat rods** that [connect directly to shelves](https://www.ikea.com/us/en/p/boaxel-clothes-rail-white-90448741/) (rather than from wall to wall) were
-exactly what we needed. I also think matching, [space-saving hangers](https://www.amazon.com/gp/product/B0746SHPJ2/) make a generally cluttered
-space feel more streamlined. *Tip: Buy NON-velvet-lined hangers to save yourself a lot of frustration.*
+**Coat rods** that [connect directly to shelves](https://www.ikea.com/us/en/p/boaxel-clothes-rail-white-90448741/) 
+(rather than spanning wall to wall) were
+*exactly* what we needed. I find that matching, [space-saving hangers](https://www.amazon.com/gp/product/B0746SHPJ2/) make an otherwise cluttered
+space feel more streamlined. :coat: *Tip: Buy NON-velvet-lined hangers to save yourself a lot of frustration...*
 
-**[Stepstool](https://www.containerstore.com/s/garage-and-shelving/stepstools-and-ladders/premium-folding-step-stool/12d?productId=10031897) and folding chairs** are super accessible for toddlers (and the grown-ups)!
+**[Stepstool](https://www.containerstore.com/s/garage-and-shelving/stepstools-and-ladders/premium-folding-step-stool/12d?productId=10031897) and folding chairs** are tucked away and yet still 
+super accessible for toddlers (and grown-ups)! 
 :ladder: :chair:
 
 ### Bottom Shelves
@@ -121,10 +123,10 @@ This is *prime pantry real estate* and is reserved exclusively for "high touch"
 items that we access all the time.
 
 **Plastic bag recycling.** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option.
-Seems to be working GREAT so far to stash (plastic #4) packaging promptly (before [properly disposing of it](https://www.cambridgema.gov/Departments/publicworks/getridofitright#!rc-cpage=463661)) without getting in anyone's way!
+Seems to be working GREAT so far to stash (plastic #4) packaging promptly (before [properly disposing of it](https://www.cambridgema.gov/Departments/publicworks/getridofitright#!rc-cpage=463661)) without getting in anyone's way! :recycle:
 
 **Reusable grocery bags.** It's easier to stuff 'em in a bin or on the shelf than actually hang 'em up. 
-It became *easiest* when we pared down our bag collection.
+It became *easiest* when we pared down our bag collection. :shopping:
 
 ![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
 
@@ -133,12 +135,14 @@ These have near-infinite reuse potential (so I'll never throw them in the garbag
 
 ![Closet](../assets/img/pantrybin07.jpg){: .mx-auto.d-block :}
 
-Also c'mon, don't you love my labels with the little ICONS?! The idea came to me when [organizing my (pre-reading) 2-year-old's toys](../2022-12-30-toys), 
+Also c'mon, don't you love my labels with the little ICONS?! :heart_eyes: The idea came to me when [organizing my (pre-reading) 2-year-old's toys](../2022-12-30-toys), 
 but these seem to be easier for me (and random guests) to read, too!
 
 ### Upper Shelves
 
-Here is where we store extra paper towels, trash & compost bags, and sponges. We can glance up to 
+We stash extra paper towels, trash & compost bags, and sponges on this top shelf, since 
+these items are *light* and are only ever *removed* (never returned). :roll_of_paper: :sponge:
+We can glance up to 
 see what we have, and use the stepstool (it's right there!) to grab what we need.
 
 ![Closet](../assets/img/pantrybin08.jpg){: .mx-auto.d-block :}
