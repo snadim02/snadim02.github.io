@@ -49,8 +49,8 @@ Here's how our closet looks now! :heart_eyes:
 # The Details
 
 **Jump ahead** to see how we organized [the door](#the-door), 
-the [left (non-shelf) walls](#the-non-shelf-side), 
-the [floor and bottom shelves](#bottom-shelves), and the [upper shelves](#upper-shelves).
+the [left and back (non-shelf) walls](#the-non-shelf-side), 
+the [floor and bottom shelves](#bottom-shelves), [middle shelves](#middle-shelves) and [upper shelves](#upper-shelves).
 
 ### The Door
 
@@ -61,14 +61,20 @@ I hung the [broom](https://www.amazon.com/OXO-Good-Grips-Angle-Broom/dp/B00940DU
 
 ![Closet](../assets/img/frontcloset06.jpg){: .mx-auto.d-block :}
 
-### The Non-Shelf Side
+### The Non-Shelf Sides
 
-I also installed two [rows of hooks](https://www.amazon.com/gp/product/B08TLX2Y75/). The bottom row is low enough for the kids to access. 
-These hooks fold back to save space and avoid clobbering your back when you're facing the other way.
+**Fold-back hooks** are excellent space-savers and don't clobber your back when you're 
+facing the other way. The bottom [row of hooks](https://www.amazon.com/gp/product/B08TLX2Y75/) is low enough for the kids to access
+and hang up their hats and bags.
 
 ![Closet](../assets/img/frontcloset05.jpg){: .mx-auto.d-block :}
 
-The [stepstool](https://www.containerstore.com/s/garage-and-shelving/stepstools-and-ladders/premium-folding-step-stool/12d?productId=10031897) is also accessible to our toddler and the folding chairs accessible for the grown-ups. :ladder: :chair:
+**Coat rods** that [connect directly to shelves](https://www.ikea.com/us/en/p/boaxel-clothes-rail-white-90448741/) (rather than from wall to wall) were
+exactly what we needed. I also think matching, [space-saving hangers](https://www.amazon.com/gp/product/B0746SHPJ2/) make a generally cluttered
+space feel more streamlined. *Tip: Buy NON-velvet-lined hangers to save yourself a lot of frustration.*
+
+**[Stepstool](https://www.containerstore.com/s/garage-and-shelving/stepstools-and-ladders/premium-folding-step-stool/12d?productId=10031897) and folding chairs** are super accessible for toddlers (and the grown-ups)!
+:ladder: :chair:
 
 ### Bottom Shelves
 
@@ -109,7 +115,18 @@ These bins are holding up super well and make grabbing ingredients and putting a
 
 ![pantrybins](../assets/img/pantrybin06.jpg){: .mx-auto.d-block :}
 
-### Upper Shelves
+### Middle Shelves
+
+This is *prime pantry real estate* and is reserved exclusively for "high touch"
+items that we access all the time.
+
+**Plastic bag recycling.** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option.
+Seems to be working GREAT so far to stash (plastic #4) packaging promptly (before [properly disposing of it](https://www.cambridgema.gov/Departments/publicworks/getridofitright#!rc-cpage=463661)) without getting in anyone's way!
+
+**Reusable grocery bags.** It's easier to stuff 'em in a bin or on the shelf than actually hang 'em up. 
+It became *easiest* when we pared down our bag collection.
+
+![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
 
 **Clear plastic bins** are the most effective solution for being able to immediately see what we have (and what we're low on). 
 These have near-infinite reuse potential (so I'll never throw them in the garbage), and wasting a bunch of food that was hidden and forgotten about isn't so environmentally-friendly, either. 
@@ -119,15 +136,12 @@ These have near-infinite reuse potential (so I'll never throw them in the garbag
 Also c'mon, don't you love my labels with the little ICONS?! The idea came to me when [organizing my (pre-reading) 2-year-old's toys](../2022-12-30-toys), 
 but these seem to be easier for me (and random guests) to read, too!
 
-Check out how we store plastic bag recycling (left) and reusable grocery bags (right):
+### Upper Shelves
 
-![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
+Here is where we store extra paper towels, trash & compost bags, and sponges. We can glance up to 
+see what we have, and use the stepstool (it's right there!) to grab what we need.
 
-**Plastic bag recycling:** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option.
-Seems to be working GREAT so far to stash (plastic #4) packaging promptly (before [properly disposing of it](https://www.cambridgema.gov/Departments/publicworks/getridofitright#!rc-cpage=463661)) without getting in anyone's way!
-
-**Reusable grocery bags:** It's easier to stuff 'em in a bin or on the shelf than actually hang 'em up. 
-It became *easiest* when we pared down our bag collection. 
+![Closet](../assets/img/pantrybin08.jpg){: .mx-auto.d-block :}
 
 ## Process and Cost
 
@@ -136,3 +150,9 @@ our specific space and included an option for a [coat rod](https://www.ikea.com/
 I prefer shelves attached directly to the wall, since standing units with front vertical supports block your view, access, and flexibility. 
 **The total cost for the entire shelving system was only $167** (plus $10.44 in tax and a drive to Stoughton for late-night pickup). My mom watched our kids for one weekend day, and
 it was surprisingly easy to take down the existing shelf/rod and get this new system installed in a few hours.
+
+In truth, the closet organization is in constant flux with the changing needs of
+our family. Adding bins and 
+labels, wall-mounted hooks, and the slide-out floor bins all happened as needs for
+them arose over the span of a few years. I suspect we'll continue to micro-optimize
+this space in the future!
