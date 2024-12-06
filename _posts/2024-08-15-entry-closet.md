@@ -63,7 +63,7 @@ I hung the [broom](https://www.amazon.com/OXO-Good-Grips-Angle-Broom/dp/B00940DU
 
 ### The Non-Shelf Sides
 
-**Fold-back hooks** are excellent space-savers and don't clobber your back when you're 
+<a name="hooks"></a>**Fold-back hooks** are excellent space-savers and don't clobber your back when you're 
 facing the other way. The bottom [row of hooks](https://www.amazon.com/gp/product/B08TLX2Y75/) is low enough for the kids to access
 and hang up their hats and bags. :gloves: :scarf: :school_satchel:
 
@@ -87,7 +87,7 @@ I cut some [transparencies](https://www.amazon.com/dp/B091BVB3GF) to make pocket
 
 ![Closet](../assets/img/pantrybin01.jpg){: .mx-auto.d-block :}
 
-**Heavy food categories** (canned goods :canned_food:, oils and vinegars :champagne: :sake:, 
+<a name="floor_bins"></a>**Heavy food categories** (canned goods :canned_food:, oils and vinegars :champagne: :sake:, 
 condiments :baby_bottle: :honey_pot:) are safer on the ground than on high shelves. :weight_lifting:
 The floor bins needed to (1) fit under the bottom [shelf brackets](https://www.ikea.com/us/en/p/boaxel-bracket-white-60448733/), 
 (2) clean easily in case of spills :soap: :sponge:, 
@@ -130,12 +130,16 @@ It became *easiest* when we pared down our bag collection. :shopping:
 
 ![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
 
-**Clear plastic bins** are the most effective solution for being able to immediately see what we have (and what we're low on). 
-These have near-infinite reuse potential (so I'll never throw them in the garbage), and wasting a bunch of food that was hidden and forgotten about isn't so environmentally-friendly, either. 
+<a name="plastic_bins"></a>**Clear plastic bins** are the most 
+effective solution for being able to immediately see what we have 
+(and what we're low on). Some might say they aren't the most 
+environmentally friendly, but clear bins have near-infinite reuse potential 
+(so I'll never throw them in the garbage), and they dramatically cut back
+on forgotten and wasted food.
 
 ![Closet](../assets/img/pantrybin07.jpg){: .mx-auto.d-block :}
 
-Also c'mon, don't you love my labels with the little ICONS?! :heart_eyes: The idea came to me when [organizing my (pre-reading) 2-year-old's toys](../2022-12-30-toys), 
+*Don't you love my labels with the little icons?!* :heart_eyes: The idea came to me when [organizing my (pre-reading) 2-year-old's toys](../2022-12-30-toys), 
 but these seem to be easier for me (and random guests) to read, too!
 
 ### Upper Shelves
@@ -155,8 +159,8 @@ I prefer shelves attached directly to the wall, since standing units with front 
 **The total cost for the entire shelving system was only $167** (plus $10.44 in tax and a drive to Stoughton for late-night pickup). My mom watched our kids for one weekend day, and
 it was surprisingly easy to take down the existing shelf/rod and get this new system installed in a few hours.
 
-In truth, the closet organization is in constant flux with the changing needs of
-our family. Adding bins and 
-labels, wall-mounted hooks, and the slide-out floor bins all happened as needs for
-them arose over the span of a few years. I suspect we'll continue to micro-optimize
-this space in the future!
+In truth, organization of this closet is in constant flux with the changing needs of
+our family. The [labeled bins](#plastic_bins), [wall-mounted hooks](#hooks), and 
+[slide-out floor bins](#floor_bins) 
+were all introduced over time as our need for them arose. 
+I'm sure optimizing this space isn't finished, yet!
