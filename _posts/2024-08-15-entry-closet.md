@@ -122,11 +122,14 @@ These bins are holding up super well and make grabbing ingredients and putting a
 This is *prime pantry real estate* and is reserved exclusively for "high touch"
 items that we access all the time.
 
-**Plastic bag recycling.** Do you know the best/most intuitive spot for plastic bag recycling!? Me neither. This spot (in the pantry) was really our only option.
-Seems to be working GREAT so far to stash (plastic #4) packaging promptly (before [properly disposing of it](https://www.cambridgema.gov/Departments/publicworks/getridofitright#!rc-cpage=463661)) without getting in anyone's way! :recycle:
-
 **Reusable grocery bags.** It's easier to stuff 'em in a bin or on the shelf than actually hang 'em up. 
 It became *easiest* when we pared down our bag collection. :shopping:
+
+**Plastic bag recycling.** Optimizing our ability to grab reusable bags as needed simultaneously created 
+this relatively inaccessible corner of shelving. I squeezed a perfectly-sized box in there for 
+plastic bag recycling! 
+Seems to be working GREAT so far to stash (plastic #4) packaging promptly 
+(before [properly disposing of it](https://www.cambridgema.gov/Departments/publicworks/getridofitright#!rc-cpage=463661)) without getting in anyone's way! Win, win. :recycle:
 
 ![Closet](../assets/img/frontcloset02.jpg){: .mx-auto.d-block :}
 
