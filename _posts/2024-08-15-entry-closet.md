@@ -137,8 +137,7 @@ Seems to be working GREAT so far to stash (plastic #4) packaging promptly
 effective solution for being able to immediately see what we have 
 (and what we're low on). Some might say they aren't the most 
 environmentally friendly, but clear bins have near-infinite reuse potential 
-(so I'll never throw them in the garbage), and they dramatically cut back
-on forgotten and wasted food.
+(so I'll never throw them in the garbage), and they completely eliminate forgotten (and eventually wasted) food.
 
 ![Closet](../assets/img/pantrybin07.jpg){: .mx-auto.d-block :}
 
@@ -150,7 +149,7 @@ but these seem to be easier for me (and random guests) to read, too!
 We stash extra paper towels, trash & compost bags, and sponges on this top shelf, since 
 these items are *light* and are only ever *removed* (never returned). :roll_of_paper: :sponge:
 We can glance up to 
-see what we have, and use the stepstool (it's right there!) to grab what we need.
+see what we have, and use the stepstool ([it's right there!](#the-non-shelf-sides)) to grab what we need.
 
 ![Closet](../assets/img/pantrybin08.jpg){: .mx-auto.d-block :}
 
