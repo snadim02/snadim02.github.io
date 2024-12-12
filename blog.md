@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home, Refactored
-subtitle: optimizing life with computational thinking
+subtitle: process optimization for every space
 ---
 
 **The backstory.** Part of what draws me to Computer Science research is my general love of thinking about optimal solutions given a set of 
