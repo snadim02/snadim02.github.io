@@ -135,9 +135,10 @@ Seems to be working GREAT so far to stash (plastic #4) packaging promptly
 
 <a name="plastic_bins"></a>**Clear plastic bins** are the most 
 effective solution for being able to immediately see what we have 
-(and what we're low on). Some might say they aren't the most 
-environmentally friendly, but clear bins have near-infinite reuse potential 
-(so I'll never throw them in the garbage), and they completely eliminate forgotten (and eventually wasted) food.
+(and what we're low on). :mag: They're not made from the most 
+environmentally-friendly material, *but* clear bins have near-infinite reuse potential 
+(so I'll never throw them in the garbage), and they completely eliminate 
+forgotten (and eventually wasted) food. :balance_scale:
 
 ![Closet](../assets/img/pantrybin07.jpg){: .mx-auto.d-block :}
 
