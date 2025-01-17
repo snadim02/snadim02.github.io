@@ -54,7 +54,7 @@ we will have the power to detect extremely rare variants that play roles in huma
 * Systematic, domain-based aggregation of protein structures highlights DNA-, RNA-, and other ligand-binding positions. [*Nucleic Acids Research*](https://academic.oup.com/nar/article/47/2/582/5232439), 2019. :star:
 * Pervasive variation of transcription factor orthologs contributes to regulatory network divergence. [*PLoS Genetics*](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005011), 2015. :star:
 * Formatt: Correcting protein structural alignments by sequence peeking. [*ACM-BCB'11*](https://dl.acm.org/citation.cfm?doid=2147805.2147842), 2011. :star:
-* Phenotypic overlap between rare disease patients and variant carriers in a large population cohort informs biological mechanisms. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2024.04.18.24305861v1), 2024. :love_letter:
+* Enriched phenotypes in rare variant carriers suggest pathogenic mechanisms in rare disease patients. [*BioData Mining*](https://link.springer.com/article/10.1186/s13040-024-00418-5), 2025. :love_letter:
 * VarPPUD: Variant post prioritization developed for undiagnosed genetic disorders. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2024.04.15.24305876), 2024. :love_letter:
 * Few-shot learning for phenotype-driven diagnosis of patients with rare genetic diseases. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v2), 2024. :busts_in_silhouette:
 * Phenotypic prediction of missense variants via deep contrastive learning. *In submission*, 2024. :busts_in_silhouette:
