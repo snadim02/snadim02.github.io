@@ -6,6 +6,27 @@ layout: null
 
 /* --- General --- */
 
+@font-face {
+  font-family: 'NanumMyeongjoCustom';
+  src: url('/assets/fonts/NanumMyeongjo-Regular.ttf') format('truetype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NanumMyeongjoCustom';
+  src: url('/assets/fonts/NanumMyeongjo-Bold.ttf') format('truetype');
+  font-weight: 700; /* Bold */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NanumMyeongjoCustom';
+  src: url('/assets/fonts/NanumMyeongjo-ExtraBold.ttf') format('truetype');
+  font-weight: 800; /* Extra Bold */
+  font-style: normal;
+}
+
 html {
   font-size: 100%
 }
@@ -34,7 +55,7 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Nanum Myeongjo', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'NanumMyeongjoCustom', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 1.1;
 }
@@ -132,7 +153,7 @@ img {
 .navbar-custom {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
-  font-family: 'Nanum Myeongjo', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'NanumMyeongjoCustom', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
