@@ -56,6 +56,7 @@ we will have the power to detect extremely rare variants that play roles in huma
 * Formatt: Correcting protein structural alignments by sequence peeking. [*ACM-BCB'11*](https://dl.acm.org/citation.cfm?doid=2147805.2147842), 2011. :star:
 * Enriched phenotypes in rare variant carriers suggest pathogenic mechanisms in rare disease patients. [*BioData Mining*](https://link.springer.com/article/10.1186/s13040-024-00418-5), 2025. :love_letter:
 * VarPPUD: Variant post prioritization developed for undiagnosed genetic disorders. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2024.04.15.24305876), 2024. :love_letter:
+* An optimized variant prioritization process for rare disease diagnostics: recommendations for Exomiser and Genomiser. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2025.04.18.25326061v1), 2025. :busts_in_silhouette:
 * Few-shot learning for phenotype-driven diagnosis of patients with rare genetic diseases. [*medRxiv*](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v2), 2024. :busts_in_silhouette:
 * Phenotypic prediction of missense variants via deep contrastive learning. *In submission*, 2024. :busts_in_silhouette:
 * A genotype-first approach for the diagnosis of repeat expansion disorders in the Undiagnosed Diseases Network cohort. *In submission*, 2024. :busts_in_silhouette: 
