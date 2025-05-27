@@ -44,7 +44,7 @@ to evolve to meet our changing needs!
 
 :construction: **Page under construction** :construction:
 
-Stay tuned for further details about my solutions for lightning, indoor plants, and 
+Stay tuned for further details about my solutions for curtains in the bay window, lighting, indoor plants, and 
 the gallery wall!
 
 ## Cost
