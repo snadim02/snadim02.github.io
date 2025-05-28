@@ -106,8 +106,12 @@ Remember that we were already installing a
 [master bedroom](../2025-03-15-master-bedroom) and my [kiddo's bedroom](../2025-05-12-kid-bedroom) during the **Big Move of 2025**... :money_with_wings: 
 
 However, once I heard the quote for moving 
-the sleeper sofa (see below), I realized that it was *now or never* to replace the area rug, since we'd never move that 
-couch again. The process snowballed into changing up the entire room. :shrug: :heart_eyes:
+the sleeper sofa (see below), I realized that it was *now or never* to replace the [area rug](https://www.amazon.com/dp/B07CJ64MD5), since we'd never move that 
+couch again. The process snowballed into changing up the entire room. :shrug: 
+
+Here's one last "after" pic, though, to convince you (/me?!) that it was *all worth it!* :heart_eyes:
+
+![Living Room](../assets/img/livingroom-afteragain.jpg){: .mx-auto.d-block :}
 
 | Materials                                                                                                                                                       | Cost (+ tax/shipping) | 
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
