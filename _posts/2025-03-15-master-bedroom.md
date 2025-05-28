@@ -31,20 +31,17 @@ and the sleeper sofa [downstairs into the living room](../2025-04-12-living-room
 ![Master Bedroom](../assets/img/masterbed-after.jpg){: .mx-auto.d-block :}
 
 **Furniture.** I sold the [old sofa side tables](https://www.amazon.com/gp/product/B0BLVPG6BV) and 
-[wall sconces](https://www.amazon.com/dp/B0B4J8V625) and replaced them with 
+[wall sconces](https://www.amazon.com/dp/B0B4J8V625) :bulb: and replaced them with 
 more practical furniture, including a [side cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299) 
-and [nightstand](https://www.overstock.com/products/safavieh-shyann-single-door-carved-nightstand-40656766?variant=61943056466079)
-that respectively store (hide?) recording equipment :studio_microphone: :headphones: and an amplifier :radio:.
+and [nightstand](https://www.overstock.com/products/safavieh-shyann-single-door-carved-nightstand-40656766?variant=61943056466079).
+I drilled a 1" hole into the back of the cabinet to hide the [surge protector power strip](https://www.amazon.com/dp/B0721TYGVR) inside. :electric_plug:
 
-**Underbed Storage.** The [accordion and keyboard case](#music-organization) fit under the bed :accordion: :musical_keyboard:,
-and as does a box of shoes! :shoe:
-
-**Functional "Wall Art".** My [jewelry and scarf organization](../2025-03-01-wardrobe/#organization) is discussed 
-in depth in my post about our [custom wardrobe](../2025-03-01-wardrobe). :prayer_beads: :scarf:
+**Functional "Wall Art".** My [jewelry and scarf organization](../2025-03-01-wardrobe/#organization) is described in my post 
+about our [custom wardrobe](../2025-03-01-wardrobe), but this functional storage doubles as art in the bedroom! :prayer_beads: :scarf:
 
 ![Master Bedroom](../assets/img/masterbed-after2.jpg){: .mx-auto.d-block :}
 
-And check out the view! :point_up: Not bad for functionally hiding office thingies 
+*And check out the view!* :point_up: Not bad for functionally hiding office thingies 
 to make the room feel like a peaceful bedroom retreat!
 
 ## Office Organization
@@ -73,7 +70,7 @@ Our regular **laserjet printer** is also hidden in the middle section of the sid
 ### File Storage
 
 I whittled down an enormous 2-drawer file cabinet of junk (...rental leases from college? [No thanks](https://shiragill.com/paperwork-organization-simplified/).)
-into this single crate.
+into this single crate. :file_cabinet:
 
 ![Master Bedroom File Crate](../assets/img/masterbed-files.jpg){: .mx-auto.d-block :}
 
@@ -97,9 +94,10 @@ to store music in these [sheet music organizers](https://www.amazon.com/dp/B08R8
 
 ![Master Bedroom Sheet Music](../assets/img/masterbed-sheetmusic.jpg){: .mx-auto.d-block :}
 
-:eyes: What you *didn't see* was the recording equipment that is now stored in the bedside tables 
-out of sight (and still within reach). The accordion is stored under the bed, along with the 
-keyboard travel case. 
+:eyes: What you *didn't see* was the recording equipment :studio_microphone: :headphones: and an amplifier :radio:
+that are now stored in the bedside tables 
+out of sight (and still within reach). The accordion and keyboard travel case fit under the bed :accordion: :musical_keyboard:!
+
 
 ## Cost
 
