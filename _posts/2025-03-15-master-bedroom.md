@@ -62,7 +62,7 @@ so that we wouldn't have to see [stressful work mess](https://www.housedigest.co
 ### The Printers
 I hid the [**3D printer**](https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/) inside 
 the [sideboard](https://www.wayfair.com/organization-storage/pdp/loon-peak-bettye-1-drawer-credenza-w004342388.html) 
-on a slide-out printer tray blocked with [cafe curtains](https://www.amazon.com/dp/B0CLGTVHPF). :ninja: :star_struck:
+on a slide-out printer tray blocked with [café curtains](https://www.amazon.com/dp/B0CLGTVHPF). :ninja: :star_struck:
 
 ![Master Bedroom 3D Printer](../assets/img/masterbed-3dprinter.jpg){: .mx-auto.d-block :}
 :point_up: *The printer works perfectly while tucked away, and the curtain [blocks drafts](https://www.reddit.com/r/3Dprinting/comments/1agk4aw/is_there_any_problem_of_leaving_my_3d_printer_in/), too!*
@@ -105,8 +105,9 @@ out of sight (but within reach). The accordion and keyboard travel case fit unde
 
 ## Cost
 
-I originally prettied-up this office in 2023 after I moved my [workspace out to the loft](../2023-06-01-fireplace). 
-Here are prices for the *new* design for our master bedroom, but I include costs from the former redesign separately below.
+After I moved my [workspace out to the loft](../2023-06-01-fireplace) in 2023, I felt bad for my husband's (relatively super ugly)
+office space, and so redesigned the room for the first time then. 
+Here are prices for the *new* design for our master bedroom, but I include costs from that former redesign separately below.
 
 | Materials (2025)                                                                                                                                                                                                                          | Cost (+ tax/shipping) | 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------:|
@@ -123,7 +124,7 @@ Here are prices for the *new* design for our master bedroom, but I include costs
 | full size violin (SOLD) |                 +$150 |
 | **TOTAL**                                                                                                                                                                                                                                 |          **$1079.29** |
 
-Here are the costs from the previous renovation:
+Here are the costs from the previous office space renovation in 2023:
 
 | Materials (2023) | Cost (+ tax/shipping) |
 |---|-----------------------|
