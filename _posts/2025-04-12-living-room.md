@@ -68,8 +68,8 @@ I repeated the process when we moved into our tiny [Cambridgeport](https://en.wi
 
 ![Living Room](../assets/img/livingroom-gallerywall2.jpg){: .mx-auto.d-block :}
 
-And finally! Here is the current gallery wall, in all its glory, over our staircase in our current condo. Hanging
-these over the stairs while keeping our necks intact was quite a feat! :ladder: :hammer: :face_with_head_bandage:
+And finally! Here is the gallery wall in our current condo. Hanging
+all this over the staircase while keeping our necks intact was quite a feat! :ladder: :hammer: :face_with_head_bandage:
 
 ![Living Room](../assets/img/livingroom-gallerywall3.jpg){: .mx-auto.d-block :}
 
