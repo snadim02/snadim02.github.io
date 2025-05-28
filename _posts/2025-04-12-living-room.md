@@ -17,16 +17,16 @@ family's next kids-only-no-babies chapter!
 ## Before & After
 
 Our living room wasn't *bad* before, it was just bare bones to [accommodate 
-tiny babies](../2022-12-30-toys). Since our boys are now *kids*, I thought our living room should 
-feel more like the cozy family hangout space that we actually use it for. 
+tiny babies](../2022-12-30-toys). :baby: Since our boys are now *kids*, :child: I thought our living room should 
+feel more like the cozy family hangout space that we actually use it for. :video_game: :train:
 
 ![Living Room](../assets/img/livingroom-before02.jpg){: .mx-auto.d-block :}
 
 ![Living Room](../assets/img/livingroom-header.jpg){: .mx-auto.d-block :}
 
-Notice that we kept the plant and stand, coffee table, couches, and blanket/books 
-storage shelf! The two wall sconces were removed and replaced with switch-enabled 
-outlets.
+Notice that we kept the plant and stand :potted_plant:, coffee table, couches, and blanket/books 
+storage shelf (for now)! The two wall sconces were [removed and replaced](#lighting-in-a-tree) with switch-enabled 
+outlets. :bulb:
 
 ![Living Room](../assets/img/livingroom-before03.jpg){: .mx-auto.d-block :}
 
@@ -45,25 +45,25 @@ existing sofas, and [art from Elena Kotliarker](https://www.elenakotliarker.com/
 
 ![Living Room](../assets/img/livingroom-design01.jpg){: .mx-auto.d-block :}
 
-The dimensions weren't *quite* right, and this lovely sofa table and rug runner would have been too cramped, 
-but *they look great!*
+The dimensions weren't *quite* right, and this sofa table and rug runner :point_down: 
+didn't actually fit, but I like the vibe anyway.
 
 ![Living Room](../assets/img/livingroom-design02.jpg){: .mx-auto.d-block :}
 
 ## The Details
 
-Home takes time. Our living room is now in a semi-stable state, but it will continue
-to evolve to meet our changing needs! 
+Home takes time. :house: Our living room is now in a semi-stable state, but it will continue
+to adapt to our family's changing needs! 
 
 ### Evolution of the Gallery Wall
 
-When my husband and I first moved in together once we were married, we each came with a random assortment of 
-artwork from our travels. :cambodia: :egypt: :thailand: :india: :vietnam: :israel: :nepal: :sri_lanka: :iran: :peru: I combined it all into a gallery wall in our first apartment in [Northampton, MA](https://en.wikipedia.org/wiki/Northampton,_Massachusetts) in 2015 by laying the artwork
+When my husband and I first moved in together once we were married :ring: :person_with_veil:, we each came with a random assortment of 
+artwork from our travels. :cambodia: :egypt: :thailand: :india: :vietnam: :israel: :nepal: :sri_lanka: :iran: :peru: I combined it all into a gallery wall in our first apartment in [Northampton, MA](https://en.wikipedia.org/wiki/Northampton,_Massachusetts) by laying the artwork
 out on the floor onto craft paper, tracing the art, then taping the paper to the wall to put nails in. :framed_picture: :hammer:
 
 ![Living Room](../assets/img/livingroom-gallerywall1.jpg){: .mx-auto.d-block :}
 
-I repeated the process when we moved into our tiny Cambridgeport apartment in 2018.
+I repeated the process when we moved into our tiny [Cambridgeport](https://en.wikipedia.org/wiki/Cambridgeport,_Cambridge,_Massachusetts) apartment in 2018.
 
 ![Living Room](../assets/img/livingroom-gallerywall2.jpg){: .mx-auto.d-block :}
 
@@ -99,10 +99,10 @@ aren't blindingly bright at eye level :sunglasses:, and still look okay exposed 
 
 ## Cost
 
-Did I intend to redo the living room this year? *No.* Did I intend to spend so much on it? *No.*
+Did I intend to redo the living room this year? *No.* Did I intend to spend so much on it? *No!*
 Remember that we were already installing a 
 [custom wardrobe](../2025-03-01-wardrobe) and redoing the 
-[master bedroom](../2025-03-15-master-bedroom) and my [kiddo's bedroom](../2025-05-12-kid-bedroom) during the **Big Move of 2025**! 
+[master bedroom](../2025-03-15-master-bedroom) and my [kiddo's bedroom](../2025-05-12-kid-bedroom) during the **Big Move of 2025**... :money_with_wings: 
 
 However, once I heard the quote for moving 
 the sleeper sofa (see below), I realized that it was *now or never* to replace the area rug, since we'd never move that 
