@@ -45,7 +45,7 @@ nice displayed like this, too! :framed_picture:
 
 ![Master Bedroom](../assets/img/masterbed-after.jpg){: .mx-auto.d-block :}
 
-Not bad for functionally hiding office thingies 
+Not bad for functionally hiding office clutter 
 to make the room feel like a peaceful bedroom retreat! :relieved: :sleeping:
 
 ## Office Organization
