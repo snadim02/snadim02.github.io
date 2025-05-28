@@ -105,8 +105,9 @@ out of sight (but within reach). The accordion and keyboard travel case fit unde
 
 ## Cost
 
-After I moved my [workspace out to the loft](../2023-06-01-fireplace) in 2023, I felt bad for my husband's (relatively super ugly)
-office space, and so redesigned the room for the first time then. 
+After I moved my [workspace out to the loft](../2023-06-01-fireplace) in 2023, I felt bad for my husband's (*relatively super ugly*)
+office space, and so I prettied-up the room for the first time then. 
+
 Here are prices for the *new* design for our master bedroom, but I include costs from that former redesign separately below.
 
 | Materials (2025)                                                                                                                                                                                                                          | Cost (+ tax/shipping) | 
