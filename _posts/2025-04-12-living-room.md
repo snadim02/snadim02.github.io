@@ -10,7 +10,7 @@ tags: [living room, sleeper sofa, baby playpen, curtains, big kid design]
 ---
 
 Part of our multi-step "Big Move of 2025" required moving our [sleeper sofa](https://www.americanleather.com/products/gaines/) from the 
-upstairs guest room
+[upstairs guest room](../2025-03-15-master-bedroom)
 into the downstairs living room. Great opportunity to redesign the space for our 
 family's next kids-only-no-babies chapter!
 
@@ -100,7 +100,7 @@ aren't blindingly bright at eye level :sunglasses:, and still look okay exposed 
 
 ## Cost
 
-Did I intend to redo the living room this year? *No.* Did I intend to spend so much on it? *No!*
+Did I intend to redo the living room this year? *No!*
 Remember that we were already installing a 
 [custom wardrobe](../2025-03-01-wardrobe) and redoing the 
 [master bedroom](../2025-03-15-master-bedroom) and my [kiddo's bedroom](../2025-05-12-kid-bedroom) during the **Big Move of 2025**... :money_with_wings: 
