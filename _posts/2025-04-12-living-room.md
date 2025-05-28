@@ -42,11 +42,12 @@ I decided to try my luck with using [Havenly](https://havenly.com/) to get
 some ideas for the space. My designer, [Mercedes Platas](https://havenly.com/interior-designers/mercedes-platas-14289), is a genius, 
 and put together a design that incorporated the [sleeper sofa](https://www.americanleather.com/products/gaines/), 
 existing sofas, and [art from Elena Kotliarker](https://www.elenakotliarker.com/) that I had been eyeing for years.
+I never would have known how good [ochre (yellow) curtains](https://www.target.com/p/brylanehome-poly-cotton-canvas-back-tab-panel---48--w-96--l--ochre/-/A-90050366) could look in this room!
 
 ![Living Room](../assets/img/livingroom-design01.jpg){: .mx-auto.d-block :}
 
-The dimensions weren't *quite* right, and this sofa table and rug runner :point_down: 
-didn't actually fit, but I like the vibe anyway.
+The dimensions weren't *quite* right (probably my mistake), and this sofa table and rug runner :point_down: 
+didn't actually fit, but I like the vibe.
 
 ![Living Room](../assets/img/livingroom-design02.jpg){: .mx-auto.d-block :}
 
