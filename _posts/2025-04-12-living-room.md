@@ -76,8 +76,8 @@ all this over the staircase while keeping our necks intact was quite a feat! :la
 ### Bay Window Curtains
 
 I taped some [craft paper](https://www.michaels.com/product/paper-roll-by-recollections-24-x-20ft-10683716) to the ceiling of the bay window nook to copy the *exact size and angles*. 
-Then, I used my [tabletop saw with metal blade](https://www.amazon.com/dp/B071P6GZN5?ref=ppx_yo2ov_dt_b_product_details&th=1) to cut the [curtain rods](https://www.target.com/p/36-34-66-34-cap-curtain-rod-oil-rubbed-bronze-threshold-8482/-/A-54567180) to size (accounting for the wall-to-rod distance of the 
-[curtain hooks](https://www.amazon.com/dp/B08XYBQK7Y)), and connected the angles using these sweet [angle connectors](https://www.amazon.com/dp/B08ZCCKPT2). 
+Then, I used my [tabletop saw with metal-cutting blade](https://www.amazon.com/dp/B071P6GZN5?ref=ppx_yo2ov_dt_b_product_details&th=1) to cut the [curtain rods](https://www.target.com/p/36-34-66-34-cap-curtain-rod-oil-rubbed-bronze-threshold-8482/-/A-54567180) to size (accounting for the wall-to-rod distance of the 
+[curtain hooks](https://www.amazon.com/dp/B08XYBQK7Y)), and connected the angles using these clever [angle connectors](https://www.amazon.com/dp/B08ZCCKPT2). 
 
 ![Living Room](../assets/img/livingroom-curtains.jpg){: .mx-auto.d-block :}
 
