@@ -82,10 +82,17 @@ into this single crate. :file_cabinet:
 ### Office Supplies
 
 Our other office supplies are organized and 
-labeled in the top drawer of the office credenza (using these [fantastic interlocking drawer organizers](https://www.amazon.com/dp/B01DAQ73P0)) and in the
-[bedside cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299) (using these [clear bins](https://www.amazon.com/dp/B07DFBSTFR), which I also use for [toy organization](../2022-12-30-toys)). :pen: :pencil: :notebook:
+labeled in the top drawer of the office credenza 
+(using these [fantastic interlocking drawer organizers](https://www.amazon.com/dp/B01DAQ73P0))... :pen: :pencil: :pushpin:
 
 ![Master Bedroom Office Supplies](../assets/img/masterbed-officesupplies.jpg){: .mx-auto.d-block :}
+
+...and in the
+[bedside cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299) 
+(using these [clear bins](https://www.amazon.com/dp/B07DFBSTFR), which I also use 
+for [toy organization](../2022-12-30-toys)). :notebook: :computer_mouse: :video_game:
+
+![Master Bedroom Office Supplies](../assets/img/masterbed-officesupplies2.jpg){: .mx-auto.d-block :}
 
 ## Music Organization
 
