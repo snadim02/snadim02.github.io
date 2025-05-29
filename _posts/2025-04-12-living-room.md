@@ -46,10 +46,8 @@ I never would have known how good [ochre (yellow) curtains](https://www.target.c
 
 ![Living Room](../assets/img/livingroom-design01.jpg){: .mx-auto.d-block :}
 
-The dimensions weren't *quite* right (probably my mistake), and this sofa table and rug runner :point_down: 
-didn't actually fit, but I like the vibe.
-
-![Living Room](../assets/img/livingroom-design02.jpg){: .mx-auto.d-block :}
+The dimensions weren't *quite* right (probably my mistake), and the sofa table and rug runner (left :point_up:) 
+didn't actually fit, but I like the vibe!
 
 ## The Details
 
