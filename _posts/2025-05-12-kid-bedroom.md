@@ -1,0 +1,136 @@
+---
+layout: post
+title: Turns out, the closet was the problem
+subtitle: so I purged that too!
+thumbnail-img: /assets/img/closetdemo-icon.jpg
+cover-img: /assets/img/kid-bedroom01.jpg
+share-img: /assets/img/kid-bedroom01.jpg
+tags: [big kid design, bedroom, closet, clothes storage]
+#author: Shilpa Kobren
+---
+
+Perhaps my most controversial purge decision yet... I demoed the only closet in our
+kiddo's soon-to-be bedroom. :scream: In my defense, (American) closets are just an [opportunity for
+hoarding junk](https://civicscience.com/many-americans-ready-to-purge-their-closets/) :teddy_bear: :package:, and this 
+particular closet totally crushed the flow of the room. :face_with_spiral_eyes:
+
+:construction: **Page under construction** :construction:
+
+Jump ahead to read about the [argument for axing the closet](#why-axe-the-closet), 
+[construction process](#the-process),
+[before and after pictures](#before--afters), and all the [artsy details](#the-details)!
+
+## Why axe the closet?
+
+In the **original layout**, the door opened into a *wall* (side of the closet).
+The swing-open closet doors crushed the square footage, and replacing them with
+sliding doors made accessing the closet frustrating. I also cannot stand having 
+your [back to the main door](https://www.thespruce.com/feng-shui-lucky-directions-for-desk-or-bed-3975235#:~:text=Avoid%20Certain%20Positions,and%20creativity%20in%20your%20work) when at the desk. 
+
+![Kid Bedroom](../assets/img/kid_bedroom_layout.jpg){: .mx-auto.d-block :}
+
+The **new layout** allows for the bed to be tucked against [the east wall](https://redlotusletter.com/the-east-corner-of-health-growth-and-family/)
+into a darker corner of the room, and 
+for [the view from all seats](https://www.newsweek.com/feng-shui-expert-furnish-room-command-position-1602833) to be much better! There is still the potential for underbed 
+storage, and I found a great dresser for clothes.
+
+> While planning this room based on what "felt right", I discovered 
+> [Cliff Tan's "Feng Shui Modern"](https://www.bloomsbury.com/us/feng-shui-modern-9781526639998/),
+> which validated what I was feeling and provided a fantastic framework for design! :lotus_position: :yin_yang: :relieved:
+
+## The Process
+
+**Step 1: Soundproofing.** The walls were empty/thin enough to hear someone rolling over in bed between the bedrooms.
+We added [Rockwool soundproofing insulation](https://www.homedepot.com/pep/ROCKWOOL-Safe-n-Sound-3-in-x-15-1-4-in-x-47-in-Soundproofing-and-Fire-Resistant-Stone-Wool-Insulation-Batt-59-7-sq-ft-RXSS31525/202531875)
+on the leftmost wall (bordering the kitchen), followed by [1 lb mass loaded vinyl](https://www.homedepot.com/p/Technoflex-4-ft-x-10-ft-x-1-8-in-1-lb-Technowall-Mass-Loaded-Vinyl-Soundproofing-Barrier-Acoustic-Wall-MLV104810/325283436)
+and finished up with [new plaster](https://www.masterclass.com/articles/plaster-vs-drywall-explained). 
+The other interior (drywall) walls got 
+[cellulose blown-in insulation](https://www.homedepot.com/pep/Greenfiber-25-lbs-Cellulose-Blown-In-Insulation-or-Spray-Applied-Insulation-INSSANC/311574454). :hear_no_evil: :shushing_face:  
+
+![Kid Bedroom](../assets/img/kidbedroom02.jpg){: .mx-auto.d-block :}
+
+**Step 2: Floor patching.** Matching the hardwood to patch the floor was the most annoying. 
+Luckily, contractors who demoed the [upstairs closet to make space for our wardrobe](../2025-03-01-wardrobe)
+pulled up some of the hardwood that we were able to patch in here.
+
+**Step 3: (Re)painting.** Turns out, *plaster needs to cure*
+before it can be painted, and [special primer](https://www.wickes.co.uk/Wickes-Trade-Matt-Emulsion-Paint-for-New-Plaster---Pure-Brilliant-White---10L/p/122443) needs to be used. Even [high quality painter's tape](https://www.frogtape.com/products/delicate-surface-painters-tape) will still 
+rip off paint if the first paint coat doesn't cure long enough! *...Ask me how I know...* :roll_eyes: :woozy_face:
+
+## Before & Afters
+
+At last! 
+
+![Kid Bedroom](../assets/img/kidbedroom-before1.jpg){: .mx-auto.d-block :}
+
+![Kid Bedroom](../assets/img/kidbedroom-before2.jpg){: .mx-auto.d-block :}
+
+![Kid Bedroom](../assets/img/kid-bedroom01.jpg){: .mx-auto.d-block :}
+
+## The Details
+
+### Dresser/Wardrobe
+
+Stay tuned to see how I added handles to the wardrobe and arranged clothes!
+
+### Bulletin Board
+
+Coming up: painting and sealing the bulletin board border and arranging pictures
+and artwork with push pins. 
+
+### Switchplates
+
+I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
+cover the switchplates and [cable covers](https://www.amazon.com/dp/B07RZQXRQK) in [Benjamin Moore Lucerne](https://www.benjaminmoore.com/en-us/paint-colors/color/af-530/lucerne). 
+They look great, I didn't need to sand/prime the switchplates, and it will be easy to change if we ever change the color.
+
+![Kid Bedroom](../assets/img/kidbedroom-switchplate01.jpg){: .mx-auto.d-block :}
+
+Ah, so nice. :lotus_position:
+
+![Kid Bedroom](../assets/img/kidbedroom-switchplate02.jpg){: .mx-auto.d-block :}
+
+## Cost
+
+| Materials                                                                                                                                                                                                             | Cost (+ tax/shipping) | 
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| closet demolition, floor patching, soundproofing walls (Rockwool + mass-loaded vinyl), plastering                                                                                                                     | $4440.00              | 
+| wall repair, priming, painting in [BM Bare](https://www.benjaminmoore.com/en-us/paint-colors/color/oc-98/bare) (top) and [BM Lucerne](https://www.benjaminmoore.com/en-us/paint-colors/color/af-530/lucerne) (bottom) | $1700.00              | 
+| [Gabrietta 2-drawer nightstand](https://havenly.com/products/details/Gabrietta-2-Drawer-Nightstand-Medium-Oak-Black-Safavieh-Couture-151813266)                                                                       | $294.84               | 
+| [workbench as desk](https://havenly.com/products/details/Workbench-Rolling-Workbenches-For-Garage-Adjustable-Height-Wayfair-143767843)                                                                                | $273.99               | 
+| [Arlo Home 8'x10' area rug](https://havenly.com/products/details/Arlo-Home-Hand-Tufted-Area-Rug-APN503A-Blue-Red-8-X-10-Safavieh-72810857)                                                                            | $259.20               | 
+| [Zinus mattress](https://www.amazon.com/dp/B0CKYYT6VY)                                                                                                                                                                | $191.24               |
+| [olive green swivel office chair](https://www.wayfair.com/Mercer41--Dinorah-Velvet-Office-Swivel-Chair-Height-Adjustable-X221006184-L10-K~W110995073.html)                                                     | $150.86               | 
+| [Quince Indigo Blue duvet cover](https://www.quince.com/home/linen-duvet-cover?color=indigo-blue&size=full%2Fqueen)                                                                                                   | $142.72               | 
+| [Zinus metal bed frame](https://www.amazon.com/dp/B00WNF67DO)                                                                                                                                                         | $113.68               |
+| 3 [patent prints](https://fineartamerica.com/profiles/denny-h/collections/patent+art)                                                                                                                                 | $86.60                | 
+| [wall-mounted full length mirror](https://www.amazon.com/dp/B0D6QFRN13)                                                                                                                                               | $84.99                | 
+| [Big Joe bean bag chair](https://havenly.com/products/details/Big-Joe-Hug-Bean-Bag-Chair-Wayfair-54394491)                                                                                                            | $84.99                | 
+| custom hem and curtain trim                                                                                                                                                                                           | $80.00                | 
+| 2 [full sheet sets](https://www.target.com/p/cgk-linens-4-piece-microfiber-sheet-set-in-blue-stripes-size-full/-/A-89140441?preselect=89140441)                                                                       | $70.10                |
+| [clothes drawer organizers](https://www.amazon.com/dp/B0D3DSQ5Z1)                                                                                                                                                     | $69.04                |
+| [blackout ochre shades](https://www.amazon.com/dp/B0BXRNCZFR)                                                                                                                                                         | $65.82                | 
+| [clear fillable side table lamp](https://www.amazon.com/dp/B0C277GJDB?th=1)                                                                                                                                           | $53.74                | 
+| [3-pack gallery frames](https://www.michaels.com/product/3-pack-gallery-11-x-14-black-frame-with-mat-by-studio-decor-10738538)                                                                                        | $53.11                |
+| [blackout curtain rods](https://www.target.com/p/28-34-48-34-loft-by-umbra-room-darkening-curtain-rod-darjeeling-bronze/-/A-14104935)                                                                                 | $52.04                | 
+| [3'x4' bulletin board](https://www.amazon.com/dp/B09GYQ88L9)                                                                                                                                                          | $49.82                | 
+| [paint sample sticky sheets](https://samplize.com/products/lucerne-af-530-12x12)                                                                                                                                      | $46.88                | 
+| wardrobe (FB Marketplace)                                                                                                                                                                                             | $35.00                | 
+| [rust macrame plant hanger](https://www.etsy.com/listing/1269880196/no-tassel-macrame-plant-hanger-in-colors?variation0=2803425809&variation1=2836434719) | $34.59 |
+| [Loloi Not Named rust/multi throw pillow](https://havenly.com/products/details/Loloi-Not-Named-Rust-Multi-12-x-27-Cover-w-Poly-Loloi-Rugs-149052879)                                                                  | $33.60                | 
+| [laminated world map](https://www.amazon.com/dp/0792283090)                                                                                                                                                           | $31.82                | 
+| [mattress protector](https://www.amazon.com/dp/B08P2RG7ZM)                                                                                                                                                            | $30.70                | 
+| [2-pack queen/standard pillows](https://www.amazon.com/dp/B09DSRLTQH)                                                                                                                                                 | $28.68                | 
+| [glow-in-the-dark stick on stars](https://www.amazon.com/dp/B00009ENDT)                                                                                                                                               | $22.74                | 
+| [handles for wardrobe](https://www.amazon.com/gp/product/B09K3PW3N8)                                                                                                                                                  | $18.05                | 
+| [10' extension cord](https://www.amazon.com/dp/B0DPKKMPBD)                                                                                                                                                            | $14.86                | 
+| [2-pack pillow protectors](https://www.amazon.com/dp/B08GKKKJ1H)                                                                                                                                                      | $8.60                 | 
+| [anti-tip furniture anchors](https://www.amazon.com/dp/B092332ZM7) for wardrobe                                                                                                                                       | $8.49                 |
+| [poster-hanging command strips](https://www.amazon.com/dp/B00BT0MW4W) | $7.35                 |
+| [red thumb tacks](https://www.amazon.com/dp/B073TW1G8G)                                                                                                                                                               | $6.62                 |
+| red acrylic paint for bulletin board border (already had)                                                                                                                                                             | 0                     | 
+| water-based polyurethane (already had)                                                                                                                                                                                | 0                     | 
+| [white wool rug](https://www.amazon.com/Hauteloom-Huddlesford-Boho-Woven-Textured/dp/B086CDXF8N) (SOLD)                                                                                                               | +$75.00               |
+| Ikea Brimnes [4-drawer chests](https://www.ikea.com/us/en/p/brimnes-4-drawer-chest-white-20572833) and [nightstands](https://www.ikea.com/us/en/p/brimnes-nightstand-white-10234942/) (SOLD)                          | +$200.00              | 
+| **TOTAL**                                                                                                                                                                                                             | **$8369.76**          | 
+
