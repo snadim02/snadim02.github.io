@@ -77,20 +77,21 @@ out on the floor onto craft paper, tracing the art, then taping the paper to the
 ![Living Room](../assets/img/livingroom-gallerywall2.jpg){: .mx-auto.d-block :}
 
 **Iteration 3.** And finally! Here is the gallery wall in our current condo. Hanging
-all this over the staircase while keeping our necks intact was quite a feat! :ladder: :hammer: :face_with_head_bandage:
+all this over the staircase while keeping our necks intact was... uhh... not guaranteed... :ladder: :hammer: :face_with_head_bandage:
 This time, I drew level +'s all over the craft paper and measured 40" up from
-the stairs in order to lay the art out to arrange. I changed the wall color from [BM Stokes Forest Green](https://www.benjaminmoore.com/en-us/paint-colors/color/2035-40/stokes-forest-green) 
+the stairs in order to lay the art out to arrange. I also changed the wall color from [BM Stokes Forest Green](https://www.benjaminmoore.com/en-us/paint-colors/color/2035-40/stokes-forest-green) 
 to [BM Ash Blue](https://www.benjaminmoore.com/en-us/paint-colors/color/2057-40/ash-blue),
-which seems to work better in this north-facing room. :green_heart: :blue_heart:
+which (I think...? :thinking:) works better in this north-facing room. :green_heart: :blue_heart:
 
 ![Living Room](../assets/img/livingroom-gallerywall3.jpg){: .mx-auto.d-block :}
 
 ### :couch_and_lamp: 3D-Printed Furniture Levels
 
-The floor in our 1890 condo slants *quite a bit* :face_with_spiral_eyes:, and the front of the sofa in the bay window 
+Who knew that the floor in our 1890 condo could *slant so much?!* [I guess I did.](../2023-06-01-fireplace)... :face_with_spiral_eyes:
+The front of the sofa in the bay window 
 was nearly two inches lower than the back. **(1)** I tried stacking furniture protector pads, which slid out of place and left sticky residue on the floor. :angry: 
 **(2)** *Then* I got [anti-slip furniture casters](https://www.amazon.com/dp/B018H0NDRG)
-and [wobble wedges](https://www.amazon.com/Wobble-Wedges-Rigid-Plastic-Shims/dp/B00435B9FS/?th=1), which were much better but kept collapsing... :shrug: 
+and [wobble wedges](https://www.amazon.com/Wobble-Wedges-Rigid-Plastic-Shims/dp/B00435B9FS/?th=1), which were much better but kept collapsing... :shrug:
 **(3)** *Finally*, I designed [frames for the wobble wedges on TinkerCad](https://www.tinkercad.com/things/3RbVUoPeB7x-wobble-wedge-holder?sharecode=6Kn_11-EEqJm6C4Hw36rYxwQHIY3BJLc7ZpkYPgI5nE) and 3D printed them in [wood+PLA filament](https://www.amazon.com/dp/B088BRY1PN).
 Success! :clap:
 
@@ -100,15 +101,17 @@ Success! :clap:
 
 ### :window: Bay Window Curtains
 
-Our [design renderings](#the-design) were the *only thing* that convinced me to take on 
-this project. :tipping_hand_woman:
-I taped some [craft paper](https://www.michaels.com/product/paper-roll-by-recollections-24-x-20ft-10683716) to the ceiling of the bay window nook to copy the *exact size and angles*. 
-Then, I used my [tabletop saw with metal-cutting blade](https://www.amazon.com/dp/B071P6GZN5?ref=ppx_yo2ov_dt_b_product_details&th=1) to cut the [curtain rods](https://www.target.com/p/36-34-66-34-cap-curtain-rod-oil-rubbed-bronze-threshold-8482/-/A-54567180) to size (accounting for the wall-to-rod distance of the 
+Our [design renderings](#the-design) immediately convinced me to take on 
+this project. :star_struck: :tipping_hand_woman:
+
+**Step 1. Planning! (of course)** I taped some [craft paper](https://www.michaels.com/product/paper-roll-by-recollections-24-x-20ft-10683716) to the ceiling of the bay window nook to copy the *exact size and angles*. <br>
+**Step 2. Cut once, curse twice?** That's how [the phrase](https://en.wiktionary.org/wiki/measure_twice_and_cut_once#English) goes, right? :woman_facepalming:
+I used my [tabletop saw with metal-cutting blade](https://www.amazon.com/dp/B071P6GZN5?ref=ppx_yo2ov_dt_b_product_details&th=1) to cut the [curtain rods](https://www.target.com/p/36-34-66-34-cap-curtain-rod-oil-rubbed-bronze-threshold-8482/-/A-54567180) to size (accounting for the wall-to-rod distance of the 
 [curtain hooks](https://www.amazon.com/dp/B08XYBQK7Y)), and connected the angles using these clever [angle connectors](https://www.amazon.com/dp/B08ZCCKPT2). 
 
 ![Living Room](../assets/img/livingroom-curtains.jpg){: .mx-auto.d-block :}
 
-*Ta da!* :clap:
+**Step 3. Marvel at accomplishment.** *Ta da!* :clap:
 
 ![Living Room](../assets/img/livingroom-curtains2.jpg){: .mx-auto.d-block :}
 
