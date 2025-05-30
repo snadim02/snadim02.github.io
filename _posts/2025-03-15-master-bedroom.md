@@ -31,16 +31,17 @@ and the sleeper sofa [downstairs into the living room](../2025-04-12-living-room
 ![Master Bedroom](../assets/img/masterbed-after2.jpg){: .mx-auto.d-block :}
 
 **Nightstands.** I sold the [old sofa side tables](https://www.amazon.com/gp/product/B0BLVPG6BV) and 
-[wall sconces](https://www.amazon.com/dp/B0B4J8V625) :bulb: and replaced them a [side cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299) and 
+[wall sconces](https://www.amazon.com/dp/B0B4J8V625) :money_mouth_face: (lol, yeah right) 
+and replaced them a [side cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299) and 
 [nightstand](https://www.overstock.com/products/safavieh-shyann-single-door-carved-nightstand-40656766?variant=61943056466079) with more practical storage 
-and [swivel-arm wall sconces](https://www.amazon.com/dp/B087T4ZY8N) that we already owned.
+and [swivel-arm wall sconces](https://www.amazon.com/dp/B087T4ZY8N) that we already owned. :bulb:
 
-**Aesthetic Accessories.** I organized my [jewelry and scarves](../2025-03-01-wardrobe/#organization) for easy access
-since they didn't fit in our [custom wardrobe](../2025-03-01-wardrobe). :prayer_beads: :scarf: A bonus is that they look 
-nice displayed like this, too! :framed_picture:
+**Aesthetic Accessories.** My [jewelry and scarves](../2025-03-01-wardrobe/#organization)
+didn't fit in our [custom wardrobe](../2025-03-01-wardrobe) :prayer_beads: :scarf:, so I 
+displayed them out here for easy access. Bonus benefit! :star_struck: They look nice out here like this! 
+:framed_picture:
 
-*And check out the view from bed!* :point_down:
-
+*And check out the view from bed.* :point_down: We built that plant stand 12 years ago!
 ![Master Bedroom](../assets/img/masterbed-after.jpg){: .mx-auto.d-block :}
 
 Not bad for functionally hiding office clutter to actually fall asleep at night! :relieved: :sleeping:
@@ -99,13 +100,13 @@ You probably [saw](#guest--master-bedroom-transition) the banjo :banjo: and digi
 ![Master Bedroom Digital Piano](../assets/img/masterbed-music1.jpg){: .mx-auto.d-block :}
 
 I found a [stand for our digital piano on Etsy](https://www.etsy.com/listing/1664543133/mid-century-modern-piano-keyboard-stand) (*not* that I recommend it) and a [piano bench](https://www.amazon.com/dp/B07BJ4DW86)
-to store music in these [sheet music organizers](https://www.amazon.com/dp/B08R8SW845). 
+to store music in these [sheet music organizers](https://www.amazon.com/dp/B08R8SW845). :point_down:
 
 ![Master Bedroom Sheet Music](../assets/img/masterbed-sheetmusic.jpg){: .mx-auto.d-block :}
 
 :eyes: What you *didn't see* was the recording equipment :studio_microphone: :headphones:, amplifier :radio: and ukelele
 that are now stored in the bedside tables 
-out of sight (but within reach). The accordion and keyboard travel case fit under the bed :accordion: :musical_keyboard:!
+out of sight (but within reach). The accordion and keyboard travel case fit under the bed. :accordion: :musical_keyboard: *We did it!* 
 
 
 ## Cost

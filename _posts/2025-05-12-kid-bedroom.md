@@ -14,7 +14,7 @@ kiddo's soon-to-be bedroom. :scream: In my defense, (American) closets are just 
 hoarding junk](https://civicscience.com/many-americans-ready-to-purge-their-closets/) :teddy_bear: :package:, and this 
 particular closet totally crushed the flow of the room. :face_with_spiral_eyes:
 
-:construction: **Page under construction** :construction:
+## :construction: **Page (...and also the room! :zany_face:) under construction** :construction:
 
 Jump ahead to read about the [argument for axing the closet](#why-axe-the-closet), 
 [construction process](#the-process),
@@ -31,7 +31,7 @@ your [back to the main door](https://www.thespruce.com/feng-shui-lucky-direction
 
 The **new layout** allows for the bed to be tucked against [the east wall](https://redlotusletter.com/the-east-corner-of-health-growth-and-family/)
 into a darker corner of the room, and 
-for [the view from all seats](https://www.newsweek.com/feng-shui-expert-furnish-room-command-position-1602833) to be much better! There is still the potential for underbed 
+for [the view from all other seats](https://www.newsweek.com/feng-shui-expert-furnish-room-command-position-1602833) to be much better! There is still the potential for underbed 
 storage, and I found a great dresser for clothes.
 
 > While planning this room based on what "felt right", I discovered 
