@@ -14,6 +14,9 @@ Part of our multi-step "Big Move of 2025" required moving our [sleeper sofa](htt
 into the downstairs living room. Great opportunity to redesign the space for our 
 family's next kids-only-no-babies chapter!
 
+**Skip ahead** to see some (1) *very satisfying* [before & afters](#before--after) :heavy_check_mark:,
+(2) the [initial design inspiration](#the-design) :star:, and (3) [fun/functional projects](#the-details) in the space :hammer:!
+
 ## Before & After
 
 Our living room wasn't *bad* before, it was just bare bones to [accommodate 
@@ -52,26 +55,45 @@ didn't actually fit, but I like the vibe!
 ## The Details
 
 Home takes time. :house: Our living room is now in a semi-stable state, but it will continue
-to adapt to our family's changing needs! 
+to adapt to our family's changing needs! **Keep reading** about my functional solutions
+for this room, including [hanging a complex gallery wall](#framed_picture-evolution-of-the-gallery-wall-) :framed_picture:, 
+[leveling furniture on *super* slanted floors](#couch_and_lamp-3d-printed-furniture-levels) :couch_and_lamp:, 
+[customizing bay window curtain rods](#window-bay-window-curtains) :window:, and 
+[installing lighting in a tree](#deciduous_tree-lighting-in-a-tree) :deciduous_tree: :bulb: !
 
-### Evolution of the Gallery Wall
+### :framed_picture: Evolution of the Gallery Wall 
 
-When my husband and I first moved in together once we were married :ring: :person_with_veil:, we each came with a random assortment of 
+**Iteration 1.** When my husband and I first moved in together once we were married :ring: :person_with_veil:, we each came with a random assortment of 
 artwork from our travels. :cambodia: :egypt: :thailand: :india: :vietnam: :israel: :nepal: :sri_lanka: :iran: :peru: I combined it all into a gallery wall in our first apartment in [Northampton, MA](https://en.wikipedia.org/wiki/Northampton,_Massachusetts) by laying the artwork
 out on the floor onto craft paper, tracing the art, then taping the paper to the wall to put nails in. :framed_picture: :hammer:
 
 ![Living Room](../assets/img/livingroom-gallerywall1.jpg){: .mx-auto.d-block :}
 
-I repeated the process when we moved into our tiny [Cambridgeport](https://en.wikipedia.org/wiki/Cambridgeport,_Cambridge,_Massachusetts) apartment in 2018.
+**Iteration 2.** I repeated the process when we moved into our tiny [Cambridgeport](https://en.wikipedia.org/wiki/Cambridgeport,_Cambridge,_Massachusetts) apartment in 2018.
 
 ![Living Room](../assets/img/livingroom-gallerywall2.jpg){: .mx-auto.d-block :}
 
-And finally! Here is the gallery wall in our current condo. Hanging
+**Iteration 3.** And finally! Here is the gallery wall in our current condo. Hanging
 all this over the staircase while keeping our necks intact was quite a feat! :ladder: :hammer: :face_with_head_bandage:
+This time, I drew level +'s all over the craft paper and measured 40" up from
+the stairs in order to lay the art out to arrange.
 
 ![Living Room](../assets/img/livingroom-gallerywall3.jpg){: .mx-auto.d-block :}
 
-### Bay Window Curtains
+### :couch_and_lamp: 3D-Printed Furniture Levels
+
+The floor in our 1890 condo slants *quite a bit* :face_with_spiral_eyes:, and the front of the sofa in the bay window 
+was nearly two inches lower than the back. I tried stacking furniture protector pads, which slid out of place and left sticky residue on the floor. :angry:
+*Then* I got [anti-slip furniture casters](https://www.amazon.com/dp/B018H0NDRG)
+and [wobble wedges](https://www.amazon.com/Wobble-Wedges-Rigid-Plastic-Shims/dp/B00435B9FS/?th=1), which kept collapsing... :shrug: 
+*Finally*, I designed [frames for the wobble wedges on TinkerCad](https://www.tinkercad.com/things/3RbVUoPeB7x-wobble-wedge-holder?sharecode=6Kn_11-EEqJm6C4Hw36rYxwQHIY3BJLc7ZpkYPgI5nE) and 3D printed them in [wood+PLA filament](https://www.amazon.com/dp/B088BRY1PN).
+Adding these [non-slip cushion pads](https://www.amazon.com/dp/B07VML96V7) also helped! 
+
+![Living Room](../assets/img/livingroom-sofawedges1.png){: .mx-auto.d-block :}
+
+![Living Room](../assets/img/livingroom-sofawedges2.jpg){: .mx-auto.d-block :}
+
+### :window: Bay Window Curtains
 
 I taped some [craft paper](https://www.michaels.com/product/paper-roll-by-recollections-24-x-20ft-10683716) to the ceiling of the bay window nook to copy the *exact size and angles*. 
 Then, I used my [tabletop saw with metal-cutting blade](https://www.amazon.com/dp/B071P6GZN5?ref=ppx_yo2ov_dt_b_product_details&th=1) to cut the [curtain rods](https://www.target.com/p/36-34-66-34-cap-curtain-rod-oil-rubbed-bronze-threshold-8482/-/A-54567180) to size (accounting for the wall-to-rod distance of the 
@@ -83,7 +105,7 @@ Then, I used my [tabletop saw with metal-cutting blade](https://www.amazon.com/d
 
 ![Living Room](../assets/img/livingroom-curtains2.jpg){: .mx-auto.d-block :}
 
-### Lighting in a Tree
+### :deciduous_tree: Lighting in a Tree
 
 I had two (annoyingly placed) wall sconces removed and replaced with switch-operated outlets. The plant corner was too dark, though, 
 so I installed these [four Shepherd's hooks](https://www.amazon.com/dp/B0881LM5Z1) directly into the [plant pot](https://www.amazon.com/dp/B07CTD9SDS) and strung up 
