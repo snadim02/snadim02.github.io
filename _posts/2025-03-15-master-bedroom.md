@@ -31,11 +31,9 @@ and the sleeper sofa [downstairs into the living room](../2025-04-12-living-room
 ![Master Bedroom](../assets/img/masterbed-after2.jpg){: .mx-auto.d-block :}
 
 **Nightstands.** I sold the [old sofa side tables](https://www.amazon.com/gp/product/B0BLVPG6BV) and 
-[wall sconces](https://www.amazon.com/dp/B0B4J8V625) :bulb: and replaced them with 
-a more practical [side cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299), 
-[nightstand](https://www.overstock.com/products/safavieh-shyann-single-door-carved-nightstand-40656766?variant=61943056466079), 
+[wall sconces](https://www.amazon.com/dp/B0B4J8V625) :bulb: and replaced them a [side cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299) and 
+[nightstand](https://www.overstock.com/products/safavieh-shyann-single-door-carved-nightstand-40656766?variant=61943056466079) with more practical storage 
 and [swivel-arm wall sconces](https://www.amazon.com/dp/B087T4ZY8N) that we already owned.
-I drilled a 1" hole into the back of the cabinet to hide the [surge protector power strip](https://www.amazon.com/dp/B0721TYGVR) inside. :electric_plug:
 
 **Aesthetic Accessories.** I organized my [jewelry and scarves](../2025-03-01-wardrobe/#organization) for easy access
 since they didn't fit in our [custom wardrobe](../2025-03-01-wardrobe). :prayer_beads: :scarf: A bonus is that they look 
@@ -45,22 +43,22 @@ nice displayed like this, too! :framed_picture:
 
 ![Master Bedroom](../assets/img/masterbed-after.jpg){: .mx-auto.d-block :}
 
-Not bad for functionally hiding office clutter 
-to make the room feel like a peaceful bedroom retreat! :relieved: :sleeping:
+Not bad for functionally hiding office clutter to actually fall asleep at night! :relieved: :sleeping:
 
 ## Office Organization
 
 ### The Desk
-The **standing desk** *had* to go on the *only wall without a sloping ceiling*. 
+The **standing desk** had to go on the *only wall without a sloping ceiling*. 
 :desktop_computer: :keyboard: :computer_mouse: I reduced
-desktop clutter by installing [monitor posts](https://www.amazon.com/dp/B0DCLHMFGX) and 
-[drilling](https://www.acehardware.com/departments/tools/power-tool-accessories/hole-saws/2029552) [grommet holes for wires](https://www.amazon.com/dp/B07G83N99D)
-so that we wouldn't have to see [stressful work mess](https://www.housedigest.com/1438812/david-bromstad-hgtv-home-office-bedroom/) while trying to fall asleep. :relaxed: :see_no_evil:
+[stressful tech clutter](https://www.housedigest.com/1438812/david-bromstad-hgtv-home-office-bedroom/) 
+by installing [monitor posts](https://www.amazon.com/dp/B0DCLHMFGX) and 
+[drilling](https://www.acehardware.com/departments/tools/power-tool-accessories/hole-saws/2029552) [grommet holes for wires](https://www.amazon.com/dp/B07G83N99D). 
+:see_no_evil:
 
 ![Picture of Standing Desk](../assets/img/masterbed-desk.jpg){: .mx-auto.d-block :}
 
 ### The Printers
-I hid the [**3D printer**](https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/) inside 
+How sneaky is this!? I hid the [**3D printer**](https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/) inside 
 the [sideboard](https://www.wayfair.com/organization-storage/pdp/loon-peak-bettye-1-drawer-credenza-w004342388.html) 
 on a slide-out printer tray blocked with [café curtains](https://www.amazon.com/dp/B0CLGTVHPF). :ninja: :star_struck:
 
@@ -74,8 +72,8 @@ and I arranged my paper types for easier DIY labeling. :printer:
 
 ### File Storage
 
-I whittled down an enormous 2-drawer file cabinet of junk (...rental leases from college? [No thanks](https://shiragill.com/paperwork-organization-simplified/).)
-into this single crate. :file_cabinet:
+Guess who's [no longer pointlessly holding onto](https://shiragill.com/paperwork-organization-simplified/) 12-year-old rental leases?! Me!! :raising_hand_woman: ...As of two weeks ago. :grimacing:
+I whittled down an enormous 2-drawer file cabinet of junk into this single crate. :file_cabinet:
 
 ![Master Bedroom File Crate](../assets/img/masterbed-files.jpg){: .mx-auto.d-block :}
 

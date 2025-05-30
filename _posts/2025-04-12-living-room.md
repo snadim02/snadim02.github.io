@@ -55,13 +55,13 @@ didn't actually fit, but I like the vibe!
 
 ## The Details
 
-Home takes time. :house: Our living room is now in a semi-stable state, but it will continue
-to adapt to our family's changing needs! **Keep reading** about my functional solutions
-for this room, including
-- [hanging a complex gallery wall](#framed_picture-evolution-of-the-gallery-wall-) :framed_picture:
+Home takes time. :house: Our living room is now in a semi-stable state, but I'll continue
+to adapt it to fit our family's changing needs! **Keep reading** about my functional solutions
+for this room:
+- [hanging a complicated gallery wall](#framed_picture-evolution-of-the-gallery-wall-) :framed_picture:
 - [leveling furniture on *super* slanted floors](#couch_and_lamp-3d-printed-furniture-levels) :couch_and_lamp:
 - [customizing bay window curtain rods](#window-bay-window-curtains) :window:
-- [installing lighting in a tree](#deciduous_tree-lighting-in-a-tree) :deciduous_tree: :bulb:
+- [installing lighting in a tree](#deciduous_tree-lighting-in-a-tree)! :deciduous_tree: :bulb:
 
 ### :framed_picture: Evolution of the Gallery Wall 
 
@@ -78,18 +78,20 @@ out on the floor onto craft paper, tracing the art, then taping the paper to the
 **Iteration 3.** And finally! Here is the gallery wall in our current condo. Hanging
 all this over the staircase while keeping our necks intact was quite a feat! :ladder: :hammer: :face_with_head_bandage:
 This time, I drew level +'s all over the craft paper and measured 40" up from
-the stairs in order to lay the art out to arrange.
+the stairs in order to lay the art out to arrange. I changed the wall color from [BM Stokes Forest Green](https://www.benjaminmoore.com/en-us/paint-colors/color/2035-40/stokes-forest-green) 
+to [BM Ash Blue](https://www.benjaminmoore.com/en-us/paint-colors/color/2057-40/ash-blue),
+which seems to work better in this north-facing room. :green_heart: :blue_heart:
 
 ![Living Room](../assets/img/livingroom-gallerywall3.jpg){: .mx-auto.d-block :}
 
 ### :couch_and_lamp: 3D-Printed Furniture Levels
 
 The floor in our 1890 condo slants *quite a bit* :face_with_spiral_eyes:, and the front of the sofa in the bay window 
-was nearly two inches lower than the back. I tried stacking furniture protector pads, which slid out of place and left sticky residue on the floor. :angry:
-*Then* I got [anti-slip furniture casters](https://www.amazon.com/dp/B018H0NDRG)
+was nearly two inches lower than the back. **(1)** I tried stacking furniture protector pads, which slid out of place and left sticky residue on the floor. :angry:
+**(2)** *Then* I got [anti-slip furniture casters](https://www.amazon.com/dp/B018H0NDRG)
 and [wobble wedges](https://www.amazon.com/Wobble-Wedges-Rigid-Plastic-Shims/dp/B00435B9FS/?th=1), which were much better but kept collapsing... :shrug: 
-*Finally*, I designed [frames for the wobble wedges on TinkerCad](https://www.tinkercad.com/things/3RbVUoPeB7x-wobble-wedge-holder?sharecode=6Kn_11-EEqJm6C4Hw36rYxwQHIY3BJLc7ZpkYPgI5nE) and 3D printed them in [wood+PLA filament](https://www.amazon.com/dp/B088BRY1PN).
-Adding these [non-slip cushion pads](https://www.amazon.com/dp/B07VML96V7) also helped! :clap:
+**(3)** *Finally*, I designed [frames for the wobble wedges on TinkerCad](https://www.tinkercad.com/things/3RbVUoPeB7x-wobble-wedge-holder?sharecode=6Kn_11-EEqJm6C4Hw36rYxwQHIY3BJLc7ZpkYPgI5nE) and 3D printed them in [wood+PLA filament](https://www.amazon.com/dp/B088BRY1PN).
+Success! :clap:
 
 ![Living Room](../assets/img/livingroom-sofawedges1.png){: .mx-auto.d-block :}
 
@@ -97,6 +99,8 @@ Adding these [non-slip cushion pads](https://www.amazon.com/dp/B07VML96V7) also 
 
 ### :window: Bay Window Curtains
 
+Our [design renderings](#the-design) were the *only thing* that convinced me to take on 
+this project. :tipping_hand_woman:
 I taped some [craft paper](https://www.michaels.com/product/paper-roll-by-recollections-24-x-20ft-10683716) to the ceiling of the bay window nook to copy the *exact size and angles*. 
 Then, I used my [tabletop saw with metal-cutting blade](https://www.amazon.com/dp/B071P6GZN5?ref=ppx_yo2ov_dt_b_product_details&th=1) to cut the [curtain rods](https://www.target.com/p/36-34-66-34-cap-curtain-rod-oil-rubbed-bronze-threshold-8482/-/A-54567180) to size (accounting for the wall-to-rod distance of the 
 [curtain hooks](https://www.amazon.com/dp/B08XYBQK7Y)), and connected the angles using these clever [angle connectors](https://www.amazon.com/dp/B08ZCCKPT2). 
