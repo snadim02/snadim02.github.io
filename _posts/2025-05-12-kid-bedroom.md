@@ -2,9 +2,9 @@
 layout: post
 title: Turns out, the closet was the problem
 subtitle: so I purged that too!
-thumbnail-img: /assets/img/closetdemo-icon.jpg
-cover-img: /assets/img/kid-bedroom01.jpg
-share-img: /assets/img/kid-bedroom01.jpg
+thumbnail-img: /assets/img/kidbedroom-icon.jpg
+cover-img: /assets/img/kidbedroom-after1.jpg
+share-img: /assets/img/kidbedroom-after1.jpg
 tags: [big kid design, bedroom, closet, clothes storage]
 #author: Shilpa Kobren
 ---
@@ -14,7 +14,7 @@ kiddo's soon-to-be bedroom. :scream: In my defense, (American) closets are just 
 hoarding junk](https://civicscience.com/many-americans-ready-to-purge-their-closets/) :teddy_bear: :package:, and this 
 particular closet totally crushed the flow of the room. :face_with_spiral_eyes:
 
-## :construction: **Page (...and also the room! :zany_face:) under construction** :construction:
+## :construction: **Page (and also the room! :zany_face:) under construction** :construction:
 
 Jump ahead to read about the [argument for axing the closet](#why-axe-the-closet), 
 [construction process](#the-process),
@@ -22,21 +22,23 @@ Jump ahead to read about the [argument for axing the closet](#why-axe-the-closet
 
 ## Why axe the closet?
 
-In the **original layout**, the door opened into a *wall* (side of the closet).
+In the **original layout**, the main door opened into a *wall* (side of the closet).
 The swing-open closet doors crushed the square footage, and replacing them with
 sliding doors made accessing the closet frustrating. I also cannot stand having 
-your [back to the main door](https://www.thespruce.com/feng-shui-lucky-directions-for-desk-or-bed-3975235#:~:text=Avoid%20Certain%20Positions,and%20creativity%20in%20your%20work) when at the desk. 
+your [back to the main door](https://www.thespruce.com/feng-shui-lucky-directions-for-desk-or-bed-3975235#:~:text=Avoid%20Certain%20Positions,and%20creativity%20in%20your%20work) when at the desk. *We can do better.* :muscle: 
 
 ![Kid Bedroom](../assets/img/kid_bedroom_layout.jpg){: .mx-auto.d-block :}
 
 The **new layout** allows for the bed to be tucked against [the east wall](https://redlotusletter.com/the-east-corner-of-health-growth-and-family/)
-into a darker corner of the room, and 
-for [the view from all other seats](https://www.newsweek.com/feng-shui-expert-furnish-room-command-position-1602833) to be much better! There is still the potential for underbed 
-storage, and I found a great dresser for clothes.
+into a darker corner of the room. :sleeping: :moon: The 
+[view from all other seats](https://www.newsweek.com/feng-shui-expert-furnish-room-command-position-1602833) is also much better! There is still the potential for underbed 
+storage, and I found a great dresser for clothes. :shirt:
+
+![Kid Bedroom](../assets/img/kid_bedroom_layout2.jpg){: .mx-auto.d-block :}
 
 > While planning this room based on what "felt right", I discovered 
 > [Cliff Tan's "Feng Shui Modern"](https://www.bloomsbury.com/us/feng-shui-modern-9781526639998/),
-> which validated what I was feeling and provided a fantastic framework for design! :lotus_position: :yin_yang: :relieved:
+> which validated what I was feeling and provided a fantastic framework for spatial arrangement! :lotus_position: :yin_yang: :relieved:
 
 ## The Process
 
@@ -59,36 +61,52 @@ rip off paint if the first paint coat doesn't cure long enough! *...Ask me how I
 
 ## Before & Afters
 
-At last! 
-
-![Kid Bedroom](../assets/img/kidbedroom-before1.jpg){: .mx-auto.d-block :}
+I wanted the room to match the feel of our [newly redecorated living room](../2025-04-12-living-room).
 
 ![Kid Bedroom](../assets/img/kidbedroom-before2.jpg){: .mx-auto.d-block :}
 
-![Kid Bedroom](../assets/img/kid-bedroom01.jpg){: .mx-auto.d-block :}
+![Kid Bedroom](../assets/img/kidbedroom-after1.jpg){: .mx-auto.d-block :}
+
+And the side with the (former) closet. We moved our clothes into a 
+[custom wardrobe](../2025-03-01-wardrobe)
+upstairs in the 
+[new master bedroom](../2025-03-15-master-bedroom).
+
+![Kid Bedroom](../assets/img/kidbedroom-before1.jpg){: .mx-auto.d-block :}
+
+![Kid Bedroom](../assets/img/kidbedroom-after2.jpg){: .mx-auto.d-block :}
+:point_up: *Turns out, priming and painting fresh plaster and using the right painters' tape
+is non-trivial...* Updates to come!
 
 ## The Details
 
-### Dresser/Wardrobe
-
-Stay tuned to see how I added handles to the wardrobe and arranged clothes!
+Here are some of the cutesy fun projects I got to do in this room!
 
 ### Bulletin Board
 
-Coming up: painting and sealing the bulletin board border and arranging pictures
-and artwork with push pins. 
+What kind of kid's room doesn't have a [bulletin board](https://www.amazon.com/dp/B09GYQ88L9)?! The basic wood frame
+was too *mature* for a *6-year-old* (in my and his opinion), so I painted it with 
+red acrylic paint and sealed it with 
+polyurethane. :art: :artist: *Fun!*
+
+![Kid Bedroom](../assets/img/kidbedroom-bulletinboard.jpg){: .mx-auto.d-block :}
 
 ### Switchplates
 
-I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
+I'll admit... this was very extra. :shrug: I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
 cover the switchplates and [cable covers](https://www.amazon.com/dp/B07RZQXRQK) in [Benjamin Moore Lucerne](https://www.benjaminmoore.com/en-us/paint-colors/color/af-530/lucerne). 
-They look great, I didn't need to sand/prime the switchplates, and it will be easy to change if we ever change the color.
+They look great, I didn't need to sand/prime/paint anything, and we can easily change it up (if ever needed).
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate01.jpg){: .mx-auto.d-block :}
 
-Ah, so nice. :lotus_position:
+Ah, so nice, though. C'mon. :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate02.jpg){: .mx-auto.d-block :}
+
+### Dresser/Wardrobe
+
+Stay tuned to see how I added handles to the wardrobe and arranged clothes into clothes bins!
+
 
 ## Cost
 
