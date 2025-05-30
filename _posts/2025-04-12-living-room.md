@@ -12,7 +12,7 @@ tags: [living room, sleeper sofa, baby playpen, curtains, big kid design]
 Part of our multi-step "Big Move of 2025" required moving our [sleeper sofa](https://www.americanleather.com/products/gaines/) from the 
 [upstairs guest room](../2025-03-15-master-bedroom)
 into the downstairs living room. Great opportunity to redesign the space for our 
-family's next kids-only-no-babies chapter!
+family's next kids-only-no-babies chapter! :child: :thumbsup: :baby: :thumbsdown: 
 
 **Skip ahead** to see some (1) *very satisfying* [before & afters](#before--after) :heavy_check_mark:,
 (2) the [initial design inspiration](#the-design) :star:, and (3) [fun/functional projects](#the-details) in the space :hammer:!
