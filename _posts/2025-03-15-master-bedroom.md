@@ -32,7 +32,7 @@ and the sleeper sofa [downstairs into the living room](../2025-04-12-living-room
 
 **Nightstands.** I sold the [old sofa side tables](https://www.amazon.com/gp/product/B0BLVPG6BV) and 
 [wall sconces](https://www.amazon.com/dp/B0B4J8V625) :money_mouth_face: (lol, yeah right) 
-and replaced them a [side cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299) and 
+and replaced them with a [side cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299) and 
 [nightstand](https://www.overstock.com/products/safavieh-shyann-single-door-carved-nightstand-40656766?variant=61943056466079) with more practical storage 
 and [swivel-arm wall sconces](https://www.amazon.com/dp/B087T4ZY8N) that we already owned. :bulb:
 
