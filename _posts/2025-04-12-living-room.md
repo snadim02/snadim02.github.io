@@ -15,7 +15,7 @@ into the downstairs living room. Great opportunity to redesign the space for our
 family's next kids-only-no-babies chapter! :child: :thumbsup: :baby: :thumbsdown: 
 
 **Skip ahead** to see some (1) *very satisfying* [before & afters](#before--after) :heavy_check_mark:,
-(2) the [initial design inspiration](#the-design) :star:, and (3) [fun/functional projects](#the-details) in the space :hammer:!
+(2) the [initial design inspiration](#the-design) :star:, and (3) [fun(ctional) projects](#the-details) in the space :hammer:!
 
 ## Before & After
 
