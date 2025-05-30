@@ -21,13 +21,13 @@ family's next kids-only-no-babies chapter!
 
 Our living room wasn't *bad* before, it was just bare bones to [accommodate 
 tiny babies](../2022-12-30-toys). :baby: Since our boys are now *kids*, :child: I thought our living room should 
-feel more like the cozy family hangout space that we actually use it for. :video_game: :train:
+feel more like the cozy family hangout space that we actually use it for. :video_game: :books:
 
 ![Living Room](../assets/img/livingroom-before02.jpg){: .mx-auto.d-block :}
 
 ![Living Room](../assets/img/livingroom-header.jpg){: .mx-auto.d-block :}
 
-Notice that we kept the plant and stand :potted_plant:, coffee table, couches, and blanket/books 
+Notice that we kept the corner plant :deciduous_tree:, coffee table, couches, and blanket/books 
 storage shelf (for now)! The two wall sconces were [removed and replaced](#lighting-in-a-tree) with switch-enabled 
 outlets. :bulb:
 
@@ -45,7 +45,8 @@ I decided to try my luck with using [Havenly](https://havenly.com/) to get
 some ideas for the space. My designer, [Mercedes Platas](https://havenly.com/interior-designers/mercedes-platas-14289), is a genius, 
 and put together a design that incorporated the [sleeper sofa](https://www.americanleather.com/products/gaines/), 
 existing sofas, and [art from Elena Kotliarker](https://www.elenakotliarker.com/) that I had been eyeing for years.
-I never would have known how good [ochre (yellow) curtains](https://www.target.com/p/brylanehome-poly-cotton-canvas-back-tab-panel---48--w-96--l--ochre/-/A-90050366) could look in this room!
+I never would have known how good [ochre (yellow) curtains](https://www.target.com/p/brylanehome-poly-cotton-canvas-back-tab-panel---48--w-96--l--ochre/-/A-90050366) 
+could look in this room! :heart_eyes:
 
 ![Living Room](../assets/img/livingroom-design01.jpg){: .mx-auto.d-block :}
 
@@ -56,10 +57,11 @@ didn't actually fit, but I like the vibe!
 
 Home takes time. :house: Our living room is now in a semi-stable state, but it will continue
 to adapt to our family's changing needs! **Keep reading** about my functional solutions
-for this room, including [hanging a complex gallery wall](#framed_picture-evolution-of-the-gallery-wall-) :framed_picture:, 
-[leveling furniture on *super* slanted floors](#couch_and_lamp-3d-printed-furniture-levels) :couch_and_lamp:, 
-[customizing bay window curtain rods](#window-bay-window-curtains) :window:, and 
-[installing lighting in a tree](#deciduous_tree-lighting-in-a-tree) :deciduous_tree: :bulb: !
+for this room, including
+- [hanging a complex gallery wall](#framed_picture-evolution-of-the-gallery-wall-) :framed_picture:
+- [leveling furniture on *super* slanted floors](#couch_and_lamp-3d-printed-furniture-levels) :couch_and_lamp:
+- [customizing bay window curtain rods](#window-bay-window-curtains) :window:
+- [installing lighting in a tree](#deciduous_tree-lighting-in-a-tree) :deciduous_tree: :bulb:
 
 ### :framed_picture: Evolution of the Gallery Wall 
 
@@ -85,9 +87,9 @@ the stairs in order to lay the art out to arrange.
 The floor in our 1890 condo slants *quite a bit* :face_with_spiral_eyes:, and the front of the sofa in the bay window 
 was nearly two inches lower than the back. I tried stacking furniture protector pads, which slid out of place and left sticky residue on the floor. :angry:
 *Then* I got [anti-slip furniture casters](https://www.amazon.com/dp/B018H0NDRG)
-and [wobble wedges](https://www.amazon.com/Wobble-Wedges-Rigid-Plastic-Shims/dp/B00435B9FS/?th=1), which kept collapsing... :shrug: 
+and [wobble wedges](https://www.amazon.com/Wobble-Wedges-Rigid-Plastic-Shims/dp/B00435B9FS/?th=1), which were much better but kept collapsing... :shrug: 
 *Finally*, I designed [frames for the wobble wedges on TinkerCad](https://www.tinkercad.com/things/3RbVUoPeB7x-wobble-wedge-holder?sharecode=6Kn_11-EEqJm6C4Hw36rYxwQHIY3BJLc7ZpkYPgI5nE) and 3D printed them in [wood+PLA filament](https://www.amazon.com/dp/B088BRY1PN).
-Adding these [non-slip cushion pads](https://www.amazon.com/dp/B07VML96V7) also helped! 
+Adding these [non-slip cushion pads](https://www.amazon.com/dp/B07VML96V7) also helped! :clap:
 
 ![Living Room](../assets/img/livingroom-sofawedges1.png){: .mx-auto.d-block :}
 
