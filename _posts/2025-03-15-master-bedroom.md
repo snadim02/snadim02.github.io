@@ -41,7 +41,7 @@ didn't fit in our [custom wardrobe](../2025-03-01-wardrobe) :prayer_beads: :scar
 hung them out here for easy access. Bonus benefit! :star_struck: They look nice displayed like this! 
 :framed_picture:
 
-*And check out the view from bed.* :point_down: We built that plant stand 12 years ago!
+*And check out the view from bed.* :point_down:
 ![Master Bedroom](../assets/img/masterbed-after.jpg){: .mx-auto.d-block :}
 
 Not bad for functionally hiding office clutter to actually fall asleep at night! :relieved: :sleeping:
