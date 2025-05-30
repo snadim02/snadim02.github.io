@@ -38,7 +38,7 @@ outlets. :bulb:
 We removed that [great-for-childproofing-tchotchkes wall shelf](https://www.wayfair.com/storage-organization/pdp/zipcode-design-girouard-6-piece-accent-shelf-w004780316.html) because I kept 
 hitting my head on it while picking up toys :face_with_head_bandage: :teddy_bear: and because it was blocking us from adding 
 curtains to the side window. :window: We moved the plants into these [rail-mounted planters](https://www.amazon.com/dp/B0D79J6FYR) :potted_plant: (*aren't they awesome?!*),
-but kept the [toys in the same spot](../2022-12-30-toys) since it's still the perfect spot for them. :jigsaw: :bricks:
+but kept the [toys in the same place](../2022-12-30-toys) since it's still the perfect spot for them. :jigsaw: :bricks:
 
 ## The Design
 
