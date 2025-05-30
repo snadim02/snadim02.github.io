@@ -38,7 +38,7 @@ and [swivel-arm wall sconces](https://www.amazon.com/dp/B087T4ZY8N) that we alre
 
 **Aesthetic Accessories.** My [jewelry and scarves](../2025-03-01-wardrobe/#organization)
 didn't fit in our [custom wardrobe](../2025-03-01-wardrobe) :prayer_beads: :scarf:, so I 
-displayed them out here for easy access. Bonus benefit! :star_struck: They look nice out here like this! 
+hung them out here for easy access. Bonus benefit! :star_struck: They look nice displayed like this! 
 :framed_picture:
 
 *And check out the view from bed.* :point_down: We built that plant stand 12 years ago!
