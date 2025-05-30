@@ -88,7 +88,7 @@ which seems to work better in this north-facing room. :green_heart: :blue_heart:
 ### :couch_and_lamp: 3D-Printed Furniture Levels
 
 The floor in our 1890 condo slants *quite a bit* :face_with_spiral_eyes:, and the front of the sofa in the bay window 
-was nearly two inches lower than the back. **(1)** I tried stacking furniture protector pads, which slid out of place and left sticky residue on the floor. :angry:
+was nearly two inches lower than the back. **(1)** I tried stacking furniture protector pads, which slid out of place and left sticky residue on the floor. :angry: 
 **(2)** *Then* I got [anti-slip furniture casters](https://www.amazon.com/dp/B018H0NDRG)
 and [wobble wedges](https://www.amazon.com/Wobble-Wedges-Rigid-Plastic-Shims/dp/B00435B9FS/?th=1), which were much better but kept collapsing... :shrug: 
 **(3)** *Finally*, I designed [frames for the wobble wedges on TinkerCad](https://www.tinkercad.com/things/3RbVUoPeB7x-wobble-wedge-holder?sharecode=6Kn_11-EEqJm6C4Hw36rYxwQHIY3BJLc7ZpkYPgI5nE) and 3D printed them in [wood+PLA filament](https://www.amazon.com/dp/B088BRY1PN).
