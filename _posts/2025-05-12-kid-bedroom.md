@@ -16,7 +16,7 @@ particular closet totally crushed the flow of the room. :face_with_spiral_eyes:
 
 ## :construction: **Page (and also the room! :zany_face:) under construction** :construction:
 
-Jump ahead to read about the [argument for axing the closet](#why-axe-the-closet), 
+**Jump ahead to read about** the [argument for axing the closet](#why-axe-the-closet), 
 [construction process](#the-process),
 [before and after pictures](#before--afters), and all the [artsy details](#the-details)!
 
@@ -70,7 +70,7 @@ I wanted the room to vibe with our [newly redecorated living room](../2025-04-12
 And here's the side with the (former) closet. We moved our clothes into a 
 [custom wardrobe](../2025-03-01-wardrobe)
 upstairs in the 
-[new master bedroom](../2025-03-15-master-bedroom).
+[new master bedroom](../2025-03-15-master-bedroom). Our kid's clothes are in his [new dresser](#dresserwardrobe)! :shirt: :jeans: :necktie:
 
 ![Kid Bedroom](../assets/img/kidbedroom-before1.jpg){: .mx-auto.d-block :}
 
@@ -80,26 +80,26 @@ is non-trivial...* Updates to come!
 
 ## The Details
 
-Here are some fun projects we did in this room!
+And now for the little projects that make this space feel like home! :blush:
 
 ### Bulletin Board
 
-What kind of kid's room doesn't have a [bulletin board](https://www.amazon.com/dp/B09GYQ88L9)?! The basic wood frame
-was too *mature* for a *6-year-old* (in my and his opinion), so I painted it with 
+*Of course* a kid's room *needs* a [bulletin board](https://www.amazon.com/dp/B09GYQ88L9)!! The basic wood frame
+was too *grown-up* for a *6-year-old* (in my and his opinion), so I painted it with 
 red acrylic paint and sealed it with 
-polyurethane. :art: :artist: *Fun!*
+polyurethane. :art: :artist: *How fun!*
 
 ![Kid Bedroom](../assets/img/kidbedroom-bulletinboard.jpg){: .mx-auto.d-block :}
 
 ### Switchplates
 
-I'll admit... this was very extra. :shrug: I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
+I'll admit... this was extra. :shrug: I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
 cover the switchplates and [cable covers](https://www.amazon.com/dp/B07RZQXRQK) in [Benjamin Moore Lucerne](https://www.benjaminmoore.com/en-us/paint-colors/color/af-530/lucerne). 
 I didn't need to sand/prime/paint anything, and we can easily change up the color (if ever needed).
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate01.jpg){: .mx-auto.d-block :}
 
-Ah, so nice, though. :lotus_position:
+Ah, so nice... :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate02.jpg){: .mx-auto.d-block :}
 
@@ -152,8 +152,8 @@ Stay tuned to see how I added handles to the wardrobe and arranged clothes into 
 | Ikea Brimnes [4-drawer chests](https://www.ikea.com/us/en/p/brimnes-4-drawer-chest-white-20572833) and [nightstands](https://www.ikea.com/us/en/p/brimnes-nightstand-white-10234942/) (SOLD)                          | +$200.00              | 
 | **TOTAL**                                                                                                                                                                                                             | **$8369.76**          | 
 
-Setting up our kid's room was the last piece of the **Big Move of 2025!** To move our bedroom
+Setting up our kid's room was the last big project of our **Big Move of 2025!** To relocate our bedroom
 upstairs into the [master bedroom](../2025-03-15-master-bedroom) :bed:, 
 we [built a custom wardrobe](../2025-03-01-wardrobe) :shirt: :dress: and
 [redesigned our living room](../2025-04-12-living-room) to accommodate the 
-relocated sleeper sofa :couch_and_lamp:. *Time to enjoy our new space!* :yellow_heart: :blue_heart: :orange_heart: :green_heart:
+relocated sleeper sofa :couch_and_lamp:. *Time for the family to enjoy our new space!* :yellow_heart: :blue_heart: :orange_heart: :green_heart:
