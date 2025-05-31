@@ -76,7 +76,7 @@ out on the floor onto craft paper, tracing the art, then taping the paper to the
 ![Living Room](../assets/img/livingroom-gallerywall2.jpg){: .mx-auto.d-block :}
 
 **Iteration 3.** And finally! Here is the gallery wall in our current condo. Hanging
-all this over the staircase while keeping our necks intact was... uhh... not guaranteed... :ladder: :hammer: :face_with_head_bandage:
+all this over the staircase while keeping our necks intact was... not guaranteed... :ladder: :hammer: :face_with_head_bandage:
 This time, I drew level +'s all over the craft paper and measured 40" up from
 the stairs in order to lay the art out to arrange. I also changed the wall color from [BM Stokes Forest Green](https://www.benjaminmoore.com/en-us/paint-colors/color/2035-40/stokes-forest-green) 
 to [BM Ash Blue](https://www.benjaminmoore.com/en-us/paint-colors/color/2057-40/ash-blue),
