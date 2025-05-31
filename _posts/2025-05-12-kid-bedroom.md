@@ -155,5 +155,4 @@ Stay tuned to see how I added handles to the wardrobe and arranged clothes into 
 Setting up our kid's room was the last big project of our **Big Move of 2025!** To relocate our bedroom
 upstairs into the [master bedroom](../2025-03-15-master-bedroom) :bed:, 
 we [built a custom wardrobe](../2025-03-01-wardrobe) :shirt: :dress: and
-[redesigned our living room](../2025-04-12-living-room) to accommodate the 
-relocated sleeper sofa :couch_and_lamp:. *Time for the family to enjoy our new space!* :yellow_heart: :blue_heart: :orange_heart: :green_heart:
+[redesigned our living room](../2025-04-12-living-room) to accommodate new furniture :couch_and_lamp:. *Time for the family to enjoy our new space!* :yellow_heart: :blue_heart: :orange_heart: :green_heart:
