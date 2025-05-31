@@ -22,27 +22,27 @@ Jump ahead to read about the [argument for axing the closet](#why-axe-the-closet
 
 ## Why axe the closet?
 
-In the **original layout**, the main door opened into a *wall* (side of the closet).
+In the **original layout**, the main door opened into a wall. :no_entry:
 The swing-open closet doors crushed the square footage, and replacing them with
 sliding doors made accessing the closet frustrating. I also cannot stand having 
 your [back to the main door](https://www.thespruce.com/feng-shui-lucky-directions-for-desk-or-bed-3975235#:~:text=Avoid%20Certain%20Positions,and%20creativity%20in%20your%20work) when at the desk. *We can do better.* :muscle: 
 
 ![Kid Bedroom](../assets/img/kid_bedroom_layout.jpg){: .mx-auto.d-block :}
 
-The **new layout** allows for the bed to be tucked against [the east wall](https://redlotusletter.com/the-east-corner-of-health-growth-and-family/)
+In the **new layout**, the bed is tucked against [the east wall](https://redlotusletter.com/the-east-corner-of-health-growth-and-family/)
 into a darker corner of the room. :sleeping: :moon: The 
 [view from all other seats](https://www.newsweek.com/feng-shui-expert-furnish-room-command-position-1602833) is also much better! There is still the potential for underbed 
 storage, and I found a great dresser for clothes. :shirt:
 
 ![Kid Bedroom](../assets/img/kid_bedroom_layout2.jpg){: .mx-auto.d-block :}
 
-> While planning this room based on what "felt right", I discovered 
+> While planning this room, I discovered 
 > [Cliff Tan's "Feng Shui Modern"](https://www.bloomsbury.com/us/feng-shui-modern-9781526639998/),
-> which validated what I was feeling and provided a fantastic framework for spatial arrangement! :lotus_position: :yin_yang: :relieved:
+> which validated what "felt right" and provided a fantastic framework for spatial arrangement! :lotus_position: :yin_yang: :relieved:
 
 ## The Process
 
-**Step 1: Soundproofing.** The walls were empty/thin enough to hear someone rolling over in bed between the bedrooms.
+**Step 1: Soundproofing.** The walls were empty/thin enough to hear someone rolling over in bed between the bedrooms. :ear:
 We added [Rockwool soundproofing insulation](https://www.homedepot.com/pep/ROCKWOOL-Safe-n-Sound-3-in-x-15-1-4-in-x-47-in-Soundproofing-and-Fire-Resistant-Stone-Wool-Insulation-Batt-59-7-sq-ft-RXSS31525/202531875)
 on the leftmost wall (bordering the kitchen), followed by [1 lb mass loaded vinyl](https://www.homedepot.com/p/Technoflex-4-ft-x-10-ft-x-1-8-in-1-lb-Technowall-Mass-Loaded-Vinyl-Soundproofing-Barrier-Acoustic-Wall-MLV104810/325283436)
 and finished up with [new plaster](https://www.masterclass.com/articles/plaster-vs-drywall-explained). 
@@ -61,7 +61,7 @@ rip off paint if the first paint coat doesn't cure long enough! *...Ask me how I
 
 ## Before & Afters
 
-I wanted the room to match the feel of our [newly redecorated living room](../2025-04-12-living-room).
+I wanted the room to vibe with our [newly redecorated living room](../2025-04-12-living-room). :rocket: Mission accomplished!
 
 ![Kid Bedroom](../assets/img/kidbedroom-before2.jpg){: .mx-auto.d-block :}
 
@@ -80,7 +80,7 @@ is non-trivial...* Updates to come!
 
 ## The Details
 
-Here are some of the cutesy fun projects I got to do in this room!
+Here are some fun projects we did in this room!
 
 ### Bulletin Board
 
@@ -95,11 +95,11 @@ polyurethane. :art: :artist: *Fun!*
 
 I'll admit... this was very extra. :shrug: I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
 cover the switchplates and [cable covers](https://www.amazon.com/dp/B07RZQXRQK) in [Benjamin Moore Lucerne](https://www.benjaminmoore.com/en-us/paint-colors/color/af-530/lucerne). 
-They look great, I didn't need to sand/prime/paint anything, and we can easily change it up (if ever needed).
+I didn't need to sand/prime/paint anything, and we can easily change up the color (if ever needed).
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate01.jpg){: .mx-auto.d-block :}
 
-Ah, so nice, though. C'mon. :lotus_position:
+Ah, so nice, though. :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate02.jpg){: .mx-auto.d-block :}
 
@@ -152,3 +152,8 @@ Stay tuned to see how I added handles to the wardrobe and arranged clothes into 
 | Ikea Brimnes [4-drawer chests](https://www.ikea.com/us/en/p/brimnes-4-drawer-chest-white-20572833) and [nightstands](https://www.ikea.com/us/en/p/brimnes-nightstand-white-10234942/) (SOLD)                          | +$200.00              | 
 | **TOTAL**                                                                                                                                                                                                             | **$8369.76**          | 
 
+Setting up our kid's room was the last piece of the **Big Move of 2025!** To move our bedroom
+upstairs into the [master bedroom](../2025-03-15-master-bedroom) :bed:, 
+we [built a custom wardrobe](../2025-03-01-wardrobe) :shirt: :dress: and
+[redesigned our living room](../2025-04-12-living-room) to accommodate the 
+relocated sleeper sofa :couch_and_lamp:. *Time to enjoy our new space!* :yellow_heart: :blue_heart: :orange_heart: :green_heart:
