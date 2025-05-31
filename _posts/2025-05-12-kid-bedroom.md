@@ -67,7 +67,7 @@ I wanted the room to vibe with our [newly redecorated living room](../2025-04-12
 
 ![Kid Bedroom](../assets/img/kidbedroom-after1.jpg){: .mx-auto.d-block :}
 
-And the side with the (former) closet. We moved our clothes into a 
+And here's the side with the (former) closet. We moved our clothes into a 
 [custom wardrobe](../2025-03-01-wardrobe)
 upstairs in the 
 [new master bedroom](../2025-03-15-master-bedroom).
