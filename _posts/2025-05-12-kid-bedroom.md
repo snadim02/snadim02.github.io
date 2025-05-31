@@ -32,7 +32,7 @@ your [back to the main door](https://www.thespruce.com/feng-shui-lucky-direction
 In the **new layout**, the bed is tucked against [the east wall](https://redlotusletter.com/the-east-corner-of-health-growth-and-family/)
 into a darker corner of the room. :sleeping: :moon: The 
 [view from all other seats](https://www.newsweek.com/feng-shui-expert-furnish-room-command-position-1602833) is also much better! There is still the potential for underbed 
-storage, and I found a great dresser for clothes. :shirt:
+storage, and I found a [great dresser](#dresserwardrobe) for clothes. :shirt:
 
 ![Kid Bedroom](../assets/img/kid_bedroom_layout2.jpg){: .mx-auto.d-block :}
 
