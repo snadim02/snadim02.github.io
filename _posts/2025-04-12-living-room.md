@@ -37,7 +37,7 @@ outlets. :bulb:
 
 We removed that [great-for-childproofing-tchotchkes wall shelf](https://www.wayfair.com/storage-organization/pdp/zipcode-design-girouard-6-piece-accent-shelf-w004780316.html) because I kept 
 hitting my head on it while picking up toys :face_with_head_bandage: :teddy_bear: and because it was blocking us from adding 
-curtains to the side window. :window: We moved the plants into these [rail-mounted planters](https://www.amazon.com/dp/B0D79J6FYR) :potted_plant: (*aren't they awesome?!*),
+curtains to the side window. :window: We moved the plants into [rail-mounted planters](https://www.amazon.com/dp/B0D79J6FYR) :potted_plant: (*aren't they awesome?!*),
 but kept the [toys in the same place](../2022-12-30-toys) since it's still the perfect spot for them. :jigsaw: :bricks:
 
 ## The Design
@@ -100,8 +100,7 @@ Success! :clap:
 
 ### :window: Bay Window Curtains
 
-Our [design renderings](#the-design) immediately convinced me to take on 
-this project. :star_struck: :tipping_hand_woman:
+Our [design renderings](#the-design) immediately convinced me that this project was worth it. :star_struck: :tipping_hand_woman:
 
 **Step 1. Planning! (of course)** I taped some [craft paper](https://www.michaels.com/product/paper-roll-by-recollections-24-x-20ft-10683716) to the ceiling of the bay window nook to copy the *exact size and angles*. :ladder: <br>
 **Step 2. Cut once, [curse twice](https://en.wiktionary.org/wiki/measure_twice_and_cut_once#English)?** :woman_facepalming:
@@ -117,8 +116,8 @@ I used my [tabletop saw with metal-cutting blade](https://www.amazon.com/dp/B071
 ### :deciduous_tree: Lighting in a Tree
 
 I had two (annoyingly placed) wall sconces removed and replaced with switch-operated outlets. The plant corner was too dark, though, 
-so I installed these [four Shepherd's hooks](https://www.amazon.com/dp/B0881LM5Z1) directly into the [plant pot](https://www.amazon.com/dp/B07CTD9SDS) and strung up 
-these [pendant light sockets](https://www.amazon.com/dp/B07XJN9KVR). 
+so I installed [four Shepherd's hooks](https://www.amazon.com/dp/B0881LM5Z1) directly into the [plant pot](https://www.amazon.com/dp/B07CTD9SDS) and strung up 
+[pendant light sockets](https://www.amazon.com/dp/B07XJN9KVR). 
 I [experimented](https://www.amazon.com/dp/B0DBPFFTNJ) with 
 [different](https://www.amazon.com/Gozelux-Equivalent-Dimmable-Brightness-Filament/dp/B0CLC8XRT4/ref=sr_1_1_sspa) 
 [bulbs](https://www.amazon.com/dp/B07ZJ9V7XJ), and finally settled on 
