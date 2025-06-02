@@ -55,13 +55,13 @@ didn't actually fit, but I like the vibe!
 
 ## The Details
 
-Home takes time. :house: Our living room is now in a semi-stable state, but I'll continue
+*Home takes time.* :stopwatch: :house: Our living room is now in a semi-stable state, but I'll continue
 to adapt it to fit our family's changing needs! **Keep reading** about my functional solutions
 for this room:
 - :framed_picture: [hanging a gallery wall](#evolution-of-the-gallery-wall-)
 - :couch_and_lamp: [leveling furniture on slanted floors](#3d-printed-furniture-levels) 
 - :window: [customizing bay window curtain rods](#bay-window-curtains) 
-- :deciduous_tree: [installing lighting in a tree](#lighting-in-a-tree)!
+- :deciduous_tree: [installing lighting in a tree](#lighting-in-a-tree)
 
 ### Evolution of the Gallery Wall 
 
