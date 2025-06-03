@@ -16,7 +16,7 @@ particular closet totally crushed the flow of the room. :face_with_spiral_eyes:
 
 ## :construction: **Page (and also the room! :zany_face:) under construction** :construction:
 
-**Jump ahead to read about** the [argument for axing the closet](#why-axe-the-closet),
+**Jump ahead to see** the [argument for axing the closet](#why-axe-the-closet),
 [before and after pictures](#before--afters), [construction process](#the-process), and all the [artsy details](#the-details)!
 
 ## Why axe the closet?
