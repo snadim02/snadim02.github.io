@@ -62,6 +62,7 @@ for this room:
 - :couch_and_lamp: [leveling furniture on slanted floors](#3d-printed-furniture-levels) 
 - :window: [customizing bay window curtain rods](#bay-window-curtains) 
 - :deciduous_tree: [installing lighting in a tree](#lighting-in-a-tree)
+- :hear_no_evil: [soundproofing a staircase](#soundproofing-the-staircase)
 
 ### Evolution of the Gallery Wall 
 
@@ -128,6 +129,17 @@ I [experimented](https://www.amazon.com/dp/B0DBPFFTNJ) with
 aren't blindingly bright at eye level :sunglasses:, and still look okay exposed during the daytime. :bulb:
 
 ![Living Room](../assets/img/livingroom-plantlight.jpg){: .mx-auto.d-block :}
+
+### Soundproofing the Staircase
+
+We live in a condo with neighbors below us and next to us. The neighbor who shares a wall
+with us [could hear every step we took up and down the stairs](https://www.reddit.com/r/HomeImprovement/comments/q20db4/best_way_to_soundproof_your_townhouse_from/). :ear: :hear_no_evil:
+I explained that there's no solution for [dampening impact noise](https://www.tmsoundproofing.com/understanding-impact-footstep-noise.html) that isn't cost prohibitive, 
+*but* I installed [polyester](https://unikavaev.com/blog/guide-to-sound-absorbing-acoustic-rugs/) [stair treads](https://www.amazon.com/dp/B0CR1F82LS) and added [acoustic panels](https://www.amazon.com/gp/product/B08CK83HPW) to the backs 
+of our mounted art in the stairwell anyway. Of course, this made no difference for our neighbor,
+but, it helped with [*our* perception of external noise](https://www.soundproofcow.com/application/residental-diy/)! :loud_sound: :loudspeaker:
+
+![Living Room](../assets/img/livingroom-soundproof.jpg){: .mx-auto.d-block :}
 
 ## Cost
 
