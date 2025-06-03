@@ -16,9 +16,8 @@ particular closet totally crushed the flow of the room. :face_with_spiral_eyes:
 
 ## :construction: **Page (and also the room! :zany_face:) under construction** :construction:
 
-**Jump ahead to read about** the [argument for axing the closet](#why-axe-the-closet), 
-[construction process](#the-process),
-[before and after pictures](#before--afters), and all the [artsy details](#the-details)!
+**Jump ahead to read about** the [argument for axing the closet](#why-axe-the-closet),
+[before and after pictures](#before--afters), [construction process](#the-process), and all the [artsy details](#the-details)!
 
 ## Why axe the closet?
 
@@ -40,25 +39,6 @@ storage, and I found a [great dresser](#dresserwardrobe) for clothes. :shirt:
 > [Cliff Tan's "Feng Shui Modern"](https://www.bloomsbury.com/us/feng-shui-modern-9781526639998/),
 > which validated what "felt right" and provided a fantastic framework for spatial arrangement! :lotus_position: :yin_yang: :relieved:
 
-## The Process
-
-**Step 1: Soundproofing.** The walls were empty/thin enough to hear someone rolling over in bed between the bedrooms. :ear:
-We added [Rockwool soundproofing insulation](https://www.homedepot.com/pep/ROCKWOOL-Safe-n-Sound-3-in-x-15-1-4-in-x-47-in-Soundproofing-and-Fire-Resistant-Stone-Wool-Insulation-Batt-59-7-sq-ft-RXSS31525/202531875)
-on the leftmost wall (bordering the kitchen), followed by [1 lb mass loaded vinyl](https://www.homedepot.com/p/Technoflex-4-ft-x-10-ft-x-1-8-in-1-lb-Technowall-Mass-Loaded-Vinyl-Soundproofing-Barrier-Acoustic-Wall-MLV104810/325283436)
-and finished up with [new plaster](https://www.masterclass.com/articles/plaster-vs-drywall-explained). 
-The other interior (drywall) walls got 
-[cellulose blown-in insulation](https://www.homedepot.com/pep/Greenfiber-25-lbs-Cellulose-Blown-In-Insulation-or-Spray-Applied-Insulation-INSSANC/311574454). :hear_no_evil: :shushing_face:  
-
-![Kid Bedroom](../assets/img/kidbedroom02.jpg){: .mx-auto.d-block :}
-
-**Step 2: Floor patching.** Matching the hardwood to patch the floor was the most annoying. 
-Luckily, contractors who demoed the [upstairs closet to make space for our wardrobe](../2025-03-01-wardrobe)
-pulled up some of the hardwood that we were able to patch in here.
-
-**Step 3: (Re)painting.** Turns out, *plaster needs to cure*
-before it can be painted, and [special primer](https://www.wickes.co.uk/Wickes-Trade-Matt-Emulsion-Paint-for-New-Plaster---Pure-Brilliant-White---10L/p/122443) needs to be used. Even [high quality painter's tape](https://www.frogtape.com/products/delicate-surface-painters-tape) will still 
-rip off paint if the first paint coat doesn't cure long enough! *...Ask me how I know...* :roll_eyes: :woozy_face:
-
 ## Before & Afters
 
 I wanted the room to vibe with our [newly redecorated living room](../2025-04-12-living-room). :rocket: Mission accomplished!
@@ -77,6 +57,25 @@ upstairs in the
 ![Kid Bedroom](../assets/img/kidbedroom-after2.jpg){: .mx-auto.d-block :}
 :point_up: *Turns out, priming and painting fresh plaster and using the right painters' tape
 is non-trivial...* Updates to come!
+
+## The Process
+
+**Step 1: Soundproofing.** The walls were empty/thin enough to hear someone rolling over in bed between the bedrooms. :ear:
+We added [Rockwool soundproofing insulation](https://www.homedepot.com/pep/ROCKWOOL-Safe-n-Sound-3-in-x-15-1-4-in-x-47-in-Soundproofing-and-Fire-Resistant-Stone-Wool-Insulation-Batt-59-7-sq-ft-RXSS31525/202531875)
+on the leftmost wall (bordering the kitchen), followed by [1 lb mass loaded vinyl](https://www.homedepot.com/p/Technoflex-4-ft-x-10-ft-x-1-8-in-1-lb-Technowall-Mass-Loaded-Vinyl-Soundproofing-Barrier-Acoustic-Wall-MLV104810/325283436)
+and finished up with [new plaster](https://www.masterclass.com/articles/plaster-vs-drywall-explained). 
+The other interior (drywall) walls got 
+[cellulose blown-in insulation](https://www.homedepot.com/pep/Greenfiber-25-lbs-Cellulose-Blown-In-Insulation-or-Spray-Applied-Insulation-INSSANC/311574454). :hear_no_evil: :shushing_face:  
+
+![Kid Bedroom](../assets/img/kidbedroom02.jpg){: .mx-auto.d-block :}
+
+**Step 2: Floor patching.** Matching the hardwood to patch the floor was the most annoying. 
+Luckily, contractors who demoed the [upstairs closet to make space for our wardrobe](../2025-03-01-wardrobe)
+pulled up some of the hardwood that we were able to patch in here.
+
+**Step 3: (Re)painting.** Turns out, *plaster needs to cure*
+before it can be painted, and [special primer](https://www.wickes.co.uk/Wickes-Trade-Matt-Emulsion-Paint-for-New-Plaster---Pure-Brilliant-White---10L/p/122443) needs to be used. Even [high quality painter's tape](https://www.frogtape.com/products/delicate-surface-painters-tape) will still 
+rip off paint if the first paint coat doesn't cure long enough! *...Ask me how I know...* :roll_eyes: :woozy_face:
 
 ## The Details
 
