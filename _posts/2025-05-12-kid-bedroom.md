@@ -41,7 +41,7 @@ storage, and I found a [great dresser](#dresserwardrobe) for clothes. :shirt:
 
 ## Before & Afters
 
-I wanted the room to vibe with our [newly redecorated living room](../2025-04-12-living-room). :rocket: Mission accomplished!
+I wanted the room to vibe with our [newly redecorated living room](../2025-04-12-living-room). *Mission accomplished!* :rocket: :yellow_heart: :blue_heart:
 
 ![Kid Bedroom](../assets/img/kidbedroom-before2.jpg){: .mx-auto.d-block :}
 
