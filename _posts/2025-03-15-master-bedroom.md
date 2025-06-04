@@ -89,7 +89,7 @@ labeled in the top drawer of the office credenza
 ...and in the
 [bedside cabinet](https://www.target.com/p/withania-2-door-cabinet-threshold-8482/-/A-89207299) 
 (using these [clear bins](https://www.amazon.com/dp/B07DFBSTFR), which I also use 
-for [toy organization](../2022-12-30-toys)). :notebook: :computer_mouse: :video_game:
+for [kids' art supplies](../2022-09-01-kids-artwork) and [toy organization](../2022-12-30-toys)). :notebook: :computer_mouse: :video_game:
 
 ![Master Bedroom Office Supplies](../assets/img/masterbed-officesupplies2.jpg){: .mx-auto.d-block :}
 
@@ -131,7 +131,8 @@ Here are prices for the *new* design for our master bedroom, but I include costs
 | full size violin (SOLD) |                 +$150 |
 | **TOTAL**                                                                                                                                                                                                                                 |          **$1079.29** |
 
-Here are the costs from the previous office space renovation in 2023:
+Here are the costs from the previous office space renovation in 2023, where I ~~crossed out~~ items that
+I've since sold or given away:
 
 | Materials (2023)                                                                                                                                       | Cost (+ tax/shipping) |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -139,14 +140,13 @@ Here are the costs from the previous office space renovation in 2023:
 | [6'x9' Loloi II "Clara" Pebble/Fiesta rug](https://www.amazon.com/Loloi-CLARCLA-07PPFD5377-Clara-Pebble-Fiesta/dp/B07QYX8S79)                          | $308.00               |
 | [birch tree wallpaper](https://www.wayfair.com/decor-pillows/pdp/millwood-pines-wunsch-birch-18-l-x-205-w-peel-and-stick-wallpaper-roll-mxwx1133.html) | $182.71               | 
 | cozy office chair (HomeSense)                                                                                                                          | $156.16               | 
-| [sofa end tables](https://www.amazon.com/gp/product/B0BLVPG6BV)                                                                                        | $151.48               |
-| [Poly & Bark Safie Mirror](https://www.amazon.com/dp/B093CFVPM6)                                                                                       | $116.88               |
-| [gold wall sconces](https://www.amazon.com/dp/B0B4J8V625)                                                                                              | $115.81               |
+| [~~sofa end tables~~](https://www.amazon.com/gp/product/B0BLVPG6BV)                                                                                    | $151.48               |
+| [~~Poly & Bark Safie mirror~~](https://www.amazon.com/dp/B093CFVPM6)                                                                                   | $116.88               |
+| [~~gold wall sconces~~](https://www.amazon.com/dp/B0B4J8V625)                                                                                          | $115.81               |
 | [piano seat with storage](https://www.amazon.com/dp/B07BJ4DW86)                                                                                        | $95.61                | 
 | [gold floor lamp](https://www.amazon.com/dp/B07TR3N7ZW)                                                                                                | $70.65                | 
 | 4 [sheet music folders](https://www.amazon.com/dp/B08R8SW845)                                                                                          | $59.29                | 
-| [pink seashell table lamp](https://www.amazon.com/dp/B0783YWGX6)                                                                                       | $48.98                | 
-| [black wall sconces](https://www.amazon.com/dp/B087T4ZY8N)                                                                                             | $43.55                | 
+| [pink seashell table lamp](https://www.amazon.com/dp/B0783YWGX6)                                                                                       | $48.98                |
 | [Macrame extra-long plant hanger](https://www.etsy.com/listing/803194558/plant-hanger-extra-long)                                                      | $39.67                | 
 | [self-watering pot for hanging fern](https://www.wayfair.com/outdoor/pdp/latitude-run-pollyanna-self-watering-resin-hanging-planter-w001369861.html)   | $31.54                | 
 | [6-quart clear bins](https://www.amazon.com/dp/B07DFBSTFR)                                                                                             | $30.80                | 
@@ -155,7 +155,7 @@ Here are the costs from the previous office space renovation in 2023:
 | [café curtain rod](https://www.amazon.com/dp/B00H2Q3LEC) and [café curtains](https://www.amazon.com/dp/B0CLGTVHPF)                                     | $20.85                |
 | [ceiling hook anchors](https://www.amazon.com/dp/B0C3WBWCZP)                                                                                           | $9.55                 | 
 | [flat cord extender](https://www.amazon.com/dp/B0C3HFXGKJ)                                                                                             | $6.36                 |
-| **TOTAL**                                                                                                                                              | **$1917.11**          |
+| **TOTAL**                                                                                                                                              | **$1873.56**          |
 
 Moving our master bedroom required [building a custom wardrobe](../2025-03-01-wardrobe) :shirt: :dress:, 
 [redesigning our living room](../2025-04-12-living-room) to accommodate the 
