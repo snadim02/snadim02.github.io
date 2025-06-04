@@ -154,7 +154,7 @@ couch again. The process snowballed into changing up the entire room. :shrug:
 
 Here's one last "after" pic, though, to convince you (/me?!) that it was *all worth it!* :heart_eyes:
 
-![Living Room](../assets/img/livingroom-afteragain.jpg){: .mx-auto.d-block :}
+![Living Room](../assets/img/livingroom-icon2.jpg){: .mx-auto.d-block :}
 
 | Materials                                                                                                                                                       | Cost (+ tax/shipping) | 
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
