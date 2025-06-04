@@ -137,13 +137,13 @@ with us [could hear every step we took up and down the stairs](https://www.reddi
 I explained that there's no solution for [dampening impact noise](https://www.tmsoundproofing.com/understanding-impact-footstep-noise.html) that isn't cost prohibitive, 
 *but* I installed [polyester](https://unikavaev.com/blog/guide-to-sound-absorbing-acoustic-rugs/) [stair treads](https://www.amazon.com/dp/B0CR1F82LS) and added [acoustic panels](https://www.amazon.com/gp/product/B08CK83HPW) to the backs 
 of our mounted art in the stairwell anyway. Of course, this made no difference for our neighbor,
-but, it helped with [*our* perception of external noise](https://www.soundproofcow.com/application/residental-diy/)! :loud_sound: :loudspeaker:
+but, it actually helped reduce [*our* perception of external noise](https://www.soundproofcow.com/application/residental-diy/)! :loud_sound: :loudspeaker:
 
 ![Living Room](../assets/img/livingroom-soundproof.jpg){: .mx-auto.d-block :}
 
 ## Cost
 
-Did I intend to redo the living room this year? *No!*
+Did I intend to redo the living room this year? *Nope.*
 Remember that we were already installing a 
 [custom wardrobe](../2025-03-01-wardrobe) and redoing the 
 [master bedroom](../2025-03-15-master-bedroom) and my [kiddo's bedroom](../2025-05-12-kid-bedroom) during the **Big Move of 2025**... :money_with_wings: 
