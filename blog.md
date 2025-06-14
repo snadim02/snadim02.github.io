@@ -7,7 +7,7 @@ subtitle: process optimization for every space
 <div class="scroll-container" id="scrollContainer">
   <a href="../2025-05-12-kid-bedroom"><img src="/assets/img/kidbedroom-icon.jpg" alt="Kid Bedroom" width="300" height="300"></a>
   <a href="../2025-04-12-living-room"><img src="/assets/img/livingroom-icon2.jpg" alt="Living Room" width="300" height="300"></a>
-  <a href="../2025-03-13-master-bedroom"><img src="/assets/img/masterbed-icon.jpg" alt="Master Bedroom" width="300" height="300"></a>
+  <a href="../2025-03-15-master-bedroom"><img src="/assets/img/masterbed-icon.jpg" alt="Master Bedroom" width="300" height="300"></a>
   <a href="../2025-03-01-wardrobe"><img src="/assets/img/wardrobe-icon2.jpg" alt="Wardrobe" width="300" height="300"></a>
   <a href="../2024-09-20-laundry"><img src="/assets/img/laundry-icon2.jpg" alt="Laundry Room" width="300" height="300"></a>
   <a href="../2024-08-15-entry-closet"><img src="/assets/img/entryway-icon.jpg" alt="Entry Closet" width="300" height="300"></a>
