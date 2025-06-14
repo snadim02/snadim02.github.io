@@ -13,16 +13,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <style>
-  .scroll-container {
-    background-color: #333;
-    overflow-x: auto;
-    overflow-y: hidden;
-    white-space: nowrap;
-    padding: 5px;
-    max-width: 100%;
-    box-sizing: border-box;
-    -webkit-overflow-scrolling: touch; /* enables smooth scroll on iOS */
-  }
+.scroll-container {
+  background-color: #333;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  padding: 5px;
+  max-width: 100%;
+  min-width: 100%;
+  display: block;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+}
 
   .scroll-container img {
     height: auto;

@@ -21,6 +21,9 @@ subtitle: process optimization for every space
   <a href="../2022-01-18-linens"><img src="/assets/img/linens-icon.jpg" alt="Linen Closet" width="300" height="300"></a>
 </div>
 
+<button onclick="document.getElementById('scrollContainer').scrollLeft += 50;">Scroll</button>
+
+
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     const container = document.getElementById('scrollContainer');
