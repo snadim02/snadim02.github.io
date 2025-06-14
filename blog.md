@@ -17,7 +17,7 @@ subtitle: process optimization for every space
   <a href="../2023-06-01-fireplace"><img src="/assets/img/fireplace-icon2.jpg" alt="Fireplace" width="300" height="300"></a>
   <a href="../2022-12-30-toys"><img src="/assets/img/toys-icon.jpg" alt="Toys" width="300" height="300"></a>
   <a href="../2022-09-01-kids-artwork"><img src="/assets/img/artwork-icon.jpg" alt="Artwork" width="300" height="300"></a>
-  <a href="../2022-06-25-bathroom"><img src="/assets/img/bathroom-icon.jpg" alt="Downstairs Bathroom" width="300" height="300"></a>
+  <a href="../2022-06-25-bathroom-reno"><img src="/assets/img/bathroom-icon.jpg" alt="Downstairs Bathroom" width="300" height="300"></a>
   <a href="../2022-01-18-linens"><img src="/assets/img/linens-icon.jpg" alt="Linen Closet" width="300" height="300"></a>
 </div>
 
