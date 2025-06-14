@@ -68,3 +68,5 @@ You get it. [Maybe](https://www.americanprogress.org/article/covid-19-pandemic-f
 *independently find and use their stuff* safely and *put it away themselves* was essential for life but also, turns out, an 
 [essential form of selfcare for me](https://www.nature.com/articles/s44220-024-00268-4). 
 Our friends have been so delighted by some of my systems that they've encouraged me to share my ideas with you all. Hope you enjoy!
+
+---
