@@ -12,30 +12,34 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <style>
+<style>
 .scroll-container {
-  background-color: #333;
-  overflow-x: auto;
+  background-color: #eee;
+  display: block;
+  overflow-x: scroll;
   overflow-y: hidden;
   white-space: nowrap;
   padding: 5px;
   max-width: 100%;
-  min-width: 100%;
-  display: block;
   -webkit-overflow-scrolling: touch;
-  scroll-behavior: smooth;
+  scroll-behavior: auto; /* not smooth – smoother for JS animation */
 }
 
-  .scroll-container img {
-    height: auto;
-    width: 80vw;   /* 80% of viewport width on small screens */
-    max-width: 400px;
-    height: auto;
-    display: inline-block;
-    padding: 10px;
-    box-sizing: border-box;
-  }
-  </style>
+.scroll-container a {
+  display: inline-block;
+}
+
+.scroll-container img {
+  height: auto;
+  width: 80vw;
+  max-width: 400px;
+  padding: 10px;
+  object-fit: cover;
+  vertical-align: middle;
+  user-select: none;
+  pointer-events: none;
+}
+</style>
 
   {% capture pagetitle %}
     {%- if page.share-title -%}

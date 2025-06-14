@@ -21,40 +21,37 @@ subtitle: process optimization for every space
   <a href="../2022-01-18-linens"><img src="/assets/img/linens-icon.jpg" alt="Linen Closet" width="300" height="300"></a>
 </div>
 
-<button onclick="document.getElementById('scrollContainer').scrollLeft += 50;">Scroll</button>
-
-
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const container = document.getElementById('scrollContainer');
-    const items = Array.from(container.children);
-    const shuffled = items.sort(() => Math.random() - 0.5);
-    container.innerHTML = '';
-    shuffled.forEach(el => container.appendChild(el));
-  });
-</script>
+document.addEventListener('DOMContentLoaded', function () {
+  const container = document.getElementById('scrollContainer');
+  let scrollSpeed = 0.5;
+  let isPaused = false;
 
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const container = document.getElementById('scrollContainer');
-    let scrollSpeed = 0.5;
-    let isPaused = false;
+  // Only scroll if content overflows
+  function canScroll() {
+    return container.scrollWidth > container.clientWidth;
+  }
 
-    function autoScroll() {
-      if (!isPaused) {
-        container.scrollLeft += scrollSpeed;
-        if (container.scrollLeft + container.clientWidth >= container.scrollWidth - 1) {
-          container.scrollLeft = 0;
-        }
+  function autoScroll() {
+    if (!isPaused && canScroll()) {
+      container.scrollLeft += scrollSpeed;
+      if (container.scrollLeft + container.clientWidth >= container.scrollWidth - 1) {
+        container.scrollLeft = 0; // loop
       }
-      requestAnimationFrame(autoScroll);
     }
+    requestAnimationFrame(autoScroll);
+  }
 
-    container.addEventListener('mouseenter', () => isPaused = true);
-    container.addEventListener('mouseleave', () => isPaused = false);
+  // Pause on hover (desktop only)
+  container.addEventListener('mouseenter', () => isPaused = true);
+  container.addEventListener('mouseleave', () => isPaused = false);
 
-    autoScroll();
-  });
+  // Prevent slowdown for touch scroll
+  container.addEventListener('touchstart', () => isPaused = true);
+  container.addEventListener('touchend', () => isPaused = false);
+
+  setTimeout(autoScroll, 300); // Let layout settle
+});
 </script>
 
 **The backstory.** Part of what draws me to Computer Science research is my general love of thinking about optimal solutions given a set of 
