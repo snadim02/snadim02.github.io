@@ -4,6 +4,56 @@ title: Home, Refactored
 subtitle: process optimization for every space
 ---
 
+<div class="scroll-container" id="scrollContainer">
+  <a href="../2025-05-12-kid-bedroom"><img src="/assets/img/kidbedroom-icon.jpg" alt="Kid Bedroom" width="400" height="400"></a>
+  <a href="../2025-04-12-living-room"><img src="/assets/img/livingroom-icon2.jpg" alt="Living Room" width="400" height="400"></a>
+  <a href="../2025-03-13-master-bedroom"><img src="/assets/img/masterbed-icon.jpg" alt="Master Bedroom" width="400" height="400"></a>
+  <a href="../2025-03-01-wardrobe"><img src="/assets/img/wardrobe-icon2.jpg" alt="Wardrobe" width="400" height="400"></a>
+  <a href="../2024-09-20-laundry"><img src="/assets/img/laundry-icon2.jpg" alt="Laundry Room" width="400" height="400"></a>
+  <a href="../2024-08-15-entry-closet"><img src="/assets/img/entryway-icon.jpg" alt="Entry Closet" width="400" height="400"></a>
+  <a href="../2024-06-26-laundry"><img src="/assets/img/laundry-icon.jpg" alt="Utility Room" width="400" height="400"></a>
+  <a href="../2024-03-31-jars"><img src="/assets/img/jars01.jpg" alt="Labeled Jars" width="400" height="400"></a>
+  <a href="../2024-02-01-storage-unit"><img src="/assets/img/storageunit-icon.jpg" alt="Storage Unit" width="400" height="400"></a>
+  <a href="../2023-06-01-fireplace"><img src="/assets/img/fireplace-icon2.jpg" alt="Fireplace" width="400" height="400"></a>
+  <a href="../2022-12-30-toys"><img src="/assets/img/toys-icon.jpg" alt="Toys" width="400" height="400"></a>
+  <a href="../2022-09-01-kids-artwork"><img src="/assets/img/artwork-icon.jpg" alt="Artwork" width="400" height="400"></a>
+  <a href="../2022-06-25-bathroom"><img src="/assets/img/bathroom-icon.jpg" alt="Downstairs Bathroom" width="400" height="400"></a>
+  <a href="../2022-01-18-linens"><img src="/assets/img/linens-icon.jpg" alt="Linen Closet" width="400" height="400"></a>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const container = document.getElementById('scrollContainer');
+    const items = Array.from(container.children);
+    const shuffled = items.sort(() => Math.random() - 0.5);
+    container.innerHTML = '';
+    shuffled.forEach(el => container.appendChild(el));
+  });
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const container = document.getElementById('scrollContainer');
+    let scrollSpeed = 0.5;
+    let isPaused = false;
+
+    function autoScroll() {
+      if (!isPaused) {
+        container.scrollLeft += scrollSpeed;
+        if (container.scrollLeft + container.clientWidth >= container.scrollWidth - 1) {
+          container.scrollLeft = 0;
+        }
+      }
+      requestAnimationFrame(autoScroll);
+    }
+
+    container.addEventListener('mouseenter', () => isPaused = true);
+    container.addEventListener('mouseleave', () => isPaused = false);
+
+    autoScroll();
+  });
+</script>
+
 **The backstory.** Part of what draws me to Computer Science research is my general love of thinking about optimal solutions given a set of 
 constraints, and testing out (and measuring the success of) new ideas :balance_scale: :chart_with_upwards_trend:. I like playing strategy board games :chess_pawn:, 
 grouping errands to minimize travel time and distance :world_map: :stopwatch:, and packing *exactly* without excess :briefcase:.
