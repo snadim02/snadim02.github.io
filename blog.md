@@ -24,10 +24,17 @@ subtitle: process optimization for every space
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   const container = document.getElementById('scrollContainer');
+
+  // --- RANDOMIZE IMAGE ORDER ---
+  const children = Array.from(container.children);
+  const shuffled = children.sort(() => Math.random() - 0.5);
+  container.innerHTML = '';
+  shuffled.forEach(child => container.appendChild(child));
+
+  // --- AUTO-SCROLL ---
   let scrollSpeed = 0.5;
   let isPaused = false;
 
-  // Only scroll if content overflows
   function canScroll() {
     return container.scrollWidth > container.clientWidth;
   }
@@ -36,23 +43,21 @@ document.addEventListener('DOMContentLoaded', function () {
     if (!isPaused && canScroll()) {
       container.scrollLeft += scrollSpeed;
       if (container.scrollLeft + container.clientWidth >= container.scrollWidth - 1) {
-        container.scrollLeft = 0; // loop
+        container.scrollLeft = 0;
       }
     }
     requestAnimationFrame(autoScroll);
   }
 
-  // Pause on hover (desktop only)
   container.addEventListener('mouseenter', () => isPaused = true);
   container.addEventListener('mouseleave', () => isPaused = false);
-
-  // Prevent slowdown for touch scroll
   container.addEventListener('touchstart', () => isPaused = true);
   container.addEventListener('touchend', () => isPaused = false);
 
-  setTimeout(autoScroll, 300); // Let layout settle
+  setTimeout(autoScroll, 300);
 });
 </script>
+
 
 **The backstory.** Part of what draws me to Computer Science research is my general love of thinking about optimal solutions given a set of 
 constraints, and testing out (and measuring the success of) new ideas :balance_scale: :chart_with_upwards_trend:. I like playing strategy board games :chess_pawn:, 
