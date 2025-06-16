@@ -60,21 +60,25 @@ by installing [monitor posts](https://www.amazon.com/dp/B0DCLHMFGX) and
 
 ### The Printers
 How sneaky is this!? I hid the [**3D printer**](https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/) inside 
-the [sideboard](https://www.wayfair.com/organization-storage/pdp/loon-peak-bettye-1-drawer-credenza-w004342388.html) 
+the [office credenza](https://www.wayfair.com/organization-storage/pdp/loon-peak-bettye-1-drawer-credenza-w004342388.html) 
 on a slide-out printer tray blocked with [café curtains](https://www.amazon.com/dp/B0CLGTVHPF). :ninja: :star_struck:
 
 ![Master Bedroom 3D Printer](../assets/img/masterbed-3dprinter.jpg){: .mx-auto.d-block :}
-:point_up: *The printer works perfectly while tucked away, and the curtain [blocks drafts](https://www.reddit.com/r/3Dprinting/comments/1agk4aw/is_there_any_problem_of_leaving_my_3d_printer_in/), too!*
+:point_up: *The printer works perfectly while tucked away, 
+and the curtain [blocks drafts](https://www.reddit.com/r/3Dprinting/comments/1agk4aw/is_there_any_problem_of_leaving_my_3d_printer_in/), too!*
 
-Our regular **laserjet printer** is also hidden in the middle section of the side table, 
+Our regular **laserjet printer** is also hidden in the middle section of 
+the office credenza, 
 and I arranged my paper types for easier DIY labeling. :printer:
 
 ![Master Bedroom Hidden Printer](../assets/img/masterbed-hiddenprinter.jpg){: .mx-auto.d-block :}
 
 ### File Storage
 
-Guess who's [no longer pointlessly holding onto](https://shiragill.com/paperwork-organization-simplified/) 12-year-old rental leases?! Me!! :raising_hand_woman: ...As of two weeks ago. :grimacing:
-I whittled down an enormous 2-drawer file cabinet of junk into this single crate. :file_cabinet:
+Guess who's [no longer pointlessly holding onto](https://shiragill.com/paperwork-organization-simplified/) 12-year-old rental leases?! 
+Me!! :raising_hand_woman: ...As of two weeks ago. :grimacing:
+I whittled down an enormous 2-drawer file cabinet of junk into this 
+single crate. :file_cabinet:
 
 ![Master Bedroom File Crate](../assets/img/masterbed-files.jpg){: .mx-auto.d-block :}
 
