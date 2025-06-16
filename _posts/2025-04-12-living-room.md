@@ -135,7 +135,7 @@ aren't blindingly bright at eye level :sunglasses:, and still look okay exposed 
 We live in a condo unit above and next to others. The neighbor who shares a wall
 with us [could hear every step we took](https://www.reddit.com/r/HomeImprovement/comments/q20db4/best_way_to_soundproof_your_townhouse_from/) up and down the stairs. :ear: :hear_no_evil:
 After discussing the feasibility of different [solutions for dampening impact noise](https://www.tmsoundproofing.com/understanding-impact-footstep-noise.html) :cityscape:,
-I installed [polyester](https://unikavaev.com/blog/guide-to-sound-absorbing-acoustic-rugs/) [stair treads](https://www.amazon.com/dp/B0CR1F82LS) and added [acoustic panels](https://www.amazon.com/gp/product/B08CK83HPW) to the 
+I decided to install [polyester](https://unikavaev.com/blog/guide-to-sound-absorbing-acoustic-rugs/) [stair treads](https://www.amazon.com/dp/B0CR1F82LS) and [acoustic panels](https://www.amazon.com/gp/product/B08CK83HPW) to the 
 backs of our stairwell art. Unfortunately (though, unsurprisingly), this
 made no difference for our neighbor,
 *but* it helped reduce [*our* perception of external noise](https://www.soundproofcow.com/application/residental-diy/)! :loud_sound: :loudspeaker:
