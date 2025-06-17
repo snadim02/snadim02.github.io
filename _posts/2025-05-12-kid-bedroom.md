@@ -101,7 +101,7 @@ I didn't need to sand/prime/paint anything, and we can easily change up the colo
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate01.jpg){: .mx-auto.d-block :}
 
-Ah, so nice... :lotus_position:
+Ah, so satisfying... :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate02.jpg){: .mx-auto.d-block :}
 
