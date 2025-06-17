@@ -55,6 +55,7 @@ upstairs in the
 ![Kid Bedroom](../assets/img/kidbedroom-before1.jpg){: .mx-auto.d-block :}
 
 ![Kid Bedroom](../assets/img/kidbedroom-after3.jpg){: .mx-auto.d-block :}
+*:point_up: And yes, those [stars glow in the dark](#glow-in-the-dark-stars)!*
 
 ## The Process
 
@@ -123,8 +124,8 @@ hanger to lengthen it.
 
 ### Glow-in-the-Dark Stars
 
-I have to admit that the '90s had something going for it design-wise, though... [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
-My kid *loves them*. Putting these up is not for the faint of heart; you have to stick adhesive putty on each one individually... :unamused: :face_exhaling:
+I have to admit that the '90s had something going for it design-wise: [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
+My kid *loves them*. Putting these up is not for the faint of heart, though... you have to stick adhesive putty on each one individually... :unamused: :face_exhaling:
 
 ### Dresser/Wardrobe
 
