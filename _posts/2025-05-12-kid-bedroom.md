@@ -107,7 +107,7 @@ Ah, so satisfying... :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-cablecover.jpg){: .mx-auto.d-block :}
 
-### Hanging Plant
+### Hanging Planter 
 
 Apparently [this fantastic color](https://vintageunscripted.com/10-decades-of-color-the-1970s/#:~:text=The%201970s%20was%20the%20first%20great%20houseplant%20collecting%20era) is *vintage 70s*, 
 which I'm starting to realize is my favorite decade for design. 🪩 :man_dancing:
