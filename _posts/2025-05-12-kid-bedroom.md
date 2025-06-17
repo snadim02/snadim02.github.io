@@ -120,7 +120,7 @@ hanger.
 
 ### Glow-in-the-Dark Stars
 
-I have to admit that the '90s had *one* thing going right, though... [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
+I have to admit that the '90s had *one* thing going for it design-wise, though... [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
 My kid *loves them*. Putting these up is not for the faint of heart, though. You have to stick adhesive putty on each one yourself... :unamused: :face_exhaling:
 
 ### Dresser/Wardrobe
