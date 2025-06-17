@@ -127,6 +127,8 @@ hanger to lengthen it.
 I have to admit that the '90s had something going for it design-wise: [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
 My kid *loves them*. Putting these up is not for the faint of heart, though... you have to stick adhesive putty on each one individually... :unamused: :face_exhaling:
 
+![Kid Bedroom](../assets/img/kidbedroom-stars.jpg){: .mx-auto.d-block :}
+
 ### Dresser/Wardrobe
 
 Stay tuned to see how I added handles to the wardrobe and arranged clothes into clothes bins!
