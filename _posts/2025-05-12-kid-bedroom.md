@@ -114,7 +114,7 @@ which I'm starting to realize is my favorite decade for design. 🪩 :man_dancin
 The [macramé hanger](https://www.etsy.com/listing/1269880196/no-tassel-macrame-plant-hanger-in-colors?variation0=2803425809&variation1=2836434719) was shorter than I expected, 
 so I drilled holes through
 some [wooden craft balls](https://www.michaels.com/product/wood-head-beads-by-creatology-10334889) and strung them onto the 
-hanger. 
+hanger to lengthen it. 
 
 ![Kid Bedroom](../assets/img/kidbedroom-planthanger.jpg){: .mx-auto.d-block :}
 
