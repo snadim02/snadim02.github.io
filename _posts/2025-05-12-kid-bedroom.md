@@ -89,6 +89,9 @@ red acrylic paint and sealed it with
 polyurethane. :art: :artist: *How fun!*
 
 ![Kid Bedroom](../assets/img/kidbedroom-bulletinboard.jpg){: .mx-auto.d-block :}
+:point_up: *An aside, a [sturdy workbench](https://havenly.com/products/details/Workbench-Rolling-Workbenches-For-Garage-Adjustable-Height-Wayfair-143767843) 
+is WAY more functional for art projects, crafts, and Lego building than a traditional desk. 
+You can also adjust the height as they grow and eventually use it for homework and/or a computer.*
 
 ### Switchplates
 
