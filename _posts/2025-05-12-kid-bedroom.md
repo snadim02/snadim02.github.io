@@ -3,8 +3,8 @@ layout: post
 title: Turns out, the closet was the problem
 subtitle: so I purged that too!
 thumbnail-img: /assets/img/kidbedroom-icon.jpg
-cover-img: /assets/img/kidbedroom-after1.jpg
-share-img: /assets/img/kidbedroom-after1.jpg
+cover-img: /assets/img/kidbedroom-cover.jpg
+share-img: /assets/img/kidbedroom-cover.jpg
 tags: [big kid design, bedroom, closet, clothes storage]
 #author: Shilpa Kobren
 ---
@@ -45,7 +45,7 @@ I wanted the room to vibe with our [newly redecorated living room](../2025-04-12
 
 ![Kid Bedroom](../assets/img/kidbedroom-before2.jpg){: .mx-auto.d-block :}
 
-![Kid Bedroom](../assets/img/kidbedroom-after1.jpg){: .mx-auto.d-block :}
+![Kid Bedroom](../assets/img/kidbedroom-after1b.jpg){: .mx-auto.d-block :}
 
 And here's the side with the (former) closet. We moved our clothes into a 
 [custom wardrobe](../2025-03-01-wardrobe)
@@ -54,9 +54,7 @@ upstairs in the
 
 ![Kid Bedroom](../assets/img/kidbedroom-before1.jpg){: .mx-auto.d-block :}
 
-![Kid Bedroom](../assets/img/kidbedroom-after2.jpg){: .mx-auto.d-block :}
-:point_up: *Turns out, priming and painting fresh plaster and using the right painters' tape
-is non-trivial...* Updates to come!
+![Kid Bedroom](../assets/img/kidbedroom-after3.jpg){: .mx-auto.d-block :}
 
 ## The Process
 
@@ -65,17 +63,19 @@ We added [Rockwool soundproofing insulation](https://www.homedepot.com/pep/ROCKW
 on the leftmost wall (bordering the kitchen), followed by [1 lb mass loaded vinyl](https://www.homedepot.com/p/Technoflex-4-ft-x-10-ft-x-1-8-in-1-lb-Technowall-Mass-Loaded-Vinyl-Soundproofing-Barrier-Acoustic-Wall-MLV104810/325283436)
 and finished up with [new plaster](https://www.masterclass.com/articles/plaster-vs-drywall-explained). 
 The other interior (drywall) walls got 
-[cellulose blown-in insulation](https://www.homedepot.com/pep/Greenfiber-25-lbs-Cellulose-Blown-In-Insulation-or-Spray-Applied-Insulation-INSSANC/311574454). :hear_no_evil: :shushing_face:  
-
-![Kid Bedroom](../assets/img/kidbedroom02.jpg){: .mx-auto.d-block :}
+[cellulose blown-in insulation](https://www.homedepot.com/pep/Greenfiber-25-lbs-Cellulose-Blown-In-Insulation-or-Spray-Applied-Insulation-INSSANC/311574454). :hear_no_evil: :shushing_face:
 
 **Step 2: Floor patching.** Matching the hardwood to patch the floor was the most annoying. 
 Luckily, contractors who demoed the [upstairs closet to make space for our wardrobe](../2025-03-01-wardrobe)
 pulled up some of the hardwood that we were able to patch in here.
 
+![Kid Bedroom](../assets/img/kidbedroom02.jpg){: .mx-auto.d-block :}
+
 **Step 3: (Re)painting.** Turns out, *plaster needs to cure*
 before it can be painted, and [special primer](https://www.wickes.co.uk/Wickes-Trade-Matt-Emulsion-Paint-for-New-Plaster---Pure-Brilliant-White---10L/p/122443) needs to be used. Even [high quality painter's tape](https://www.frogtape.com/products/delicate-surface-painters-tape) will still 
 rip off paint if the first paint coat doesn't cure long enough! *...Ask me how I know...* :roll_eyes: :woozy_face:
+
+![Kid Bedroom](../assets/img/kidbedroom-paint.jpg){: .mx-auto.d-block :}
 
 ## The Details
 
@@ -101,6 +101,27 @@ I didn't need to sand/prime/paint anything, and we can easily change up the colo
 Ah, so nice... :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate02.jpg){: .mx-auto.d-block :}
+
+![Kid Bedroom](../assets/img/kidbedroom-cablecover.jpg){: .mx-auto.d-block :}
+
+### Hanging Plant
+
+Apparently [this fantastic color](https://vintageunscripted.com/10-decades-of-color-the-1970s/#:~:text=The%201970s%20was%20the%20first%20great%20houseplant%20collecting%20era) is *vintage 70s*, 
+which I'm starting to realize is my favorite decade for design. 🪩 :man_dancing:
+The [macramé hanger](https://www.etsy.com/listing/1269880196/no-tassel-macrame-plant-hanger-in-colors?variation0=2803425809&variation1=2836434719) was shorter than I expected, 
+so I drilled holes through
+some [wooden craft balls](https://www.michaels.com/product/wood-head-beads-by-creatology-10334889) and strung them onto the 
+hanger. 
+
+![Kid Bedroom](../assets/img/kidbedroom-planthanger.jpg){: .mx-auto.d-block :}
+
+![Vintage Macrame Hangers](https://vintageunscripted.com/wp-content/uploads/2023/10/Macrame.jpg){: .mx-auto.d-block :}
+<center>:point_up: <i>From <a href="https://vintageunscripted.com/10-decades-of-color-the-1970s">Vintage Unscripted</a>, 1970s-style macramé plant hangers.</i></center>
+
+### Glow-in-the-Dark Stars
+
+I have to admit that the '90s had *one* thing going right, though... [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
+My kid *loves them*. Putting these up is not for the faint of heart, though. You have to stick adhesive putty on each one yourself... :unamused: :face_exhaling:
 
 ### Dresser/Wardrobe
 
@@ -133,7 +154,7 @@ Stay tuned to see how I added handles to the wardrobe and arranged clothes into 
 | [3'x4' bulletin board](https://www.amazon.com/dp/B09GYQ88L9)                                                                                                                                                          | $49.82                | 
 | [paint sample sticky sheets](https://samplize.com/products/lucerne-af-530-12x12)                                                                                                                                      | $46.88                | 
 | wardrobe (FB Marketplace)                                                                                                                                                                                             | $35.00                | 
-| [rust macrame plant hanger](https://www.etsy.com/listing/1269880196/no-tassel-macrame-plant-hanger-in-colors?variation0=2803425809&variation1=2836434719) | $34.59 |
+| [rust macrame plant hanger](https://www.etsy.com/listing/1269880196/no-tassel-macrame-plant-hanger-in-colors?variation0=2803425809&variation1=2836434719) | $34.59                |
 | [Loloi Not Named rust/multi throw pillow](https://havenly.com/products/details/Loloi-Not-Named-Rust-Multi-12-x-27-Cover-w-Poly-Loloi-Rugs-149052879)                                                                  | $33.60                | 
 | [laminated world map](https://www.amazon.com/dp/0792283090)                                                                                                                                                           | $31.82                | 
 | [mattress protector](https://www.amazon.com/dp/B08P2RG7ZM)                                                                                                                                                            | $30.70                | 
@@ -145,11 +166,13 @@ Stay tuned to see how I added handles to the wardrobe and arranged clothes into 
 | [anti-tip furniture anchors](https://www.amazon.com/dp/B092332ZM7) for wardrobe                                                                                                                                       | $8.49                 |
 | [poster-hanging command strips](https://www.amazon.com/dp/B00BT0MW4W) | $7.35                 |
 | [red thumb tacks](https://www.amazon.com/dp/B073TW1G8G)                                                                                                                                                               | $6.62                 |
+| [wooden craft beads](https://www.michaels.com/product/wood-head-beads-by-creatology-10334889) | $2.41                 |
+| [Ikea fake potted fern](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-fern-30433945/) (already had) | 0 |
 | red acrylic paint for bulletin board border (already had)                                                                                                                                                             | 0                     | 
 | water-based polyurethane (already had)                                                                                                                                                                                | 0                     | 
 | [white wool rug](https://www.amazon.com/Hauteloom-Huddlesford-Boho-Woven-Textured/dp/B086CDXF8N) (SOLD)                                                                                                               | +$75.00               |
 | Ikea Brimnes [4-drawer chests](https://www.ikea.com/us/en/p/brimnes-4-drawer-chest-white-20572833) and [nightstands](https://www.ikea.com/us/en/p/brimnes-nightstand-white-10234942/) (SOLD)                          | +$200.00              | 
-| **TOTAL**                                                                                                                                                                                                             | **$8369.76**          | 
+| **TOTAL**                                                                                                                                                                                                             | **$8372.17**          | 
 
 Setting up our kid's room was the last big project of our **Big Move of 2025!** To relocate our bedroom
 upstairs into the [master bedroom](../2025-03-15-master-bedroom) :bed:, 
