@@ -101,7 +101,7 @@ My kid *loves them*. Putting these up is not for the faint of heart, though... y
 
 ![Kid Bedroom](../assets/img/kidbedroom-stars.jpg){: .mx-auto.d-block :}
 
-### Switchplates
+### Camouflaged Utility Covers
 
 I'll admit... this was extra. :shrug: I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
 cover the switchplates and [cable covers](https://www.amazon.com/dp/B07RZQXRQK) in [Benjamin Moore Lucerne](https://www.benjaminmoore.com/en-us/paint-colors/color/af-530/lucerne). 
@@ -115,8 +115,8 @@ Ah, so satisfying... :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-cablecover.jpg){: .mx-auto.d-block :}
 
-This decision was functional as well as aesthetic. The extension cord tangled up in fitted sheets, the 
-bed frame, or under our robot vacuum until I installed the cable cover and wall-mounted the outlet block.
+This decision was functional as well as aesthetic. The [extension cord](https://www.amazon.com/dp/B0DPKKMPBD) tangled up in fitted sheets, the 
+bed frame, or under our robot vacuum until I installed the [cable cover](https://www.amazon.com/dp/B07BB1YDML) and wall-mounted the outlet block. :electric_plug:
 
 ### Hanging Planter 
 
@@ -170,18 +170,19 @@ Stay tuned to see how I added handles to the wardrobe and arranged clothes into 
 | [2-pack queen/standard pillows](https://www.amazon.com/dp/B09DSRLTQH)                                                                                                                                                 | $28.68                | 
 | [glow-in-the-dark stick on stars](https://www.amazon.com/dp/B00009ENDT)                                                                                                                                               | $22.74                | 
 | [handles for wardrobe](https://www.amazon.com/gp/product/B09K3PW3N8)                                                                                                                                                  | $18.05                | 
+| [cable covers](https://www.amazon.com/dp/B07BB1YDML) | $18.03                |
 | [10' extension cord](https://www.amazon.com/dp/B0DPKKMPBD)                                                                                                                                                            | $14.86                | 
 | [2-pack pillow protectors](https://www.amazon.com/dp/B08GKKKJ1H)                                                                                                                                                      | $8.60                 | 
 | [anti-tip furniture anchors](https://www.amazon.com/dp/B092332ZM7) for wardrobe                                                                                                                                       | $8.49                 |
 | [poster-hanging command strips](https://www.amazon.com/dp/B00BT0MW4W) | $7.35                 |
 | [red thumb tacks](https://www.amazon.com/dp/B073TW1G8G)                                                                                                                                                               | $6.62                 |
 | [wooden craft beads](https://www.michaels.com/product/wood-head-beads-by-creatology-10334889) | $2.41                 |
-| [Ikea fake potted fern](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-fern-30433945/) (already had) | 0 |
+| [Ikea fake potted fern](https://www.ikea.com/us/en/p/fejka-artificial-potted-plant-indoor-outdoor-fern-30433945/) (already had) | 0                     |
 | red acrylic paint for bulletin board border (already had)                                                                                                                                                             | 0                     | 
 | water-based polyurethane (already had)                                                                                                                                                                                | 0                     | 
 | [white wool rug](https://www.amazon.com/Hauteloom-Huddlesford-Boho-Woven-Textured/dp/B086CDXF8N) (SOLD)                                                                                                               | +$75.00               |
 | Ikea Brimnes [4-drawer chests](https://www.ikea.com/us/en/p/brimnes-4-drawer-chest-white-20572833) and [nightstands](https://www.ikea.com/us/en/p/brimnes-nightstand-white-10234942/) (SOLD)                          | +$200.00              | 
-| **TOTAL**                                                                                                                                                                                                             | **$8372.17**          | 
+| **TOTAL**                                                                                                                                                                                                             | **$8390.20**          | 
 
 Setting up our kid's room was the last big project of our **Big Move of 2025!** To relocate our bedroom
 upstairs into the [master bedroom](../2025-03-15-master-bedroom) :bed:, 
