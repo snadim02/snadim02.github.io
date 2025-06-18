@@ -80,7 +80,7 @@ rip off paint if the first paint coat doesn't cure long enough! *...Ask me how I
 
 ## The Details
 
-And now for the little projects that make this space feel like home! :blush:
+And now for the little projects that make this space feel special for my :boy:! :blush:
 
 ### Bulletin Board
 
@@ -93,6 +93,13 @@ polyurethane. :art: :artist: *How fun!*
 :point_up: *An aside, a [sturdy workbench](https://havenly.com/products/details/Workbench-Rolling-Workbenches-For-Garage-Adjustable-Height-Wayfair-143767843) 
 is WAY more functional for art projects, crafts, and Lego building than a traditional desk. 
 You can also adjust the height as kids grow and eventually use it for homework and/or a computer.*
+
+### Glow-in-the-Dark Stars
+
+I have to admit that the '90s had something going for it design-wise: [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
+My kid *loves them*. Putting these up is not for the faint of heart, though... you have to stick adhesive putty on each one individually... :unamused: :face_exhaling:
+
+![Kid Bedroom](../assets/img/kidbedroom-stars.jpg){: .mx-auto.d-block :}
 
 ### Switchplates
 
@@ -108,6 +115,9 @@ Ah, so satisfying... :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-cablecover.jpg){: .mx-auto.d-block :}
 
+This decision was functional as well as aesthetic. The extension cord tangled up in fitted sheets, the 
+bed frame, or under our robot vacuum until I installed the cable cover and wall-mounted the outlet block.
+
 ### Hanging Planter 
 
 Apparently [this fantastic color](https://vintageunscripted.com/10-decades-of-color-the-1970s/#:~:text=The%201970s%20was%20the%20first%20great%20houseplant%20collecting%20era) is *vintage 70s*, 
@@ -121,13 +131,6 @@ hanger to lengthen it.
 
 ![Vintage Macrame Hangers](https://vintageunscripted.com/wp-content/uploads/2023/10/Macrame.jpg){: .mx-auto.d-block :}
 <center>:point_up: <i>From <a href="https://vintageunscripted.com/10-decades-of-color-the-1970s">Vintage Unscripted</a>, 1970s-style macramé plant hangers.</i></center>
-
-### Glow-in-the-Dark Stars
-
-I have to admit that the '90s had something going for it design-wise: [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
-My kid *loves them*. Putting these up is not for the faint of heart, though... you have to stick adhesive putty on each one individually... :unamused: :face_exhaling:
-
-![Kid Bedroom](../assets/img/kidbedroom-stars.jpg){: .mx-auto.d-block :}
 
 ### Dresser/Wardrobe
 
