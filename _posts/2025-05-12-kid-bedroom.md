@@ -159,11 +159,17 @@ and modernized the look by adding [black handles](https://www.amazon.com/dp/B09K
 
 ![Kid Bedroom](../assets/img/kidbedroom-dresser4.jpg){: .mx-auto.d-block :}
 
-I also found the perfect [clothes bins]() to separate the drawers.
+I also found perfectly-sized [clothes bins](https://www.amazon.com/dp/B0D3DSQ5Z1) to separate the drawers.
+
+![Kid Bedroom](../assets/img/kidbedroom-dresser6.jpg){: .mx-auto.d-block :}
+
+I discuss the pros of file-folding clothes in my 
+[post about our (grown-up, built-in) wardrobe](../2025-03-01-wardrobe). My kid likes to access his clothes like 
+this, but he's working on being able to put them away, too... 
 
 ![Kid Bedroom](../assets/img/kidbedroom-dresser5.jpg){: .mx-auto.d-block :}
 
-All in all, a pretty (fun)ctional new big kid, room! :star_struck:
+**All in all, a pretty (fun)ctional new big kid, room!** :star_struck:
 
 ## Cost
 
