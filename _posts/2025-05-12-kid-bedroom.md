@@ -133,27 +133,33 @@ hanger to lengthen it.
 ### Dresser/Wardrobe
 
 *But where will he hang his clothes!?!* :scream: Since I demoed the closet, I needed some way to 
-store our kid's clothes. I searched *forever* for smallish furniture with hanging space (they're called
+store our kid's clothes. 
+
+**Step 1: Set the bar.** Our son's clothes were previously stored in labeled 
+[Ikea Trofast bins](https://www.ikea.com/us/en/p/trofast-storage-combination-with-boxes-white-white-s29228470/), 
+which were 
+intuitive for him to use and fantastic for promoting independence. 
+I needed something just as organized. :shirt: :jeans:
+
+![Kid Bedroom](../assets/img/kidbedroom-dresser1.jpg){: .mx-auto.d-block :}
+
+**Step 2: Find a solution.** I searched *forever* for smallish furniture with hanging space (they're called
 "[chifforobes](https://en.wiktionary.org/wiki/chifforobe)" or 
 "[gentlemen's chests](https://www.dutchcrafters.com/blog/things-to-know-about-a-gentlemans-chest/#:~:text=A%20gentleman's%20chest%20is%20so,hanging%20clothes%20beside%20the%20drawers.)" if you were wondering):
 
 ![Chifforobe from West Elm](../assets/img/kidbedroom-chifforobe.jpg){: .mx-auto.d-block :}
 *This one is from West Elm and [way out of budget](https://www.westelm.com/products/mid-century-chifforobe-h1144/).*
 
-Our son's clothes were previously stored in labeled 
-[Ikea Trofast bins](https://www.ikea.com/us/en/p/trofast-storage-combination-with-boxes-white-white-s29228470/), 
-which were 
-intuitive for him to use and fantastic for promoting independence. :shirt: :jeans:
-
-![Kid Bedroom](../assets/img/kidbedroom-dresser1.jpg){: .mx-auto.d-block :}
-
-I finally found exactly what I needed on FB Marketplace from a wonderful woman living one T stop over! 
-
-![Kid Bedroom](../assets/img/kidbedroom-dresser3.jpg){: .mx-auto.d-block :}
+**Step 3: Now find it within budget.** I finally found exactly what I needed on FB Marketplace from a wonderful woman living one T stop over! 
 
 The original furniture was from the 80s, so I thoroughly cleaned it :soap:, 
 used [Paraffin wax](https://www.starmarket.com/shop/product-details.960315684.html) to smooth the drawer slides, 
 and modernized the look by adding [black handles](https://www.amazon.com/dp/B09K3PW3N8) to match the [nightstand](https://havenly.com/products/details/Gabrietta-2-Drawer-Nightstand-Medium-Oak-Black-Safavieh-Couture-151813266) I bought.
+
+![Kid Bedroom](../assets/img/kidbedroom-dresser3.jpg){: .mx-auto.d-block :}
+
+**Step 4: Arrange clothes!** The cabinet has a pull-out rod for hanging clothes, 
+and I added a couple of hooks to the door for hanging sweatshirts.
 
 ![Kid Bedroom](../assets/img/kidbedroom-dresser2.jpg){: .mx-auto.d-block :}
 
