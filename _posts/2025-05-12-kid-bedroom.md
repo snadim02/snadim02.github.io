@@ -140,7 +140,7 @@ store our kid's clothes. I searched *forever* for smallish furniture with hangin
 ![Chifforobe from West Elm](../assets/img/kidbedroom-chifforobe.jpg){: .mx-auto.d-block :}
 *This one is from West Elm and [way out of budget](https://www.westelm.com/products/mid-century-chifforobe-h1144/).*
 
-His clothes were previously stored in labeled 
+Our son's clothes were previously stored in labeled 
 [Ikea Trofast bins](https://www.ikea.com/us/en/p/trofast-storage-combination-with-boxes-white-white-s29228470/), 
 which were 
 intuitive for him to use and fantastic for promoting independence. :shirt: :jeans:
@@ -169,7 +169,7 @@ this, but he's working on being able to put them away, too...
 
 ![Kid Bedroom](../assets/img/kidbedroom-dresser5.jpg){: .mx-auto.d-block :}
 
-**All in all, a pretty (fun)ctional new big kid, room!** :star_struck:
+**All in all, a pretty (fun)ctional new, big-kid room!** :star_struck:
 
 ## Cost
 
