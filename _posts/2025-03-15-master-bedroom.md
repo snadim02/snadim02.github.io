@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Master Bedroom + Music Room + Office
+title: Master Bedroom + Office + Music Room
 subtitle: triple duty, still dreamy
 thumbnail-img: /assets/img/masterbed-icon.jpg
 cover-img: /assets/img/masterbed01.jpg
