@@ -19,7 +19,7 @@ to accommodate these *triple utilities* while maintaining a calm, sleep-inducing
 (2) [office organization](#office-organization) :pencil: :pen:, and
 (3) [music organization](#music-organization) :musical_score: :studio_microphone:.
 
-## Guest → Master Bedroom Transition
+## Room 1: The Master Bedroom
 
 We originally had this side of the room set up as a guest bedroom with a [pullout sleeper sofa](https://www.americanleather.com/products/gaines/).
 
@@ -46,9 +46,9 @@ hung them out here for easy access. Bonus benefit! :star_struck: They look nice 
 
 Not bad for functionally hiding office clutter to actually fall asleep at night! :relieved: :sleeping:
 
-## Office Organization
+## Room 2: The Office
 
-### The Desk
+### Standing Desk
 The **standing desk** had to go on the *only wall without a sloping ceiling*. 
 :desktop_computer: :keyboard: :computer_mouse: I reduced
 [stressful tech clutter](https://www.housedigest.com/1438812/david-bromstad-hgtv-home-office-bedroom/) 
@@ -58,7 +58,7 @@ by installing [monitor posts](https://www.amazon.com/dp/B0DCLHMFGX) and
 
 ![Picture of Standing Desk](../assets/img/masterbed-desk.jpg){: .mx-auto.d-block :}
 
-### The Printers
+### Printers
 How sneaky is this!? I hid the [**3D printer**](https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/) inside 
 the [office credenza](https://www.wayfair.com/organization-storage/pdp/loon-peak-bettye-1-drawer-credenza-w004342388.html) 
 on a slide-out printer tray blocked with [café curtains](https://www.amazon.com/dp/B0CLGTVHPF). :ninja: :star_struck:
@@ -97,7 +97,7 @@ for [kids' art supplies](../2022-09-01-kids-artwork) and [toy organization](../2
 
 ![Master Bedroom Office Supplies](../assets/img/masterbed-officesupplies2.jpg){: .mx-auto.d-block :}
 
-## Music Organization
+## Room 3: The Music Room 
 
 You probably [saw](#guest--master-bedroom-transition) the banjo :banjo: and digital piano :musical_keyboard: already. 
 
@@ -106,12 +106,24 @@ You probably [saw](#guest--master-bedroom-transition) the banjo :banjo: and digi
 I found a [stand for our digital piano on Etsy](https://www.etsy.com/listing/1664543133/mid-century-modern-piano-keyboard-stand) (*not* that I recommend it) and a [piano bench](https://www.amazon.com/dp/B07BJ4DW86)
 to store music in these [sheet music organizers](https://www.amazon.com/dp/B08R8SW845). :point_down:
 
+![Master Bedroom Sheet Music](../assets/img/masterbed-openbench.jpg){: .mx-auto.d-block :}
+
+Organizing printed sheet music like this has been a game changer.
+
 ![Master Bedroom Sheet Music](../assets/img/masterbed-sheetmusic.jpg){: .mx-auto.d-block :}
 
-:eyes: What you *didn't see* was the recording equipment :studio_microphone: :headphones:, amplifier :radio: and ukelele
-that are now stored in the bedside tables 
-out of sight (but within reach). The accordion and keyboard travel case fit under the bed. :accordion: :musical_keyboard: *We did it!* 
+Banjo *accoutrements* are also now tucked away (hidden, accessible, dust-free) in 
+a jewelry box that I was no longer using. 
 
+![Master Bedroom Banjo](../assets/img/masterbed-banjoacc.jpg){: .mx-auto.d-block :}
+
+:eyes: What you *didn't see* was the accordion and digital piano travel case that fit under the 
+bed out of sight (but within reach). :accordion: :musical_keyboard: 
+
+![Master Bedroom Accordion](../assets/img/masterbed-accordion.jpg){: .mx-auto.d-block :}
+
+Our recording equipment :studio_microphone: :headphones:, amplifier :radio: and ukelele
+are now stored in the bedside tables, accessible and out of sight. *We did it!* 
 
 ## Cost
 
