@@ -127,7 +127,7 @@ bed out of sight (but within reach). :accordion: :musical_keyboard:
 ![Master Bedroom Accordion](../assets/img/masterbed-accordion.jpg){: .mx-auto.d-block :}
 
 Our recording equipment :studio_microphone: :headphones:, amplifier :radio: and ukelele
-are now stored in the bedside tables, accessible and out of sight. *We did it!* 
+are now stored in the bedside tables, also accessible and out of sight. *We did it!* 
 
 ## Cost
 
