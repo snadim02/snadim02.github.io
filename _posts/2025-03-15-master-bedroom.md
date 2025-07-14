@@ -97,6 +97,10 @@ for [kids' art supplies](../2022-09-01-kids-artwork) and [toy organization](../2
 
 ![Master Bedroom Office Supplies](../assets/img/masterbed-officesupplies2.jpg){: .mx-auto.d-block :}
 
+*A note about borrowed board games* (see above :point_up:). I like to keep borrowed items within sight (but out of the
+way), so that I don't forget to return things when I'm finished! Turns out [loaning out and getting back borrowed items](https://www.reddit.com/r/questions/comments/1j40e9w/whose_responsibilty_is_it_to_return_borrowed_items/)
+is a constant AITAH topic... :thinking: :neutral_face:
+
 ## Room 3: The Music Room 
 
 You probably [saw](#guest--master-bedroom-transition) the banjo :banjo: and digital piano :musical_keyboard: already. 
