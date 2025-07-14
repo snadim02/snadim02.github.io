@@ -99,7 +99,7 @@ for [kids' art supplies](../2022-09-01-kids-artwork) and [toy organization](../2
 
 *A note about borrowed board games* (see above :point_up:). I like to keep borrowed items within sight (but out of the
 way), so that I don't forget to return things when I'm finished! Turns out [loaning out and getting back borrowed items](https://www.reddit.com/r/questions/comments/1j40e9w/whose_responsibilty_is_it_to_return_borrowed_items/)
-is a constant AITAH topic... :thinking: :neutral_face:
+is a constant AITAH Reddit-thread topic... :thinking: :neutral_face:
 
 ## Room 3: The Music Room 
 
@@ -117,7 +117,8 @@ Organizing printed sheet music like this has been a game changer.
 ![Master Bedroom Sheet Music](../assets/img/masterbed-sheetmusic.jpg){: .mx-auto.d-block :}
 
 Banjo *accoutrements* are also now tucked away (hidden, accessible, dust-free) in 
-a jewelry box that I was no longer using. 
+a pretty jewelry box that I was no longer using (because of my 
+[gorgeous jewelry drawer](../2025-03-01-wardrobe#3-jewelry)). :banjo:
 
 ![Master Bedroom Banjo](../assets/img/masterbed-banjoacc.jpg){: .mx-auto.d-block :}
 
