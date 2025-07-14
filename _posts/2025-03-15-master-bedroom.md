@@ -108,11 +108,11 @@ You probably [saw](#guest--master-bedroom-transition) the banjo :banjo: and digi
 ![Master Bedroom Digital Piano](../assets/img/masterbed-music1.jpg){: .mx-auto.d-block :}
 
 I found a [stand for our digital piano on Etsy](https://www.etsy.com/listing/1664543133/mid-century-modern-piano-keyboard-stand) (*not* that I recommend it) and a [piano bench](https://www.amazon.com/dp/B07BJ4DW86)
-to store music in these [sheet music organizers](https://www.amazon.com/dp/B08R8SW845). :point_down:
+to store music. :point_down:  
 
 ![Master Bedroom Sheet Music](../assets/img/masterbed-openbench.jpg){: .mx-auto.d-block :}
 
-Organizing printed sheet music like this has been a game changer.
+Organizing printed sheet music in these [sheet music organizers](https://www.amazon.com/dp/B08R8SW845) has been a game changer.
 
 ![Master Bedroom Sheet Music](../assets/img/masterbed-sheetmusic.jpg){: .mx-auto.d-block :}
 
@@ -122,12 +122,12 @@ a pretty jewelry box that I was no longer using (because of my
 
 ![Master Bedroom Banjo](../assets/img/masterbed-banjoacc.jpg){: .mx-auto.d-block :}
 
-:eyes: What you *didn't see* was the accordion and digital piano travel case that fit under the 
+:eyes: You probably *didn't see* was accordion and digital piano travel case that fit under the 
 bed out of sight (but within reach). :accordion: :musical_keyboard: 
 
 ![Master Bedroom Accordion](../assets/img/masterbed-accordion.jpg){: .mx-auto.d-block :}
 
-Our recording equipment :studio_microphone: :headphones:, amplifier :radio: and ukelele
+Our recording equipment :studio_microphone: :headphones: and amplifier :radio:
 are now stored in the bedside tables, also accessible and out of sight. *We did it!* 
 
 ## Cost
