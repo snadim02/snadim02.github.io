@@ -122,7 +122,7 @@ a pretty jewelry box that I was no longer using (because of my
 
 ![Master Bedroom Banjo](../assets/img/masterbed-banjoacc.jpg){: .mx-auto.d-block :}
 
-:eyes: You probably *didn't see* was accordion and digital piano travel case that fit under the 
+:eyes: You probably *didn't see* the accordion and digital piano travel case that fit under the 
 bed out of sight (but within reach). :accordion: :musical_keyboard: 
 
 ![Master Bedroom Accordion](../assets/img/masterbed-accordion.jpg){: .mx-auto.d-block :}
