@@ -5,7 +5,7 @@ subtitle: so I purged that too!
 thumbnail-img: /assets/img/kidbedroom-icon.jpg
 cover-img: /assets/img/kidbedroom-cover.jpg
 share-img: /assets/img/kidbedroom-cover.jpg
-tags: [big kid design, bedroom, closet, clothes storage]
+tags: [big kid design, bedroom, closet, clothes storage, FB marketplace]
 #author: Shilpa Kobren
 ---
 
@@ -15,7 +15,7 @@ hoarding junk](https://civicscience.com/many-americans-ready-to-purge-their-clos
 particular closet totally crushed the flow of the room. :face_with_spiral_eyes:
 
 **Jump ahead to see** the [argument for axing the closet](#why-axe-the-closet),
-[before and after pictures](#before--afters), [construction process](#the-process), and all the [artsy details](#the-details)!
+[before and after pictures](#before--afters), [construction process](#the-process), and all the [functional details](#the-details)!
 
 ## Why axe the closet?
 
@@ -78,30 +78,28 @@ rip off paint if the first paint coat doesn't cure long enough! *...Ask me how I
 
 ## The Details
 
-And now for the little projects that make this space feel special for my :boy:! :blush:
+Our kiddo uses his space for three activities: [(1) sleeping](#activity-1-sleeping), 
+[(2) getting dressed](#activity-2-getting-dressed), and 
+[(3) working on projects](#activity-3-working-on-projects) in peace. :boy:
 
-### Bulletin Board
+### Activity 1: Sleeping
 
-*Of course* a kid's room *needs* a [bulletin board](https://www.amazon.com/dp/B09GYQ88L9)!! The basic wood frame
-was too *grown-up* for a *6-year-old* (in my and his opinion), so I painted it with 
-red acrylic paint and sealed it with 
-polyurethane. :art: :artist: *How fun!*
+**Shades.** I bought [blackout ochre curtains](https://www.amazon.com/dp/B0BXRNCZFR) and had them shortened in height and width to fit the little
+window nook. 
 
-![Kid Bedroom](../assets/img/kidbedroom-bulletinboard.jpg){: .mx-auto.d-block :}
-:point_up: *An aside, a [sturdy workbench](https://havenly.com/products/details/Workbench-Rolling-Workbenches-For-Garage-Adjustable-Height-Wayfair-143767843) 
-is WAY more functional for art projects, crafts, and Lego building than a traditional desk. 
-You can also adjust the height as kids grow and eventually use it for homework and/or a computer.*
+![Kid Bedroom](../assets/img/kidbedroom-shades.jpg){: .mx-auto.d-block :}
 
-### Glow-in-the-Dark Stars
-
-NGL, the '90s had something going for it design-wise: [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
-My kid *loves them*. Putting these up is not for the faint of heart, though... you have to stick adhesive putty on each one individually... :unamused: :face_exhaling:
+<a name="glow-in-the-dark-stars"></a>
+**Glow-in-the-Dark Stars.** NGL, the '90s had something going for it design-wise: [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
+My kid *loves them*, and they fade after about 15-25 minutes so they don't keep him up at night. Putting these up is not for the faint of heart, though... you have to stick adhesive 
+putty on each one individually... :unamused: :face_exhaling: 
 
 ![Kid Bedroom](../assets/img/kidbedroom-stars.jpg){: .mx-auto.d-block :}
 
-### Camouflaged Utility Covers
-
-I'll admit... this was extra. :shrug: I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
+**Camouflaged Utility Covers.** I'll admit... this was extra. :shrug: 
+The [extension cord](https://www.amazon.com/dp/B0DPKKMPBD) tangled up in fitted sheets and the 
+bed frame, so I installed the [cable cover](https://www.amazon.com/dp/B07BB1YDML) and wall-mounted the outlet block. :electric_plug:
+I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
 cover the switchplates and [cable covers](https://www.amazon.com/dp/B07RZQXRQK) in [Benjamin Moore Lucerne](https://www.benjaminmoore.com/en-us/paint-colors/color/af-530/lucerne). 
 I didn't need to sand/prime/paint anything, and we can easily change up the color (if ever needed).
 
@@ -113,24 +111,7 @@ Ah, so satisfying... :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-cablecover.jpg){: .mx-auto.d-block :}
 
-This decision was functional as well as aesthetic. The [extension cord](https://www.amazon.com/dp/B0DPKKMPBD) tangled up in fitted sheets, the 
-bed frame, or under our robot vacuum until I installed the [cable cover](https://www.amazon.com/dp/B07BB1YDML) and wall-mounted the outlet block. :electric_plug:
-
-### Hanging Planter 
-
-Apparently [this fantastic color](https://vintageunscripted.com/10-decades-of-color-the-1970s/#:~:text=The%201970s%20was%20the%20first%20great%20houseplant%20collecting%20era) is *vintage 70s*, 
-which I'm starting to realize is my favorite decade for design. 🪩 :man_dancing:
-The [macramé hanger](https://www.etsy.com/listing/1269880196/no-tassel-macrame-plant-hanger-in-colors?variation0=2803425809&variation1=2836434719) was shorter than I expected, 
-so I drilled holes through
-some [wooden craft balls](https://www.michaels.com/product/wood-head-beads-by-creatology-10334889) and strung them onto the 
-hanger to lengthen it. 
-
-![Kid Bedroom](../assets/img/kidbedroom-planthanger.jpg){: .mx-auto.d-block :}
-
-![Vintage Macrame Hangers](https://vintageunscripted.com/wp-content/uploads/2023/10/Macrame.jpg){: .mx-auto.d-block :}
-<center>:point_up: <i>From <a href="https://vintageunscripted.com/10-decades-of-color-the-1970s">Vintage Unscripted</a>, 1970s-style macramé plant hangers.</i></center>
-
-### Dresser/Wardrobe
+### Activity 2: Getting Dressed
 
 *But where will he hang his clothes!?!* :scream: Since I demoed the closet, I needed some way to 
 store our kid's clothes. 
@@ -146,9 +127,6 @@ I needed something just as organized. :shirt: :jeans:
 **Step 2: Find a solution.** I searched *forever* for smallish furniture with hanging space (they're called
 "[chifforobes](https://en.wiktionary.org/wiki/chifforobe)" or 
 "[gentlemen's chests](https://www.dutchcrafters.com/blog/things-to-know-about-a-gentlemans-chest/#:~:text=A%20gentleman's%20chest%20is%20so,hanging%20clothes%20beside%20the%20drawers.)" if you were wondering):
-
-![Chifforobe from West Elm](../assets/img/kidbedroom-chifforobe.jpg){: .mx-auto.d-block :}
-*This one is from West Elm and [way out of budget](https://www.westelm.com/products/mid-century-chifforobe-h1144/).*
 
 **Step 3: Now find it within budget.** I finally found exactly what I needed on FB Marketplace from a wonderful woman living one T stop over! 
 
@@ -174,6 +152,33 @@ I discuss the pros of file-folding clothes in my
 this, but he's working on being able to put them away, too... 
 
 ![Kid Bedroom](../assets/img/kidbedroom-dresser5.jpg){: .mx-auto.d-block :}
+
+### Activity 3: Working on Projects
+
+**Desk.** A [sturdy workbench](https://havenly.com/products/details/Workbench-Rolling-Workbenches-For-Garage-Adjustable-Height-Wayfair-143767843) 
+is WAY more functional for art projects, crafts, and Lego building than a traditional desk. 
+You can also adjust the height as kids grow and eventually use it for homework and/or a computer.
+
+![Kid Bedroom](../assets/img/kidbedroom-desk.jpg){: .mx-auto.d-block :}
+
+**Bulletin Board.** *Of course* a kid's room *needs* a [bulletin board](https://www.amazon.com/dp/B09GYQ88L9)!! The basic wood frame
+was too *grown-up* for a *6-year-old* (in my and his opinion), so I painted it with 
+red acrylic paint and sealed it with 
+polyurethane. :art: :artist: *How fun!*
+
+![Kid Bedroom](../assets/img/kidbedroom-bulletinboard.jpg){: .mx-auto.d-block :}
+
+**Hanging Planter.** Our kiddo wanted a plant in his room, but I didn't want to waste precious
+surface space for a pot that might get knocked over. 
+
+Apparently [this fantastic color](https://vintageunscripted.com/10-decades-of-color-the-1970s/#:~:text=The%201970s%20was%20the%20first%20great%20houseplant%20collecting%20era) is *vintage 70s*, 
+which I'm starting to realize is my favorite decade for design. 🪩 :man_dancing:
+The [macramé hanger](https://www.etsy.com/listing/1269880196/no-tassel-macrame-plant-hanger-in-colors?variation0=2803425809&variation1=2836434719) was shorter than I expected, 
+so I drilled holes through
+some [wooden craft balls](https://www.michaels.com/product/wood-head-beads-by-creatology-10334889) and strung them onto the 
+hanger to lengthen it. 
+
+![Kid Bedroom](../assets/img/kidbedroom-planthanger.jpg){: .mx-auto.d-block :}
 
 **All in all, a pretty (fun)ctional new, big-kid room!** :star_struck:
 
