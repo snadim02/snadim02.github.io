@@ -96,11 +96,16 @@ putty on each one individually... :unamused: :face_exhaling:
 
 ![Kid Bedroom](../assets/img/kidbedroom-stars.jpg){: .mx-auto.d-block :}
 
-**Camouflaged Utility Covers.** I'll admit... this was extra. :shrug: 
+**Camouflaged Utility Covers.** 
 The [extension cord](https://www.amazon.com/dp/B0DPKKMPBD) tangled up in fitted sheets and the 
-bed frame, so I installed the [cable cover](https://www.amazon.com/dp/B07BB1YDML) and wall-mounted the outlet block. :electric_plug:
+bed frame, so I installed [cable covers](https://www.amazon.com/dp/B07RZQXRQK) and wall-mounted 
+the [outlet block](https://www.amazon.com/dp/B0DPKKMPBD). :electric_plug:
 I used [Samplize peel-and-stick color swatches](https://samplize.com/products/lucerne-af-530-12x12?variant=39756341837926) to 
-cover the switchplates and [cable covers](https://www.amazon.com/dp/B07RZQXRQK) in [Benjamin Moore Lucerne](https://www.benjaminmoore.com/en-us/paint-colors/color/af-530/lucerne). 
+cover the cable covers in [Benjamin Moore Lucerne](https://www.benjaminmoore.com/en-us/paint-colors/color/af-530/lucerne). 
+
+![Kid Bedroom](../assets/img/kidbedroom-cablecover.jpg){: .mx-auto.d-block :}
+
+I'll admit... this was extra. :shrug: I covered the switchplates the same way, because... why not? 
 I didn't need to sand/prime/paint anything, and we can easily change up the color (if ever needed).
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate01.jpg){: .mx-auto.d-block :}
@@ -109,7 +114,7 @@ Ah, so satisfying... :lotus_position:
 
 ![Kid Bedroom](../assets/img/kidbedroom-switchplate02.jpg){: .mx-auto.d-block :}
 
-![Kid Bedroom](../assets/img/kidbedroom-cablecover.jpg){: .mx-auto.d-block :}
+
 
 ### Activity 2: Getting Dressed
 
@@ -124,9 +129,9 @@ I needed something just as organized. :shirt: :jeans:
 
 ![Kid Bedroom](../assets/img/kidbedroom-dresser1.jpg){: .mx-auto.d-block :}
 
-**Step 2: Find a solution.** I searched *forever* for smallish furniture with hanging space (they're called
+**Step 2: Find a solution.** I searched *forever* for smallish furniture with hanging space. They're called
 "[chifforobes](https://en.wiktionary.org/wiki/chifforobe)" or 
-"[gentlemen's chests](https://www.dutchcrafters.com/blog/things-to-know-about-a-gentlemans-chest/#:~:text=A%20gentleman's%20chest%20is%20so,hanging%20clothes%20beside%20the%20drawers.)" if you were wondering):
+"[gentlemen's chests](https://www.dutchcrafters.com/blog/things-to-know-about-a-gentlemans-chest/#:~:text=A%20gentleman's%20chest%20is%20so,hanging%20clothes%20beside%20the%20drawers.)" if you were wondering.
 
 **Step 3: Now find it within budget.** I finally found exactly what I needed on FB Marketplace from a wonderful woman living one T stop over! 
 
@@ -168,7 +173,7 @@ polyurethane. :art: :artist: *How fun!*
 
 ![Kid Bedroom](../assets/img/kidbedroom-bulletinboard.jpg){: .mx-auto.d-block :}
 
-**Hanging Planter.** Our kiddo wanted a plant in his room, but I didn't want to waste precious
+**Hanging Planter.** Our kiddo wanted a plant on his desk, but I didn't want to waste precious
 surface space for a pot that might get knocked over. 
 
 Apparently [this fantastic color](https://vintageunscripted.com/10-decades-of-color-the-1970s/#:~:text=The%201970s%20was%20the%20first%20great%20houseplant%20collecting%20era) is *vintage 70s*, 
