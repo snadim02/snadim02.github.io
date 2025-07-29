@@ -84,7 +84,10 @@ Our kiddo uses his space for three activities: [(1) sleeping](#activity-1-sleepi
 
 ### Activity 1: Sleeping
 
-**Shades.** I had already installed [light-filtering cellular shades](https://www.selectblinds.com/cellular-shades/light-filtering-cordless-cellular-shades.html) when we first moved in. I bought [blackout ochre curtains](https://www.amazon.com/dp/B0BXRNCZFR) and had them shortened in height and width to fit the little
+**Shades.** I had already installed [light-filtering cellular shades](https://www.selectblinds.com/cellular-shades/light-filtering-cordless-cellular-shades.html) 
+when we first moved in. I bought 
+[blackout ochre curtains](https://www.amazon.com/dp/B0BXRNCZFR) and had them 
+hemmed and shortened in width to fit the little
 window nook. 
 
 ![Kid Bedroom](../assets/img/kidbedroom-shades.jpg){: .mx-auto.d-block :}
