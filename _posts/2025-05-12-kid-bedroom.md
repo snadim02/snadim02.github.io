@@ -48,7 +48,7 @@ I wanted the room to vibe with our [newly redecorated living room](../2025-04-12
 And here's the side with the (former) closet. We moved our clothes into a 
 [custom wardrobe](../2025-03-01-wardrobe)
 upstairs in the 
-[new master bedroom](../2025-03-15-master-bedroom). Our kid's clothes are in his [new dresser](#dresserwardrobe)! :shirt: :jeans: :necktie:
+[new master bedroom](../2025-03-15-master-bedroom). Our kid's clothes are in his [new dresser](#activity-2-getting-dressed)! :shirt: :jeans: :necktie:
 
 ![Kid Bedroom](../assets/img/kidbedroom-before1.jpg){: .mx-auto.d-block :}
 
@@ -87,7 +87,7 @@ Our kiddo uses his space for three activities: [(1) sleeping](#activity-1-sleepi
 **Shades.** I had already installed [light-filtering cellular shades](https://www.selectblinds.com/cellular-shades/light-filtering-cordless-cellular-shades.html) 
 when we first moved in. I bought 
 [blackout ochre curtains](https://www.amazon.com/dp/B0BXRNCZFR) and had them 
-hemmed and shortened in width to fit the little
+hemmed and narrowed to fit the little
 window nook. 
 
 ![Kid Bedroom](../assets/img/kidbedroom-shades.jpg){: .mx-auto.d-block :}
