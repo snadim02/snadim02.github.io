@@ -136,8 +136,7 @@ I needed something just as organized. :shirt: :jeans:
 "[chifforobes](https://en.wiktionary.org/wiki/chifforobe)" or 
 "[gentlemen's chests](https://www.dutchcrafters.com/blog/things-to-know-about-a-gentlemans-chest/#:~:text=A%20gentleman's%20chest%20is%20so,hanging%20clothes%20beside%20the%20drawers.)" if you were wondering.
 
-**Step 3: Now find it within budget.** I finally found exactly what I needed on FB Marketplace from a wonderful woman living one T stop over! 
-
+**Step 3: Now find it within budget.** I finally found exactly what I needed on FB Marketplace!
 The original furniture was from the 80s, so I thoroughly cleaned it :soap:, 
 used [Paraffin wax](https://www.starmarket.com/shop/product-details.960315684.html) to smooth the drawer slides, 
 and modernized the look by adding [black handles](https://www.amazon.com/dp/B09K3PW3N8) to match the [nightstand](https://havenly.com/products/details/Gabrietta-2-Drawer-Nightstand-Medium-Oak-Black-Safavieh-Couture-151813266) I bought.
@@ -169,7 +168,7 @@ You can also adjust the height as kids grow and eventually use it for homework a
 
 ![Kid Bedroom](../assets/img/kidbedroom-desk.jpg){: .mx-auto.d-block :}
 
-**Bulletin Board.** *Of course* a kid's room *needs* a [bulletin board](https://www.amazon.com/dp/B09GYQ88L9)!! The basic wood frame
+**Bulletin Board.** And where can he hang those art creations when he's done? A [bulletin board](https://www.amazon.com/dp/B09GYQ88L9), of course!! The basic wood frame
 was too *grown-up* for a *6-year-old* (in my and his opinion), so I painted it with 
 red acrylic paint and sealed it with 
 polyurethane. :art: :artist: *How fun!*
