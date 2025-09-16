@@ -25,7 +25,7 @@ functional impact of genetic variants. \[[30535108](https://pubmed.ncbi.nlm.nih.
 Patient clinical phenotyping data is an essential component in interpreting the impact of genetic variants on human health.
 Phenotyping data can be noisy, unstructured, and difficult to obtain, and utilizing this information often requires deep clinical intuition. 
 We are interested in developing computational approaches for streamlining the extraction and curation of standardized phenotype data, 
-and leveraging this data for improving diagnostic gene prioritization and interpretation. \[[37828001](https://pubmed.ncbi.nlm.nih.gov/37828001/), [medRxiv](https://www.medrxiv.org/content/10.1101/2022.12.07.22283238v1), [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.13.580158v1)\]
+and leveraging this data for improving diagnostic gene prioritization and interpretation. \[[37828001](https://pubmed.ncbi.nlm.nih.gov/37828001/), [40542121](https://pubmed.ncbi.nlm.nih.gov/40542121/), [40770127](https://pubmed.ncbi.nlm.nih.gov/40770127/)\]
 
 
 
@@ -39,7 +39,7 @@ Indeed, the number of sequenced
 tumor genomes has surpassed 10s of thousands; collective cohorts of sequenced Mendelian patients is exceeding 100s of thousands;
 and ancestrally-diverse, control cohorts of healthy sequenced individuals is set to pass a million. 
 By integrating predicted and experimentally-derived variant functionality information, evolutionary signals of selection and constraint, and accurate mutational models,
-we will have the power to detect extremely rare variants that play roles in human cancers and other diseases by jointly analyzing these sequenced cohorts. \[[32711844](https://pubmed.ncbi.nlm.nih.gov/32711844/), [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.13.580158v1)\]
+we will have the power to detect extremely rare variants that play roles in human cancers and other diseases by jointly analyzing these sequenced cohorts. \[[32711844](https://pubmed.ncbi.nlm.nih.gov/32711844/), [40770127](https://pubmed.ncbi.nlm.nih.gov/40770127/)\]
 
 ### Publications
 :star: = *project lead*, :love_letter: = *corresponding author*, :busts_in_silhouette: = *team science*
