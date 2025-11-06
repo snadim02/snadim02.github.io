@@ -129,6 +129,7 @@ I [experimented](https://www.amazon.com/dp/B0DBPFFTNJ) with
 aren't blindingly bright at eye level :sunglasses:, and still look okay exposed during the daytime. :bulb:
 
 ![Living Room](../assets/img/livingroom-plantlight.jpg){: .mx-auto.d-block :}
+:point_up: *My husband thinks this solution is actually super ugly.* What do you think?! 
 
 ### Soundproofing the Staircase
 

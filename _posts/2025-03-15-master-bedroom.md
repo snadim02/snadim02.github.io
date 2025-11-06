@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Master Bedroom + Office + Music Room
+title: Master bedroom + office + music room
 subtitle: triple duty, still dreamy
 thumbnail-img: /assets/img/masterbed-icon.jpg
 cover-img: /assets/img/masterbed01.jpg
@@ -36,7 +36,7 @@ and replaced them with a [side cabinet](https://www.target.com/p/withania-2-door
 [nightstand](https://www.overstock.com/products/safavieh-shyann-single-door-carved-nightstand-40656766?variant=61943056466079) with more practical storage 
 and [swivel-arm wall sconces](https://www.amazon.com/dp/B087T4ZY8N) that we already owned. :bulb:
 
-**Aesthetic Accessories.** My [jewelry and scarves](../2025-03-01-wardrobe/#organization)
+**Aesthetic Accessories.** My [jewelry](../2025-03-01-wardrobe/#organization) and [scarves](../2025-07-15-scarves)
 didn't fit in our [custom wardrobe](../2025-03-01-wardrobe) :prayer_beads: :scarf:, so I 
 hung them out here for easy access. Bonus benefit! :star_struck: They look nice displayed like this! 
 :framed_picture:
