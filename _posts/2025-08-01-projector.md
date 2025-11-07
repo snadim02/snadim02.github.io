@@ -52,6 +52,8 @@ The boys *love* Mario Kart (okay, and me too) and insisted on going as their fav
 
 ![Side cabinet](../assets/img/projector-mario.jpg){: .mx-auto.d-block :}
 
+![Side cabinet](../assets/img/projector-cover.jpg){: .mx-auto.d-block :}
+
 ## Cost
 
 We had been *talking about* getting a projector for *ages*, and we decided to finally go 
