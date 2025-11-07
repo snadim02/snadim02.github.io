@@ -39,6 +39,8 @@ The *most satisfying* way to hide all the wires without snaking anything through
 
 ![Hidden cable covers](../assets/img/projector2.jpg){: .mx-auto.d-block :}
 
+![Hidden cable covers](../assets/img/projector-wire.jpg){: .mx-auto.d-block :}
+
 ### Step 3: Adapt cabinet for connections
 I routed the projector’s (carefully hidden) [HDMI](https://www.amazon.com/dp/B0F97QMFNM) and [audio](https://www.amazon.com/dp/B001T21DU4) input cables over to a new [accent cabinet](https://www.wayfair.com/furniture/pdp/bungalow-rose-accent-cabient-w111866442.html) beside the couches. To keep things clean, I drilled a hole in the back of the cabinet to tuck in a [surge protector](https://www.amazon.com/dp/B08DKP7GLT) and thread the cables through. No wires in sight!
 
