@@ -45,7 +45,7 @@ I wanted the room to vibe with our [newly redecorated living room](../2025-04-12
 
 ![Kid Bedroom](../assets/img/kidbedroom-after1b.jpg){: .mx-auto.d-block :}
 
-And here's the side with the (former) closet. We moved our clothes into a 
+Everything that had been on the walls was relocated to our [entryway](../2025-11-01-entryway). And here's the side with the (former) closet. We moved our clothes into a 
 [custom wardrobe](../2025-03-01-wardrobe)
 upstairs in the 
 [new master bedroom](../2025-03-15-master-bedroom). Our kid's clothes are in his [new dresser](#activity-2-getting-dressed)! :shirt: :jeans: :necktie:
