@@ -9,11 +9,11 @@ tags: [living room, projector, movie night, movies]
 #author: Shilpa Kobren
 ---
 
-We all remember that *Hangout-House Vibe:* fun, good food, comfy... But without a wall for a TV, we couldn’t host movie nights or video game showdowns. :film_projector: :clapper: :video_game: The fix? A projector! We may not be screen-free anymore (womp, [wHomp](https://www.mariowiki.com/Whomp) :mushroom: :rock:), but at least we're still screen-*hidden.* :see_no_evil:
+We wanted to channel that *Hangout-House Vibe:* fun, good food, comfy... But without a wall for a TV, we couldn’t host movie nights or video game showdowns. :clapper: :video_game: The fix? A projector! :film_projector: We may not be screen-free anymore (womp, [wHomp](https://www.mariowiki.com/Whomp) :mushroom: :rock:), but at least we're still screen-*hidden.* :see_no_evil:
 
 ## The Constraints
 
-**Wall Space.** The only possible wall in the living room where a TV could go is awkwardly placed with respect to the couches *and* is the first thing you see when you enter (~~ugly black screens~~). The space above the dining-to-living room opening could fit a drop-down projector screen, but we couldn't have one of those (deeply uncool) dangling pull cords.
+**Wall Space.** The only possible wall in the [living room](../2025-04-12-living-room) where a TV could go is awkwardly placed with respect to the couches *and* is the first thing you see [when you enter](../2025-11-01) (no thanks, ~~ugly black screens~~ :no_entry_sign: :tv:). The space above the dining-to-living room opening was just right for a drop-down projector screen, and as long as we kept cords out of sight, it could disappear when not in use. :see_no_evil:
 
 ![throw ratio](../assets/img/projector-floorplan.jpg){: .mx-auto.d-block :}
 
@@ -24,25 +24,29 @@ We all remember that *Hangout-House Vibe:* fun, good food, comfy... But without 
 **Ambient Lighting.** The living room can be bright midday, and there are two skylights with no shades at all. :last_quarter_moon: Even though most of our watching would be at night, we needed something to work in a room with ambient light. :sunglasses: :sun_with_face:
 
 
-In the end, after consulting [Reddit](https://www.reddit.com/r/projectors/comments/1jtxebl/benq_ht2060_vs_other_4k_in_similar_price/) and [Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-cheap-projector/), we decided on a good-out-of-the-box "starter" [projector (BenQ HT2060)](https://www.amazon.com/dp/B0BWGXHVRV), [projector mount (BenQ CM00G3)](https://www.amazon.com/dp/B008CU53TI), and [screen (Elite Motorized)](https://www.amazon.com/dp/B0DGSS2WJV). 
+In the end, after consulting [Reddit](https://www.reddit.com/r/projectors/comments/1jtxebl/benq_ht2060_vs_other_4k_in_similar_price/) and [Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-cheap-projector/), we decided on a good-out-of-the-box "starter" [projector (BenQ HT2060)](https://www.amazon.com/dp/B0BWGXHVRV), [projector mount (BenQ CM00G3)](https://www.amazon.com/dp/B008CU53TI), and [screen (Elite Motorized)](https://www.amazon.com/dp/B0DGSS2WJV). :film_projector: 
 
 ## The Process
 
 ### Step 1: Installation (/make a mess)
 
-I have no chill, and as soon as I found a projector that was going to work with our space, I ordered everything I needed *just two days* before we were hosting overnight guests in our house for a week. :woman_facepalming: :unamused: Since trying to set this up trashed our space (see :point_down:), I needed to work late nights to finish it in time. :yawning_face: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:
+I have no chill, and as soon as I found a projector that was going to work with our space, I ordered everything I needed *just three days* before we were hosting overnight guests in our house for a week. :woman_facepalming: :unamused: Since my installation attempts trashed our space (see :point_down:), I needed to work late nights to finish up before our guests arrived. :yawning_face: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:
 
 ![throw ratio](../assets/img/projector6.jpg){: .mx-auto.d-block :}
 
 ### Step 2: Hide the wires.
-The *most satisfying* way to hide all the wires without snaking anything through the walls was to cover cables behind curtains and along the baseboard. 
+The *most satisfying* way to hide all the wires without snaking anything through the walls was to cover cables behind curtains and along the baseboard. :lotus_position_woman:
 
 ![Hidden cable covers](../assets/img/projector2.jpg){: .mx-auto.d-block :}
 
+The only two spots where cable covers can be seen: 
+
 ![Hidden cable covers](../assets/img/projector-wire.jpg){: .mx-auto.d-block :}
+*:point_up: Conveniently, the projector screen could be plugged into an outlet in our [loft space upstairs](../2023-06-01-fireplace)!*
+
 
 ### Step 3: Adapt cabinet for connections
-I routed the projector’s (carefully hidden) [HDMI](https://www.amazon.com/dp/B0F97QMFNM) and [audio](https://www.amazon.com/dp/B001T21DU4) input cables over to a new [accent cabinet](https://www.wayfair.com/furniture/pdp/bungalow-rose-accent-cabient-w111866442.html) beside the couches. To keep things clean, I drilled a hole in the back of the cabinet to tuck in a [surge protector](https://www.amazon.com/dp/B08DKP7GLT) and thread the cables through. No wires in sight!
+I routed the projector’s (carefully hidden) [HDMI](https://www.amazon.com/dp/B0F97QMFNM) and [audio](https://www.amazon.com/dp/B001T21DU4) input cables over to a new [accent cabinet](https://www.wayfair.com/furniture/pdp/bungalow-rose-accent-cabient-w111866442.html) beside the couches. To keep things clean, I drilled a hole in the back of the cabinet to tuck in a [surge protector](https://www.amazon.com/dp/B08DKP7GLT) and thread the cables through. 
 
 ![Side cabinet](../assets/img/projector3.jpg){: .mx-auto.d-block :}
 
@@ -50,7 +54,7 @@ I routed the projector’s (carefully hidden) [HDMI](https://www.amazon.com/dp/B
 
 ### Step 4: Koopa shell yo :peach:
 
-The boys *love* Mario Kart (okay, and me too) and insisted on going as their favorite characters (Donkey Kong and Bowser) for Halloween this year. :monkey_face: :dragon_face: :car: :turtle: :mushroom:
+The boys *love* Mario Kart (me too! :raising_hand_woman:) and insisted on going as their favorite characters (Donkey Kong and Bowser) for Halloween this year. :monkey_face: :dragon_face: :car: :turtle: :mushroom:
 
 ![Side cabinet](../assets/img/projector-mario.jpg){: .mx-auto.d-block :}
 
