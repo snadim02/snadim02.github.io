@@ -5,6 +5,8 @@ subtitle: process optimization for every space
 ---
 
 <div class="scroll-container" id="scrollContainer">
+  <a href="../2025-08-01-projector"><img src="/assets/img/projector-icon.jpg" alt="Projector" width="300" height="300"></a>
+  <a href="../2025-07-15-scarves"><img src="/assets/img/scarves-icon.jpg" alt="Scarves" width="300" height="300"></a>
   <a href="../2025-05-12-kid-bedroom"><img src="/assets/img/kidbedroom-icon.jpg" alt="Kid Bedroom" width="300" height="300"></a>
   <a href="../2025-04-12-living-room"><img src="/assets/img/livingroom-icon2.jpg" alt="Living Room" width="300" height="300"></a>
   <a href="../2025-03-15-master-bedroom"><img src="/assets/img/masterbed-icon.jpg" alt="Master Bedroom" width="300" height="300"></a>
