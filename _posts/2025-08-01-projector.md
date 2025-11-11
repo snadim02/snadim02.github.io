@@ -13,7 +13,7 @@ We wanted to channel that *Hangout-House Vibe:* fun, good food, comfy... But wit
 
 ## The Constraints
 
-**Wall Space.** The only possible wall in the [living room](../2025-04-12-living-room) where a TV could go is awkwardly placed with respect to the couches *and* is the first thing you see [when you enter](../2025-11-01) (no thanks, ~~ugly black screens~~ :no_entry_sign: :tv:). The space above the dining-to-living room opening was just right for a drop-down projector screen, and as long as we kept cords out of sight, it could disappear when not in use. :see_no_evil:
+**Wall Space.** The only possible wall in the [living room](../2025-04-12-living-room) where a TV could go is awkwardly placed with respect to the couches *and* is the first thing you see [when you enter](../2025-11-01-entryway) (no thanks, ~~ugly black screens~~ :no_entry_sign: :tv:). The space above the dining-to-living room opening was just right for a drop-down projector screen, and as long as we kept cords out of sight, it could disappear when not in use. :see_no_evil:
 
 ![throw ratio](../assets/img/projector-floorplan.jpg){: .mx-auto.d-block :}
 
