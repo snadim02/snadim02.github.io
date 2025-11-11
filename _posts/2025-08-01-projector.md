@@ -34,7 +34,7 @@ I have no chill, and as soon as I found a projector that was going to work with 
 
 ![throw ratio](../assets/img/projector6.jpg){: .mx-auto.d-block :}
 
-### Step 2: Hide the wires.
+### Step 2: Hide the wires
 The *most satisfying* way to hide all the wires without snaking anything through the walls was to cover cables behind curtains and along the baseboard. :lotus_position_woman:
 
 ![Hidden cable covers](../assets/img/projector2.jpg){: .mx-auto.d-block :}
