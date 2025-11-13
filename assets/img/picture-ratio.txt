@@ -1,0 +1,167 @@
+/***********************************************************************
+ *  Ratio.java performs two main functions:
+ *  1) given width vs. height ratio, returns the same reduced ratio 
+ *     using whole numbers (for cropping purposes)
+ *  2) given a picture and the dimensions it should be, creates a new
+ *     4x6 image (to print) with that original picture in it. 
+ * 
+ *  Compilation: javac Ratio.java
+ *  Execution:   java Ratio <picture> <dimension 1> <dimension 2>
+ *  Dependencies: Picture
+ *
+ *  > java Ratio pipe.png 3.75 5.25
+ * 
+ ************************************************************************/
+
+import java.io.File;
+import java.awt.Color;
+
+public class Ratio {
+    
+    // Calculate the greatest common divisor of two floating-point numbers
+    public static double GCD(double x, double y) {
+                
+        // determine which number is larger
+        double large = Math.max(x,y);
+        double small = Math.min(x,y); 
+        if (large == small) return small;
+        
+        // then calculate the mod, and repeat until 0 is reached
+        double diff = (double) Math.round(large % small * 100)/100;
+        
+        if (diff < 0.001) return small; // Deal with floating point issues
+        return GCD(diff, small); 
+    }
+    
+    // Determine if a string can be converted to a double
+    public static boolean isNumeric(String str) {
+        try { double d = Double.parseDouble(str); }
+        catch(NumberFormatException nfe) { return false; }
+        
+        return true;
+    }
+    
+    public static void main(String[] args) {
+        
+        // Option 1, only two numbers are given
+        if (args.length == 2) { 
+            
+            // Confirm that both arguments are doubles
+            if (!isNumeric(args[0]) || !isNumeric(args[1])) {
+                System.out.println("Arguments '" + args[0] + "' and '" + args[1] + "' must be numbers.");
+                System.exit(1);
+            }
+            
+            double x = Double.parseDouble(args[0]);
+            double y = Double.parseDouble(args[1]);
+            double gcd = GCD(x,y);
+            
+            System.out.println((int)(x/gcd) + " " + (int)(y/gcd));
+            
+        }
+        
+        // Option 2, resize a picture to certain dimensions
+        else if (args.length == 3) {
+            
+            // Confirm that dimensions are reasonable 
+            if (!isNumeric(args[1]) || !isNumeric(args[2])) {
+                System.out.println("Arguments '" + args[1] + "' and '" + args[2] + "' must be numbers.");
+                System.exit(1);
+            }
+
+            // Parse dimensions
+            double xdim = Double.parseDouble(args[1]);
+            double ydim = Double.parseDouble(args[2]);
+            
+            double large = Math.max(xdim, ydim);
+            double small = Math.min(xdim, ydim);
+            
+            int rsmall = 4;
+            int rlarge = 6;
+
+            if (large > rlarge || small > rsmall) { rsmall = 5; rlarge = 7; }
+            if (large > rlarge || small > rsmall) { rsmall = 8; rlarge = 10;}
+            if (large > rlarge || small > rsmall) {
+                System.out.println("Dimensions " + small + "x" + large + " must be less than 8x10.");
+                System.exit(1);
+            }
+
+            // Now, confirm that picture exists
+            if (!(new File(args[0]).isFile())) {
+                System.out.println("Could not find file '" + args[0] + "'");
+                System.exit(1);
+            }
+            
+            Picture original = new Picture(args[0]); // Create new image from file
+            
+            // Confirm that dimensions are (nearly) what they should be
+            int pxdim = original.width();
+            int pydim = original.height();
+            
+            int plarge = Math.max(pxdim, pydim);
+            int psmall = Math.min(pxdim, pydim);
+            
+            // We allow up to 5 pixels of inaccuracy on each side
+            if (Math.abs((small * plarge) - (large * psmall)) > 25) { 
+                System.out.println("Picture dimensions (" + psmall + "x" + plarge + ") " + 
+                                   "are not what they should be (" + small + "x" + large + "), " + 
+				   "off by " + Math.sqrt(Math.abs((small*plarge)-(large*psmall))));
+                System.exit(1);
+            }
+        
+            // Create new image (of proper size)
+            int w = (int)Math.round(rlarge * (double)plarge / large);
+            int h = (int)Math.round((double)w / rlarge * rsmall);
+            
+            if (original.height() > original.width()) { 
+                int tmp = w;
+                w = h;
+                h = tmp;
+            }
+            
+            Picture transform = new Picture(w, h);
+            // Set all pixels to gray
+            for (int x = 0; x < w; x++) {
+                for (int y = 0; y < h; y++) {
+                    transform.set(x, y, new Color(200,200,200));
+                }
+            }
+            
+            // Make a colored outline (that won't get cropped)
+            for (int x = 0; x < w; x++) {
+                for (int y = 0; y < h/40; y++) {
+                    transform.set(x, y, new Color(255, 0, 0));
+                    transform.set(x, h-y-1, new Color(0, 255, 0));
+                }
+            }
+            
+            for (int y = 0; y < h; y++) {
+                for (int x = 0; x < h/40; x++) {
+                    transform.set(x, y, new Color(0, 0, 255));
+                    transform.set(w-x-1, y, new Color(255, 255, 0));                    
+                }
+            }
+            
+            // And then copy in the middle pixels. 
+            int xstart = (w - original.width())/2;
+            int ystart = (h - original.height())/2;
+                
+            for (int x = xstart; x < xstart + original.width(); x++) {
+                for (int y = ystart; y < ystart + original.height(); y++) {
+		    if (x < transform.width() && y < transform.height())
+			transform.set(x, y, original.get(x-xstart, y-ystart));
+                }
+            }
+            
+            // Save the picture
+	    String[] fsuffix = args[0].split("/");
+            transform.save("0-" + fsuffix[fsuffix.length-1]);
+        }
+
+        else {
+            System.out.println("Usage: java Ratio <width> <height>");
+            System.out.println("Usage: java Ratio <picture> <width> <height>");
+            System.exit(1);
+        }
+    }
+}
