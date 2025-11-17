@@ -28,7 +28,7 @@ feel more like the cozy family hangout space that we actually use it for. :video
 ![Living Room](../assets/img/livingroom-header.jpg){: .mx-auto.d-block :}
 
 Notice that we kept the corner plant :deciduous_tree:, coffee table, couches, and blanket/books 
-storage shelf (for now)! The two wall sconces were [removed and replaced](#lighting-in-a-tree) with switch-enabled 
+storage shelf (though the latter has since been [replaced to accommodate our projector hookups](../2025-08-01-projector))! The two wall sconces were [removed and replaced](#lighting-in-a-tree) with switch-enabled 
 outlets. :bulb:
 
 ![Living Room](../assets/img/livingroom-before03.jpg){: .mx-auto.d-block :}
