@@ -54,7 +54,7 @@ I routed the projector’s (carefully hidden) [HDMI](https://www.amazon.com/dp/B
 
 ### Step 4: Koopa shell yo :peach:
 
-The boys *love* Mario Kart (me too! :raising_hand_woman:) and insisted on going as their favorite characters (Donkey Kong and Bowser) for Halloween this year. :monkey_face: :dragon_face: :car: :turtle: :mushroom:
+The boys *love* Mario Kart (me too! :raising_hand_woman:) and insisted on going as their favorite characters (Donkey Kong and Bowser) for Halloween this year. :monkey_face: :dragon_face: :car: :turtle: :mushroom: The [Nintendo Switch Parental Controls app](https://www.nintendo.com/us/mobile-apps/parental-controls/) works well so far: we set a 1-hour daily limit and allow play only on weekends before 8pm.
 
 ![Side cabinet](../assets/img/projector-mario.jpg){: .mx-auto.d-block :}
 
