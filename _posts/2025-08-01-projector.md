@@ -66,7 +66,7 @@ We had been *talking about* getting a projector for *ages*, and we decided to fi
 for it once the [living room refresh](../2025-04-12-living-room) was completed during the **Big Move of 2025**. :yellow_heart: :blue_heart: :orange_heart: :green_heart:
 
 | Materials (Projector) | Cost (+ tax/shipping) | 
-|----|----|
+|----|----:|
 | [BenQ HT2060 Home Theater LED Projector](https://www.amazon.com/dp/B0BWGXHVRV) | $1167.69 |
 | [Accent Table by Bungalow Rose](https://www.wayfair.com/furniture/pdp/bungalow-rose-accent-cabient-w111866442.html) | $371.86 |
 | [Elite Screens Motorized 105" Projector Screen](https://www.amazon.com/dp/B0DGSS2WJV) | $255.32 |
@@ -85,7 +85,7 @@ for it once the [living room refresh](../2025-04-12-living-room) was completed d
 I consider the cost of our first-ever (only-ever?!) video game system to be separate, although it is a *big part of the fun* of the new projector. :video_game: I'm open to game recommendations!
 
 | Materials (Switch 2) | Cost (+ tax/shipping) | 
-|----|----|
+| ---- | ----: |
 | [Nintendo Switch 2 + Mario Kart World](https://www.nintendo.com/us/store/products/nintendo-switch-2-mario-kart-world-digital-bundle-122179/) | $531.24 |
 | 2 [Nintendo Switch 2 Pro Controller](https://www.target.com/p/nintendo-switch-2-pro-controller/-/A-94704613) | $181.67 |
 | [Nintendo Switch 2 Joy-Con Controller](https://www.target.com/p/nintendo-switch-2-joy-con-2-l-r-light-blue-light-red/-/A-94704608) | $106.24 |
