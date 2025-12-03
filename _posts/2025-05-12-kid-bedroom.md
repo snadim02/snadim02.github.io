@@ -39,13 +39,13 @@ storage, and I found a [great dresser](#dresserwardrobe) for clothes. :shirt:
 
 ## Before & Afters
 
-I wanted the room to vibe with our [newly redecorated living room](../2025-04-12-living-room). *Mission accomplished!* :rocket: :yellow_heart: :blue_heart:
+I wanted the room to vibe with our [newly redecorated living room](../2025-04-12-living-room). :yellow_heart: :blue_heart: Everything that had been on the walls was relocated to our [entryway](../2025-11-01-entryway). 
 
 ![Kid Bedroom](../assets/img/kidbedroom-before2.jpg){: .mx-auto.d-block :}
 
 ![Kid Bedroom](../assets/img/kidbedroom-after1b.jpg){: .mx-auto.d-block :}
 
-Everything that had been on the walls was relocated to our [entryway](../2025-11-01-entryway). And here's the side with the (former) closet. We moved our clothes into a 
+And here's the side with the (former) closet. We moved our clothes into a 
 [custom wardrobe](../2025-03-01-wardrobe)
 upstairs in the 
 [new master bedroom](../2025-03-15-master-bedroom). Our kid's clothes are in his [new dresser](#activity-2-getting-dressed)! :shirt: :jeans: :necktie:
@@ -94,7 +94,7 @@ window nook.
 
 <a name="glow-in-the-dark-stars"></a>
 **Glow-in-the-Dark Stars.** NGL, the '90s had something going for it design-wise: [glow-in-the-dark stars](https://www.amazon.com/dp/B0085092R4)!!! :star: :star2: 
-My kid *loves them*, and they fade after about 15-25 minutes so they don't keep him up at night. Putting these up is not for the faint of heart, though... you have to stick adhesive 
+My kid *loves them*---they glow for hours and give off just enough light to be comforting without keeping him awake. Putting these up is not for the faint of heart, though... you have to stick adhesive 
 putty on each one individually... :unamused: :face_exhaling: 
 
 ![Kid Bedroom](../assets/img/kidbedroom-stars.jpg){: .mx-auto.d-block :}

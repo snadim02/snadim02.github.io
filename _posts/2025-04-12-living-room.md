@@ -37,8 +37,12 @@ outlets. :bulb:
 
 We removed that [great-for-childproofing-tchotchkes wall shelf](https://www.wayfair.com/storage-organization/pdp/zipcode-design-girouard-6-piece-accent-shelf-w004780316.html) because I kept 
 hitting my head on it while picking up toys :face_with_head_bandage: :teddy_bear: and because it was blocking us from adding 
-curtains to the side window. :window: We moved the plants into [rail-mounted planters](https://www.amazon.com/dp/B0D79J6FYR) :potted_plant: (*aren't they awesome?!*),
-but kept the [toys in the same place](../2022-12-30-toys) since it's still the perfect spot for them. :jigsaw: :bricks:
+curtains to the side window. :window: I kept the [toys in the same place](../2022-12-30-toys), though, since it's still the perfect spot for them. :jigsaw: :bricks:
+
+![Living Room After Planters](../assets/img/livingroom-planters.jpg){: .mx-auto.d-block :}
+
+:point_up: The plants were moved into these [rail-mounted planters](https://www.amazon.com/dp/B0D79J6FYR) :potted_plant: (*aren't they awesome?!*),
+
 
 ## The Design
 
@@ -56,7 +60,7 @@ didn't actually fit, but I like the vibe!
 ## The Details
 
 *Home takes time.* :stopwatch: :house: Our living room is now in a semi-stable state, but I'll continue
-to adapt it to fit our family's changing needs! **Keep reading** about my functional solutions
+to adapt it to fit our family's changing needs! Since writing this post, we [installed a projector](../2025-08-01-projector)! **Keep reading** about my functional solutions
 for this room:
 - :framed_picture: [hanging a gallery wall](#evolution-of-the-gallery-wall-)
 - :couch_and_lamp: [leveling furniture on slanted floors](#3d-printed-furniture-levels) 
@@ -136,7 +140,7 @@ aren't blindingly bright at eye level :sunglasses:, and still look okay exposed 
 We live in a condo unit above and next to others. The neighbor who shares a wall
 with us [could hear every step we took](https://www.reddit.com/r/HomeImprovement/comments/q20db4/best_way_to_soundproof_your_townhouse_from/) up and down the stairs. :ear: :hear_no_evil:
 After discussing the feasibility of different [solutions for dampening impact noise](https://www.tmsoundproofing.com/understanding-impact-footstep-noise.html) :cityscape:,
-I decided to install [polyester](https://unikavaev.com/blog/guide-to-sound-absorbing-acoustic-rugs/) [stair treads](https://www.amazon.com/dp/B0CR1F82LS) and [acoustic panels](https://www.amazon.com/gp/product/B08CK83HPW) to the 
+I decided to install :one: [polyester](https://unikavaev.com/blog/guide-to-sound-absorbing-acoustic-rugs/) [stair treads](https://www.amazon.com/dp/B0CR1F82LS) and :two: [acoustic panels](https://www.amazon.com/gp/product/B08CK83HPW) to the 
 backs of our stairwell art. Unfortunately (though, unsurprisingly), this
 made no difference for our neighbor,
 *but* it helped reduce [*our* perception of external noise](https://www.soundproofcow.com/application/residental-diy/)! :loud_sound: :loudspeaker:
