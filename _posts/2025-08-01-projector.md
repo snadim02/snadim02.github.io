@@ -30,7 +30,7 @@ In the end, after consulting [Reddit](https://www.reddit.com/r/projectors/commen
 
 ### Step 1: Installation (/make a mess)
 
-I have no chill, and as soon as I found a projector that was going to work with our space, I ordered everything I needed *just three days* before we were hosting overnight guests in our house for a week. :woman_facepalming: :unamused: Since my installation attempts trashed our space (see :point_down:), I needed to work late nights to finish up before our guests arrived. :yawning_face: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:
+I have no chill, and as soon as I found a projector that was going to work with our space, I ordered everything I needed to arrive *just three days* before we were hosting overnight guests in our house for a week. :woman_facepalming: :unamused: Since my installation attempts trashed our space (see :point_down:), I needed to work late nights to finish up before our guests arrived. :yawning_face: :waning_gibbous_moon: :last_quarter_moon: :waning_crescent_moon:
 
 ![throw ratio](../assets/img/projector6.jpg){: .mx-auto.d-block :}
 
