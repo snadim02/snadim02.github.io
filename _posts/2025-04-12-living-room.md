@@ -28,7 +28,7 @@ feel more like the cozy family hangout space that we actually use it for. :video
 ![Living Room](../assets/img/livingroom-header.jpg){: .mx-auto.d-block :}
 
 Notice that we kept the corner plant :deciduous_tree:, coffee table, couches, and blanket/books 
-storage shelf (though the latter has since been [replaced to accommodate our projector hookups](../2025-08-01-projector))! The two wall sconces were [removed and replaced](#lighting-in-a-tree) with switch-enabled 
+storage shelf (though the latter has since been [replaced to accommodate our projector hookups](../2025-08-01-projector)) :electric_plug: :film_projector: ! The two wall sconces were [removed and replaced](#lighting-in-a-tree) with switch-enabled 
 outlets. :bulb:
 
 ![Living Room](../assets/img/livingroom-before03.jpg){: .mx-auto.d-block :}
@@ -41,8 +41,10 @@ curtains to the side window. :window: I kept the [toys in the same place](../202
 
 ![Living Room After Planters](../assets/img/livingroom-planters.jpg){: .mx-auto.d-block :}
 
-:point_up: The plants were moved into these [rail-mounted planters](https://www.amazon.com/dp/B0D79J6FYR) :potted_plant: (*aren't they awesome?!*),
-
+The plants were moved into these [rail-mounted planters](https://www.amazon.com/dp/B0D79J6FYR) :point_up: :potted_plant: (*aren't they awesome?!*). 
+I also changed the wall color from [BM Stokes Forest Green](https://www.benjaminmoore.com/en-us/paint-colors/color/2035-40/stokes-forest-green) 
+to [BM Ash Blue](https://www.benjaminmoore.com/en-us/paint-colors/color/2057-40/ash-blue),
+which (I think...? :thinking:) works better in this north-facing room.
 
 ## The Design
 
@@ -60,46 +62,26 @@ didn't actually fit, but I like the vibe!
 ## The Details
 
 *Home takes time.* :stopwatch: :house: Our living room is now in a semi-stable state, but I'll continue
-to adapt it to fit our family's changing needs! Since writing this post, we [installed a projector](../2025-08-01-projector)! **Keep reading** about my functional solutions
-for this room:
-- :framed_picture: [hanging a gallery wall](#evolution-of-the-gallery-wall-)
+to adapt it to fit our family's changing needs!
+(Indeed, since writing this post, we [updated our gallery wall](../2025-12-16-gallery-wall) :framed_picture: and [installed a projector](../2025-08-01-projector) :film_projector:!)
+
+**Keep reading** about my functional solutions for this room:
 - :couch_and_lamp: [leveling furniture on slanted floors](#3d-printed-furniture-levels) 
 - :window: [customizing bay window curtain rods](#bay-window-curtains) 
 - :deciduous_tree: [installing lighting in a tree](#lighting-in-a-tree)
 - :hear_no_evil: [soundproofing a staircase](#soundproofing-the-staircase)
 
-### Evolution of the Gallery Wall 
-
-**Iteration 1.** When my husband and I first moved in together once we were married :ring: :person_with_veil:, we each came with a random assortment of 
-artwork from our travels. :cambodia: :egypt: :thailand: :india: :vietnam: :israel: :nepal: :sri_lanka: :iran: :peru: I combined it all into a gallery wall in our first apartment in [Northampton, MA](https://en.wikipedia.org/wiki/Northampton,_Massachusetts) by laying the artwork
-out on the floor onto craft paper, tracing the art, then taping the paper to the wall to put nails in. :framed_picture: :hammer:
-
-![Living Room](../assets/img/livingroom-gallerywall1.jpg){: .mx-auto.d-block :}
-
-**Iteration 2.** I repeated the process when we moved into our tiny 
-[Cambridgeport](https://en.wikipedia.org/wiki/Cambridgeport,_Cambridge,_Massachusetts) 
-apartment in 2018. :framed_picture:
-
-![Living Room](../assets/img/livingroom-gallerywall2.jpg){: .mx-auto.d-block :}
-
-**Iteration 3.** And finally! Here is the gallery wall in our current condo. Hanging
-all this over the staircase while keeping our necks intact was... not guaranteed... :ladder: :hammer: :face_with_head_bandage:
-This time, I drew level +'s all over the craft paper and measured 40" up from
-the stairs in order to lay the art out to arrange. I also changed the wall color from [BM Stokes Forest Green](https://www.benjaminmoore.com/en-us/paint-colors/color/2035-40/stokes-forest-green) 
-to [BM Ash Blue](https://www.benjaminmoore.com/en-us/paint-colors/color/2057-40/ash-blue),
-which (I think...? :thinking:) works better in this north-facing room. :green_heart: :blue_heart:
-
-![Living Room](../assets/img/livingroom-gallerywall3.jpg){: .mx-auto.d-block :}
-
 ### 3D-Printed Furniture Levels
 
 Who knew that the floor in our 1890 condo could *slant so much?!* [I guess I did.](../2023-06-01-fireplace)... :face_with_spiral_eyes:
 The front of the sofa in the bay window 
-was nearly two inches lower than the back. :couch_and_lamp: **(1)** I tried stacking furniture protector pads, which slid out of place and left sticky residue on the floor. :angry: 
-**(2)** *Then* I got [anti-slip furniture casters](https://www.amazon.com/dp/B018H0NDRG)
-and [wobble wedges](https://www.amazon.com/Wobble-Wedges-Rigid-Plastic-Shims/dp/B00435B9FS/?th=1), which were much better but kept collapsing... :shrug:
-**(3)** *Finally*, I designed [frames for the wobble wedges on TinkerCad](https://www.tinkercad.com/things/3RbVUoPeB7x-wobble-wedge-holder?sharecode=6Kn_11-EEqJm6C4Hw36rYxwQHIY3BJLc7ZpkYPgI5nE) and 3D printed them in [wood+PLA filament](https://www.amazon.com/dp/B088BRY1PN).
-Success! :clap:
+was nearly two inches lower than the back. :couch_and_lamp: 
+
+**Solution #1.** I tried stacking furniture protector pads under the front couch legs, but they kept sliding out of place and left sticky residue on the floor. :angry: <br>
+**Solution #2.** *Then* I got [anti-slip furniture casters](https://www.amazon.com/dp/B018H0NDRG)
+and [wobble wedges](https://www.amazon.com/Wobble-Wedges-Rigid-Plastic-Shims/dp/B00435B9FS/?th=1), which were much better, *but* the teetering wobble wedge stacks kept collapsing... :shrug: <br>
+**Solution #3.** *Finally*, I also added [frames to surround the wobble wedges](https://www.tinkercad.com/things/3RbVUoPeB7x-wobble-wedge-holder?sharecode=6Kn_11-EEqJm6C4Hw36rYxwQHIY3BJLc7ZpkYPgI5nE) that I designed on TinkerCad and 3D printed with [wood+PLA filament](https://www.amazon.com/dp/B088BRY1PN).
+**Success!** :clap:
 
 ![Living Room](../assets/img/livingroom-sofawedges1.png){: .mx-auto.d-block :}
 
