@@ -109,12 +109,12 @@ was an endlessly interesting and kind person.
 He never had children of his own, which made him a super patient and fun uncle to his 
 (great-)nieces and (great-)nephews. :family: :heart: :tada:
 
-* **Iran :iran: ~1940.** Nila Mama served in the Indian Army (then part of the British Empire) during and after World War II. At a Red Sea posting, he was brought (despite only being a junior cadet) to a dinner hosted by the Shah of Iran to serve as a translator for his commanding officers. All guests received these custom brass plates. :point_down:
+* **Iran :iran: ~1940.** Nila Mama served in the [Indian Army (then part of the British Empire)](https://en.wikipedia.org/wiki/Indian_Army_during_World_War_II) during and after WW2. At a Red Sea posting, he was brought (despite only being a junior cadet) to a dinner hosted by the [Shah of Iran](https://en.wikipedia.org/wiki/Reza_Shah) to serve as a translator for his commanding officers. All guests received these [custom-engraved brass plates](https://share.google/aimode/hpdyyHQusZKyJWcTG). :point_down:
 
   :---:|:---:
   ![Iran 1940s](../assets/img/iran_plate.png) | ![Nepal 1940s](../assets/img/nilamama_middleeast.png)
 
-* **Nepal :nepal: early 1950s.** Nila Mama was stationed in [Ladakh](https://en.wikipedia.org/wiki/Ladakh), a northern border region of [newly-independent India](https://www.britannica.com/topic/Indian-Independence-Movement). This painting was purchased during a weekend trip to Nepal. :point_down:
+* **Nepal :nepal: early 1950s.** Nila Mama was stationed in [Ladakh](https://en.wikipedia.org/wiki/Ladakh), a northern border region of [newly-independent India](https://www.britannica.com/topic/Indian-Independence-Movement). This painting was purchased during a weekend trip to neighboring Nepal. :point_down:
 
   :---:|:---:
   ![Nepal 1940s](../assets/img/nepal_painting.png) | ![Nepal 1940s](../assets/img/nilamama_nepal.gif)
@@ -122,10 +122,10 @@ He never had children of his own, which made him a super patient and fun uncle t
 
 **Family pictures.** Family pictures are *essential* for personalizing a home, but displaying them in tabletop frames can be a slippery slope toward clutter... :camera:
 I display family photos in our [entryway stairwell](../2025-11-01-entryway), and I also hung up pictures of our
-extended family in our hallway: 
+extended family and ancestors in our hallway: 
 
 ![Living Room](../assets/img/family_gallery.jpg){: .mx-auto.d-block :}
-*:point_up: These were originally displayed at our wedding; afterward, I removed the frame stands and added [picture wire](https://www.amazon.com/Picture-Hanging-100-Feet-Braided-Supports/dp/B0CT9SBY57/?th=1) with [D-ring hooks](https://www.amazon.com/Pieces-Triangle-Picture-Hangers-Screws/dp/B0DWT9GGDJ/) so we could hang them on the wall.*
+*:point_up: These were originally displayed at our wedding. Afterward, I removed the frame stands and attached [picture wire](https://www.amazon.com/Picture-Hanging-100-Feet-Braided-Supports/dp/B0CT9SBY57/?th=1) with [D-ring hooks](https://www.amazon.com/Pieces-Triangle-Picture-Hangers-Screws/dp/B0DWT9GGDJ/) so we could hang them on the wall.*
 
 ### 3. Mutually Agreeable Artwork
 
@@ -134,13 +134,13 @@ has been getting to choose art together :ring: :framed_picture:, not out of urge
 co-evolving taste and shared history. :couple: :heart:
 
 :---:|:---:
-[![siona benjamin](../assets/img/sionabenjamin.png)](https://www.bluelikeme.com/products/tikkun-fh46-giclee-print) | **[Siona Benjamin](https://artsiona.com/) Print :india: :us: 2025**<br>We finally bought [*Finding Home #46: Tikkun ha-Olam*](https://www.bluelikeme.com/products/tikkun-fh46-giclee-print) for our 10th anniversary after eyeing it since 2013--- a small moment that *felt* like a very *grown-up* milestone.
+[![siona benjamin](../assets/img/sionabenjamin.png)](https://www.bluelikeme.com/products/tikkun-fh46-giclee-print) | **[Siona Benjamin](https://artsiona.com/) Print :india: :us: 2025**<br>We finally bought [*Finding Home #46: Tikkun ha-Olam*](https://www.bluelikeme.com/products/tikkun-fh46-giclee-print) for our 10th anniversary after eyeing it since 2013. It feels like a reflection of how we *choose to live:* [blending our cultures](https://en.wikipedia.org/wiki/History_of_the_Jews_in_India) in a way that feels natural and authentic.
 ![elephant tapestry](../assets/img/wedding-dress.gif) | **Elephant Tapestry :india: 2014**<br>We bought this in Bengaluru on our first trip to India together, at the same shop where I bought my [wedding lehenga](https://www.pinterest.com/search/pins/?q=red%20bridal%20lehenga). PSA: Treating wall tapestries with [fabric UV protector](https://www.amazon.com/ForceField-Sunblock-Fabric-Protector-Prevent/dp/B003VAWVR6) can help prevent fading!
 ![Peruvian mirror](../assets/img/perumirror.jpg) | **Peruvian [Sun/Moon Mirror](https://en.wikipedia.org/wiki/Huaca_de_la_Luna) :peru: 2019**<br>When my sister got married, we chose this piece to mark our growing family and as inspiration to visit my brother-in-law’s [home country](https://en.wikipedia.org/wiki/Huaca_de_la_Luna).
 
 ### 4. Gifts from Family & Friends
 
-Buying *any* art for someone else is risky---it can (and should!) be a personal choice. That said, we've
+Buying *any* art for someone else is risky!! It can (and should!) be a personal choice. That said, we've
 been lucky to receive a few keepers from family and friends that we genuinely love! :gift:
 
 ![Living Room](../assets/img/gallery-gifts.jpg){: .mx-auto.d-block :}
