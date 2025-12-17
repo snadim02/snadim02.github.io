@@ -119,7 +119,7 @@ He never had children of his own, which made him a super patient and fun uncle t
   :---:|:---:
   ![Nepal 1940s](../assets/img/nepal_painting.png) | ![Nepal 1940s](../assets/img/nilamama_nepal.gif)
 
-
+<a id="family-pictures"></a>
 **Family pictures.** Family pictures are *essential* for personalizing a home, but displaying them in tabletop frames can be a slippery slope toward clutter... :camera:
 I display family photos in our [entryway stairwell](../2025-11-01-entryway), and I also hung up pictures of our
 extended family and ancestors in our hallway: 
