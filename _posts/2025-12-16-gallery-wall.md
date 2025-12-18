@@ -96,7 +96,7 @@ using my husband's [laminated National Geographic world map](https://www.wayfair
 [sheets of 1/4" thick corkboard](https://www.amazon.com/Juvale-Cork-Board-Tiles-Corkboard/dp/B01FVWIU76/ref=sr_1_6), 
 [mod-podge](https://www.michaels.com/product/mod-podge-matte-10326512),
 and some [trim](https://www.homedepot.com/p/Ornamental-Mouldings-5-16-in-x-11-16-in-x-96-in-White-Hardwood-Panel-Colonial-Moulding-40-8WHW/202534033) 
-and [stain](https://www.acehardware.com/departments/paint-and-supplies/stains-and-finishes/wood-stains/13711). *Ta da!* :round_pushpin:
+and [stain](https://www.acehardware.com/departments/paint-and-supplies/stains-and-finishes/wood-stains/13711). :round_pushpin:
 
 ![Living Room](../assets/img/gallerywall-map.jpg){: .mx-auto.d-block :}
 
@@ -113,6 +113,8 @@ He never had children of his own, which made him a super patient and fun uncle t
 
   :---:|:---:
   ![Iran 1940s](../assets/img/iran_plate.png) | ![Nepal 1940s](../assets/img/nilamama_middleeast.png)
+  
+  <p></p>
 
 * **Nepal :nepal: early 1950s.** Nila Mama was stationed in [Ladakh](https://en.wikipedia.org/wiki/Ladakh), a northern border region of [newly-independent India](https://www.britannica.com/topic/Indian-Independence-Movement). This painting was purchased during a weekend trip to neighboring Nepal. :point_down:
 
@@ -141,12 +143,12 @@ co-evolving taste and shared history. :couple: :heart:
 ### 4. Gifts from Family & Friends
 
 Buying *any* art for someone else is risky!! It can (and should!) be a personal choice. That said, we've
-been lucky to receive a few keepers from family and friends that we genuinely love! :gift:
+been lucky to receive a few keepers from family and friends that we genuinely love. :gift:
 
 ![Living Room](../assets/img/gallery-gifts.jpg){: .mx-auto.d-block :}
 
-**Here it is, all together, one last time!**
+**Here it is, all together, one last time:**
 
-![Living Room](../assets/img/livingroom-gallerywall3.jpg){: .mx-auto.d-block :}
+![Living Room](../assets/img/gallerywall-cover.jpg){: .mx-auto.d-block :}
 
 If you’re trying to balance sentimental pieces with constrained space, the gallery wall approach has worked well for us! :sparkle:
