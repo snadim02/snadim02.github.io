@@ -136,7 +136,7 @@ has been getting to choose art together :ring: :framed_picture:, not out of urge
 co-evolving taste and shared history. :couple: :heart:
 
 :---:|:---:
-[![siona benjamin](../assets/img/sionabenjamin.png)](https://www.bluelikeme.com/products/tikkun-fh46-giclee-print) | **[Siona Benjamin](https://artsiona.com/) Print :india: :us: 2025**<br>We finally bought [*Finding Home #46: Tikkun ha-Olam*](https://www.bluelikeme.com/products/tikkun-fh46-giclee-print) for our 10th anniversary after eyeing it since 2013. It feels like a reflection of how we *choose to live:* [blending our cultures](https://en.wikipedia.org/wiki/History_of_the_Jews_in_India) in a way that feels natural and authentic.
+[![siona benjamin](../assets/img/sionabenjamin.png)](https://www.bluelikeme.com/products/tikkun-fh46-giclee-print) | **[Siona Benjamin](https://artsiona.com/) Print :india: :us: 2025**<br>We finally bought [*Finding Home #46: Tikkun ha-Olam*](https://www.bluelikeme.com/products/tikkun-fh46-giclee-print) for our 10th anniversary after eyeing it since 2013. It feels like a reflection of how we *choose to live:* [blending our cultures](https://en.wikipedia.org/wiki/History_of_the_Jews_in_India) in a way that never feels like a compromise.
 ![elephant tapestry](../assets/img/wedding-dress.gif) | **Elephant Tapestry :india: 2014**<br>We bought this in Bengaluru on our first trip to India together, at the same shop where I bought my [wedding lehenga](https://www.pinterest.com/search/pins/?q=red%20bridal%20lehenga). PSA: Treating wall tapestries with [fabric UV protector](https://www.amazon.com/ForceField-Sunblock-Fabric-Protector-Prevent/dp/B003VAWVR6) can help prevent fading!
 ![Peruvian mirror](../assets/img/perumirror.jpg) | **Peruvian [Sun/Moon Mirror](https://en.wikipedia.org/wiki/Huaca_de_la_Luna) :peru: 2019**<br>When my sister got married, we chose this piece to mark our growing family and as inspiration to visit my brother-in-law’s [home country](https://en.wikipedia.org/wiki/Huaca_de_la_Luna).
 
@@ -151,4 +151,5 @@ been lucky to receive a few keepers from family and friends that we genuinely lo
 
 ![Living Room](../assets/img/gallerywall-cover.jpg){: .mx-auto.d-block :}
 
-If you’re trying to balance sentimental pieces with constrained space, the gallery wall approach has worked well for us! :sparkle:
+If you’re trying to balance displaying sentimental pieces with practicality and/or constrained space, 
+you might consider a gallery wall, which has worked well for us! :sparkle:
