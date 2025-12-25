@@ -44,7 +44,7 @@ curtains to the side window. :window: I kept the [toys in the same place](../202
 The plants were moved into these [rail-mounted planters](https://www.amazon.com/dp/B0D79J6FYR) :point_up: :potted_plant: (*aren't they awesome?!*). 
 I also changed the wall color from [BM Stokes Forest Green](https://www.benjaminmoore.com/en-us/paint-colors/color/2035-40/stokes-forest-green) 
 to [BM Ash Blue](https://www.benjaminmoore.com/en-us/paint-colors/color/2057-40/ash-blue),
-which (I think...? :thinking:) works better in this north-facing room.
+which (I think...? :thinking:) works better in this north-facing room. You can check out the [full gallery wall](../2025-12-16-gallery-wall) in [another post](../2025-12-16-gallery-wall). 
 
 ## The Design
 

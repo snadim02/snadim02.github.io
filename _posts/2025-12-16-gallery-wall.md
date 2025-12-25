@@ -45,6 +45,8 @@ all this over the staircase while keeping our necks intact was... not guaranteed
 
 ![Living Room](../assets/img/livingroom-gallerywall3.jpg){: .mx-auto.d-block :}
 
+You can see the rest of this room in my [living room post](../2025-04-12-living-room).
+
 ## The Process
 
 **For regular (non-stairwell) walls,** I began by laying out 
@@ -152,4 +154,7 @@ been lucky to receive a few keepers from family and friends that we genuinely lo
 ![Living Room](../assets/img/gallerywall-cover.jpg){: .mx-auto.d-block :}
 
 If you’re trying to balance displaying sentimental pieces with practicality and/or constrained space, 
-you might consider a gallery wall, which has worked well for us! :sparkle:
+you might consider a gallery wall, which has worked well for us! :sparkle: 
+
+Check out the other side of this room 
+in my [post about our living room](../2025-04-12-living-room), which I redid as part of our **Big Move of 2025!**
