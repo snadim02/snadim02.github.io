@@ -156,5 +156,4 @@ been lucky to receive a few keepers from family and friends that we genuinely lo
 If you’re trying to balance displaying sentimental pieces with practicality and/or constrained space, 
 you might consider a gallery wall, which has worked well for us! :sparkle: 
 
-Check out the other side of this room 
-in my [post about our living room](../2025-04-12-living-room), which I redid as part of our **Big Move of 2025!**
+You can check out the [other side of the living room](../2025-04-12-living-room), too, which I redid as part of our **Big Move of 2025!**
