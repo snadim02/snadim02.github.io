@@ -55,7 +55,7 @@ the size of the wall. :straight_ruler: *Then*
 I laid the artwork out on top of the paper until the arrangement looked good. :test_tube: :woman_shrugging: 
 Next, I traced each piece and marked
 with :heavy_multiplication_x:s exactly where each nail would have to go. :pen: :hammer: :pushpin:
-I taped the paper onto the wall (with [painter's tape](https://www.amazon.com/ScotchBlue-Original-Multi-Surface-Painters-2090-24NC/dp/B00004Z4CP/?th=1)), 
+I [taped the paper](https://www.amazon.com/ScotchBlue-Original-Multi-Surface-Painters-2090-24NC/dp/B00004Z4CP/?th=1) onto the wall 
 and made sure all the traced
 artwork edges were level. *Finally*, I put nails in as marked, 
 pulled the craft paper down, and hung the artwork up 
