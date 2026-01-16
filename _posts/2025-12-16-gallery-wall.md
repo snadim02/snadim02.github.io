@@ -24,7 +24,7 @@ intentionally use wall space to display sentimental items! :framed_picture:
 
 ### Iteration 1
 When my husband and I moved in together after getting married :ring: :person_with_veil:, we had to combine 
-two households’ worth of sentimental wall art into far fewer walls. :package: Here’s how it all came together in a 
+two households’ worth of sentimental wall art into far fewer walls. :package: Here’s how (some of) it came together in a 
 gallery wall in our first apartment in [Northampton, MA](https://en.wikipedia.org/wiki/Northampton,_Massachusetts). :framed_picture: :hammer:
 
 ![Living Room](../assets/img/livingroom-gallerywall1.jpg){: .mx-auto.d-block :}
@@ -35,7 +35,7 @@ I repeated the process when we moved into our tiny
 apartment in 2018. *Can you spy the updates I made?* :framed_picture:
 
 ![Living Room](../assets/img/livingroom-gallerywall2.jpg){: .mx-auto.d-block :}
-*:point_up: The [Sri Lankan prosperity mask](#4-gifts-from-family--friends) was a new gift, 
+*:point_up: The [Sri Lankan prosperity mask](#4-gifts-from-family--friends) was a new addition, 
 and I stretched the [elephant tapestry](#3-mutually-agreeable-artwork) onto a DIYed wooden
 frame (instead of a [curtain rod](https://www.bedbathandbeyond.com/Home-Garden/Mosaic-Adjustable-Single-Curtain-Rod-With-Round-Finials/16592509/product.html)).*
 
@@ -49,16 +49,16 @@ You can see the rest of this room in my [living room post](../2025-04-12-living-
 
 ## The Process
 
-**For regular (non-stairwell) walls,** I began by laying out 
+**For regular (non-stairwell) walls,** I begin by laying out 
 [craft paper](https://www.amazon.com/PerkHomy-Wrapping-Bulletin-Shipping-Covering/dp/B0CQZ1TYX9/) on the floor to match 
 the size of the wall. :straight_ruler: *Then* 
-I laid the artwork out on top of the paper until the arrangement looked good. :test_tube: :woman_shrugging: 
-Next, I traced each piece and marked
-with :heavy_multiplication_x:s exactly where each nail would have to go. :pen: :hammer: :pushpin:
-I [taped the paper](https://www.amazon.com/ScotchBlue-Original-Multi-Surface-Painters-2090-24NC/dp/B00004Z4CP/?th=1) onto the wall 
-and made sure all the traced
-artwork edges were level. *Finally*, I put nails in as marked, 
-pulled the craft paper down, and hung the artwork up 
+I lay the artwork out on top of the paper until the arrangement looks good. :test_tube: :woman_shrugging: 
+Next, I trace each piece and mark
+with :heavy_multiplication_x:s exactly where each nail goes. :pen: :hammer: :pushpin:
+I [tape the paper](https://www.amazon.com/ScotchBlue-Original-Multi-Surface-Painters-2090-24NC/dp/B00004Z4CP/?th=1) onto the wall, 
+making sure all traced
+artwork edges are level. *Finally*, I put nails in as marked, 
+pull the craft paper down, and hang the artwork up 
 with *no accidental holes!* :framed_picture: :art: :clap: 
 
 **For the stairwell,** things were more complicated. I *started* with taping craft paper onto the 
