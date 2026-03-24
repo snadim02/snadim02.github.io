@@ -28,6 +28,8 @@ So, I do what I do... :v: out closet :arrow_right: :wave: built-in wardrobe!
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
+**Sunset colors.** I wanted to pick colors that my kid liked, vibed with the rest of our house, and felt like a sunset since I couldn't think of any other way to sort-of tie in the existing mountains.
+
 > But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit or break even on my house projects whenever we eventually sell this place. I spend money to improve the quality of my life *right now* for how we live! (Plus, with any luck, I don't intend to move imminently.)
 
 ## The Process
