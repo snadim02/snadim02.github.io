@@ -28,7 +28,7 @@ So, I do what I do... :v: out closet :arrow_right: :wave: built-in wardrobe!
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
-**Sunset colors.** I wanted to pick colors that my kid liked, vibed with the rest of our house, and felt like a sunset since I couldn't think of any other way to sort-of tie in the existing mountains.
+**Sunset colors.** I wanted to pick colors that my kid liked, [vibed](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and felt like a sunset since I couldn't think of any other way to sort-of tie in the existing mountains. :mountain: :sunrise_over_mountains:
 
 > But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit or break even on my house projects whenever we eventually sell this place. I spend money to improve the quality of my life *right now* for how we live! (Plus, with any luck, I don't intend to move imminently.)
 
@@ -57,7 +57,7 @@ The construction section of this blog post is under construction. :warning: (tee
 
 ## View from the Hallway
 
-The colors are a little *intense*, I know. 	:rainbow: :city_sunset: But they're perfect for my kiddo (he wanted *even more* color than this :open_mouth:), and the saturation level feels right given our home's current aesthetic.
+The colors are a little *intense*, I know. 	:rainbow: :sunrise: But they're perfect for my kiddo (he wanted *even more* color than this :open_mouth:), and the saturation level feels right given our home's current aesthetic.
 
 ![Organization](../assets/img/acoustic-hallway1.jpg){: .mx-auto.d-block :}
 :eyes: You can read more about our [family pictures wall](../2025-12-16-gallery-wall#family-pictures) and my [wall-mounted linens cabinet](../2022-01-18-linens).
