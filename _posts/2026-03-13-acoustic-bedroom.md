@@ -11,8 +11,8 @@ tags: [memoribilia, artwork, gallery wall, wall hanging, keepsakes, souvenirs]
 
 If those four words showed up in a [New York Times Connections](https://www.nytimes.com/games/connections) puzzle, I’m not sure I would ever find the category. :jigsaw: But in this case the answer is: **Things that replaced my son’s closet.** (Yes... I'm on a closet-demoing rampage.) :axe: :door:
 
-**Skip ahead** to read about [why the original closet was no good](), [construction process](), [design choices](), and 
-the [much improved organization]().
+**Skip ahead** to read about [why the original closet was no good](#another-closet-down), [construction process](#the-process), [design choices](#view-from-the-hallway), and 
+the [much improved organization](#organization).
 
 ## Another closet down
 
@@ -78,11 +78,11 @@ Details about labeling the wire mesh drawers and deep cloth bins are coming soon
 
 ## Cost
 
-Costs for the project are also coming soon! Stay tuned. 
+Most of the cost was putting in the custom wardrobe to improve our storage situation. 
 
 | Materials | Cost (+ tax/shipping) | 
 |----|----:|
-| closet demo, patchwork, and pantry installation labor | $4900.00 |
+| closet demo, floor & ceiling patching, and pantry installation labor | $4900.00 |
 | 4 Ikea [24x90" pantry Sektion units](https://www.ikea.com/us/en/p/sektion-high-cabinet-frame-white-70265445) and [short 30"](https://www.ikea.com/us/en/p/veddinge-door-white-20266782/) and [long 60"](https://www.ikea.com/us/en/p/veddinge-door-white-80266779/) doors, 1 [18x90" pantry](https://www.ikea.com/us/en/p/sektion-high-cabinet-frame-white-00265439/) with [short](https://www.ikea.com/us/en/p/veddinge-door-white-70266812/) and [long](https://www.ikea.com/us/en/p/veddinge-door-white-10266773/) doors, [suspension rail](https://www.ikea.com/us/en/p/sektion-suspension-rail-galvanized-60261527/), 7 [shelf packs](https://www.ikea.com/us/en/p/utrusta-shelf-white-00265533/), 5 [27" handles](https://www.ikea.com/us/en/p/billsbro-handle-anthracite-50576311/), 5 [21" handles](https://www.ikea.com/us/en/p/billsbro-handle-anthracite-10576313/), 10 [pantry leg pairs](https://www.ikea.com/us/en/p/sektion-leg-90556071/), 15 [cabinet hinge pairs](https://www.ikea.com/us/en/p/utrusta-hinge-w-b-in-damper-for-kitchen-80524882/),  | $2236.50 | 
 | FeltRight [sample pack](https://feltright.com/products/full-sample-kit), [wardrobe panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) and [wall panels](https://studiov2.feltright.com/?import=IQmYgRs0Ye) | $1244.56 |
 | [Elfa closet drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262) | $148.40 | 
