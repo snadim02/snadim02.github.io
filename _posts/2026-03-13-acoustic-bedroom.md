@@ -19,12 +19,12 @@ the [much improved organization]().
 At this point, I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's closet](../2025-05-12-kid-bedroom) :axe:, so our home's last remaining closet (in this bedroom) needed to store some family/household items :family: in addition to my younger son's things :boy:. The current space didn't allow for this separation, and the organization was lacking:  
 
 ![Organization](../assets/img/acousticbed-before1.gif){: .mx-auto.d-block :}
-:point_up: *Closet doors get stuck on the rug and in their frames (pinched fingers? :face_with_head_bandage: :pinching_hand:) with seasonal changes. Entry door crashes into the closet!* :door: *Unused/inaccessible space above and to the sides of the closet doors...*
+***Problems:** Unused/inaccessible space above and to the sides of the closet doors. Closet doors get stuck on the rug and in their frames (pinched fingers, anyone? :face_with_head_bandage: :pinching_hand:). Entry door crashes into the closet!* :door:
 
 ![Organization](../assets/img/acousticbed-before3.jpg){: .mx-auto.d-block :}
-:point_up: **Ugh!** :rage: *Accessing items behind the divider wall was infuriating.* 
+*Accessing items behind the divider wall was also infuriating.* :rage:
 
-So, I do what I do... :v: out, closet; :wave: built-in wardrobe!
+So, I do what I do... :v: out closet :arrow_right: :wave: built-in wardrobe!
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
@@ -32,12 +32,12 @@ So, I do what I do... :v: out, closet; :wave: built-in wardrobe!
 
 ## The Process
 
-The construction section of this blog post is under construction :warning: (teehee #dadjokes)
+The construction section of this blog post is under construction. :warning: (teehee #punny)
 
 ### Stage 1: Closet demo & construction 
 
 * Pictures of demoed closet
-* Installation (and links to) Ikea pantries and shelves
+* Installation (and links to) Ikea pantries and shelves with 1/2" spacers to accommodate door swing + panels
 * Floor patching (+4" of floor space!)
 * Wall/ceiling patching
 * Filling in baseboard gap with flexi caulk
@@ -55,20 +55,20 @@ The construction section of this blog post is under construction :warning: (teeh
 
 ## View from the Hallway
 
-The colors are a little *intense*, I know. 	:rainbow: :city_sunset: But they're perfect for my kiddo (he wanted *even more* color :open_mouth:), and the saturation level feels right given our home's current aesthetic.
+The colors are a little *intense*, I know. 	:rainbow: :city_sunset: But they're perfect for my kiddo (he wanted *even more* color than this :open_mouth:), and the saturation level feels right given our home's current aesthetic.
 
 ![Organization](../assets/img/acoustic-hallway1.jpg){: .mx-auto.d-block :}
-:point_up: Read more about our [family pictures wall](../2025-12-16-gallery-wall#family-pictures) and my [wall-mounted linens cabinet](../2022-01-18-linens) in other posts. :eyes:
+:eyes: You can read more about our [family pictures wall](../2025-12-16-gallery-wall#family-pictures) and my [wall-mounted linens cabinet](../2022-01-18-linens).
 
 ![Organization](../assets/img/acoustic-hallway2.jpg){: .mx-auto.d-block :}
 :point_left: I fixed up (...and axed the closet from) our [older son's bedroom](../2025-05-12-kid-bedroom) last year.
 
 ![Organization](../assets/img/acoustic-hallway3.jpg){: .mx-auto.d-block :}
-:point_left: And here's the other end of the hallway looking into our [living room](../2025-04-12-living room).
+:point_up: And here's the other end of the hallway looking into our [living room](../2025-04-12-living room).
 
 
 ## Organization
-I always save the best for last. 
+I've saved the best for last ! 
 
 ![Organization](../assets/img/acousticbed-org.gif){: .mx-auto.d-block :}
 
