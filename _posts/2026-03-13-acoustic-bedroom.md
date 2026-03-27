@@ -55,7 +55,7 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ### Stage 2: Wall treatment
 
-I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) that absorbed sound and doubled as a pinboard: win-win! *First* I took the panels to get color-matched samples and some [Zinsser bin primer]() for the wood, [Ikea doors]() and 2-week-cured plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
+I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P): they absorb sound *and* double as a pinboard: win-win! *First* I took the panels to get color-matched samples and some [Zinsser bin primer]() for the wood, [Ikea doors]() and 2-week-cured plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
 
 It took *way longer* than I thought to prime, paint *two* coats for coverage, THEN seal the cabinet frame and doors with polyurethane.
 
