@@ -33,7 +33,7 @@ So, I do what I do... :v: out closet :arrow_right: :wave: built-in wardrobe!
 
 ### Considerations for the Space
 
-* **Mountains.** I was requested to keep them. 
+* **Mountains.** The kids logged their request to keep them. 
 * **Sunset Colors.** I wanted to pick colors that my kid liked, [vibed](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and felt like a sunset since I couldn't think of any other way to sort-of tie in the existing mountains. :mountain: :sunrise_over_mountains:
 * **Soundproofing.** We want to be good neighbors and reduce others' perception of our noise as much as possible. 
 * **Artistic Kiddo.** Although I was able to [get rid of artwork](../2022-09-01-kids-artwork) with my older kid, our younger son loves (and is so proud of!) his artwork. It's nice to display it... out of our common spaces... 
@@ -55,11 +55,13 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ### Stage 2: Wall treatment
 
-I found [these FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) that absorbed sound and doubled as a pinboard: win-win! I chose to cover the other wall (around the window), too, since I wanted to [see the colors down the hallway](#view-from-the-hallway). *First* I took the panels to get color-matched samples and some [Zinsser bin primer]() for the wood, [Ikea doors]() and 2-week-cured plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
+I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) that absorbed sound and doubled as a pinboard: win-win! *First* I took the panels to get color-matched samples and some [Zinsser bin primer]() for the wood, [Ikea doors]() and 2-week-cured plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
+
+It took *way longer* than I thought to prime, paint *two* coat for coverage, THEN seal with polyurethane the cabinet frame, doors, and walls (around windows).
 
 ![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
-It took *way longer* than I thought to prime, paint *two* coat for coverage, THEN seal with polyurethane the cabinet frame, doors, and walls (around windows).
+I chose to cover the other wall (around the window), too, since I wanted to [see the colors down the hallway](#view-from-the-hallway). 
 
 ![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
