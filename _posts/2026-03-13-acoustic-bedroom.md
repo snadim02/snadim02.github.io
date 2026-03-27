@@ -59,11 +59,11 @@ I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.felt
 
 It took *way longer* than I thought to prime, paint *two* coat for coverage, THEN seal with polyurethane the cabinet frame, doors, and walls (around windows).
 
-![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
+![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
 I chose to cover the other wall (around the window), too, since I wanted to [see the colors down the hallway](#view-from-the-hallway). 
 
-![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
+![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
 Once that was finally finished, I also filled in the baseboard gap with a [flexi caulk strip]().
 
