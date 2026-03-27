@@ -31,7 +31,12 @@ So, I do what I do... :v: out closet :arrow_right: :wave: built-in wardrobe!
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
-**Sunset colors.** I wanted to pick colors that my kid liked, [vibed](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and felt like a sunset since I couldn't think of any other way to sort-of tie in the existing mountains. :mountain: :sunrise_over_mountains:
+### Considerations for the Space
+
+* **Mountains.** I was requested to keep them. 
+* **Sunset Colors.** I wanted to pick colors that my kid liked, [vibed](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and felt like a sunset since I couldn't think of any other way to sort-of tie in the existing mountains. :mountain: :sunrise_over_mountains:
+* **Soundproofing.** We want to be good neighbors and reduce others' perception of our noise as much as possible. 
+* **Artistic Kiddo.** Although I was able to [get rid of artwork](../2022-09-01-kids-artwork) with my older kid, our younger son loves (and is so proud of!) his artwork. It's nice to display it... out of our common spaces... 
 
 > But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit or break even on my house projects whenever we eventually sell this place. I spend money to improve the quality of my life *right now* for how we live! (Plus, with any luck, I don't intend to move imminently.)
 
@@ -41,16 +46,23 @@ The construction section of this blog post is under construction. :warning: (tee
 
 ### Stage 1: Closet demo & construction 
 
-* Pictures of demoed closet
-* Installation (and links to) Ikea pantries and shelves with 1/2" spacers to accommodate door swing + panels
-* Floor patching (+4" of floor space!)
-* Wall/ceiling patching
-* Filling in baseboard gap with flexi caulk
+![Organization](../assets/img/acoustic-construction.gif){: .mx-auto.d-block :}
+
+I hired a local contractor to demo the existing closet, patch the ceiling, walls, and floors, then assemble and install some [Ikea pantries](#cost) with [1/2" poplar spacers](https://www.homedepot.com/p/Weaber-1-2-in-x-2-in-x-4-ft-S4S-Poplar-Board-27406/207058985) to accommodate the eventual acoustic boards thickening the standard doors. The new pantry units had deeper usable space *and* a smaller footprint-- we gained ~4" of floorspace! 
 
 ### Stage 2: Wall treatment
 
-* Description of sound-absorbing tiles and pinboard quality
-* Zinsser bin primer for wood and freshly-plastered walls, two coats of color-matched paint, then polyurethane as a top coat on cabinet frame and doors. 
+I found [these FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) that absorbed sound and doubled as a pinboard: win-win! I chose to cover the other wall (around the window), too, since I wanted to [see the colors down the hallway](#view-from-the-hallway). *First* I took the panels to get color-matched samples and some [Zinsser bin primer]() for the wood, [Ikea doors]() and 2-week-cured plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
+
+![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
+
+It took *way longer* than I thought to prime, paint *two* coat for coverage, THEN seal with polyurethane the cabinet frame, doors, and walls (around windows).
+
+![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
+
+Once that was finally finished, I also filled in the baseboard gap with a [flexi caulk strip]().
+
+![Organization](../assets/img/acoustic-caulk.jpg){: .mx-auto.d-block :}
 
 ### Stage 3: Final touches
 
