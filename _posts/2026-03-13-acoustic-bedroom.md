@@ -38,6 +38,9 @@ So, I do what I do... :v: out closet :arrow_right: :wave: built-in wardrobe!
 * **Soundproofing.** We want to be good neighbors and reduce others' perception of our noise as much as possible. 
 * **Artistic Kiddo.** Although I was able to [get rid of artwork](../2022-09-01-kids-artwork) with my older kid, our younger son loves (and is so proud of!) his artwork. It's nice to display it... out of our common spaces... 
 
+![Organization](../assets/img/acoustic-artists.jpg){: .mx-auto.d-block :}
+*I love this picture, since their art looks like their two brains on display. :heart_eyes:*
+
 > But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit or break even on my house projects whenever we eventually sell this place. I spend money to improve the quality of my life *right now* for how we live! (Plus, with any luck, I don't intend to move imminently.)
 
 ## The Process
