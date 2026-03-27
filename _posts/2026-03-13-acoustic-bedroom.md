@@ -57,15 +57,15 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) that absorbed sound and doubled as a pinboard: win-win! *First* I took the panels to get color-matched samples and some [Zinsser bin primer]() for the wood, [Ikea doors]() and 2-week-cured plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
 
-It took *way longer* than I thought to prime, paint *two* coat for coverage, THEN seal with polyurethane the cabinet frame, doors, and walls (around windows).
+It took *way longer* than I thought to prime, paint *two* coats for coverage, THEN seal the cabinet frame and doors with polyurethane.
 
 ![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
-I chose to cover the other wall (around the window), too, since I wanted to [see the colors down the hallway](#view-from-the-hallway). 
+I chose to panel the other wall (around the window), too, since I wanted to [see the colors down the hallway](#view-from-the-hallway), but that meant I also needed to paint so that any gaps between tiles or around windows wouldn't be noticeable.
 
 ![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
-Once that was finally finished, I also filled in the baseboard gap with a [flexi caulk strip]().
+Once that was finished, I also filled in the baseboard gap with a [flexi caulk strip]().
 
 ![Organization](../assets/img/acoustic-caulk.jpg){: .mx-auto.d-block :}
 
