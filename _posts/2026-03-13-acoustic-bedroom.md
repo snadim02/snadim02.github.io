@@ -11,19 +11,21 @@ tags: [memoribilia, artwork, gallery wall, wall hanging, keepsakes, souvenirs]
 
 If those four words showed up in a [New York Times Connections](https://www.nytimes.com/games/connections) puzzle, I’m not sure I would ever find the category. :jigsaw: But in this case the answer is: **Things that replaced my son’s closet.** (Yes... I'm on a closet-demoing rampage.) :axe: :door:
 
-**Skip ahead** to read about [why the original closet was no good](#another-closet-down), [construction process](#the-process), [design choices](#view-from-the-hallway), and 
-the [much improved organization](#organization).
+**Skip ahead** to read about [why the original closet was no good](#another-closet-down), [construction process](#the-process), [color choices](#view-from-the-hallway), and 
+the [*infinitely* improved organization](#organization).
 
 ## Another closet down
 
-At this point, I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's closet](../2025-05-12-kid-bedroom) :axe:, so our home's last remaining closet (in this bedroom) needed to store some family/household items :family: in addition to my younger son's things :boy:. The current space didn't allow for this separation, and the organization was lacking:  
+I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's closet](../2025-05-12-kid-bedroom) :axe:, so our home's last remaining closet (in this bedroom) needed to store some family/household items :family: in addition to my younger son's things :boy:. The current space didn't allow for this separation, and the organization was lacking:  
 
 ![Organization](../assets/img/acousticbed-before1.gif){: .mx-auto.d-block :}
 
-**Problems:** Unused/inaccessible space above and to the sides of the closet doors. 
-Closet doors get stuck on the rug and in their frames (pinched fingers, anyone? :face_with_head_bandage: :pinching_hand:). 
-Entry door crashes into the closet! :door: Anddd (see :point_down:) 
-Accessing items behind the divider wall was also infuriating. :rage:
+| Problems | 
+|--|
+| Unused/inaccessible space above and to the sides of the closet doors. | 
+| Closet doors get stuck on the rug and in their frames (pinched fingers, anyone :face_with_head_bandage: :pinching_hand:). |
+| Entry door crashes into the closet! :door: | 
+| Anddd (see :point_down:) Accessing items behind the divider wall was also infuriating. :rage: |
 
 ![Organization](../assets/img/acousticbed-before3.jpg){: .mx-auto.d-block :}
 
@@ -31,17 +33,18 @@ So, I do what I do... :v: out closet :arrow_right: :wave: built-in wardrobe!
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
+> But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit or break even on my house projects whenever we eventually sell this place. I spend money to improve the quality of my life *right now* for how we live! (Plus, with any luck, I don't intend to move imminently.)
+
 ### Considerations for the Space
 
-* **Mountains.** The kids logged their request to keep them. 
-* **Sunset Colors.** I wanted to pick colors that my kid liked, [vibed](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and felt like a sunset since I couldn't think of any other way to sort-of tie in the existing mountains. :mountain: :sunrise_over_mountains:
-* **Soundproofing.** We want to be good neighbors and reduce others' perception of our noise as much as possible. 
-* **Artistic Kiddo.** Although I was able to [get rid of artwork](../2022-09-01-kids-artwork) with my older kid, our younger son loves (and is so proud of!) his artwork. It's nice to display it... out of our common spaces... 
+* :mountain: **Mountains.** The kids logged their request to keep them. 
+* :sunrise_over_mountains: **Sunset Colors.** I wanted to pick colors that my kid liked, [vibed](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and felt like a sunset since I couldn't think of any other way to sort-of [tie in the existing mountains](#stage-3-final-touches).
+* :hear_no_evil: **Soundproofing.** We want to be good neighbors and reduce others' perception of our noise as much as possible. 
+* :paintbrush: **Artistic Kiddo.** Although I was able to [get rid of artwork](../2022-09-01-kids-artwork) with my older kid, our younger son loves (and is so proud of!) his artwork. We ran out of space to display it all! 
 
 ![Organization](../assets/img/acoustic-artists.jpg){: .mx-auto.d-block :}
 *I love this picture, since their art looks like their two brains on display. :heart_eyes:*
 
-> But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit or break even on my house projects whenever we eventually sell this place. I spend money to improve the quality of my life *right now* for how we live! (Plus, with any luck, I don't intend to move imminently.)
 
 ## The Process
 
@@ -51,21 +54,21 @@ The construction section of this blog post is under construction. :warning: (tee
 
 ![Organization](../assets/img/acoustic-construction.gif){: .mx-auto.d-block :}
 
-I hired a local contractor to demo the existing closet, patch the ceiling, walls, and floors, then assemble and install some [Ikea pantries](#cost) with [1/2" poplar spacers](https://www.homedepot.com/p/Weaber-1-2-in-x-2-in-x-4-ft-S4S-Poplar-Board-27406/207058985) to accommodate the eventual acoustic boards thickening the standard doors. The new pantry units had deeper usable space *and* a smaller footprint-- we gained ~4" of floorspace! 
+I hired a local contractor to demo the existing closet, patch the ceiling, walls, and floors, then assemble and install some [Ikea pantries](#cost) with [1/2" poplar spacers](https://www.homedepot.com/p/Weaber-1-2-in-x-2-in-x-4-ft-S4S-Poplar-Board-27406/207058985) to accommodate the swing of cabinet doors + 3/8"-thick acoustic panels. :construction_worker_woman: :toolbox: :hammer:	The new pantry units had deeper usable space *and* a smaller footprint-- we gained ~4" of floorspace! 
 
 ### Stage 2: Wall treatment
 
-I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P): they absorb sound *and* double as a pinboard: win-win! *First* I took the panels to get color-matched samples and some [Zinsser bin primer]() for the wood, [Ikea doors]() and 2-week-cured plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
+I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P): they absorb sound :loud_sound: *and* double as a pinboard :pushpin: -- win-win! I got custom color samples that matched the panels, and found [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and *2-week-cured* plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
 
-It took *way longer* than I thought to prime, paint *two* coats for coverage, THEN seal the cabinet frame and doors with polyurethane.
+It took *way longer* than I thought to sand, prime, paint *two* coats for coverage, *then* seal the cabinet frame and doors with polyurethane. :weary:
 
 ![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
-I chose to panel the other wall (around the window), too, since I wanted to [see the colors down the hallway](#view-from-the-hallway), but that meant I also needed to paint so that any gaps between tiles or around windows wouldn't be noticeable.
+I paneled the wall around the window, too, since I wanted to [see the colors down the hallway](#view-from-the-hallway). :window: That meant I also needed to paint the wall so that any gaps between tiles or around windows wouldn't be noticeable. :sassy_woman: :paintbrush:
 
 ![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
-Once that was finished, I also filled in the baseboard gap with a [flexi caulk strip]().
+I also filled in the baseboard gap with a [flexi caulk strip](https://instatrim.com/products/instatrim-trim-strips-white?variant=39675875360856), since I suspect my kiddo would have tried to stuff cards and toys in there otherwise... :black_joker: :smiling_imp:
 
 ![Organization](../assets/img/acoustic-caulk.jpg){: .mx-auto.d-block :}
 
@@ -78,7 +81,7 @@ Once that was finished, I also filled in the baseboard gap with a [flexi caulk s
 ## View from the Hallway
 
 The colors are a little *intense*, I know. 	:rainbow: :sunrise: 
-But they're perfect for my kiddo (he wanted *even more* color than this :open_mouth:), 
+But they're perfect for my kid (he wanted *even more* color than this :open_mouth:), 
 and the palette felt fitting given our home's current aesthetic.
 
 ![Organization](../assets/img/acoustic-hallway1.jpg){: .mx-auto.d-block :}
