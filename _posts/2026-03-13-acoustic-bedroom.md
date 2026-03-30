@@ -54,11 +54,11 @@ The construction section of this blog post is under construction. :warning: (tee
 
 ![Organization](../assets/img/acoustic-construction.gif){: .mx-auto.d-block :}
 
-I hired a local contractor to demo the existing closet, patch the ceiling, walls, and floors, then assemble and install some [Ikea pantries](#cost) with [1/2" poplar spacers](https://www.homedepot.com/p/Weaber-1-2-in-x-2-in-x-4-ft-S4S-Poplar-Board-27406/207058985) to accommodate the swing of cabinet doors + 3/8"-thick acoustic panels. :construction_worker_woman: :toolbox: :hammer:	The new pantry units had deeper usable space *and* a smaller footprint-- we gained ~4" of floorspace and solved the entry door collision issue! 
+I hired a local contractor to demo the existing closet, patch the ceiling, walls, and floors, then assemble and install some [Ikea pantries](#cost) with [1/2" poplar spacers](https://www.homedepot.com/p/Weaber-1-2-in-x-2-in-x-4-ft-S4S-Poplar-Board-27406/207058985) to accommodate the swing of cabinet doors + 3/8"-thick acoustic panels. :construction_worker_woman: :toolbox: :hammer:	The new pantry units had deeper usable space *and* a smaller footprint. :foot: We gained ~4" of floorspace and solved the entry door collision issue! :collision:
 
 ### Stage 2: Wall treatment
 
-I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P): they absorb sound :loud_sound: *and* double as a pinboard :pushpin: -- win-win! I got custom color samples that matched the panels, and found [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and *2-week-cured* plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
+I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P): they absorb sound :loud_sound: and double as a pinboard :pushpin: -- win-win! I got custom color samples that matched the panels, and found [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and *2-week-cured* plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
 
 It took *way longer* than I thought to sand, prime, paint *two* coats for coverage, *then* seal the cabinet frame and door edges with polyurethane. :weary:
 
@@ -75,16 +75,16 @@ I also filled in the baseboard gap with a [flexi caulk strip](https://instatrim.
 ### Stage 3: Final touches
 
 My husband and I free-hand painted these mountains ~5 years ago by gradually
-mixing in larger and larger amounts of [BM Hemlock](https://www.benjaminmoore.com/en-us/paint-colors/color/719/hemlock) with [BM Ice Mist](https://www.benjaminmoore.com/en-us/paint-colors/color/oc-67/ice-mist) (the existing wall color) as we moved from the background to foreground. The kids didn't want to cover them up, so I came up with two ways to *try* and tie the room together.
+mixing in larger and larger amounts of [BM Hemlock](https://www.benjaminmoore.com/en-us/paint-colors/color/719/hemlock) with [BM Ice Mist](https://www.benjaminmoore.com/en-us/paint-colors/color/oc-67/ice-mist) (the existing wall color) as we moved from the background to foreground. :mountain: :mountain_snow: The kids didn't want to cover them up, so I came up with two ways to *try* and tie the room together: (1) [**glow-in-the-dark stars** around the walls](#stars) and (2) [**transitioning the mountains** to the sunset](#fabric-mountains).
 
 ![Organization](../assets/img/acoustic-mountains1.jpg){: .mx-auto.d-block :}
 
-**Glow-in-the-dark stars.** I added [these stars](https://www.amazon.com/dp/B08GJMDXL9) to the ceiling, then extended them down around the room, above the mountains on the walls and to the acoustic panels (onto these [flat-head push pins](https://www.amazon.com/dp/B0F4MW4PFM) to stick). :night_with_stars:
+<span id="stars"></span>**Glow-in-the-dark stars.** I added [these stars](https://www.amazon.com/dp/B08GJMDXL9) to the ceiling, then extended them down around the room, above the mountains on the walls and to the acoustic panels (onto these [flat-head push pins](https://www.amazon.com/dp/B0F4MW4PFM) to stick). :night_with_stars:
 
 ![Organization](../assets/img/acoustic-mountains2.jpg){: .mx-auto.d-block :}
 *Ha, yes, I put the sun onto the ceiling light fixture, then arranged the planets in order around it...* :sun_with_face: :ringed_planet: :stars: 
 
-**Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I brought paint swatches to the [Fabric Corner in Arlington](https://www.fabriccornerinc.com/) to find some similarly-colored [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) that I could cut into the shape of a mountain, seal the edges with [Dritz Fray Check](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/), and attach with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). I think it looks *weird* so I might change this up... :mountain:
+<span id="fabric-mountains"></span>**Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I brought paint swatches to the [Fabric Corner in Arlington](https://www.fabriccornerinc.com/) to find some similarly-colored [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) that I could cut into the shape of a mountain, edge-seal to prevent fraying with [Dritz Fray Check](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) glue, and attach with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: I think it looks *weird* so I might change this up... 	:thinking:
 
 ![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
 
@@ -114,7 +114,14 @@ Our son knows exactly which cabinet(s) are his for clothes and toys, and he's ab
 ![Organization](../assets/img/acoustic-clothes1.jpg){: .mx-auto.d-block :}
 :point_up: *I designed and [3D-printed label frames](https://www.tinkercad.com/things/gDFrcBXupzb-closet-drawers-label-frame?sharecode=Weu9Hm--0ZAtXcWf9c-KlVnPqU9vlfy96KD3_fv-FXY) and attached them with twist ties.*
 
-We get *a lot* of hand-me-downs, so I knew I needed a spot to store in-between clothes sizes. When our older son outgrows clothes, I can immediately put them into "transition". When our younger son outgrows clothes, they go into "donations" (in our [laundry room](../2024-09-20-laundry)). During seasonal shifts, I fill the "next size up" bins for both boys, so that I know where to go for extras before buying anything new! 
+We get *a lot* of hand-me-downs, so I knew I needed a spot to store in-between clothes sizes. :shirt: :shorts: :jeans: :coat: :athletic_shoe: 
+
+| Kiddo | Outgrows? | Needs next size? |
+| -- | -- | -- |
+| Older | Transition bin | Size up bin! | 
+| Younger | Donation bin (in [laundry room](../2024-09-20-laundry)) | Size up bin! |  
+
+During seasonal shifts, I fill the "next size up" bins for both boys, so that I know where to go for extras before buying anything new! :seedling: :beach_umbrella: :fallen_leaf: :snowman_with_snow:
 
 ![Organization](../assets/img/acoustic-clothes2.jpg){: .mx-auto.d-block :}
 
