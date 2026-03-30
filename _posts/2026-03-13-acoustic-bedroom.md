@@ -112,9 +112,9 @@ I've saved the best for last !
 Our son knows exactly which cabinet(s) are his for clothes and toys, and he's able to get himself dressed from these perfect-fit [Elfa mesh drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262). :shirt: :jeans: 
 
 ![Organization](../assets/img/acoustic-clothes1.jpg){: .mx-auto.d-block :}
-:point_up: *I designed and [3D-printed label frames](https://www.tinkercad.com/things/gDFrcBXupzb-closet-drawers-label-frame?sharecode=Weu9Hm--0ZAtXcWf9c-KlVnPqU9vlfy96KD3_fv-FXY) and attached them with twist ties.*
+:point_up: *I adapted the [3D-printed label frames](https://www.tinkercad.com/things/gDFrcBXupzb-closet-drawers-label-frame?sharecode=Weu9Hm--0ZAtXcWf9c-KlVnPqU9vlfy96KD3_fv-FXY) that I originally designed for our [pantry bin project](../2024-08-15-entry-closet) and attached them with twist ties.*
 
-We get *a lot* of hand-me-downs, so I knew I needed a spot to store in-between clothes sizes. :shirt: :shorts: :jeans: :coat: :athletic_shoe: 
+We get *a lot* of hand-me-downs, so I needed a spot to store in-between clothes sizes that could be easily organized and accessed when needed. :shirt: :shorts: :jeans: :coat: :athletic_shoe: 
 
 | Kiddo | Outgrows? | Needs next size? |
 | -- | -- | -- |
@@ -124,11 +124,11 @@ We get *a lot* of hand-me-downs, so I knew I needed a spot to store in-between c
 ![Organization](../assets/img/acoustic-clothes2.jpg){: .mx-auto.d-block :}
 :point_up: *Also designed [3D-printed cloth bin frames](https://www.tinkercad.com/things/e5gyOMqOENJ-cloth-bin-frames?sharecode=D52R3QdpjxtTu4_70WTPCq9W7q-OfFRMzE1CV9DBrT8) and attached them with [brass fasteners](https://www.amazon.com/dp/B08MPRHKP6) that I had leftover from my [utility room project](../2024-06-26-laundry).*
 
-During seasonal shifts, I fill the "next size up" bins for both boys, so that I know where to go for extras before buying anything new! :seedling: :beach_umbrella: :fallen_leaf: :snowman_with_snow:
+During seasonal shifts, I fill the "next size up" bins for both boys, so that I know where to go for extras as soon as they're needed before scrambling to buy anything new! :seedling: :beach_umbrella: :fallen_leaf: :snowman_with_snow:
 
 ## Cost
 
-Most of the cost was putting in the custom wardrobe to improve our storage situation. 
+Most of the cost was putting in the custom wardrobe to improve our storage situation, which will stay even if my kid chooses to change up the aesthetic of the space later on.
 
 | Materials | Cost (+ tax/shipping) | 
 |----|----------------------:|
