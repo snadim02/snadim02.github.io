@@ -121,9 +121,10 @@ We get *a lot* of hand-me-downs, so I knew I needed a spot to store in-between c
 | Older | Transition bin | Size up bin! | 
 | Younger | Donation bin (in [laundry room](../2024-09-20-laundry)) | Size up bin! |  
 
-During seasonal shifts, I fill the "next size up" bins for both boys, so that I know where to go for extras before buying anything new! :seedling: :beach_umbrella: :fallen_leaf: :snowman_with_snow:
-
 ![Organization](../assets/img/acoustic-clothes2.jpg){: .mx-auto.d-block :}
+:point_up: *Also designed [3D-printed cloth bin frames](https://www.tinkercad.com/things/e5gyOMqOENJ-cloth-bin-frames?sharecode=D52R3QdpjxtTu4_70WTPCq9W7q-OfFRMzE1CV9DBrT8) and attached them with [brass fasteners](https://www.amazon.com/dp/B08MPRHKP6) that I had leftover from my [utility room project](../2024-06-26-laundry).*
+
+During seasonal shifts, I fill the "next size up" bins for both boys, so that I know where to go for extras before buying anything new! :seedling: :beach_umbrella: :fallen_leaf: :snowman_with_snow:
 
 ## Cost
 
