@@ -125,7 +125,7 @@ The kids didn't want to cover them up, so I came up with two ways to *try* and t
 
 <span id="stars"></span>**1. Glow-in-the-dark stars.** I added [these stars](https://www.amazon.com/dp/B08GJMDXL9) around the whole room, above the mountains on the walls and to the acoustic panels (onto these [flat-head push pins](https://www.amazon.com/dp/B0F4MW4PFM) to stick). :night_with_stars:
 
-![Organization](../assets/img/acoustic-mountains2.jpg){: .mx-auto.d-block :}
+![Organization](../assets/img/acoustic-mountains2.gif){: .mx-auto.d-block :}
 *I put the sun onto the ceiling light fixture, then arranged the planets in order around it...* :sun_with_face: :ringed_planet: :stars: 
 
 <span id="fabric-mountains"></span>**2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I brought paint swatches to the [Fabric Corner in Arlington](https://www.fabriccornerinc.com/) to find some similarly-colored [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) that I could cut into the shape of a mountain, edge-seal to prevent fraying with [Dritz Fray Check](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) glue, and attach with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: I might change this up... 	:thinking:
