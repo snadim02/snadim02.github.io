@@ -60,7 +60,7 @@ So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry u
 
 > But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit or break even on my house projects whenever we eventually sell this place. I spend money to improve the quality of my life *right now* for how we live! (Plus, with any luck, I don't intend to move imminently.)
 
-* :heavy_check_mark: :no_entry_sign: The new wardrobe had deeper usable space from wall-to-wall and floor-to-ceiling.
+* :heavy_check_mark: :no_entry_sign: The new wardrobe has deeper usable space from wall-to-wall and floor-to-ceiling.
 * :heavy_check_mark: :pinching_hand: Soft-close cabinet hinges mean no more fingers (or items) getting squished.
 * :heavy_check_mark: :collision: We gained ~4" of floorspace *and* solved the entry door collision issue!
 * :heavy_check_mark: :hear_no_evil: Acoustic tiles are sound-dampening and cozy. 
@@ -93,11 +93,11 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
-**Step 2. Paint wall.** I paneled the window wall too so I could [see the colors from the hallway](#the-fix) :window:... which meant painting first so gaps around tiles/windows wouldn’t show. :sassy_woman: :paintbrush:
+**Step 2. Paint wall.** I paneled the window wall too :window: so I could [see the colors from the hallway](#the-fix)... which meant painting first so gaps around tiles/windows wouldn’t show. :sassy_woman: :paintbrush:
 
 ![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
-**Step 3. Install panels.** Paneling was *super easy* using the provided (renter-friendly!) adhesive strips. 
+**Step 3. Install panels.** Paneling was *super easy* to cut with box cutters and hang using the provided (renter-friendly!) adhesive strips. 
 
 **Step 4. Fill baseboard gap** with a [flexi caulk strip](https://instatrim.com/products/instatrim-trim-strips-white?variant=39675875360856), since I suspect my kiddo would have tried to stuff cards and toys in there otherwise... :black_joker: :smiling_imp:
 
@@ -122,12 +122,12 @@ The kids didn't want to cover them up, so I came up with two ways to *try* and t
 ![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
 
 ## Organization
-I've saved the best for last ! We finally have super accessible and thoughtful storage for **communal things** :ladder: :briefcase: :bed: (harder-to-access doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (easy-access door 2 and bottom half of 3), with space to grow:
+I've saved the best for last ! We finally have super accessible and thoughtful storage for **communal things** :ladder: :briefcase: :bed: (harder-to-access doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (easy-to-access door 2 and bottom half of 3), with space to grow:
 
 ![Organization](../assets/img/acousticbed-org.gif){: .mx-auto.d-block :}
 
 <span id="active-clothes"></span>
-**Clothes currently in rotation.** Our son knows exactly which cabinet is his for clothes, and he can access them easily from these perfect-fit [Elfa mesh drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262) to independently get himself dressed. :shirt: :jeans: 
+**Clothes currently in rotation.** Our son knows exactly which cabinets are his, and these perfect-fit [Elfa mesh drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262) make it easy for him to access everything and get dressed independently. :shirt: :jeans: 
 
 ![Organization](../assets/img/acoustic-clothes1.jpg){: .mx-auto.d-block :}
 :point_up: *I adapted the [3D-printed label frames](https://www.tinkercad.com/things/gDFrcBXupzb-closet-drawers-label-frame?sharecode=Weu9Hm--0ZAtXcWf9c-KlVnPqU9vlfy96KD3_fv-FXY) that I originally designed for our [pantry bin project](../2024-08-15-entry-closet) and attached them with twist ties.*
@@ -143,11 +143,11 @@ I've saved the best for last ! We finally have super accessible and thoughtful s
 ![Organization](../assets/img/acoustic-clothes2.jpg){: .mx-auto.d-block :}
 :point_up: *I also designed [3D-printed cloth bin frames](https://www.tinkercad.com/things/e5gyOMqOENJ-cloth-bin-frames?sharecode=D52R3QdpjxtTu4_70WTPCq9W7q-OfFRMzE1CV9DBrT8) and attached them with [brass fasteners](https://www.amazon.com/dp/B08MPRHKP6) that I had leftover from my [utility room project](../2024-06-26-laundry).*
 
-**Seasonal rotation.** I fill the "next size up" bins for both boys twice yearly (:seedling:+:beach_umbrella: / :fallen_leaf:+:snowman_with_snow:), so that I know where to go for extras as soon as they're needed before scrambling in the moment and/or unnecessarily buying new!
+**Seasonal rotation.** I fill the "next size up" bins for both boys twice yearly (:seedling:+:beach_umbrella: / :fallen_leaf:+:snowman_with_snow:), so that I know where to go for extras as soon as they're needed instead of scrambling in the moment and/or unnecessarily buying new!
 
 ## Cost
 
-Our biggest budget line items were putting in the custom wardrobe to improve our storage situation. :basket: Luckily, those will stay even if my kid chooses to change up the aesthetic of the space later on, so it was money well spent! :heart_eyes: 
+Our biggest budget line items were putting in the custom wardrobe to improve our storage situation. :basket: Luckily, that will stay even if my kid chooses to change up the aesthetic of the space later on, so it was money well spent! :heart_eyes: 
 
 | Materials | Cost (+ tax/shipping) | 
 |----|----------------------:|
