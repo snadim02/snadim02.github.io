@@ -97,7 +97,7 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
-**Step 3. Install panels.** Paneling was *super easy* to cut with box cutters and hang using the provided (renter-friendly!) adhesive strips. 
+**Step 3. Install panels.** Panels were *super easy* to cut with box cutters and hang using the provided (renter-friendly!) adhesive strips. 
 
 **Step 4. Fill baseboard gap** with a [flexi caulk strip](https://instatrim.com/products/instatrim-trim-strips-white?variant=39675875360856), since I suspect my kiddo would have tried to stuff cards and toys in there otherwise... :black_joker: :smiling_imp:
 
