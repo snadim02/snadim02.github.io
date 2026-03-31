@@ -11,60 +11,71 @@ tags: [memoribilia, artwork, gallery wall, wall hanging, keepsakes, souvenirs]
 
 If those four words showed up in a [New York Times Connections](https://www.nytimes.com/games/connections) puzzle, I’m not sure I would ever find the category. :jigsaw: But in this case the answer is: **Things that replaced my son’s closet.** (Yes... I'm on a closet-demoing rampage.) :axe: :door:
 
-**Skip ahead** to read about:
-- **The [Constraints](#the-constraints)** 
-  - [storage requirements](#problem-1-communal--personal-storage-separation-is-lacking) :basket: :ladder: 
-  - [problems with the existing closet](#problem-2-poor-closet-access) :derelict_house: :warning:
-  - [functional and aesthetic preferences](#problem-3-functional--aesthetic-restrictions) :rainbow:
-- **The [Fix](#the-fix)** (AKA [The "After" Pictures!](#the-fix)) :star_struck:
-- **The [Process](#the-process)**
-  - [closet demo and wardrobe installation](#stage-1-closet-demo--construction) :axe:
-  - [prep with paint](#stage-2-painting-and-panel-installation) + acoustic panel installation :paintbrush:
-  - [tying in existing room elements](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains) :mountain:
-- **The [Organization](#organization)**
-  - storage of [current clothing](#active-clothes) and [in-between sizes](#in-between-clothes) :shirt: :jeans:
+**Skip ahead** to read about: 
+<table>
+  <tr>
+    <td><strong>The <a href="#the-constraints">Constraints</a></strong></td>
+    <td>
+      • <a href="#constraint-1-communal-storage-needs-separation">storage requirements</a> :basket: :ladder:<br>
+      • <a href="#constraint-2-functional--aesthetic-restrictions">functional and aesthetic preferences</a> :rainbow:
+    </td>
+  </tr>
+  <tr>
+    <td><strong>The <a href="#the-fix">Fix</a></strong></td>
+    <td>AKA <a href="#the-fix">The "After" Pictures!</a> :star_struck:</td>
+  </tr>
+  <tr>
+    <td><strong>The <a href="#the-process">Process</a></strong></td>
+    <td>
+      • <a href="#stage-1-closet-demo--construction">closet demo and wardrobe installation</a> :axe:<br>
+      • <a href="#stage-2-painting-and-panel-installation">prep with paint</a> + acoustic panel installation :paintbrush:<br>
+      • <a href="#stage-3-transitioning-mountains--sunset-sunrise_over_mountains">tying in existing room elements</a> :mountain:
+    </td>
+  </tr>
+  <tr>
+    <td><strong>The <a href="#organization">Organization</a></strong></td>
+    <td>
+      • storage of <a href="#active-clothes">current clothing</a> and <a href="#in-between-clothes">in-between sizes</a> :shirt: :jeans:
+    </td>
+  </tr>
+</table>
+<div style="height:16px;"></div>
 
 ## The Constraints
 
-### Problem 1: Communal storage needs separation.
+### Constraint 1: Communal storage needs separation.
 I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's closet](../2025-05-12-kid-bedroom) :axe:, so our home's last remaining closet (in this bedroom) needed to store some communal items :family: in addition to my younger son's things :boy:. The current space didn't allow for this separation, and the organization was lacking.  
 
 ![Organization](../assets/img/acousticbed-before1.gif){: .mx-auto.d-block :}
 
-### Problem 2: Poor closet access.
-
-|--|
-| :no_entry_sign: Inaccessible space above and to the sides of the closet doors. | 
-| :door: Closet doors get stuck on the rug and in their frames. |
-| :pinching_hand: Fingers get pinched around these heavy doors! |
-| :collision: Entry door crashes into the closet!  | 
-| :rage: Accessing items behind the divider wall was also infuriating. |
-
 ![Organization](../assets/img/acousticbed-before3.jpg){: .mx-auto.d-block :}
 
-### Problem 3: Functional & aesthetic restrictions.
+### Constraint 2: Functional & aesthetic restrictions.
 
 |--|
-| :hear_no_evil: **Walls should be soundproofed** to reduce our neighbors' perception of our noise as much as possible. |
 | :mountain: **[Mountains](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains) must be kept** per the kids' request. |
 | :sunrise_over_mountains: **Colors had to...** (1) be ones my kid liked, (2) [vibe](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and (3) feel like a sunset-- my only idea to sort-of [tie in the existing mountains](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains). |
+| :loud_sound: **Walls should be soundproofed** to reduce our neighbors' perception of our noise as much as possible. |
 | :paintbrush: **Artistic kiddo needs to showcase his creations.** Although I'd prefer to [get rid of artwork](../2022-09-01-kids-artwork), our youngest loves (and is so proud of!) his art. We ran out of space to showcase it all! |
 
 ![Organization](../assets/img/acoustic-artists.jpg){: .mx-auto.d-block :}
 *I love this picture, since their art looks like their two brains on display. :heart_eyes:*
 
 ## The Fix
-So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry units](https://www.ikea.com/us/en/cat/sektion-kitchen-ka005/) and covered them with a custom pattern of [FeltRight sound-dampening panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) that double as a pinboard :loud_sound: :pushpin: -- win-win! 
+So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry units](https://www.ikea.com/us/en/cat/sektion-kitchen-ka005/) and covered them with [FeltRight acoustic tiles](https://studiov2.feltright.com/?import=7F-yB9vS9P). :pushpin:
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
 > But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit or break even on my house projects whenever we eventually sell this place. I spend money to improve the quality of my life *right now* for how we live! (Plus, with any luck, I don't intend to move imminently.)
 
-* :heavy_check_mark: :no_entry_sign: The new wardrobe has deeper usable space from wall-to-wall and floor-to-ceiling.
-* :heavy_check_mark: :pinching_hand: Soft-close cabinet hinges mean no more fingers (or items) getting squished.
-* :heavy_check_mark: :collision: We gained ~4" of floorspace *and* solved the entry door collision issue!
-* :heavy_check_mark: :hear_no_evil: Acoustic tiles are sound-dampening and cozy. 
-* :heavy_check_mark: :paintbrush: Tons of space to hang up (and change up!) artistic creations!  
+
+| :rage: Closet Problems | :grin: Wardrobe Solutions | 
+|--|--|
+| :no_entry_sign: Inaccessible space above and to the sides of the closet doors. | :heavy_check_mark: Deeper usable space from wall-to-wall and floor-to-ceiling. |
+| :door: Closet doors get stuck on the rug and in their frames.<br>:pinching_hand: Fingers get pinched around these heavy doors! | :heavy_check_mark: Lighter doors raised off floor and connected with soft-close cabinet hinges. |
+| :collision: Entry door crashes into the closet! | :heavy_check_mark: Smaller footprint of the built-ins means we gained ~4" of floorspace *and* solved the entry door collision issue! |
+
+:heavy_check_mark: :hear_no_evil: :pushpin: **[Acoustic tile panels](https://studiov2.feltright.com/?import=7F-yB9vS9P)** are sound-dampening *and* double as pinboards, so there is tons of space to hang up (and change up!) artistic creations!
 
 :heavy_check_mark: :sunrise_over_mountains: **Color palette fits our aesthetic.** The colors are a little *intense*, I know. :rainbow: :sunrise: 
 But they're perfect for my kid (he wanted *even more* color than this :open_mouth:), 
@@ -89,7 +100,7 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ### Stage 2: Painting and panel installation
 
-**Step 1. Prep cabinet frame and door.** I got custom color samples to match the panels, plus [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and fully-cured plaster walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) from painting too soon...). It took a few weekends-- sanding, priming, two coats of paint, and sealing the cabinet frames and door edges with polyurethane. :weary:
+**Step 1. Prep cabinet frame and doors.** I got custom color samples to match the panels, plus [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and fully-cured plaster walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) from painting too soon...). It took a few weekends-- sanding, priming, two coats of paint, and sealing the cabinet frames and door edges with polyurethane. :weary:
 
 ![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
@@ -122,7 +133,7 @@ The kids didn't want to cover them up, so I came up with two ways to *try* and t
 ![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
 
 ## Organization
-I've saved the best for last ! We finally have super accessible and thoughtful storage for **communal items** :ladder: :briefcase: :bed: (behind harder-to-access doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (behind easy-to-access door 2 and bottom half of 3), with space to grow:
+I've saved the best for last ! We finally have super accessible and thoughtful storage for **communal items** :ladder: :briefcase: :bed: (behind less-convenient doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (behind easy-to-access door 2 and lower half of 3), with room to grow:
 
 ![Organization](../assets/img/acousticbed-org.gif){: .mx-auto.d-block :}
 
