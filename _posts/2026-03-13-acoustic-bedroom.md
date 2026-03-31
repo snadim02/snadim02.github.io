@@ -11,23 +11,22 @@ tags: [memoribilia, artwork, gallery wall, wall hanging, keepsakes, souvenirs]
 
 If those four words showed up in a [New York Times Connections](https://www.nytimes.com/games/connections) puzzle, I’m not sure I would ever find the category. :jigsaw: But in this case the answer is: **Things that replaced my son’s closet.** (Yes... I'm on a closet-demoing rampage.) :axe: :door:
 
-**Skip ahead** to read about... 
-
-- The **[Constraints](#the-constraints)** 
-  - [storage requirements](#problem-1-communal--personal-storage-separation-is-lacking)
+**Skip ahead** to read about:
+- **The [Constraints](#the-constraints)** 
+  - [storage requirements](#problem-1-communal--personal-storage-separation-is-lacking) :basket: :ladder: 
   - [problems with the existing closet](#problem-2-poor-closet-access) :derelict_house: :warning:
-  - [functional and aesthetic preferences](#problem-3-functional--aesthetic-restrictions)
-- The **[Fix](#the-fix)** (AKA [The "After" Pictures!](#the-fix))
-- The **[Process](#the-process)**
-  - [closet demo and wardrobe installation](#stage-1-closet-demo--construction), 
-  - [prep with paint](#stage-2-painting-and-panel-installation) + acoustic panel installation
-  - [tying in existing room elements](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains), 
-- The **[Organization](#organization)**
-  - storage of [current clothing](#active-clothes) and [in-between sizes](#in-between-clothes)
+  - [functional and aesthetic preferences](#problem-3-functional--aesthetic-restrictions) :rainbow:
+- **The [Fix](#the-fix)** (AKA [The "After" Pictures!](#the-fix)) :star_struck:
+- **The [Process](#the-process)**
+  - [closet demo and wardrobe installation](#stage-1-closet-demo--construction) :axe:
+  - [prep with paint](#stage-2-painting-and-panel-installation) + acoustic panel installation :paintbrush:
+  - [tying in existing room elements](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains) :mountain:
+- **The [Organization](#organization)**
+  - storage of [current clothing](#active-clothes) and [in-between sizes](#in-between-clothes) :shirt: :jeans:
 
 ## The Constraints
 
-### Problem 1: Communal + personal storage separation is lacking.
+### Problem 1: Communal storage needs separation.
 I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's closet](../2025-05-12-kid-bedroom) :axe:, so our home's last remaining closet (in this bedroom) needed to store some communal items :family: in addition to my younger son's things :boy:. The current space didn't allow for this separation, and the organization was lacking.  
 
 ![Organization](../assets/img/acousticbed-before1.gif){: .mx-auto.d-block :}
@@ -47,7 +46,7 @@ I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's clo
 
 |--|
 | :hear_no_evil: **Walls should be soundproofed** to reduce our neighbors' perception of our noise as much as possible. |
-| :mountain: **Mountains must be kept** per the kids' request. |
+| :mountain: **[Mountains](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains) must be kept** per the kids' request. |
 | :sunrise_over_mountains: **Colors had to...** (1) be ones my kid liked, (2) [vibe](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and (3) feel like a sunset-- my only idea to sort-of [tie in the existing mountains](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains). |
 | :paintbrush: **Artistic kiddo needs to showcase his creations.** Although I'd prefer to [get rid of artwork](../2022-09-01-kids-artwork), our youngest loves (and is so proud of!) his art. We ran out of space to showcase it all! |
 
@@ -55,20 +54,21 @@ I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's clo
 *I love this picture, since their art looks like their two brains on display. :heart_eyes:*
 
 ## The Fix
-So... :v: out closet → :wave: built-in wardrobe!
+So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry units](https://www.ikea.com/us/en/cat/sektion-kitchen-ka005/) and covered them with custom-designed [FeltRight sound-dampening panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) that double as a pinboard :loud_sound: :pushpin: -- win-win! 
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
 > But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit or break even on my house projects whenever we eventually sell this place. I spend money to improve the quality of my life *right now* for how we live! (Plus, with any luck, I don't intend to move imminently.)
 
-* :heavy_check_mark: The new pantry units had deeper usable space *and* a smaller footprint. :foot: 
-* :heavy_check_mark: We gained ~4" of floorspace and solved the entry door collision issue! :collision:
-* :heavy_check_mark: Acoustic tiles are sound-dampening and cozy. :hear_no_evil:
-* :heavy_check_mark: Space to hang up (and change up!) artistic creations! :artist: 
+* :heavy_check_mark: :no_entry_sign: The new wardrobe had deeper usable space from wall-to-wall and floor-to-ceiling.
+* :heavy_check_mark: :pinching_hand: Soft-close cabinet hinges mean no more fingers (or items) getting squished.
+* :heavy_check_mark: :collision: We gained ~4" of floorspace *and* solved the entry door collision issue!
+* :heavy_check_mark: :hear_no_evil: Acoustic tiles are sound-dampening and cozy. 
+* :heavy_check_mark: :paintbrush: Tons of space to hang up (and change up!) artistic creations!  
 
-**Color palette fits our aesthetic.** The colors are a little *intense*, I know. 	:rainbow: :sunrise: 
+:heavy_check_mark: :sunrise_over_mountains: **Color palette fits our aesthetic.** The colors are a little *intense*, I know. :rainbow: :sunrise: 
 But they're perfect for my kid (he wanted *even more* color than this :open_mouth:), 
-and the room looks great from other parts of our home: 
+and they look cohesive from other parts of our home: 
 
 ![Organization](../assets/img/acoustic-hallway1.jpg){: .mx-auto.d-block :}
 :eyes: You can read more about our [family pictures wall](../2025-12-16-gallery-wall#family-pictures) and my [wall-mounted linens cabinet](../2022-01-18-linens).
@@ -89,51 +89,51 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ### Stage 2: Painting and panel installation
 
-I custom-designed a pattern of [FeltRight acoustic panels](https://studiov2.feltright.com/?import=7F-yB9vS9P): they absorb sound :loud_sound: and double as a pinboard :pushpin: -- win-win! I got custom color samples that matched the panels, and found [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and *2-week-cured* plastered walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) trying to paint fresh plaster...). 
-
-It took *way longer* than I thought to sand, prime, paint *two* coats for coverage, *then* seal the cabinet frame and door edges with polyurethane. :weary:
+**Step 1. Prep cabinet frame and door.** I got custom color samples to match the panels, plus [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and fully-cured plaster walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) from painting too soon...). It took a few weekends-- sanding, priming, two coats of paint, and sealing the cabinet frames and door edges with polyurethane. :weary:
 
 ![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
-I paneled the wall with the window, too, since I wanted to [see the colors from the hallway](#view-from-the-hallway). :window: That meant I needed to paint the wall beforehand so that any gaps between tiles or around windows wouldn't be noticeable. :sassy_woman: :paintbrush:
+**Step 2. Paint wall.** I paneled the window wall too so I could [see the colors from the hallway](#the-fix) :window:... which meant painting first so gaps around tiles/windows wouldn’t show. :sassy_woman: :paintbrush:
 
 ![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
-Paneling was *super easy* using the adhesive strips FeltRight provided. 
+**Step 3. Install panels.** Paneling was *super easy* using the provided (renter-friendly!) adhesive strips. 
 
-I also filled in the baseboard gap with a [flexi caulk strip](https://instatrim.com/products/instatrim-trim-strips-white?variant=39675875360856), since I suspect my kiddo would have tried to stuff cards and toys in there otherwise... :black_joker: :smiling_imp:
+**Step 4. Fill baseboard gap** with a [flexi caulk strip](https://instatrim.com/products/instatrim-trim-strips-white?variant=39675875360856), since I suspect my kiddo would have tried to stuff cards and toys in there otherwise... :black_joker: :smiling_imp:
 
 ![Organization](../assets/img/acoustic-caulk.jpg){: .mx-auto.d-block :}
 
 ### Stage 3: Transitioning mountains → sunset :sunrise_over_mountains:
 
 My husband and I free-hand painted these mountains ~5 years ago by gradually
-mixing in larger and larger amounts of [BM Hemlock](https://www.benjaminmoore.com/en-us/paint-colors/color/719/hemlock) with [BM Ice Mist](https://www.benjaminmoore.com/en-us/paint-colors/color/oc-67/ice-mist) (the existing wall color) as we moved from the background to foreground. :mountain: :mountain_snow: The kids didn't want to cover them up, so I came up with two ways to *try* and tie the room together: (1) [**glow-in-the-dark stars** around the walls](#stars) and (2) [**transitioning the mountains** to the sunset](#fabric-mountains).
+mixing in larger and larger amounts of [BM Hemlock](https://www.benjaminmoore.com/en-us/paint-colors/color/719/hemlock) with [BM Ice Mist](https://www.benjaminmoore.com/en-us/paint-colors/color/oc-67/ice-mist) (the existing wall color) as we moved from the background to foreground. :mountain: :mountain_snow: 
 
 ![Organization](../assets/img/acoustic-mountains1.jpg){: .mx-auto.d-block :}
 
-<span id="stars"></span>**Glow-in-the-dark stars.** I added [these stars](https://www.amazon.com/dp/B08GJMDXL9) to the ceiling, then extended them down around the room, above the mountains on the walls and to the acoustic panels (onto these [flat-head push pins](https://www.amazon.com/dp/B0F4MW4PFM) to stick). :night_with_stars:
+The kids didn't want to cover them up, so I came up with two ways to *try* and tie the room together.
+
+<span id="stars"></span>**1. Glow-in-the-dark stars.** I added [these stars](https://www.amazon.com/dp/B08GJMDXL9) around the whole room, above the mountains on the walls and to the acoustic panels (onto these [flat-head push pins](https://www.amazon.com/dp/B0F4MW4PFM) to stick). :night_with_stars:
 
 ![Organization](../assets/img/acoustic-mountains2.jpg){: .mx-auto.d-block :}
 *I put the sun onto the ceiling light fixture, then arranged the planets in order around it...* :sun_with_face: :ringed_planet: :stars: 
 
-<span id="fabric-mountains"></span>**Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I brought paint swatches to the [Fabric Corner in Arlington](https://www.fabriccornerinc.com/) to find some similarly-colored [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) that I could cut into the shape of a mountain, edge-seal to prevent fraying with [Dritz Fray Check](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) glue, and attach with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: I think it looks *weird* so I might change this up... 	:thinking:
+<span id="fabric-mountains"></span>**2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I brought paint swatches to the [Fabric Corner in Arlington](https://www.fabriccornerinc.com/) to find some similarly-colored [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) that I could cut into the shape of a mountain, edge-seal to prevent fraying with [Dritz Fray Check](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) glue, and attach with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: I might change this up... 	:thinking:
 
 ![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
 
 ## Organization
-I've saved the best for last ! We finally have super accessible and thoughtful storage for communal & personal items, with space to grow:
+I've saved the best for last ! We finally have super accessible and thoughtful storage for **communal things** :ladder: :briefcase: :bed: (harder-to-access doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (easy-access door 2 and bottom half of 3), with space to grow:
 
 ![Organization](../assets/img/acousticbed-org.gif){: .mx-auto.d-block :}
 
 <span id="active-clothes"></span>
-**Active clothes rotation.** Our son knows exactly which cabinet(s) are his for clothes, and he can access them easily from these perfect-fit [Elfa mesh drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262) to independently get himself dressed. :shirt: :jeans: 
+**Clothes currently in rotation.** Our son knows exactly which cabinet is his for clothes, and he can access them easily from these perfect-fit [Elfa mesh drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262) to independently get himself dressed. :shirt: :jeans: 
 
 ![Organization](../assets/img/acoustic-clothes1.jpg){: .mx-auto.d-block :}
 :point_up: *I adapted the [3D-printed label frames](https://www.tinkercad.com/things/gDFrcBXupzb-closet-drawers-label-frame?sharecode=Weu9Hm--0ZAtXcWf9c-KlVnPqU9vlfy96KD3_fv-FXY) that I originally designed for our [pantry bin project](../2024-08-15-entry-closet) and attached them with twist ties.*
 
 <span id="in-between-clothes"></span>
-**In-between-sized clothes storage.** We get *a lot* of hand-me-downs, so I needed a spot to store in-between clothes sizes that could be easily organized and accessed when needed. :shirt: :shorts: :jeans: :coat: :athletic_shoe: 
+**In-between size storage.** We get *a lot* of hand-me-downs, so I needed a spot to store in-between clothes sizes that could be easily accessed when needed. :shirt: :shorts: :jeans: :coat: :athletic_shoe: 
 
 | Kiddo | Outgrown clothes? | Needs next size up? |
 | -- | -- | -- |
@@ -141,13 +141,13 @@ I've saved the best for last ! We finally have super accessible and thoughtful s
 | Younger | Donation bin (in [laundry room](../2024-09-20-laundry)) | Size up bin! |  
 
 ![Organization](../assets/img/acoustic-clothes2.jpg){: .mx-auto.d-block :}
-:point_up: *Also designed [3D-printed cloth bin frames](https://www.tinkercad.com/things/e5gyOMqOENJ-cloth-bin-frames?sharecode=D52R3QdpjxtTu4_70WTPCq9W7q-OfFRMzE1CV9DBrT8) and attached them with [brass fasteners](https://www.amazon.com/dp/B08MPRHKP6) that I had leftover from my [utility room project](../2024-06-26-laundry).*
+:point_up: *I also designed [3D-printed cloth bin frames](https://www.tinkercad.com/things/e5gyOMqOENJ-cloth-bin-frames?sharecode=D52R3QdpjxtTu4_70WTPCq9W7q-OfFRMzE1CV9DBrT8) and attached them with [brass fasteners](https://www.amazon.com/dp/B08MPRHKP6) that I had leftover from my [utility room project](../2024-06-26-laundry).*
 
-During seasonal shifts, I fill the "next size up" bins for both boys, so that I know where to go for extras as soon as they're needed before scrambling in the moment and/or unnecessarily buying new! :seedling: :beach_umbrella: :fallen_leaf: :snowman_with_snow:
+**Seasonal rotation.** I fill the "next size up" bins for both boys twice yearly (:seedling:+:beach_umbrella: / :fallen_leaf:+:snowman_with_snow:), so that I know where to go for extras as soon as they're needed before scrambling in the moment and/or unnecessarily buying new!
 
 ## Cost
 
-Most of the cost was putting in the custom wardrobe to improve our storage situation, which will stay even if my kid chooses to change up the aesthetic of the space later on.
+Our biggest budget line items were putting in the custom wardrobe to improve our storage situation. :basket: Luckily, those will stay even if my kid chooses to change up the aesthetic of the space later on, so it was money well spent! :heart_eyes: 
 
 | Materials | Cost (+ tax/shipping) | 
 |----|----------------------:|
