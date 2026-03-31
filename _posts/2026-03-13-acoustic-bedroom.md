@@ -145,6 +145,10 @@ I've saved the best for last ! We finally have super accessible and thoughtful s
 
 **Seasonal rotation.** I fill the "next size up" bins for both boys twice yearly (:seedling:+:beach_umbrella: / :fallen_leaf:+:snowman_with_snow:), so that I know where to go for extras as soon as they're needed instead of scrambling in the moment and/or unnecessarily buying new!
 
+*Most importantly...* we have one happy boy! 
+
+![Organization](../assets/img/acousticbed-icon.jpg){: .mx-auto.d-block :}
+
 ## Cost
 
 Our biggest budget line items were putting in the custom wardrobe to improve our storage situation. :basket: Luckily, that will stay even if my kid chooses to change up the aesthetic of the space later on, so it was money well spent! :heart_eyes: 
