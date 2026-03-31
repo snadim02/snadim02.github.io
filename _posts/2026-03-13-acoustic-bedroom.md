@@ -122,7 +122,7 @@ The kids didn't want to cover them up, so I came up with two ways to *try* and t
 ![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
 
 ## Organization
-I've saved the best for last ! We finally have super accessible and thoughtful storage for **communal things** :ladder: :briefcase: :bed: (harder-to-access doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (easy-to-access door 2 and bottom half of 3), with space to grow:
+I've saved the best for last ! We finally have super accessible and thoughtful storage for **communal items** :ladder: :briefcase: :bed: (behind harder-to-access doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (behind easy-to-access door 2 and bottom half of 3), with space to grow:
 
 ![Organization](../assets/img/acousticbed-org.gif){: .mx-auto.d-block :}
 
