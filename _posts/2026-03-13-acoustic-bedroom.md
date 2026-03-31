@@ -159,7 +159,7 @@ Our biggest budget line items were putting in the custom wardrobe to improve our
 | [poplar wood strips](https://www.homedepot.com/p/Weaber-1-2-in-x-2-in-x-4-ft-S4S-Poplar-Board-27406/207058985), [wood glue](https://www.homedepot.com/p/Titebond-III-16-oz-Ultimate-Wood-Glue-1414/100522343), [wood filler](https://www.homedepot.com/p/Varathane-3-75-oz-White-Wood-Filler-Putty-340261/305568203) |                $75.25 |
 | [6-pack cloth bins](https://www.amazon.com/dp/B0FBKSJHJS) & [3-pack cloth bins](https://www.amazon.com/dp/B0D78Q42S5) |                $62.63 | 
 | [flexi white trim 3/4"](https://instatrim.com/products/instatrim-trim-strips-white?variant=39675875360856) and [applicator tool](https://instatrim.com/products/instatrim-applicator-tool) |                $38.90 | 
-| [2 3/8" yard of Batik cotton fabric](https://www.fabriccornerinc.com/) |                $35.38 |
+| [2 3/8" yards of Batik cotton fabric](https://www.fabriccornerinc.com/) |                $35.38 |
 | [kids' hangers](https://www.amazon.com/dp/B0B4RVT1GW) |                $15.93 | 
 | [200 glow in the dark stars](https://www.amazon.com/dp/B0711T1VHS) |                $12.77 |
 | [white tension clothes rod](https://www.amazon.com/dp/B0D9BP84SH) |                $10.61 |
