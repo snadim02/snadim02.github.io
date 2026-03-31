@@ -54,7 +54,7 @@ I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's clo
 *I love this picture, since their art looks like their two brains on display. :heart_eyes:*
 
 ## The Fix
-So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry units](https://www.ikea.com/us/en/cat/sektion-kitchen-ka005/) and covered them with custom-designed [FeltRight sound-dampening panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) that double as a pinboard :loud_sound: :pushpin: -- win-win! 
+So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry units](https://www.ikea.com/us/en/cat/sektion-kitchen-ka005/) and covered them with a custom pattern of [FeltRight sound-dampening panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) that double as a pinboard :loud_sound: :pushpin: -- win-win! 
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
