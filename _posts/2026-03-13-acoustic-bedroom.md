@@ -66,7 +66,7 @@ So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry u
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
-> But **wHaT Ab0uT ReSaLe?!** It's okay if we don't turn a profit on my house projects when we sell this place (in the distant future). I spend money to improve the quality of our lives *right now* !
+> **What about resale?** It's okay if we don't turn a profit on my house projects when we sell this place (in the distant future). I spend money to improve the quality of our lives *right now* !
 
 
 | Closet Problems | Wardrobe Solutions | 
