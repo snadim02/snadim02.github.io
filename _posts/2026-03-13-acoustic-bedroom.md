@@ -56,7 +56,7 @@ I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's clo
 | :mountain: **[Mountains](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains) must be kept** per the kids' request. |
 | :sunrise_over_mountains: **Colors had to...** (1) be ones my kid liked, (2) [vibe](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and (3) feel like a sunset. |
 | :loud_sound: **Walls should be soundproofed** for our neighbors' sakes. |
-| :paintbrush: **Artwork should be showcased** -- our artistic kiddo is *so* proud of it, and I don't have the heart to [get rid of it](../2022-09-01-kids-artwork). |
+| :paintbrush: **Artwork should be showcased** -- our kiddo is *so* proud of it, and I don't have the heart to [get rid of it](../2022-09-01-kids-artwork). |
 
 ![Organization](../assets/img/acoustic-artists.jpg){: .mx-auto.d-block :}
 *I love this picture, since their art looks like their two brains on display. :heart_eyes:*
@@ -66,7 +66,7 @@ So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry u
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
-> But **wHaT Ab0uT ReSaLe?!** It's okay if I don't turn a profit on my house projects when we sell this place (in the distant future). I spend money to improve the quality of my life *right now* !
+> But **wHaT Ab0uT ReSaLe?!** It's okay if we don't turn a profit on my house projects when we sell this place (in the distant future). I spend money to improve the quality of our lives *right now* !
 
 
 | Closet Problems | Wardrobe Solutions | 
