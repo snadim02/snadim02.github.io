@@ -72,7 +72,7 @@ So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry u
 | Closet Problems | Wardrobe Solutions | 
 |--|--|
 | :no_entry_sign: Inaccessible space above and to the sides of openings. | :heavy_check_mark: Deeper usable space from wall-to-wall and floor-to-ceiling. |
-| :door: Doors get stuck on the rug and in their frames.<br>:pinching_hand: Fingers get pinched! | :heavy_check_mark: Lighter cabinet doors with soft-close hinges raised off floor. |
+| :door: Doors get stuck on the rug and in their frames.<br>:pinching_hand: Fingers get pinched! | :heavy_check_mark: Lighter, overlay cabinet doors with soft-close hinges raised off floor. |
 | :collision: Entry door crashes into the closet! | :heavy_check_mark: Gained ~4" of floorspace *and* solved the collision issue! |
 
 :heavy_check_mark: :hear_no_evil: :pushpin: **[Acoustic tile panels](https://studiov2.feltright.com/?import=7F-yB9vS9P)** are sound-dampening *and* double as pinboards, so we can hang up (and change up!) artistic creations.
