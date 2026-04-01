@@ -104,7 +104,7 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
-**Step 2. Paint wall.** I paneled the window wall too :window: so we could [see the colors from the hallway](#the-fix)... which meant painting first so gaps around tiles/windows wouldn’t show. :sassy_woman: :paintbrush:
+**Step 2. Paint wall.** I paneled the window wall too :window: so we could [see the colors from the hallway](#the-fix)... which meant painting underneath so gaps around tiles/windows wouldn’t show. :sassy_woman: :paintbrush:
 
 ![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
@@ -128,18 +128,18 @@ The kids didn't want to cover them up, so I came up with two ways to *try* and t
 ![Organization](../assets/img/acoustic-mountains2.gif){: .mx-auto.d-block :}
 *The sun is on the ceiling light with the planets ordered around it.* :sun_with_face: :ringed_planet: :stars: 
 
-<span id="fabric-mountains"></span>**2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I coordinated paint swatches with similarly-colored [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) from [Fabric Corner in Arlington](https://www.fabriccornerinc.com/). I cut the fabric into mountain shapes, edge-sealed to prevent fraying with [Dritz Fray Check](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) glue, and attached with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: 
+<span id="fabric-mountains"></span>**2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I matched paint swatches to [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) options from [Fabric Corner in Arlington](https://www.fabriccornerinc.com/). I cut the fabric into mountain shapes, [edge-sealed](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/), and attached with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: 
 
 ![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
 *Thoughts? I might change this up...*	:thinking:
 
 ## Organization
-I've saved the best for last ! We finally have super accessible and thoughtful storage for **communal items** :ladder: :briefcase: :bed: (behind less-convenient doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (behind easy-to-access door 2 and lower half of 3), with room to grow:
+I've saved the best for last ! We finally have super accessible and intentional storage for **communal items** :ladder: :briefcase: :bed: (behind less-convenient doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (behind easy-to-access door 2 and lower half of 3), with room to grow:
 
 ![Organization](../assets/img/acousticbed-org.gif){: .mx-auto.d-block :}
 
 <span id="active-clothes"></span>
-**Clothes currently in rotation.** Our son knows exactly which cabinets are his, and these perfect-fit [Elfa mesh drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262) make it easy for him to access everything and get dressed independently. :shirt: :jeans: 
+**Clothes currently in rotation.** Our son knows exactly which cabinets are his, and these [24" wire mesh drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262) make it easy for him to access everything and get dressed independently. :shirt: :jeans: 
 
 ![Organization](../assets/img/acoustic-clothes1.jpg){: .mx-auto.d-block :}
 :point_up: *I adapted the [3D-printed label frames](https://www.tinkercad.com/things/gDFrcBXupzb-closet-drawers-label-frame?sharecode=Weu9Hm--0ZAtXcWf9c-KlVnPqU9vlfy96KD3_fv-FXY) that I originally designed for our [pantry bin project](../2024-08-15-entry-closet) and attached them with twist ties.*
