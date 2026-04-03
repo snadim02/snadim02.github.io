@@ -54,7 +54,7 @@ I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's clo
 
 |--|
 | :mountain: **[Mountains](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains) must be kept** per the kids' request. |
-| :sunrise_over_mountains: **Colors had to...** (1) be ones my kid liked, (2) [vibe](../2025-04-12-living-room) with the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway), and (3) feel like a sunset. |
+| :sunrise_over_mountains: **Colors had to vibe** [with](../2025-04-12-living-room) the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway). |
 | :loud_sound: **Walls should be soundproofed** for our neighbors' sakes. |
 | :paintbrush: **Artwork should be showcased** -- our kiddo is *so* proud of it, and I don't have the heart to [get rid of it](../2022-09-01-kids-artwork). |
 
@@ -121,17 +121,22 @@ mixing in larger and larger amounts of [BM Hemlock](https://www.benjaminmoore.co
 
 ![Organization](../assets/img/acoustic-mountains1.jpg){: .mx-auto.d-block :}
 
-The kids didn't want to cover them up, so I came up with two ways to *try* and tie the room together.
+The kids didn't want to cover them up, so I came up with three ways to *try* and tie the room together.
 
-<span id="stars"></span>**1. Glow-in-the-dark stars.** I added [stars](https://www.amazon.com/dp/B08GJMDXL9) around the whole room, above the mountains on the walls and to the acoustic panels (onto these [flat-head push pins](https://www.amazon.com/dp/B0F4MW4PFM) to stick). :night_with_stars:
+**1. Sunset color palette.** I chose colors that (1) my kid liked, (2) looked good with the other rooms in the house, and (3) felt like a *sunset* between mountains. 
+
+![Organization](../assets/img/acoustic-mountains4.jpg){: .mx-auto.d-block :}
+
+**2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I matched paint swatches to [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) options from [Fabric Corner in Arlington](https://www.fabriccornerinc.com/). I cut the fabric into mountain shapes, [edge-sealed](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) to prevent fraying, and attached with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: 
+
+![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
+*Thoughts? I might change this up...*	:thinking:
+
+**3. Glow-in-the-dark stars.** I added [stars](https://www.amazon.com/dp/B08GJMDXL9) around the whole room, above the mountains on the walls and to the acoustic panels (onto these [flat-head push pins](https://www.amazon.com/dp/B0F4MW4PFM) to stick). :night_with_stars:
 
 ![Organization](../assets/img/acoustic-mountains2.gif){: .mx-auto.d-block :}
 *The sun is on the ceiling light with the planets ordered around it.* :sun_with_face: :ringed_planet: :stars: 
 
-<span id="fabric-mountains"></span>**2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I matched paint swatches to [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) options from [Fabric Corner in Arlington](https://www.fabriccornerinc.com/). I cut the fabric into mountain shapes, [edge-sealed](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/), and attached with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: 
-
-![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
-*Thoughts? I might change this up...*	:thinking:
 
 ## Organization
 I've saved the best for last ! We finally have super accessible and intentional storage for **communal items** :ladder: :briefcase: :bed: (behind less-convenient doors 1, 4, 5) & **personal items** :tshirt: :teddy_bear: (behind easy-to-access door 2 and lower half of 3), with room to grow:
