@@ -132,7 +132,7 @@ The kids didn't want to cover them up, so I came up with three ways to *try* and
 
 ![Organization](../assets/img/acoustic-mountains4.jpg){: .mx-auto.d-block :}
 
-**Step 2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I matched paint swatches to [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) options from [Fabric Corner in Arlington](https://www.fabriccornerinc.com/). I cut the fabric into mountain shapes, [edge-sealed](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) to prevent fraying, and attached with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: 
+**Step 2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I matched paint swatches to [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) options at the [Fabric Corner in Arlington](https://www.fabriccornerinc.com/). I cut the fabric into mountain shapes, [edge-sealed](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) to prevent fraying, and attached with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: 
 
 ![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
 *Thoughts? I might change this up...*	:thinking:
