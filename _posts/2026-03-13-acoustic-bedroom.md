@@ -5,7 +5,7 @@ subtitle: the connection? things that replaced a closet
 thumbnail-img: /assets/img/acousticbed-icon.jpg
 cover-img: /assets/img/acousticbed-cover.jpg
 share-img: /assets/img/acousticbed-icon.jpg
-tags: [memoribilia, artwork, gallery wall, wall hanging, keepsakes, souvenirs]
+tags: [bedroom, big kid design, wardrobe, closet, clothes storage, acoustic, soundproofing, sunset]
 #author: Shilpa Kobren
 ---
 
@@ -16,8 +16,9 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
   <tr>
     <td><strong>The <a href="#the-constraints">Constraints</a></strong></td>
     <td>
-      • <a href="#consideration-1-communal-storage-needs-separation">storage requirements</a> :basket: :ladder:<br>
-      • <a href="#consideration-2-functional--aesthetic-wants">functional and aesthetic preferences</a> :rainbow:
+      • <a href="#constraint-storage">storage requirements</a> :basket: :ladder:<br>
+      • <a href="#constraint-function">functionality</a> :hear_no_evil:<br>
+      • <a href="#constraint-aesthetics">aesthetic preferences</a> :rainbow:
     </td>
   </tr>
   <tr>
@@ -29,7 +30,7 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
     <td>
       • <a href="#stage-1-closet-demo--construction">closet demo and wardrobe installation</a> :axe:<br>
       • <a href="#stage-2-painting-and-panel-installation">prep with paint</a> + acoustic panel installation :paintbrush:<br>
-      • <a href="#stage-3-transitioning-mountains--sunset-sunrise_over_mountains">tying in existing room elements</a> :mountain:
+      • <a href="#stage-3-tying-in-the-other-walls">tying in existing room elements</a> :mountain:
     </td>
   </tr>
   <tr>
@@ -43,30 +44,34 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
 
 ## The Constraints
 
-### Consideration 1: Communal storage needs separation.
-I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's closet](../2025-05-12-kid-bedroom) :axe:, so our home's last remaining closet (in this bedroom) needed to store some communal items in addition to my younger son's things :family: :boy:. The current setup was not conducive.  
+As usual, **function » form** for this project, too! Here were our considerations (**:red_circle: critical, :orange_circle: important, :yellow_circle: desirable**): 
+
+<span id="constraint-storage"></span>
+**1. :red_circle: :package: Communal storage needs separation.** I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's closet](../2025-05-12-kid-bedroom) :axe:, so our home's last remaining closet (in this bedroom) needed to store some communal items in addition to my younger son's things :family: :boy:. The current setup was not working.  
 
 ![Organization](../assets/img/acousticbed-before1.gif){: .mx-auto.d-block :}
 
 ![Organization](../assets/img/acousticbed-before3.jpg){: .mx-auto.d-block :}
 
-### Consideration 2: Functional & aesthetic wants.
-
-|--|
-| :mountain: **[Mountains](#stage-3-transitioning-mountains--sunset-sunrise_over_mountains) must be kept** per the kids' request. |
-| :sunrise_over_mountains: **Colors had to vibe** [with](../2025-04-12-living-room) the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway). |
-| :loud_sound: **Walls should be soundproofed** for our neighbors' sakes. |
-| :paintbrush: **Artwork should be showcased** -- our kiddo is *so* proud of it, and I don't have the heart to [get rid of it](../2022-09-01-kids-artwork). |
+<span id="constraint-function"></span>
+**2. :orange_circle: :paintbrush: Space to showcase kiddo's artwork** since he is *so* proud of it, and I don't have the heart to [get rid of it](../2022-09-01-kids-artwork). 
 
 ![Organization](../assets/img/acoustic-artists.jpg){: .mx-auto.d-block :}
 *I love this picture, since their art looks like their two brains on display. :heart_eyes:*
+
+**3. :orange_circle: :loud_sound: Soundproofing walls** for our neighbors' sakes. 
+
+<span id="constraint-aesthetics"></span>
+**4. :yellow_circle: :sunrise_over_mountains: Picking colors** that my kiddo loves! And that vibe [with](../2025-04-12-living-room) the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway).
+
+**5. :yellow_circle: :mountain: Keeping painted mountains** on [the other walls](#stage-3-tying-in-the-other-walls), per the kids' request. 
 
 ## The Fix
 So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry units](https://www.ikea.com/us/en/cat/sektion-kitchen-ka005/) and covered them with [FeltRight acoustic tiles](https://studiov2.feltright.com/?import=7F-yB9vS9P). :pushpin:
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
-> **What about resale?** It's okay if we don't turn a profit on my house projects when we sell this place (in the distant future). I spend money to improve the quality of our lives *right now* !
+> **But aren't closets important for resale?** It's okay if we don't turn a profit on my house projects when we sell this place (in the distant future). Making these changes improves the quality of our lives *right now* !
 
 
 | Closet Problems | Wardrobe Solutions | 
@@ -114,7 +119,7 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ![Organization](../assets/img/acoustic-caulk.jpg){: .mx-auto.d-block :}
 
-### Stage 3: Transitioning mountains → sunset :sunrise_over_mountains:
+### Stage 3: Tying in the other walls 
 
 My husband and I free-hand painted these mountains ~5 years ago by gradually
 mixing in larger and larger amounts of [BM Hemlock](https://www.benjaminmoore.com/en-us/paint-colors/color/719/hemlock) with [BM Ice Mist](https://www.benjaminmoore.com/en-us/paint-colors/color/oc-67/ice-mist) (the existing wall color) as we moved from the background to foreground. :mountain: :mountain_snow: 
@@ -123,16 +128,16 @@ mixing in larger and larger amounts of [BM Hemlock](https://www.benjaminmoore.co
 
 The kids didn't want to cover them up, so I came up with three ways to *try* and tie the room together.
 
-**1. Sunset color palette.** I chose colors that (1) my kid liked, (2) looked good with the other rooms in the house, and (3) felt like a *sunset* between mountains. 
+**Step 1. Sunset color palette.** I picked colors that felt like a *sunset* between mountains. :sunrise_over_mountains:
 
 ![Organization](../assets/img/acoustic-mountains4.jpg){: .mx-auto.d-block :}
 
-**2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I matched paint swatches to [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) options from [Fabric Corner in Arlington](https://www.fabriccornerinc.com/). I cut the fabric into mountain shapes, [edge-sealed](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) to prevent fraying, and attached with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: 
+**Step 2. Fabric mountain range.** To soften the abrupt transition from the mountains to the "sunset", I matched paint swatches to [batik cotton fabric](https://hoffmancaliforniafabrics.net/php/catalog/fabricshop.php?a=sc&Category=90) options from [Fabric Corner in Arlington](https://www.fabriccornerinc.com/). I cut the fabric into mountain shapes, [edge-sealed](https://www.dickblick.com/items/dritz-fray-check-liquid-seam-sealant-34-oz-bottle/) to prevent fraying, and attached with [clear push pins](https://www.amazon.com/dp/B09ZL7KQMD). :scissors: :pushpin: 
 
 ![Organization](../assets/img/acoustic-mountains3.jpg){: .mx-auto.d-block :}
 *Thoughts? I might change this up...*	:thinking:
 
-**3. Glow-in-the-dark stars.** I added [stars](https://www.amazon.com/dp/B08GJMDXL9) around the whole room, above the mountains on the walls and to the acoustic panels (onto these [flat-head push pins](https://www.amazon.com/dp/B0F4MW4PFM) to stick). :night_with_stars:
+**Step 3. Glow-in-the-dark stars.** I added [stars](https://www.amazon.com/dp/B08GJMDXL9) around the whole room, above the mountains on the walls and to the acoustic panels (onto these [flat-head push pins](https://www.amazon.com/dp/B0F4MW4PFM) to stick). :night_with_stars:
 
 ![Organization](../assets/img/acoustic-mountains2.gif){: .mx-auto.d-block :}
 *The sun is on the ceiling light with the planets ordered around it.* :sun_with_face: :ringed_planet: :stars: 
