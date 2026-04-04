@@ -29,7 +29,7 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
     <td><strong>The <a href="#the-process">Process</a></strong></td>
     <td>
       • <a href="#stage-1-closet-demo--construction">closet demo and wardrobe installation</a> :axe:<br>
-      • <a href="#stage-2-painting-and-panel-installation">prep with paint</a> + acoustic panel installation :paintbrush:<br>
+      • <a href="#stage-2-painting-and-panel-installation">prep with paint</a> + acoustic panel install :paintbrush:<br>
       • <a href="#stage-3-tying-in-the-other-walls">tying in existing room elements</a> :mountain:
     </td>
   </tr>
@@ -44,7 +44,7 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
 
 ## The Constraints
 
-As usual, **function » form** for this project, too! Here were our considerations (**:red_circle: critical, :orange_circle: important, :yellow_circle: desirable**): 
+As usual, **function » form** ! Here were the project requirements, in orer of importance (**:red_circle: critical, :orange_circle: important, :yellow_circle: desirable**): 
 
 <span id="constraint-storage"></span>
 **1. :red_circle: :package: Communal storage needs separation.** I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's closet](../2025-05-12-kid-bedroom) :axe:, so our home's last remaining closet (in this bedroom) needed to store some communal items in addition to my younger son's things :family: :boy:. The current setup was not working.  
@@ -59,12 +59,12 @@ As usual, **function » form** for this project, too! Here were our consideratio
 ![Organization](../assets/img/acoustic-artists.jpg){: .mx-auto.d-block :}
 *I love this picture, since their art looks like their two brains on display. :heart_eyes:*
 
-**3. :orange_circle: :loud_sound: Soundproofing walls** for our neighbors' sakes. 
+**3. :orange_circle: :loud_sound: Soundproof walls** for our neighbors' sakes. 
 
 <span id="constraint-aesthetics"></span>
-**4. :yellow_circle: :sunrise_over_mountains: Picking colors** that my kiddo loves! And that vibe [with](../2025-04-12-living-room) the [rest](../2025-05-12-kid-bedroom) of our [house](../2025-11-01-entryway).
+**4. :yellow_circle: :rainbow: Pick colors** that my kiddo loves! 
 
-**5. :yellow_circle: :mountain: Keeping painted mountains** on [the other walls](#stage-3-tying-in-the-other-walls), per the kids' request. 
+**5. :yellow_circle: :mountain: Keep painted mountains** on [the other walls](#stage-3-tying-in-the-other-walls), per the kids' request. 
 
 ## The Fix
 So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry units](https://www.ikea.com/us/en/cat/sektion-kitchen-ka005/) and covered them with [FeltRight acoustic tiles](https://studiov2.feltright.com/?import=7F-yB9vS9P). :pushpin:
@@ -82,9 +82,7 @@ So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry u
 
 :heavy_check_mark: :hear_no_evil: :pushpin: **[Acoustic tile panels](https://studiov2.feltright.com/?import=7F-yB9vS9P)** are sound-dampening *and* double as pinboards, so we can hang up (and change up!) artistic creations.
 
-:heavy_check_mark: :sunrise_over_mountains: **Color palette fits our aesthetic.** The colors are a little *intense*, I know. :rainbow: :sunrise: 
-But they're perfect for my kid (he wanted *even more* color than this :open_mouth:), 
-and they look cohesive from other parts of our home: 
+:heavy_check_mark: :rainbow: **Color palette fits our aesthetic.** The colors are a little *intense*, I know. But they're perfect for my kid (he wanted *even more* color than this :open_mouth:), and they look cohesive from other parts of our home: 
 
 ![Organization](../assets/img/acoustic-hallway1.jpg){: .mx-auto.d-block :}
 :eyes: You can read more about our [family pictures wall](../2025-12-16-gallery-wall#family-pictures) and my [wall-mounted linens cabinet](../2022-01-18-linens).
