@@ -44,7 +44,15 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
 
 ## The Constraints
 
-As usual, **function » form** ! Here were the project requirements, in order of importance (**:red_circle: critical, :orange_circle: important, :yellow_circle: desirable**): 
+As usual, **function » form** ! Here were the project requirements, in order of importance:
+
+<table style="margin: 0 auto;">
+  <tr>
+    <td>🔴 critical</td>
+    <td>🟠 important</td>
+    <td>🟡 desirable</td>
+  </tr>
+</table>
 
 <span id="constraint-storage"></span>
 **1. :red_circle: :package: Communal storage needs separation.** I already [axed our closet](../2025-03-01-wardrobe) and [axed my older son's closet](../2025-05-12-kid-bedroom) :axe:, so our home's last remaining closet (in this bedroom) needed to store some communal items in addition to my younger son's things :family: :boy:. The current setup was not working.  
