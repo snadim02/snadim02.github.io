@@ -60,7 +60,7 @@ As usual, **function » form** ! Here were the project requirements, in order of
 ![Organization](../assets/img/acousticbed-before1.gif){: .mx-auto.d-block :}
 
 ![Organization](../assets/img/acousticbed-before3.jpg){: .mx-auto.d-block :}
-*Skip ahead to see how [organized the new space is](#organization)!* 
+*Skip ahead to see how [our new space is organized](#organization)!* 
 
 <span id="constraint-function"></span>
 **2. :orange_circle: :paintbrush: Space to showcase kiddo's artwork** since he is *so* proud of it, and I don't have the heart to [get rid of it](../2022-09-01-kids-artwork). 
