@@ -60,6 +60,7 @@ As usual, **function » form** ! Here were the project requirements, in order of
 ![Organization](../assets/img/acousticbed-before1.gif){: .mx-auto.d-block :}
 
 ![Organization](../assets/img/acousticbed-before3.jpg){: .mx-auto.d-block :}
+*Skip ahead to see how [organized the new space is](#organization)!* 
 
 <span id="constraint-function"></span>
 **2. :orange_circle: :paintbrush: Space to showcase kiddo's artwork** since he is *so* proud of it, and I don't have the heart to [get rid of it](../2022-09-01-kids-artwork). 
@@ -90,6 +91,7 @@ So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry u
 
 :heavy_check_mark: :hear_no_evil: :pushpin: **[Acoustic tile panels](https://studiov2.feltright.com/?import=7F-yB9vS9P)** are sound-dampening *and* double as pinboards, so we can hang up (and change up!) artistic creations.
 
+<span id="cohesive-palette"></span>
 :heavy_check_mark: :rainbow: **Color palette fits our aesthetic.** The colors are a little *intense*, I know. But they're perfect for my kid (he wanted *even more* color than this :open_mouth:), and they look cohesive from other parts of our home: 
 
 ![Organization](../assets/img/acoustic-hallway1.jpg){: .mx-auto.d-block :}
@@ -111,11 +113,11 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ### Stage 2: Painting and panel installation
 
-**Step 1. Prep cabinet frame and doors.** I got custom color samples to match the panels, plus [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and fully-cured plaster walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) from painting too soon...). It took a few weekends-- sanding, priming, two coats of paint, and sealing the cabinet frames and door edges with polyurethane. :weary:
+**Step 1. Prep cabinet frame and doors.** I got custom color samples to match the panels, plus [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and fully-cured plaster walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) from painting fresh plaster too soon...). It took a few weekends-- sanding, priming, two coats of paint, and sealing the cabinet frames and door edges with polyurethane. :weary:
 
 ![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
-**Step 2. Paint wall.** I paneled the window wall too :window: so we could [see the colors from the hallway](#the-fix)... which meant painting underneath so gaps around tiles/windows wouldn’t show. :sassy_woman: :paintbrush:
+**Step 2. Paint wall.** I paneled the window wall too :window: so we could [see the colors from the hallway](#cohesive-palette)... which meant painting underneath so gaps around tiles/windows wouldn’t show. :sassy_woman: :paintbrush:
 
 ![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
@@ -134,7 +136,7 @@ mixing in larger and larger amounts of [BM Hemlock](https://www.benjaminmoore.co
 
 The kids didn't want to cover them up, so I came up with three ways to *try* and tie the room together.
 
-**Step 1. Sunset color palette.** I picked colors that felt like a *sunset* between mountains. :sunrise_over_mountains:
+**Step 1. Sunset color palette.** I arranged the selected colors so that they looked like a sunset behind a mountain range. :sunrise_over_mountains:
 
 ![Organization](../assets/img/acoustic-mountains4.jpg){: .mx-auto.d-block :}
 
@@ -194,7 +196,7 @@ Our biggest expense was the custom wardrobe for better storage. :basket: Luckily
 | [flexi white trim 3/4"](https://instatrim.com/products/instatrim-trim-strips-white?variant=39675875360856) and [applicator tool](https://instatrim.com/products/instatrim-applicator-tool) |                $38.90 | 
 | [2 3/8" yards of Batik cotton fabric](https://www.fabriccornerinc.com/) |                $35.38 |
 | [kids' hangers](https://www.amazon.com/dp/B0B4RVT1GW) |                $15.93 | 
-| [200 glow in the dark stars](https://www.amazon.com/dp/B0711T1VHS) |                $12.77 |
+| [500-pack](https://www.amazon.com/dp/B08GJMDXL9) and [200-pack](https://www.amazon.com/dp/B0711T1VHS) glow-in-the-dark stars |                $29.64 |
 | [white tension clothes rod](https://www.amazon.com/dp/B0D9BP84SH) |                $10.61 |
 | [200-pack clear pushpins](https://www.amazon.com/dp/B09ZL7KQMD) |                 $6.36 |
 | [white upholstery tacks](https://www.amazon.com/dp/B0F4MW4PFM) |                 $6.19 | 
@@ -202,4 +204,4 @@ Our biggest expense was the custom wardrobe for better storage. :basket: Luckily
 | [curtains](https://www.target.com/p/50-34-x84-34-blackout-textured-plaid-curtain-panel-ivory-threshold-8482/-/A-89197691) (already owned) |                    $0 | 
 | [curtain rod](https://www.target.com/p/48-34-88-34-loft-by-umbra-room-darkening-curtain-rod-darjeeling-bronze/-/A-14104936) (already owned) |                    $0 | 
 | [Ikea white Trofast storage unit and bins]() (SOLD) |                  +$60 | 
-| **TOTAL** |          **$8833.83** |
+| **TOTAL** |          **$8850.70** |
