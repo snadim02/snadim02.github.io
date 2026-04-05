@@ -16,19 +16,19 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
   <tr>
     <td><strong>The <a href="#the-constraints">Constraints</a></strong></td>
     <td>
-      • <a href="#constraint-storage">storage requirements</a> :basket: :ladder:<br>
+      • <a href="#constraint-storage">storage</a> :basket: :ladder:<br>
       • <a href="#constraint-function">functionality</a> :hear_no_evil:<br>
-      • <a href="#constraint-aesthetics">aesthetic preferences</a> :rainbow:
+      • <a href="#constraint-aesthetics">aesthetics</a> :rainbow:
     </td>
   </tr>
   <tr>
     <td><strong>The <a href="#the-fix">Fix</a></strong></td>
-    <td>AKA <a href="#the-fix">The "After" Pictures!</a> :star_struck:</td>
+    <td>AKA <a href="#the-fix">"After" Pictures!</a> :star_struck:</td>
   </tr>
   <tr>
     <td><strong>The <a href="#the-process">Process</a></strong></td>
     <td>
-      • <a href="#stage-1-closet-demo--construction">closet demo and wardrobe installation</a> :axe:<br>
+      • <a href="#stage-1-closet-demo--construction">closet demo and wardrobe install</a> :axe:<br>
       • <a href="#stage-2-painting-and-panel-installation">prep with paint</a> + acoustic panel install :paintbrush:<br>
       • <a href="#stage-3-tying-in-the-other-walls">tying in existing room elements</a> :mountain:
     </td>
@@ -36,7 +36,7 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
   <tr>
     <td><strong>The <a href="#organization">Organization</a></strong></td>
     <td>
-      • storage of <a href="#active-clothes">current clothing</a> and <a href="#in-between-clothes">in-between sizes</a> :shirt: :jeans:
+      • storing <a href="#active-clothes">current clothing</a> and <a href="#in-between-clothes">in-between sizes</a> :shirt: :jeans:
     </td>
   </tr>
 </table>
@@ -113,7 +113,7 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ### Stage 2: Painting and panel installation
 
-**Step 1. Prep cabinet frame and doors.** I got custom color samples to match the panels, plus [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and fully-cured plaster walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) from painting fresh plaster too soon...). It took a few weekends-- sanding, priming, two coats of paint, and sealing the cabinet frames and door edges with polyurethane. :weary:
+**Step 1. Prep cabinet frame and doors.** I got custom color samples to match the panels, plus [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and fully-cured plaster walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) from painting fresh plaster too soon...). It took a few weekends-- sanding, priming, two coats of paint, and sealing the cabinet frames and door edges with polyurethane. :muscle: :stopwatch: :clap:
 
 ![Organization](../assets/img/acoustic-painting2.jpg){: .mx-auto.d-block :}
 
@@ -121,7 +121,7 @@ I hired a local contractor to demo the existing closet, patch the ceiling, walls
 
 ![Organization](../assets/img/acoustic-painting1.jpg){: .mx-auto.d-block :}
 
-**Step 3. Install panels.** Panels were *super easy* to cut with box cutters and hang using the provided (renter-friendly!) adhesive strips. 
+**Step 3. Install panels.** Panels were *super easy* to cut with box cutters and hang using the provided (renter-friendly!) adhesive strips. I added [construction adhesive](https://www.homedepot.com/pep/Loctite-Power-Grab-Heavy-Duty-Instant-Grab-9-oz-Latex-Construction-Adhesive-White-Cartridge-2032666/206432103) on the laminate doors for extra security. 
 
 **Step 4. Fill baseboard gap** with a [flexi caulk strip](https://instatrim.com/products/instatrim-trim-strips-white?variant=39675875360856), since I suspect my kiddo would have tried to stuff cards and toys in there otherwise... :black_joker: :smiling_imp:
 
@@ -187,9 +187,9 @@ Our biggest expense was the custom wardrobe for better storage. :basket: Luckily
 | Materials | Cost (+ tax/shipping) | 
 |----|----------------------:|
 | closet demo, floor & ceiling patching, and pantry installation labor |              $4900.00 |
-| 4 Ikea [24x90" pantry Sektion units](https://www.ikea.com/us/en/p/sektion-high-cabinet-frame-white-70265445) and [short 30"](https://www.ikea.com/us/en/p/veddinge-door-white-20266782/) and [long 60"](https://www.ikea.com/us/en/p/veddinge-door-white-80266779/) doors, 1 [18x90" pantry](https://www.ikea.com/us/en/p/sektion-high-cabinet-frame-white-00265439/) with [short](https://www.ikea.com/us/en/p/veddinge-door-white-70266812/) and [long](https://www.ikea.com/us/en/p/veddinge-door-white-10266773/) doors, [suspension rail](https://www.ikea.com/us/en/p/sektion-suspension-rail-galvanized-60261527/), 7 [shelf packs](https://www.ikea.com/us/en/p/utrusta-shelf-white-00265533/), 5 [27" handles](https://www.ikea.com/us/en/p/billsbro-handle-anthracite-50576311/), 5 [21" handles](https://www.ikea.com/us/en/p/billsbro-handle-anthracite-10576313/), 10 [pantry leg pairs](https://www.ikea.com/us/en/p/sektion-leg-90556071/), 15 [cabinet hinge pairs](https://www.ikea.com/us/en/p/utrusta-hinge-w-b-in-damper-for-kitchen-80524882/)  |              $2236.50 | 
+| 4 Ikea [24x90" pantry Sektion units](https://www.ikea.com/us/en/p/sektion-high-cabinet-frame-white-70265445) with [short 30"](https://www.ikea.com/us/en/p/veddinge-door-white-20266782/) and [long 60"](https://www.ikea.com/us/en/p/veddinge-door-white-80266779/) doors, 1 [18x90" pantry](https://www.ikea.com/us/en/p/sektion-high-cabinet-frame-white-00265439/) with [short](https://www.ikea.com/us/en/p/veddinge-door-white-70266812/) and [long](https://www.ikea.com/us/en/p/veddinge-door-white-10266773/) doors, [suspension rail](https://www.ikea.com/us/en/p/sektion-suspension-rail-galvanized-60261527/), 7 [shelf packs](https://www.ikea.com/us/en/p/utrusta-shelf-white-00265533/), 5 [27" handles](https://www.ikea.com/us/en/p/billsbro-handle-anthracite-50576311/), 5 [21" handles](https://www.ikea.com/us/en/p/billsbro-handle-anthracite-10576313/), 10 [pantry leg pairs](https://www.ikea.com/us/en/p/sektion-leg-90556071/), 15 [cabinet hinge pairs](https://www.ikea.com/us/en/p/utrusta-hinge-w-b-in-damper-for-kitchen-80524882/)  |              $2236.50 | 
 | FeltRight [sample pack](https://feltright.com/products/full-sample-kit), [wardrobe panels](https://studiov2.feltright.com/?import=7F-yB9vS9P) and [wall panels](https://studiov2.feltright.com/?import=IQmYgRs0Ye) |              $1224.56 |
-| [Elfa closet drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262) |               $148.40 | 
+| [wire mesh drawers](https://www.containerstore.com/s/elfa/best-selling-solutions/favorites-under-five-hundred/elfa-cabinet-closet-drawers/123d?productId=11021262) |               $148.40 | 
 | 8 custom color match samples, [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) |               $114.20 | 
 | [poplar wood strips](https://www.homedepot.com/p/Weaber-1-2-in-x-2-in-x-4-ft-S4S-Poplar-Board-27406/207058985), [wood glue](https://www.homedepot.com/p/Titebond-III-16-oz-Ultimate-Wood-Glue-1414/100522343), [wood filler](https://www.homedepot.com/p/Varathane-3-75-oz-White-Wood-Filler-Putty-340261/305568203) |                $75.25 |
 | [6-pack cloth bins](https://www.amazon.com/dp/B0FBKSJHJS) & [3-pack cloth bins](https://www.amazon.com/dp/B0D78Q42S5) |                $62.63 | 
