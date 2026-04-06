@@ -36,7 +36,7 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
   <tr>
     <td><strong>The <a href="#organization">Organization</a></strong></td>
     <td>
-      • storing <a href="#active-clothes">current clothing</a> and <a href="#in-between-clothes">in-between sizes</a> :shirt: :jeans:
+      • storing <a href="#active-clothes">current clothing</a> & <a href="#in-between-clothes">in-between sizes</a> :shirt: :jeans:
     </td>
   </tr>
 </table>
