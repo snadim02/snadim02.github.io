@@ -29,7 +29,7 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
     <td><strong>The <a href="#the-process">Process</a></strong></td>
     <td>
       • <a href="#stage-1-closet-demo--wardrobe-installation">demo & built-ins</a> :axe:<br>
-      • <a href="#stage-2-painting-and-panel-installation">painting & panel install</a> :paintbrush:<br>
+      • <a href="#stage-2-painting-and-acoustic-panel-installation">painting & acoustic panel install</a> :paintbrush:<br>
       • <a href="#stage-3-tying-in-the-other-walls">tying in existing room elements</a> :mountain:
     </td>
   </tr>
@@ -111,7 +111,7 @@ So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry u
 
 I hired a local contractor to demo the existing closet, patch the ceiling, walls, and floors, then assemble and install some [Ikea pantries](#cost) with [1/2" poplar spacers](https://www.homedepot.com/p/Weaber-1-2-in-x-2-in-x-4-ft-S4S-Poplar-Board-27406/207058985) to accommodate the swing of cabinet doors + 3/8"-thick acoustic panels. :construction_worker_woman: :toolbox: :hammer:	
 
-### Stage 2: Painting and panel installation
+### Stage 2: Painting and acoustic panel installation
 
 **Step 1. Prep cabinet frame and doors.** I got custom color samples to match the panels, plus [Zinsser BIN primer](https://www.acehardware.com/departments/paint-and-supplies/primers/primers/1514165) for the wood, [Ikea doors](#cost) and fully-cured plaster walls (I [learned my lesson](../2025-05-12-kid-bedroom#the-process) from painting fresh plaster too soon...). It took a few weekends-- sanding, priming, two coats of paint, and sealing the cabinet frames and door edges with polyurethane. :muscle: :stopwatch: :clap:
 
