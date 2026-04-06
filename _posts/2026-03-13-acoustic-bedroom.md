@@ -28,8 +28,8 @@ If those four words showed up in a [New York Times Connections](https://www.nyti
   <tr>
     <td><strong>The <a href="#the-process">Process</a></strong></td>
     <td>
-      • <a href="#stage-1-closet-demo--construction">closet demo and wardrobe install</a> :axe:<br>
-      • <a href="#stage-2-painting-and-panel-installation">prep with paint</a> + acoustic panel install :paintbrush:<br>
+      • <a href="#stage-1-closet-demo--wardrobe-installation">demo & built-ins</a> :axe:<br>
+      • <a href="#stage-2-painting-and-panel-installation">painting & panel install</a> :paintbrush:<br>
       • <a href="#stage-3-tying-in-the-other-walls">tying in existing room elements</a> :mountain:
     </td>
   </tr>
@@ -105,7 +105,7 @@ So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry u
 
 ## The Process
 
-### Stage 1: Closet demo & construction 
+### Stage 1: Closet demo & wardrobe installation 
 
 ![Organization](../assets/img/acoustic-construction.gif){: .mx-auto.d-block :}
 
