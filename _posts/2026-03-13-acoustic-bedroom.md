@@ -80,7 +80,7 @@ So... :v: out closet → :wave: built-in wardrobe! I used [Ikea Sektion pantry u
 
 ![Organization](../assets/img/acousticbed-after1.jpg){: .mx-auto.d-block :}
 
-> **But aren't closets important for resale?** It's okay if we don't turn a profit on my house projects when we sell this place (in the distant future). Making these changes helps our home work better for our family now and going forward -- worth it! 
+> **But aren't closets important for resale?** It's okay if we don't turn a profit on these projects when we sell (in the distant future). Making these changes helps our home work better for our family now and going forward -- worth it! 
 
 
 | Closet Problems | Wardrobe Solutions | 
