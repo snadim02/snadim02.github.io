@@ -34,9 +34,9 @@ When we first moved in with our 6-month-old, we thought *books* were a perfectly
 
 In what felt like another blink, kiddo #2 had arrived. Our older son's games were *not* baby-safe, and [the art supply stash was reaching critical overload](../2022-09-01-kids-artwork). :boom: :paintbrush: :orange_book: 
 
-**Problem 1: Swallowable game pieces.** Games needed to be toddler accessible (and put-away-able) but still baby-proofed. These [4x6 photo boxes]() were ideal! :jigsaw:  
+**Problem 1: Swallowable game pieces.** Games needed to be toddler accessible (and put-away-able) but still baby-proofed. These [4x6 photo boxes](https://www.containerstore.com/s/office/craft-hobby/iris-16-case-4-x-6-photo-and-craft-storage-carrier/12d?productId=11004246) were ideal! :jigsaw:  
 
-**Problem 2: Drawing tools are messy.** These [Ikea glis boxes]() are light, easily opened and closed (with small hands), and otherwise stay shut. :crayon: :pencil:
+**Problem 2: Drawing tools are messy.** These [Ikea glis boxes](https://www.ikea.com/us/en/p/glis-box-with-lid-clear-40604116/) are light, easily opened and closed (with small hands), and otherwise stay shut. :crayon: :pencil:
 
 ![Bookshelf V1](../assets/img/bookshelf-v2.jpg){: .mx-auto.d-block :}
 
@@ -114,10 +114,10 @@ In a recurring theme (of life), solving one problem tends to create new problems
 
 | Problem 1: Big Crafting Tools | Fix-for-Now | 
 |---|---|
-| :scissors: *Most favorite* [paper cutter](https://a.co/d/01xskXnm) is too long for existing [shoe bins]() | :heavy_check_mark: Found a [14" craft box](https://www.michaels.com/product/12-x-12-clear-scrapbook-case-by-simply-tidy-10575615)! | 
+| :scissors: *Most favorite* [paper cutter](https://a.co/d/01xskXnm) is too long for [existing shoeboxes](https://www.containerstore.com/s/closet/shoe-storage/our-shoe-box/12d?productId=10001753) | :heavy_check_mark: Found a [14" craft box](https://www.michaels.com/product/12-x-12-clear-scrapbook-case-by-simply-tidy-10575615)! | 
 | ↳ ... :rage: "Amma, where's XYZ?" since bin can't fully flip open<br>↳ ... :face_with_head_bandage: Bin sticks out past shelf | :heavy_check_mark: Separated "tools" from consumable "supplies" and sorted into [pull-out drawers](https://www.containerstore.com/s/office/craft-hobby/like-it-landscape-paper-drawer/12d?productId=10027354) | 
 
-:point_down: **Craft Tools** stores a [paper cutter](), [regular kid scissors](), [pattern scissors](), [hole punchers](), [glitter glue](), [Scotch tape](), a [mini stapler](), [glue sticks](), and [scratch notes](). :scissors:
+:point_down: **Craft Tools** stores a [paper cutter](https://a.co/d/01xskXnm), [regular kid scissors](https://a.co/d/00hD9JGV), [pattern scissors](https://a.co/d/0htLiGOP), [hole punchers](https://a.co/d/07F3p1CU), [glitter glue](https://a.co/d/0cmMJNp2), [Scotch tape](https://a.co/d/05QjX3c3), a [mini stapler](https://a.co/d/05SV3mnG), [glue sticks](https://a.co/d/01Pbznbp), and [scratch notes](https://a.co/d/0ckik5DV). :scissors:
 
 ![Craft tools](../assets/img/craft-drawers-tools.jpg){: .mx-auto.d-block :}
 
@@ -135,7 +135,7 @@ In a recurring theme (of life), solving one problem tends to create new problems
 
 | Problem 3: Diverse writing implements | Fix-for-Now | 
 |---|---|
-| :art: Too many actively-used art supplies, and preschooler-friendly [existing boxes]() don't stack deeply enough | :heavy_check_mark: Found perfectly sized [stackable pencil cases](). | 
+| :art: Too many actively-used art supplies, and [existing boxes](https://www.ikea.com/us/en/p/glis-box-with-lid-clear-40604116/) don't stack deeply enough | :heavy_check_mark: Found perfectly sized [stackable pencil cases](https://a.co/d/08WF3pME). | 
 
 ![Stackable pencil boxes](../assets/img/stackable-pencil-boxes.jpg){: .mx-auto.d-block :}
 
@@ -143,26 +143,26 @@ In a recurring theme (of life), solving one problem tends to create new problems
 | Problem 4: New phone! | Fix-for-Now | 
 |---|---|
 | :phone: Kiddos want to call their own friends and grandparents | :heavy_check_mark: We got a [Tin Can](https://tincan.kids/)! (...it's been amazing) | 
-| ↳ ... :hammer: Phone isn't wall-mountable and must be within reach | :heavy_check_mark: Moved games into [cloth bins]() on lower shelf | 
+| ↳ ... :hammer: Phone isn't wall-mountable and must be within reach | :heavy_check_mark: Moved games into [cloth bins](https://a.co/d/0bdjSUww) on lower shelf | 
 
 ![New phone](../assets/img/phone-fix-1.jpg){: .mx-auto.d-block :}
-*We bought the [Tin Can]() so the kids could call family members (and memorize their phone numbers). Now, their friends are getting them, too, so they can call each other!* :phone: 
+*We bought the [Tin Can](https://tincan.kids/) so the kids could call family members (and memorize their phone numbers). Now, their friends are getting them, too, so they can call each other!* :phone: 
 
 ![Cloth bins](../assets/img/phone-fix-2.jpg){: .mx-auto.d-block :}
-*After donating unused games and moving others into the [office]() and [living room cabinets](), I divided the remaining games into two [cloth bins](): **partner/group games** (e.g., Connect 4, Chess), and **puzzle challenge games** (e.g., [Gravity Maze](), [Laser Maze](), [Rush Hour](), [Happy Cube Pro](), [Chocolate Fix](), [Pentanimo]()).* :chess_pawn: :game_die: :black_joker:
+*After donating unused games and moving others into the [office](../2023-06-01-fireplace) and [living room cabinets](../2025-08-01-projector), I divided the remaining games into two [cloth bins](https://a.co/d/0bdjSUww): **partner/group games** (e.g., Connect 4, Chess), and **puzzle challenge games** (e.g., [Gravity Maze](https://a.co/d/06fjUURQ), [Laser Maze](https://a.co/d/032zweX6), [Rush Hour](https://a.co/d/0b3MuJwf), [Happy Cube Pro](https://a.co/d/06xWftwA), [Chocolate Fix](https://puzzlesrusmore.au/products/thinkfun-chocolate-fix), [Pentanimo](https://www.mysweetmuffin.com/products/djeco-pentanimo-logic-sologic)).* :chess_pawn: :game_die: :black_joker:
 
 | Problem 5: Third messy activity to store | Fix-for-Now | 
 |---|---|
 | :art: Paints and play dough need to be in sealable bins | :heavy_check_mark: Found clear shoebox bins that stack! | 
-| ↳ ... :test_tube: New addition = science experiments! Box doesn't fit, and should be stored upright. | :heavy_check_mark: Used a [monitor riser]() as a shelf to stack *three* [click-shut boxes]() on top | 
+| ↳ ... :test_tube: New addition = [science experiments](https://a.co/d/04PFcXLN)! Box doesn't fit, and should be stored upright. | :heavy_check_mark: Used a [monitor riser](https://a.co/d/0jlOWPHG) as a shelf to stack *three* [click-shut boxes](https://a.co/d/01HQWnOl) on top | 
 
 
 ![Monitor risers](../assets/img/phone-fix-3.jpg){: .mx-auto.d-block :}
-*Paper grocery bags are excellent art canvases, but 18"-wide cabinet shelves for stacking over them are impossible to find! We're using a [computer monitor riser stand]() to stack these new [click-shut bins]() above. And yes, I highly recommend our [science experiments kit]().* :alembic: :test_tube:
+*Paper grocery bags are excellent art canvases, but 18"-wide cabinet shelves for stacking over them are impossible to find! We're using a [computer monitor riser stand](https://a.co/d/0jlOWPHG) to stack these new [click-shut bins](https://a.co/d/01HQWnOl) above. And yes, it was worth it to store this [science experiments kit](https://a.co/d/04PFcXLN).* :alembic: :test_tube:
 
 ## Ongoing Feature Requests
 
-I always knew that the storage solutions I implement will eventually need to be updated. My previous blog posts describe [art solutions]() and [toy storage]() for little kids. :baby: I love finding new fixes to foster independence for our older kids, too ! :boy: 
+I always knew that the storage solutions I implement will eventually need to be updated. My previous blog posts describe [art solutions](../2022-09-01-kids-artwork) and [toy storage](../2022-12-30-toys) for little kids. :baby: I love finding new fixes to foster independence for our older kids, too ! :boy: 
 
 *The current snapshot again (soon to be updated, I'm sure :wink:):*
 
