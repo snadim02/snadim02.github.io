@@ -5,7 +5,7 @@ subtitle: notable commits for changing requirements
 thumbnail-img: /assets/img/pony-wall-icon.jpg
 cover-img: /assets/img/pony-wall-cover.jpg
 share-img: /assets/img/pony-wall-icon.jpg
-tags: [bookshelf, pong wall, art storage, games storage, dining room, big kid design]
+tags: [bookshelf, pony wall, art storage, games storage, dining room, big kid design]
 #author: Shilpa Kobren
 ---
 
