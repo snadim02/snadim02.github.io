@@ -18,7 +18,7 @@ Kids grow. New possessions arrive. Old habits disappear. :baby: :boy: :man: :man
 * :heavy_check_mark: adjacent to the spill-ready dining table, and
 * :heavy_check_mark: near a sink and [broom](../2024-08-15-entry-closet) :broom: :soap:
 
-**Jump ahead** to read about [v3.0, our current organization system](#details), newly optimized for 7- and 4-year-old schoolkids! 
+**Jump ahead** to read about [our current organization system](#v30-organization-details), newly optimized for 7- and 4-year-old schoolkids! 
 
 ## Initial Commit: Bookshelf for Books
 
