@@ -162,7 +162,7 @@ After donating and [relocating](../2025-08-01-projector) games where possible, I
 
 ![Craft bins before](../assets/img/craft-bins-before.jpg){: .mx-auto.d-block :}
 
-Paper grocery and takeout bags are easy to stash here and make excellent art canvases! *However,* it was impossible to find 18"-wide cabinet shelves for stacking over them! We're using a [computer monitor riser stand](https://a.co/d/0jlOWPHG) to stack these new [click-shut bins](https://a.co/d/01HQWnOl) above. And yes, the switch-up was worth it to accommodate this excellent [science experiments kit](https://a.co/d/04PFcXLN)! :alembic: :test_tube:
+Paper grocery and takeout bags are easy to stash here and make excellent art canvases! *However,* 18"-wide cabinet shelves for stacking over them *do not exist*... :unamused: We're using a [computer monitor riser stand](https://a.co/d/0jlOWPHG) instead to stack these new [click-shut bins](https://a.co/d/01HQWnOl) above. And yes, this switch-up was totally worth it to accommodate our excellent [science experiments kit](https://a.co/d/04PFcXLN)! :alembic: :test_tube:
 
 
 ![Monitor risers](../assets/img/phone-fix-3.jpg){: .mx-auto.d-block :}
