@@ -34,9 +34,9 @@ When we first moved in with our 6-month-old, we thought *books* were a perfectly
 
 In what felt like another blink, kiddo #2 had arrived. Our older son's games were *not* baby-safe, and [the art supply stash was reaching critical overload](../2022-09-01-kids-artwork). :boom: :paintbrush: :orange_book: 
 
-**Problem 1: Games have small pieces.** Games needed to be toddler accessible (and put-away-able) but still baby-proofed. These [4x6 photo boxes]() were ideal! :jigsaw:  
+**Problem 1: Swallowable game pieces.** Games needed to be toddler accessible (and put-away-able) but still baby-proofed. These [4x6 photo boxes]() were ideal! :jigsaw:  
 
-**Problem 2: Drawing tools are messy.** These [Ikea glis boxes]() are light, easily opened and closed (with small hands), and stay shut. :crayon: :pencil:
+**Problem 2: Drawing tools are messy.** These [Ikea glis boxes]() are light, easily opened and closed (with small hands), and otherwise stay shut. :crayon: :pencil:
 
 ![Bookshelf V1](../assets/img/bookshelf-v2.jpg){: .mx-auto.d-block :}
 
@@ -151,10 +151,10 @@ In a recurring theme (of life), solving one problem tends to create new problems
 *We bought the [Tin Can]() so the kids could call family members (and memorize their phone numbers). Now, their friends are getting them, too, so they can call each other!* :phone: 
 
 ![Cloth bins](../assets/img/phone-fix-2.jpg){: .mx-auto.d-block :}
-*After decluttering unused games and moving others into the [office]() and [living room games cabinets](), I split the remaining bigger games into two [cloth bins](): **partner/group games** (e.g., Connect 4, Chess), and **puzzle challenge games** (e.g., [Gravity Maze](), [Laser Maze](), [Rush Hour](), [Happy Cube Pro](), [Chocolate Fix](), [Pentanimo]()).* :chess_pawn: :game_die: :black_joker:
+*After donating unused games and moving others into the [office]() and [living room cabinets](), I divided the remaining games into two [cloth bins](): **partner/group games** (e.g., Connect 4, Chess), and **puzzle challenge games** (e.g., [Gravity Maze](), [Laser Maze](), [Rush Hour](), [Happy Cube Pro](), [Chocolate Fix](), [Pentanimo]()).* :chess_pawn: :game_die: :black_joker:
 
 ![Monitor risers](../assets/img/phone-fix-3.jpg){: .mx-auto.d-block :}
-*Paper grocery bags are excellent art canvases, but 18-inch "cabinet shelves" are impossible to find! We're using a [computer monitor riser stand]() to stack these new [click-shut bins]() above. Our [science experiments kit]() is fantastic and super exciting.* :alembic: :test_tube:
+*Paper grocery bags are excellent art canvases, but 18"-wide cabinet shelves for stacking over them are impossible to find! We're using a [computer monitor riser stand]() to stack these new [click-shut bins]() above. I highly recommend our [science experiments kit]().* :alembic: :test_tube:
 
 ## Ongoing Feature Requests
 
