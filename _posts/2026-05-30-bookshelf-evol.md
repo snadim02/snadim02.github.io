@@ -133,7 +133,7 @@ In a recurring theme (of life), solving one problem tends to create new problems
 | ↳ ... :game_die: Space for small game boxes is gone to accommodate work tray. | :heavy_check_mark: Installed [L-brackets](https://a.co/d/01hjisKv) to stack games on DIYed short mini shelf |
 
 ![Stackable game boxes](../assets/img/stackable-games-boxes.jpg){: .mx-auto.d-block :}
-:point_up: *I made baskets from cardboard and duct tape (like for our [upstairs games cabinet](../2023-06-01-fireplace)), since the kids were adamant about their games staying here.*
+:point_up: *I made baskets from cardboard and duct tape (like for our [upstairs games cabinet](../2023-06-01-fireplace)), since the kids were adamant about these card games staying here.*
 
 | Problem 3: Diverse writing implements | Fix-for-Now | 
 |---|---|
@@ -162,7 +162,7 @@ After donating and [relocating](../2025-08-01-projector) games where possible, I
 
 ![Craft bins before](../assets/img/craft-bins-before.jpg){: .mx-auto.d-block :}
 
-Paper grocery bags are excellent art canvases, but 18"-wide cabinet shelves for stacking over them are impossible to find! We're using a [computer monitor riser stand](https://a.co/d/0jlOWPHG) to stack these new [click-shut bins](https://a.co/d/01HQWnOl) above. And yes, the switch-up was worth it to accommodate this excellent [science experiments kit](https://a.co/d/04PFcXLN). :alembic: :test_tube:
+Paper grocery and takeout bags are easy to stash here and make excellent art canvases! *However,* it was impossible to find 18"-wide cabinet shelves for stacking over them! We're using a [computer monitor riser stand](https://a.co/d/0jlOWPHG) to stack these new [click-shut bins](https://a.co/d/01HQWnOl) above. And yes, the switch-up was worth it to accommodate this excellent [science experiments kit](https://a.co/d/04PFcXLN)! :alembic: :test_tube:
 
 
 ![Monitor risers](../assets/img/phone-fix-3.jpg){: .mx-auto.d-block :}
