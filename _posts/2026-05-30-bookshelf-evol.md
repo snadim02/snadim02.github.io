@@ -11,6 +11,10 @@ tags: [bookshelf, pong wall, art storage, games storage, dining room, big kid de
 
 Kids grow. Interests evolve. New possessions arrive. Old habits disappear. :baby: :boy: :man: :man_beard: Our dining room pony-wall bookshelf has been (re)optimized so many times that a walk-through of notable versions is warranted. :crayon: :books: :game_die: Even perfectly organized spaces are never truly "finished" ! 
 
+**What's *special* about this shelf?** I designed this built-in when we realized that the post holding up our [cantilevered office loft](../2023-06-01-fireplace) was structural. This low half-wall shelf is :heavy_check_mark: kid accessible, :heavy_check_mark: adjacent to the spill-proof dining table, and :heavy_check_mark: near a sink and [broom](../2024-08-15-entry-closet) :broom: :soap:, meaning it's perfect for facilitating messy kid-tivities.
+
+**Jump ahead** to read about [our current organization system](#details), newly optimized for a 7- and 4-year-old! 
+
 ## Pony-Wall Bookcase: Initial Commit
 
 When we first moved in with our 6-month-old, we thought *books* were a perfectly reasonable thing to store on a *bookshelf*. :books:
@@ -21,19 +25,16 @@ When we first moved in with our 6-month-old, we thought *books* were a perfectly
 
 ![Bookshelf pulling up](../assets/img/bookshelf-pulling.jpg){: .mx-auto.d-block :}
 
-In the years after emptying the shelf, we ended up storing messy artwork supplies and toys and games that required supervision here. 
-
 ## First Revision: Art and Games
 
-In what felt like another blink, kiddo #2 had arrived and our older son's games were *not* baby-safe, and [the art supply stash was reaching critical overload](../2022-09-01-kids-artwork). :boom: :paintbrush: :orange_book: 
+In what felt like another blink, kiddo #2 had arrived. Our older son's games were *not* baby-safe, and [the art supply stash was reaching critical overload](../2022-09-01-kids-artwork). :boom: :paintbrush: :orange_book: 
 
-* **Constraint #1: Games have small pieces.** I needed to be sure that small game pieces could be easily put away and were stored in boxes that a preschooler could open but a baby could not. :jigsaw:  
-
-* **Constraint #2: Art is messy.** Stickers, paints, play dough, coloring books... :fearful: All of these activities needed to happen at the dining table, where spills wouldn't ruin rugs, a [broom was nearby](../2024-08-15-entry-closet), and the kitchen sink was steps away. :broom: :soap: 
+* **Constraint #1: Games have small pieces.** Games needed to be in toddler accessible (and put-away-able) but baby-proof boxes. :jigsaw:  
+* **Constraint #2: Art is messy.** Stickers, paints, play dough... :fearful: You understand.
 
 ![Bookshelf V1](../assets/img/bookshelf-v2.jpg){: .mx-auto.d-block :}
 
-**Magazine holder system.** Six [metal magazine holders](https://www.ikea.com/us/en/p/droenjoens-magazine-file-white-10439694/) became one of the more frequently modified components of our system:
+**Magazine holder system.** Six [metal magazine holders](https://www.ikea.com/us/en/p/droenjoens-magazine-file-white-10439694/) (baby proof! ...and indestructible) became one of the more frequently modified components of our system:
 
 | Version (Stage) | Added | Removed | 
 |---|---|---|
@@ -44,7 +45,7 @@ In what felt like another blink, kiddo #2 had arrived and our older son's games 
 
 *"Artwork" has been our only bin constant... I stuff the kids' art in here, and when it's finally too full, we play "keep or rid" to make space.* :bulb:
 
-## Next Chapter: Two Schoolkids 
+## Second Revision: Two Schoolkids 
 
 Fast-forward, and suddenly our younger kiddo starts public Montessori preschool at age 3 (yes, we are [*very lucky* to live in Cambridge](https://earlychildhoodcambridge.org/cpp/)) ! This came with new goodies and new challenges.
 
@@ -53,6 +54,8 @@ Fast-forward, and suddenly our younger kiddo starts public Montessori preschool 
 Here's how our pony-wall bookshelf is currently optimized: 
 
 ![Bookshelf current](../assets/img/bookshelf-v4.jpg){: .mx-auto.d-block :}
+
+## Details
 
 In a recurring theme (of life), solving one problem tends to create new problems: 
 
@@ -63,7 +66,7 @@ In a recurring theme (of life), solving one problem tends to create new problems
 
 ![Craft tools](../assets/img/craft-drawers-tools.jpg){: .mx-auto.d-block :}
 
-:point_up: **Craft Tools (top)** stores a [paper cutter](), [regular kid scissors](), [pattern scissors](), [glitter glue](), [Scotch tape](), a [mini stapler](), [glue sticks](), and [scratch notes](). :scissors:
+:point_up: **Craft Tools (top)** stores a [paper cutter](), [regular kid scissors](), [pattern scissors](), [hole punchers](), [glitter glue](), [Scotch tape](), a [mini stapler](), [glue sticks](), and [scratch notes](). :scissors:
 
 :point_down: **Craft "Bits" (bottom)** stores turnover items like beads, pom poms, stickers, pipe cleaners, and popsicle sticks. :thread: :yarn: 
 
@@ -91,16 +94,18 @@ In a recurring theme (of life), solving one problem tends to create new problems
 | ↳ ... :test_tube: No space for science experiments | :heavy_check_mark: Used a [monitor riser]() as a shelf and found smaller [click-shut craft boxes]() for play dough, paints, and experiments. | 
 
 ![New phone](../assets/img/phone-fix-1.jpg){: .mx-auto.d-block :}
-*We bought the [Tin Can]() so the kids could call family members (and memorize their phone numbers). Now, their friends are getting them, too, so they can call each other!*
+*We bought the [Tin Can]() so the kids could call family members (and memorize their phone numbers). Now, their friends are getting them, too, so they can call each other!* :phone: 
 
 ![Cloth bins](../assets/img/phone-fix-2.jpg){: .mx-auto.d-block :}
-*After decluttering unused games and moving others into the [office]() and [living room games cabinets](), I split the remaining bigger games into **partner/group games** (left [cloth bin]()) like Connect 4 and Chess, and **puzzle challenge games** (right), like [Gravity Maze](), [Laser Maze](), [Rush Hour](), [Happy Cube Pro](), [Chocolate Fix](), and [Pentanimo]().*
+*After decluttering unused games and moving others into the [office]() and [living room games cabinets](), I split the remaining bigger games into two [cloth bins](): **partner/group games** (e.g., Connect 4, Chess), and **puzzle challenge games** (e.g., [Gravity Maze](), [Laser Maze](), [Rush Hour](), [Happy Cube Pro](), [Chocolate Fix](), [Pentanimo]()).* :chess_pawn: :game_die: :black_joker:
 
 ![Monitor risers](../assets/img/phone-fix-3.jpg){: .mx-auto.d-block :}
-*Brown grocery bags are excellent art canvases, but they are an awkward size, and finding wide-enough "cabinet shelves" was impossible! I finally found a [computer monitor riser stand]() instead that worked perfectly as a shelf, so these [click-shut bins]() could be stored above.*
+*Paper grocery bags are excellent art canvases, but 18-inch "cabinet shelves" are impossible to find! We're using a [computer monitor riser stand]() to stack these new [click-shut bins]() above. Our [science experiments kit]() is fantastic and super exciting.* :alembic: :test_tube:
 
 ## Conclusion: Continuous Reorganization Required
 
-I always knew that the storage solutions I implement would eventually need to be updated. My previous blog posts describe [art solutions]() and [toy storage]() for little kids. I love finding new fixes to foster independence for our older kids, too ! The current snapshot again, soon to be updated, I'm sure: 
+I always knew that the storage solutions I implement will eventually need to be updated. My previous blog posts describe [art solutions]() and [toy storage]() for little kids. :baby: I love finding new fixes to foster independence for our older kids, too ! :boy: 
+
+*The current snapshot again (soon to be updated, I'm sure :wink:):*
 
 ![Bookshelf current](../assets/img/bookshelf-v4.jpg){: .mx-auto.d-block :}
