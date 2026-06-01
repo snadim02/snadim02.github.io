@@ -9,45 +9,98 @@ tags: [bookshelf, pong wall, art storage, games storage, dining room, big kid de
 #author: Shilpa Kobren
 ---
 
-Kids grow. Interests evolve. New possessions arrive. Old habits disappear. :baby: :boy: :man: :man_beard: Our dining room pony-wall bookshelf has been (re)optimized so many times that a walk-through of notable versions is warranted. :crayon: :books: :game_die: Even perfectly organized spaces are never truly "finished" ! 
+Kids grow. New possessions arrive. Old habits disappear. :baby: :boy: :man: :man_beard: Our dining room pony-wall bookshelf has been (re)optimized so many times that a walk-through of notable versions is warranted. :crayon: :books: :game_die: Even perfectly organized spaces are never truly "finished" ! 
 
-**What's *special* about this shelf?** I designed this built-in when we realized that the post holding up our [cantilevered office loft](../2023-06-01-fireplace) was structural. This low half-wall shelf is :heavy_check_mark: kid accessible, :heavy_check_mark: adjacent to the spill-proof dining table, and :heavy_check_mark: near a sink and [broom](../2024-08-15-entry-closet) :broom: :soap:, meaning it's perfect for facilitating messy kid-tivities.
+**Pony-wall bookcase: A sweet spot between independence and supervision.** While this built-in was originally designed to disguise a [structural post](../2023-06-01-fireplace), it turned out to be the perfect home base for messy kid-tivities:
 
-**Jump ahead** to read about [our current organization system](#details), newly optimized for a 7- and 4-year-old! 
+* :heavy_check_mark: kid accessible,
+* :heavy_check_mark: only 11" deep,
+* :heavy_check_mark: adjacent to the spill-ready dining table, and
+* :heavy_check_mark: near a sink and [broom](../2024-08-15-entry-closet) :broom: :soap:
 
-## Pony-Wall Bookcase: Initial Commit
+**Jump ahead** to read about [v3.0, our current organization system](#details), newly optimized for 7- and 4-year-old schoolkids! 
+
+## Initial Commit: Bookshelf for Books
 
 When we first moved in with our 6-month-old, we thought *books* were a perfectly reasonable thing to store on a *bookshelf*. :books:
 
 ![Bookshelf V1](../assets/img/bookshelf-v1.jpg){: .mx-auto.d-block :}
 
-...Parent *amateurs*. :woman_facepalming: Of course, a couple months later, our kiddo was pulling up onto the shelf :arrow_up:, and pulling down all the books :arrow_down: ! :grimacing:
+...Parent *amateurs*. :woman_facepalming: In no time at all, our kiddo was pulling up onto the shelf :arrow_up:, and pulling down all the books :arrow_down: ! :grimacing:
 
 ![Bookshelf pulling up](../assets/img/bookshelf-pulling.jpg){: .mx-auto.d-block :}
 
-## First Revision: Art and Games
+## Second Commit: Babyproofing Toddler Activities
 
 In what felt like another blink, kiddo #2 had arrived. Our older son's games were *not* baby-safe, and [the art supply stash was reaching critical overload](../2022-09-01-kids-artwork). :boom: :paintbrush: :orange_book: 
 
-* **Constraint #1: Games have small pieces.** Games needed to be in toddler accessible (and put-away-able) but baby-proof boxes. :jigsaw:  
-* **Constraint #2: Art is messy.** Stickers, paints, play dough... :fearful: You understand.
+**Problem 1: Games have small pieces.** Games needed to be toddler accessible (and put-away-able) but still baby-proofed. These [4x6 photo boxes]() were ideal! :jigsaw:  
+
+**Problem 2: Drawing tools are messy.** These [Ikea glis boxes]() are light, easily opened and closed (with small hands), and stay shut. :crayon: :pencil:
 
 ![Bookshelf V1](../assets/img/bookshelf-v2.jpg){: .mx-auto.d-block :}
 
-**Magazine holder system.** Six [metal magazine holders](https://www.ikea.com/us/en/p/droenjoens-magazine-file-white-10439694/) (baby proof! ...and indestructible) became one of the more frequently modified components of our system:
+**Problem 3: Workbooks need protection.** Six (indestructible) [metal magazine holders](https://www.ikea.com/us/en/p/droenjoens-magazine-file-white-10439694/) held workbooks and became one of the more frequently modified components of our system:
 
-| Version (Stage) | Added | Removed | 
-|---|---|---|
-| **v2.1 (Tiny Kids)** | Mess protection • Artwork • Paper • Stickers • Coloring Books • Workbooks | -- |
-| **v2.2 (We have a Preschooler!)** | Math • Writing | Mess protection • Workbooks |
-| **v2.3 (Kids Can't Share...)** | Shared • Rami • Tal | Coloring Books • Math • Writing |
-| **v2.4 (Real Homework Begins)** | Writing/Drawing • Math/Chess • Language | Paper • Stickers |
+<table style="width:100%; border-collapse:collapse; margin:1em 0;">
+  <tr>
+    <th colspan="2" style="padding:8px;">v2.1: Tiny Kids</th>
+  </tr>
+  <tr>
+    <td style="width:50%; vertical-align:top; padding:10px; background:#e6ffed;">
+      <strong style="color:#22863a;">+</strong>
+      Mess protection, Artwork, Paper, Stickers, Coloring Books, Workbooks
+    </td>
+    <td style="width:50%; vertical-align:top; padding:10px; background:#ffeef0;">
+      <strong style="color:#cb2431;">−</strong>
+    </td>
+  </tr>
+  <tr>
+  <th colspan="2" style="padding:8px;">v2.2: We Have a Preschooler!</th>
+</tr>
+  <tr>
+    <td style="vertical-align:top; padding:10px; background:#e6ffed;">
+      <strong style="color:#22863a;">+</strong>
+      Math, Writing
+    </td>
+    <td style="vertical-align:top; padding:10px; background:#ffeef0;">
+      <strong style="color:#cb2431;">−</strong>
+      Mess protection, Workbooks
+    </td>
+  </tr>
+  <tr>
+  <th colspan="2" style="padding:8px;">v2.3: Kids Can't Share...</th>
+</tr>
+  <tr>
+    <td style="vertical-align:top; padding:10px; background:#e6ffed;">
+      <strong style="color:#22863a;">+</strong>
+      Shared, Rami, Tal
+    </td>
+    <td style="vertical-align:top; padding:10px; background:#ffeef0;">
+      <strong style="color:#cb2431;">−</strong>
+      Coloring Books, Math, Writing
+    </td>
+  </tr>
+  <tr>
+  <th colspan="2" style="padding:8px;">v2.4: Real Homework Begins</th>
+</tr>
+  <tr>
+    <td style="vertical-align:top; padding:10px; background:#e6ffed;">
+      <strong style="color:#22863a;">+</strong>
+      Writing/Drawing, Math/Chess, Language
+    </td>
+    <td style="vertical-align:top; padding:10px; background:#ffeef0;">
+      <strong style="color:#cb2431;">−</strong>
+      Paper, Stickers
+    </td>
+  </tr>
+</table>
 
 *"Artwork" has been our only bin constant... I stuff the kids' art in here, and when it's finally too full, we play "keep or rid" to make space.* :bulb:
 
-## Second Revision: Two Schoolkids 
+## Third Commit: Two Schoolkids, More Stuff
 
-Fast-forward, and suddenly our younger kiddo starts public Montessori preschool at age 3 (yes, we are [*very lucky* to live in Cambridge](https://earlychildhoodcambridge.org/cpp/)) ! This came with new goodies and new challenges.
+Fast-forward, and suddenly our younger kiddo is in preschool! :mortar_board: This came with new goodies and new challenges.
 
 ![Bookshelf new needs](../assets/img/bookshelf-v3.jpg){: .mx-auto.d-block :}
 
@@ -55,7 +108,7 @@ Here's how our pony-wall bookshelf is currently optimized:
 
 ![Bookshelf current](../assets/img/bookshelf-v4.jpg){: .mx-auto.d-block :}
 
-## Details
+## v3.0: Organization Details
 
 In a recurring theme (of life), solving one problem tends to create new problems: 
 
@@ -64,11 +117,12 @@ In a recurring theme (of life), solving one problem tends to create new problems
 | :scissors: *Most favorite* [paper cutter](https://a.co/d/01xskXnm) is too long for existing [shoe bins]() | :heavy_check_mark: Found a [14" craft box](https://www.michaels.com/product/12-x-12-clear-scrapbook-case-by-simply-tidy-10575615)! | 
 | ↳ ... :rage: "Amma, where's XYZ?" since bin can't fully flip open<br>↳ ... :face_with_head_bandage: Bin sticks out past shelf | :heavy_check_mark: Separated "tools" from consumable "supplies" and sorted into [pull-out drawers](https://www.containerstore.com/s/office/craft-hobby/like-it-landscape-paper-drawer/12d?productId=10027354) | 
 
+:point_down: **Craft Tools** stores a [paper cutter](), [regular kid scissors](), [pattern scissors](), [hole punchers](), [glitter glue](), [Scotch tape](), a [mini stapler](), [glue sticks](), and [scratch notes](). :scissors:
+
+
 ![Craft tools](../assets/img/craft-drawers-tools.jpg){: .mx-auto.d-block :}
 
-:point_up: **Craft Tools (top)** stores a [paper cutter](), [regular kid scissors](), [pattern scissors](), [hole punchers](), [glitter glue](), [Scotch tape](), a [mini stapler](), [glue sticks](), and [scratch notes](). :scissors:
-
-:point_down: **Craft "Bits" (bottom)** stores turnover items like beads, pom poms, stickers, pipe cleaners, and popsicle sticks. :thread: :yarn: 
+:point_down: **Craft "Bits"** stores turnover items like beads, pom poms, stickers, pipe cleaners, and popsicle sticks. :thread: :yarn: 
 
 ![Craft bits](../assets/img/craft-drawers-bits.jpg){: .mx-auto.d-block :}
 
@@ -90,8 +144,8 @@ In a recurring theme (of life), solving one problem tends to create new problems
 | Problem 4: New phone! | Fix-for-Now | 
 |---|---|
 | :phone: Kiddos want to call their own friends and grandparents | :heavy_check_mark: We got a [Tin Can](https://tincan.kids/)! (...it's been amazing) | 
-| ↳ ... :hammer: Phone isn't wall-mountable and must be within reach | :heavy_check_mark: Moved some games into two smaller, labeled [cloth bins]() on lower shelf | 
-| ↳ ... :test_tube: No space for science experiments | :heavy_check_mark: Used a [monitor riser]() as a shelf and found smaller [click-shut craft boxes]() for play dough, paints, and experiments. | 
+| ↳ ... :hammer: Phone isn't wall-mountable and must be within reach | :heavy_check_mark: Moved games into [cloth bins]() on lower shelf | 
+| ↳ ... :test_tube: No more space for science experiments | :heavy_check_mark: Used a [monitor riser]() as a shelf to stack [click-shut craft boxes]() on top | 
 
 ![New phone](../assets/img/phone-fix-1.jpg){: .mx-auto.d-block :}
 *We bought the [Tin Can]() so the kids could call family members (and memorize their phone numbers). Now, their friends are getting them, too, so they can call each other!* :phone: 
@@ -102,7 +156,7 @@ In a recurring theme (of life), solving one problem tends to create new problems
 ![Monitor risers](../assets/img/phone-fix-3.jpg){: .mx-auto.d-block :}
 *Paper grocery bags are excellent art canvases, but 18-inch "cabinet shelves" are impossible to find! We're using a [computer monitor riser stand]() to stack these new [click-shut bins]() above. Our [science experiments kit]() is fantastic and super exciting.* :alembic: :test_tube:
 
-## Conclusion: Continuous Reorganization Required
+## Ongoing Feature Requests
 
 I always knew that the storage solutions I implement will eventually need to be updated. My previous blog posts describe [art solutions]() and [toy storage]() for little kids. :baby: I love finding new fixes to foster independence for our older kids, too ! :boy: 
 
