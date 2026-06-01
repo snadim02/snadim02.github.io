@@ -30,7 +30,7 @@ When we first moved in with our 6-month-old, we thought *books* were a perfectly
 
 ![Bookshelf pulling up](../assets/img/bookshelf-pulling.jpg){: .mx-auto.d-block :}
 
-We moved the books [upstairs](../2023-06-01-fireplace) and starting keeping kids' games and art activities here, instead. 
+We moved the books [upstairs](../2023-06-01-fireplace) :books: and starting keeping kids' games and art activities here, instead. :game_die: :art:
 
 ## Second Commit: Babyproofing Toddler Activities
 
