@@ -112,13 +112,12 @@ Here's how our pony-wall bookshelf is currently optimized:
 
 In a recurring theme (of life), solving one problem tends to create new problems: 
 
-| Problem 1: Paper Cutter | Fix-for-Now | 
+| Problem 1: Big Crafting Tools | Fix-for-Now | 
 |---|---|
 | :scissors: *Most favorite* [paper cutter](https://a.co/d/01xskXnm) is too long for existing [shoe bins]() | :heavy_check_mark: Found a [14" craft box](https://www.michaels.com/product/12-x-12-clear-scrapbook-case-by-simply-tidy-10575615)! | 
 | ↳ ... :rage: "Amma, where's XYZ?" since bin can't fully flip open<br>↳ ... :face_with_head_bandage: Bin sticks out past shelf | :heavy_check_mark: Separated "tools" from consumable "supplies" and sorted into [pull-out drawers](https://www.containerstore.com/s/office/craft-hobby/like-it-landscape-paper-drawer/12d?productId=10027354) | 
 
 :point_down: **Craft Tools** stores a [paper cutter](), [regular kid scissors](), [pattern scissors](), [hole punchers](), [glitter glue](), [Scotch tape](), a [mini stapler](), [glue sticks](), and [scratch notes](). :scissors:
-
 
 ![Craft tools](../assets/img/craft-drawers-tools.jpg){: .mx-auto.d-block :}
 
@@ -126,7 +125,7 @@ In a recurring theme (of life), solving one problem tends to create new problems
 
 ![Craft bits](../assets/img/craft-drawers-bits.jpg){: .mx-auto.d-block :}
 
-| Problem 2: Crafts-in-Progress | Fix-for-Now | 
+| Problem 2: Work-in-Progress | Fix-for-Now | 
 |---|---|
 | 🚧 Half-finished craft projects are constantly left out on table. | :heavy_check_mark: Preschool teacher suggests a ["work-in-progress" tray](https://a.co/d/0egp33Et). | 
 | ↳ ... :game_die: Space for small game boxes is gone to accommodate work tray. | :heavy_check_mark: Installed [L-brackets](https://a.co/d/01hjisKv) to stack games on DIYed short mini shelf |
@@ -145,7 +144,6 @@ In a recurring theme (of life), solving one problem tends to create new problems
 |---|---|
 | :phone: Kiddos want to call their own friends and grandparents | :heavy_check_mark: We got a [Tin Can](https://tincan.kids/)! (...it's been amazing) | 
 | ↳ ... :hammer: Phone isn't wall-mountable and must be within reach | :heavy_check_mark: Moved games into [cloth bins]() on lower shelf | 
-| ↳ ... :test_tube: No more space for science experiments | :heavy_check_mark: Used a [monitor riser]() as a shelf to stack [click-shut craft boxes]() on top | 
 
 ![New phone](../assets/img/phone-fix-1.jpg){: .mx-auto.d-block :}
 *We bought the [Tin Can]() so the kids could call family members (and memorize their phone numbers). Now, their friends are getting them, too, so they can call each other!* :phone: 
@@ -153,8 +151,14 @@ In a recurring theme (of life), solving one problem tends to create new problems
 ![Cloth bins](../assets/img/phone-fix-2.jpg){: .mx-auto.d-block :}
 *After donating unused games and moving others into the [office]() and [living room cabinets](), I divided the remaining games into two [cloth bins](): **partner/group games** (e.g., Connect 4, Chess), and **puzzle challenge games** (e.g., [Gravity Maze](), [Laser Maze](), [Rush Hour](), [Happy Cube Pro](), [Chocolate Fix](), [Pentanimo]()).* :chess_pawn: :game_die: :black_joker:
 
+| Problem 5: Third messy activity to store | Fix-for-Now | 
+|---|---|
+| :art: Paints and play dough need to be in sealable bins | :heavy_check_mark: Found clear shoebox bins that stack! | 
+| ↳ ... :test_tube: New addition = science experiments! Box doesn't fit, and should be stored upright. | :heavy_check_mark: Used a [monitor riser]() as a shelf to stack *three* [click-shut boxes]() on top | 
+
+
 ![Monitor risers](../assets/img/phone-fix-3.jpg){: .mx-auto.d-block :}
-*Paper grocery bags are excellent art canvases, but 18"-wide cabinet shelves for stacking over them are impossible to find! We're using a [computer monitor riser stand]() to stack these new [click-shut bins]() above. I highly recommend our [science experiments kit]().* :alembic: :test_tube:
+*Paper grocery bags are excellent art canvases, but 18"-wide cabinet shelves for stacking over them are impossible to find! We're using a [computer monitor riser stand]() to stack these new [click-shut bins]() above. And yes, I highly recommend our [science experiments kit]().* :alembic: :test_tube:
 
 ## Ongoing Feature Requests
 
