@@ -132,8 +132,11 @@ In a recurring theme (of life), solving one problem tends to create new problems
 | 🚧 Half-finished craft projects are constantly left out on table. | :heavy_check_mark: Preschool teacher suggests a ["work-in-progress" tray](https://a.co/d/0egp33Et). | 
 | ↳ ... :game_die: Space for small game boxes is gone to accommodate work tray. | :heavy_check_mark: Installed [L-brackets](https://a.co/d/01hjisKv) to stack games on DIYed short mini shelf |
 
+![Work in progress tray](../assets/img/work-in-progress-tray.jpg){: .mx-auto.d-block :}
+*The "work-in-progress" tray has been a mixed success: Half-finished crafts **are** returned here, but rarely finished...* :upside_down_face: :shrug:
+
 ![Stackable game boxes](../assets/img/stackable-games-boxes.jpg){: .mx-auto.d-block :}
-:point_up: *I made baskets from cardboard and duct tape (like for our [upstairs games cabinet](../2023-06-01-fireplace)), since the kids were adamant about these card games staying here.*
+:point_up: *I made baskets from cardboard and duct tape (like for our [upstairs games cabinet](../2023-06-01-fireplace)), since the kids were adamant about these card games staying here.* :spades: :diamonds: :clubs: :hearts:
 
 | Problem 3: Diverse writing implements | Fix-for-Now | 
 |---|---|
