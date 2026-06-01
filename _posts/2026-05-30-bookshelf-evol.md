@@ -11,14 +11,14 @@ tags: [bookshelf, pony wall, art storage, games storage, dining room, big kid de
 
 Kids grow. New possessions arrive. Old habits disappear. :baby: :boy: :man: :man_beard: Our dining room pony-wall bookshelf has been (re)optimized so many times that a walk-through of notable versions is warranted. :crayon: :books: :game_die: Even perfectly organized spaces are never truly "finished" ! 
 
-**Pony-wall bookcase: A sweet spot between independence and supervision.** While this built-in was originally designed to disguise a [structural post](../2023-06-01-fireplace), it turned out to be the perfect home base for messy kid-tivities:
+**Pony-wall bookcase: Enabling kid independence *and* supervision.** While this built-in was originally designed just to disguise a [structural post](../2023-06-01-fireplace), it turned out to be the perfect spot for messy kid-tivities:
 
-* :heavy_check_mark: kid accessible,
-* :heavy_check_mark: only 11" deep,
-* :heavy_check_mark: adjacent to the spill-ready dining table, and
+* :heavy_check_mark: kid accessible
+* :heavy_check_mark: only 11" deep
+* :heavy_check_mark: adjacent to the spill-ready dining table
 * :heavy_check_mark: near a sink and [broom](../2024-08-15-entry-closet) :broom: :soap:
 
-**Jump ahead** to read about [our current organization system](#v30-organization-details), newly optimized for 7- and 4-year-old schoolkids! 
+**Jump ahead** to read about [our current organization system](#v30-organization-details), newly optimized for 4- and 7-year-old schoolkids! 
 
 ## Initial Commit: Bookshelf for Books
 
@@ -131,7 +131,7 @@ In a recurring theme (of life), solving one problem tends to create new problems
 | ↳ ... :game_die: Space for small game boxes is gone to accommodate work tray. | :heavy_check_mark: Installed [L-brackets](https://a.co/d/01hjisKv) to stack games on DIYed short mini shelf |
 
 ![Stackable game boxes](../assets/img/stackable-games-boxes.jpg){: .mx-auto.d-block :}
-:point_up: *The kids were adamant about their games staying here, too. I crafted perfectly-sized baskets from cardboard and duct tape to use as drawers, like I had done in our [upstairs game storage cabinets](../2023-06-01-fireplace).*
+:point_up: *I made baskets from cardboard and duct tape (like for our [upstairs games cabinet](../2023-06-01-fireplace)), since the kids were adamant about their games staying here.*
 
 | Problem 3: Diverse writing implements | Fix-for-Now | 
 |---|---|
@@ -143,22 +143,27 @@ In a recurring theme (of life), solving one problem tends to create new problems
 | Problem 4: New phone! | Fix-for-Now | 
 |---|---|
 | :phone: Kiddos want to call their own friends and grandparents | :heavy_check_mark: We got a [Tin Can](https://tincan.kids/)! (...it's been amazing) | 
-| ↳ ... :hammer: Phone isn't wall-mountable and must be within reach | :heavy_check_mark: Moved games into [cloth bins](https://a.co/d/0bdjSUww) on lower shelf | 
+| ↳ ... :hammer: Phone isn't wall-mountable and must be within reach, displacing some games | :heavy_check_mark: Moved games into [cloth bins](https://a.co/d/0bdjSUww) on lower shelf | 
 
 ![New phone](../assets/img/phone-fix-1.jpg){: .mx-auto.d-block :}
 *We bought the [Tin Can](https://tincan.kids/) so the kids could call family members (and memorize their phone numbers). Now, their friends are getting them, too, so they can call each other!* :phone: 
 
+After donating and [relocating](../2025-08-01-projector) games where possible, I divided what was left into two [cloth bins](https://a.co/d/0bdjSUww): **(1) partner / group games** like Connect 4, Chess :chess_pawn: :game_die: and **(2) individual puzzle challenge games** like [Gravity Maze](https://a.co/d/06fjUURQ), [Laser Maze](https://a.co/d/032zweX6), [Rush Hour](https://a.co/d/0b3MuJwf), [Happy Cube Pro](https://a.co/d/06xWftwA), [Chocolate Fix](https://puzzlesrusmore.au/products/thinkfun-chocolate-fix), [Pentanimo](https://www.mysweetmuffin.com/products/djeco-pentanimo-logic-sologic). :black_joker:
+
+
 ![Cloth bins](../assets/img/phone-fix-2.jpg){: .mx-auto.d-block :}
-*After donating unused games and moving others into the [office](../2023-06-01-fireplace) and [living room cabinets](../2025-08-01-projector), I divided the remaining games into two [cloth bins](https://a.co/d/0bdjSUww): **partner/group games** (e.g., Connect 4, Chess), and **puzzle challenge games** (e.g., [Gravity Maze](https://a.co/d/06fjUURQ), [Laser Maze](https://a.co/d/032zweX6), [Rush Hour](https://a.co/d/0b3MuJwf), [Happy Cube Pro](https://a.co/d/06xWftwA), [Chocolate Fix](https://puzzlesrusmore.au/products/thinkfun-chocolate-fix), [Pentanimo](https://www.mysweetmuffin.com/products/djeco-pentanimo-logic-sologic)).* :chess_pawn: :game_die: :black_joker:
 
 | Problem 5: Third messy activity to store | Fix-for-Now | 
 |---|---|
-| :art: Paints and play dough need to be in sealable bins | :heavy_check_mark: Found clear shoebox bins that stack! | 
+| :art: Paints and play dough need to be in sealable bins | :heavy_check_mark: Found clear [shoebox bins](https://www.containerstore.com/s/closet/shoe-storage/our-shoe-box/12d?productId=10001753) that stack! | 
 | ↳ ... :test_tube: New addition = [science experiments](https://a.co/d/04PFcXLN)! Box doesn't fit, and should be stored upright. | :heavy_check_mark: Used a [monitor riser](https://a.co/d/0jlOWPHG) as a shelf to stack *three* [click-shut boxes](https://a.co/d/01HQWnOl) on top | 
+
+![Craft bins before](../assets/img/craft-bins-before.jpg){: .mx-auto.d-block :}
+
+Paper grocery bags are excellent art canvases, but 18"-wide cabinet shelves for stacking over them are impossible to find! We're using a [computer monitor riser stand](https://a.co/d/0jlOWPHG) to stack these new [click-shut bins](https://a.co/d/01HQWnOl) above. And yes, the switch-up was worth it to accommodate this excellent [science experiments kit](https://a.co/d/04PFcXLN). :alembic: :test_tube:
 
 
 ![Monitor risers](../assets/img/phone-fix-3.jpg){: .mx-auto.d-block :}
-*Paper grocery bags are excellent art canvases, but 18"-wide cabinet shelves for stacking over them are impossible to find! We're using a [computer monitor riser stand](https://a.co/d/0jlOWPHG) to stack these new [click-shut bins](https://a.co/d/01HQWnOl) above. And yes, it was worth it to store this [science experiments kit](https://a.co/d/04PFcXLN).* :alembic: :test_tube:
 
 ## Ongoing Feature Requests
 
