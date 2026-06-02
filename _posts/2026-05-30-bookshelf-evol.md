@@ -93,7 +93,7 @@ In what felt like another blink, kiddo #2 had arrived. Our older son's games wer
     </td>
     <td style="vertical-align:top; padding:10px; background:#ffeef0;">
       <strong style="color:#cb2431;">−</strong>
-      Paper, Stickers
+      Shared, Rami, Tal, Paper, Stickers
     </td>
   </tr>
 </table>
