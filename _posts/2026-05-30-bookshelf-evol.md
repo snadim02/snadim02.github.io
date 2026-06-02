@@ -30,7 +30,7 @@ When we first moved in with our 6-month-old, we thought *books* were a perfectly
 
 ![Bookshelf pulling up](../assets/img/bookshelf-pulling.jpg){: .mx-auto.d-block :}
 
-We moved the books [upstairs](../2023-06-01-fireplace) :books: and starting keeping kids' games and art activities here, instead. :game_die: :art:
+We moved the books [upstairs](../2023-06-01-fireplace) :books: and started keeping kids' games and art activities here, instead. :game_die: :art:
 
 ## Second Commit: Babyproofing Toddler Activities
 
@@ -133,7 +133,7 @@ In a recurring theme (of life), solving one problem tends to create new problems
 | ↳ ... :game_die: Space for small game boxes is gone to accommodate work tray. | :heavy_check_mark: Installed [L-brackets](https://a.co/d/01hjisKv) to stack games on DIYed short mini shelf |
 
 ![Work in progress tray](../assets/img/work-in-progress-tray.jpg){: .mx-auto.d-block :}
-*The "work-in-progress" tray has been a mixed success: Half-finished crafts **are** returned here, but rarely finished...* :upside_down_face: :shrug:
+*The "work-in-progress" tray has been a mixed success: Half-finished crafts **are** returned here :clap: ...but rarely finished.* :upside_down_face: :shrug:
 
 ![Stackable game boxes](../assets/img/stackable-games-boxes.jpg){: .mx-auto.d-block :}
 :point_up: *I made baskets from cardboard and duct tape (like for our [upstairs games cabinet](../2023-06-01-fireplace)), since the kids were adamant about these card games staying here.* :spades: :diamonds: :clubs: :hearts:
