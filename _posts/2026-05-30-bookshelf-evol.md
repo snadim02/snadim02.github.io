@@ -11,7 +11,12 @@ tags: [bookshelf, pony wall, art storage, games storage, dining room, big kid de
 
 Kids grow. New possessions arrive. Old habits disappear. :baby: :boy: :man: :man_beard: Our dining room **pony-wall bookshelf** has been (re)optimized so many times that a walk-through of notable versions is warranted. :crayon: :books: :game_die: Even perfectly organized spaces are never truly "finished" ! 
 
-**An unexpectedly useful corner.** I originally designed this built-in just to disguise a [structural post](../2023-06-01-fireplace). This afterthought project serendipitously turned out to be the *perfect* setup for enabling kids' independence with messy activities:
+**An unexpectedly useful corner.** I originally designed this built-in just to disguise a [structural post](../2023-06-01-fireplace). 
+
+![Bookshelf V1](../assets/img/bookshelf-drawing.jpg){: .mx-auto.d-block :}
+*I drew this on the bus on the way to work, as our contractor needed some direction and specs that morning.*
+
+This afterthought project serendipitously turned out to be the *perfect* setup for enabling kids' independence with messy activities:
 
 * :heavy_check_mark: kid accessible
 * :heavy_check_mark: only 11" deep
