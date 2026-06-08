@@ -107,6 +107,7 @@ glued it together, stained it, and attached it to the wall with command strips a
 
 ![Fireplace](../assets/img/fireplace14.jpg){: .mx-auto.d-block :}
 
+<span id="games-storage"></span>
 We also needed board game storage in these cabinets! Success! (The other cabinet is equally packed.)
 
 ![Fireplace](../assets/img/fireplace07.jpg){: .mx-auto.d-block :}

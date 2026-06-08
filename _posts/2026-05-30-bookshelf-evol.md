@@ -153,7 +153,7 @@ In a recurring theme (of life), solving one problem tends to create new problems
 ![New phone](../assets/img/phone-fix-1.jpg){: .mx-auto.d-block :}
 *We bought the [Tin Can](https://tincan.kids/) so the kids could call family members (and memorize their phone numbers). Now, their friends are getting them, too, so they can call each other!* :phone: 
 
-After donating and [relocating](../2025-08-01-projector) games where possible, I divided what was left into two [cloth bins](https://a.co/d/0bdjSUww): **(1) partner / group games** like Connect 4, Chess :chess_pawn: :game_die: and **(2) individual puzzle challenge games** like [Gravity Maze](https://a.co/d/06fjUURQ), [Laser Maze](https://a.co/d/032zweX6), [Rush Hour](https://a.co/d/0b3MuJwf), [Happy Cube Pro](https://a.co/d/06xWftwA), [Chocolate Fix](https://puzzlesrusmore.au/products/thinkfun-chocolate-fix), [Pentanimo](https://www.mysweetmuffin.com/products/djeco-pentanimo-logic-sologic). :black_joker:
+After donating and [relocating](../2025-08-01-projector#step-3-adapt-cabinet-for-connections) games where [possible](../2023-06-01-fireplace#games-storage), I divided what was left into two [cloth bins](https://a.co/d/0bdjSUww): **(1) partner / group games** like Connect 4, Chess :chess_pawn: :game_die: and **(2) individual puzzle challenge games** like [Gravity Maze](https://a.co/d/06fjUURQ), [Laser Maze](https://a.co/d/032zweX6), [Rush Hour](https://a.co/d/0b3MuJwf), [Happy Cube Pro](https://a.co/d/06xWftwA), [Chocolate Fix](https://puzzlesrusmore.au/products/thinkfun-chocolate-fix), [Pentanimo](https://www.mysweetmuffin.com/products/djeco-pentanimo-logic-sologic). :black_joker:
 
 
 ![Cloth bins](../assets/img/phone-fix-2.jpg){: .mx-auto.d-block :}
