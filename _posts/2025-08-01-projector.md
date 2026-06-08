@@ -52,6 +52,10 @@ I routed the projector’s (carefully hidden) [HDMI](https://www.amazon.com/dp/B
 
 ![Side cabinet](../assets/img/projector4.jpg){: .mx-auto.d-block :}
 
+The library books and blankets were moved to the coffee table. I corralled library books and bookmarks onto an easily-moved [tray with handles](https://a.co/d/08zrfp3L) using a [upright file sorter](https://a.co/d/0i0TVQhU):  
+
+![Side cabinet](../assets/img/library-books-tray.jpg){: .mx-auto.d-block :}
+
 ### Step 4: Koopa shell yo :peach:
 
 The boys *love* Mario Kart (me too! :raising_hand_woman:) and insisted on going as their favorite characters (Donkey Kong and Bowser) for Halloween this year. :monkey_face: :dragon_face: :car: :turtle: :mushroom: The [Nintendo Switch Parental Controls app](https://www.nintendo.com/us/mobile-apps/parental-controls/) works well so far: we set a 1-hour daily limit and allow play only on weekends before 8pm.
