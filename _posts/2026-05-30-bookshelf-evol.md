@@ -14,7 +14,7 @@ Kids grow. New possessions arrive. Old habits disappear. :baby: :boy: :man: :man
 **An unexpectedly useful corner.** I originally designed this built-in just to disguise a [structural post](../2023-06-01-fireplace). 
 
 ![Bookshelf V1](../assets/img/bookshelf-drawing.jpg){: .mx-auto.d-block :}
-*I drew this on the bus on the way to work, as our contractor needed some direction and specs that morning.*
+:point_up: *Drawn on my bus to work, since our contractor needed a design decision ASAP when they discovered this immovable post while taking down a wall.*
 
 This afterthought project serendipitously turned out to be the *perfect* setup for enabling kids' independence with messy activities:
 
