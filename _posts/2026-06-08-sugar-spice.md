@@ -9,11 +9,11 @@ tags: [spices, flour, grains, baking, food backstock, specialty containers, ProK
 #author: Shilpa Kobren
 ---
 
-In our household, my husband owns the *"cooking"* stack (planning, shopping, dishwashing). :+1: = less management and mental load for me. :-1: = I rarely interact with our food prep systems, so I miss opportunities to optimize them. :muscle: = new, specialized baking and spice storage system! :cake: 🌶️
+In our household, my husband owns the *"cooking"* stack (planning, shopping, dishwashing). :+1: = less management and mental load for me. :-1: = I rarely interact with our food prep systems, so I miss opportunities to optimize them. :muscle: = new, specialized spices and baking storage systems! :hot_pepper: :cake: 
 
 ## Time for an Audit
 
-Our food storage and prep systems weren't *bad*. In fact, these spaces worked well for years! But great organization is designed around behaviors, and behaviors change... In recent years: 
+Our food storage and prep systems weren't *bad*. :shrug: In fact, these spaces worked well for years! But great organization is designed around behaviors, and behaviors change... In recent years: 
 
 * My husband dramatically leveled up his cooking and baking skills :man_cook: :bread: (so he deserves the best tools).
 * Our set of regularly-used spices, flours, and grains expanded and diversified. :hot_pepper: :garlic: :ear_of_rice:
