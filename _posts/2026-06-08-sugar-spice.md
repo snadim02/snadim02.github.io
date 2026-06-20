@@ -89,7 +89,7 @@ In the pantry, we finally [ditched](https://www.facebook.com/BuyNothingProject/)
 
 ![Flour counter storage](../assets/img/flour-pantry1.jpg){: .mx-auto.d-block :}
 
-In the corner, I added a [15" lazy susan](https://www.target.com/p/15-34-lazy-susan-turn-table-brightroom-8482/-/A-83445782) for sugars and other baking ingredients.
+In the corner, I added a [15" lazy susan](https://www.target.com/p/15-34-lazy-susan-turn-table-brightroom-8482/-/A-83445782) for less frequently used baking ingredients.
 
 ![Flour counter storage](../assets/img/flour-pantry2.jpg){: .mx-auto.d-block :}
 
