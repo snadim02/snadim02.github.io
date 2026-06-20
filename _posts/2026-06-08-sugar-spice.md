@@ -9,11 +9,11 @@ tags: [spices, flour, grains, baking, food backstock, specialty containers, ProK
 #author: Shilpa Kobren
 ---
 
-In our household, my husband owns the *"cooking"* stack (planning, shopping, dishwashing). :+1: = less management and mental load for me. :-1: = I rarely interact with our food prep systems, so I miss opportunities to optimize them. :muscle: = new, specialized spices and baking storage systems! :hot_pepper: :cake: 
+In our household, my husband owns the *"cooking"* stack (planning, shopping, dishwashing). :+1: = less management and mental load for me. :-1: = I rarely interact with our food prep systems, so I miss opportunities to optimize them. :muscle: = new, specialized spice and baking storage systems! :hot_pepper: :cake: 
 
 ## Time for an Audit
 
-Our food storage and prep systems weren't *bad*. :shrug: In fact, these spaces worked well for years! But great organization is designed around behaviors, and behaviors change... In recent years: 
+Our food prep systems weren't *bad*. :shrug: In fact, the kitchen cabinet and pantry worked well for years! But great organization is designed around behaviors, and behaviors change... For example: 
 
 * My husband dramatically leveled up his cooking and baking skills :man_cook: :bread: (so he deserves the best tools).
 * Our set of regularly-used spices, flours, and grains expanded and diversified. :hot_pepper: :garlic: :ear_of_rice:
@@ -47,7 +47,7 @@ So I got to work...
 
 ![Spices second iteration](../assets/img/spice-transfer-process.jpg){: .mx-auto.d-block :}
 
-I moved all of our spices into [4oz square jars](https://a.co/d/08B7kfnO) that wouldn't roll around on a [new spice rack](https://www.walmart.com/ip/KFFKFF-Removable-Seasoning-Rack-Cabinets-Quadruple-Layered-Spice-Holder-Condiment-Containers-Kitchen-Organizer-Counter-Kitchen-Pantry-Cabinet-Dimensi/15749108088?sid=f61755bd-cc50-4222-9600-45e015b3bee1) that now extends the full width of the cabinet to store more frequently-accessed spices. The salt refill box is now on the top cabinet shelf (instead of the pantry) next to the [masala dabba](https://en.wikipedia.org/wiki/Masala_dabba). 
+I moved all of our spices into [4oz square jars](https://a.co/d/08B7kfnO) that wouldn't roll around on a [new spice rack](https://www.walmart.com/ip/KFFKFF-Removable-Seasoning-Rack-Cabinets-Quadruple-Layered-Spice-Holder-Condiment-Containers-Kitchen-Organizer-Counter-Kitchen-Pantry-Cabinet-Dimensi/15749108088?sid=f61755bd-cc50-4222-9600-45e015b3bee1) that now extends the full width of the cabinet to store frequently-accessed spices. The salt refill box is now on the top cabinet shelf (instead of the [pantry closet](../2024-08-15-entry-closet)) next to the [masala dabba](https://en.wikipedia.org/wiki/Masala_dabba). 
 
 ![Spices second iteration](../assets/img/spices-after1.jpg){: .mx-auto.d-block :}
 
@@ -71,25 +71,25 @@ We had been using [5-gallon food-safe buckets](https://www.amazon.com/gp/product
 
 ![Flours Brown Bags](../assets/img/flours-brown-bags.jpg){: .mx-auto.d-block :}
 
-:x: **Whole-wheat blends need multiple raw ingredients.** Blending custom proportions of freshly-milled raw wheat berry varieties and groats (yum! :yum:) requires storage of multiple (identical-looking) flours next to their unprocessed counterparts. :bread: :baguette_bread: :face_with_spiral_eyes:
+:x: **Whole-wheat blends need multiple raw ingredients.** Blending custom proportions of freshly-milled raw wheat berry varieties and groats (yum! :yum:) requires storage of multiple (identical-looking) flours and their unprocessed counterparts. :bread: :baguette_bread: :face_with_spiral_eyes:
 
-:x: **Countertop stand mixer is far from baking ingredients.** More frequent (and intricate) baking projects (that the kids love to help with) finally justified the purchase of a [KitchenAid stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.kitchenaid-5-5-quart-bowl-lift-stand-mixer.KSM55SXXXAG.html). :clap: :cake: It's heavy enough to live permanently on the counter, and the optimal setup should accommodate countertop flour storage nearby, too.
+:x: **Countertop stand mixer is far from baking ingredients.** More frequent (and intricate) baking projects (with the kids sous-chefing! :cook:) finally justified the purchase of a [KitchenAid stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.kitchenaid-5-5-quart-bowl-lift-stand-mixer.KSM55SXXXAG.html). :clap: :cake: It's heavy enough to live permanently on the counter, and the optimal setup should accommodate nearby, countertop flour storage, too.
 
 ### The Flour Fix!
 
-After reading about professional baking kitchens, I decided to buy [ProKeeper+ containers](https://a.co/d/034c0FHA), which are optimized for [flours](https://a.co/d/0dYsjQWr) and various [types of sugar](https://a.co/d/0dYsjQWr). 
+After reading about professional baking kitchens, I decided to buy [ProKeeper+ containers](https://a.co/d/034c0FHA), which *may be* the overkill option (but we're committed to this optimization thing)! 
 
 ![Flour counter storage](../assets/img/spices-cover.jpg){: .mx-auto.d-block :}
 *The [flour containers](https://shop.kingarthurbaking.com/items/prokeeper-flour-storage-container) fit standard-sized bags and [include magnetic levelers](https://shop.kingarthurbaking.com/items/small-flour-keeper). The [brown sugar container](https://shop.kingarthurbaking.com/items/prokeeper-brown-sugar-storage-container) includes a terracotta disc to prevent clumping, and the [powdered sugar container](https://shop.kingarthurbaking.com/items/prokeeper-powdered-sugar-storage-container) comes with a dusting spoon.*
 
 ![Flour counter storage](../assets/img/mixer-location.jpg){: .mx-auto.d-block :}
-
+*I added an [expandable cabinet shelf](https://www.walmart.com/ip/KFFKFF-Removable-Seasoning-Rack-Cabinets-Quadruple-Layered-Spice-Holder-Condiment-Containers-Kitchen-Organizer-Counter-Kitchen-Pantry-Cabinet-Dimensi/15749108088?sid=f61755bd-cc50-4222-9600-45e015b3bee1) to cleanly stack more flours right on the counter along with mixer attachments.*
 
 In the pantry, we finally [ditched](https://www.facebook.com/BuyNothingProject/) the opaque bins, and began storing other specialty flours and sugars in ProKeeper+ containers on the shelf. The unmilled grains are stored in [16-cup Rubbermaid Brilliance containers](https://a.co/d/0ex6oQvh) directly behind their milled counterparts.
 
 ![Flour counter storage](../assets/img/flour-pantry1.jpg){: .mx-auto.d-block :}
 
-In the corner, I added a [15" lazy susan](https://www.target.com/p/15-34-lazy-susan-turn-table-brightroom-8482/-/A-83445782) for less frequently used baking ingredients.
+In the corner, I added a [15" lazy susan](https://www.target.com/p/15-34-lazy-susan-turn-table-brightroom-8482/-/A-83445782) for infrequently used baking ingredients.
 
 ![Flour counter storage](../assets/img/flour-pantry2.jpg){: .mx-auto.d-block :}
 
@@ -103,7 +103,7 @@ It feels silly to detail "costs", because the amazing bread and baked goodies al
 
 ![Flour counter storage](../assets/img/spices-icon2.jpg){: .mx-auto.d-block :}
 
-**My contribution** to the family baking escapades is to make our spaces look good and function as well as possible ! 
+**My (puny) contribution** to the family baking escapades is to at least make our spaces look good and function as well as possible ! 
 
 | Materials | Cost (+ tax/shipping) | 
 |----|----------------------:|
