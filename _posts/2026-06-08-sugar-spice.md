@@ -82,6 +82,9 @@ After reading about professional baking kitchens, I decided to buy [ProKeeper+ c
 ![Flour counter storage](../assets/img/spices-cover.jpg){: .mx-auto.d-block :}
 *The [flour containers](https://shop.kingarthurbaking.com/items/prokeeper-flour-storage-container) fit standard-sized bags and [include magnetic levelers](https://shop.kingarthurbaking.com/items/small-flour-keeper). The [brown sugar container](https://shop.kingarthurbaking.com/items/prokeeper-brown-sugar-storage-container) includes a terracotta disc to prevent clumping, and the [powdered sugar container](https://shop.kingarthurbaking.com/items/prokeeper-powdered-sugar-storage-container) comes with a dusting spoon.*
 
+![Flour counter storage](../assets/img/mixer-location.jpg){: .mx-auto.d-block :}
+
+
 In the pantry, we finally ditched the opaque bins, and began storing other specialty flours and sugars. The unmilled grains are stored in [16-cup Rubbermaid Brilliance containers](https://a.co/d/0ex6oQvh) directly behind their milled flour versions.
 
 ![Flour counter storage](../assets/img/flour-pantry1.jpg){: .mx-auto.d-block :}
