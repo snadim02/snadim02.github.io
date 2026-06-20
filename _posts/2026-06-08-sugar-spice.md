@@ -23,7 +23,7 @@ Our food storage and prep systems weren't *bad*. :shrug: In fact, these spaces w
 
 ### Iteration 1: Original Spice Organization
 
-Commonly-used spices were stored in a vertical rack in the cabinet right next to the stove, and "backstock" (refills) were stored in the pantry. 
+Commonly-used spices were stored in a vertical rack in the cabinet right next to the stove, and "backstock" (refills) were stored in the pantry. :garlic:
 
 ![Spices first iteration](../assets/img/jars07.jpg){: .mx-auto.d-block :}
 
