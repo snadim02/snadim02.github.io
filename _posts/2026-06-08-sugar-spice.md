@@ -85,7 +85,7 @@ After reading about professional baking kitchens, I decided to buy [ProKeeper+ c
 ![Flour counter storage](../assets/img/mixer-location.jpg){: .mx-auto.d-block :}
 
 
-In the pantry, we finally [ditched](https://www.facebook.com/BuyNothingProject/) the opaque bins, and began storing other specialty flours and sugars in ProKeeper+ containers on the shelf. The unmilled grains are stored in [16-cup Rubbermaid Brilliance containers](https://a.co/d/0ex6oQvh) directly behind their milled flour versions.
+In the pantry, we finally [ditched](https://www.facebook.com/BuyNothingProject/) the opaque bins, and began storing other specialty flours and sugars in ProKeeper+ containers on the shelf. The unmilled grains are stored in [16-cup Rubbermaid Brilliance containers](https://a.co/d/0ex6oQvh) directly behind their milled counterparts.
 
 ![Flour counter storage](../assets/img/flour-pantry1.jpg){: .mx-auto.d-block :}
 
