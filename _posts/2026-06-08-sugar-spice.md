@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sugar and spice 
-subtitle: and now everything is nice
+subtitle: and (now) everything (is) nice!
 thumbnail-img: /assets/img/spices-icon2.jpg
 cover-img: /assets/img/spices-cover.jpg
 share-img: /assets/img/spices-icon.jpg
