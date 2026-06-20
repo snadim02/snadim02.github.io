@@ -98,12 +98,12 @@ In the corner, I added a [15" lazy susan](https://www.target.com/p/15-34-lazy-su
 It feels silly to detail "costs", because the amazing bread and baked goodies all three of my boys make me is *priceless.* :yum: :bread: :cake: :pie:
 
 ![Flour counter storage](../assets/img/kids-baking1.jpg){: .mx-auto.d-block :}
+*Making chapatis to accompany their mattar paneer!* :curry: :rice:
 
 ![Flour counter storage](../assets/img/kids-baking2.jpg){: .mx-auto.d-block :}
+*Yum, our [Drożdżowe Bułki z Makiem](https://www.cookbookdivas.com/2025/05/14/cookbook-preview-dobre-dobre-polish-baking-book-october-2025/) (Polish poppy seed swirls).* :croissant: :bagel: :pretzel:
 
-![Flour counter storage](../assets/img/spices-icon2.jpg){: .mx-auto.d-block :}
-
-**My (puny) contribution** to the family baking escapades is to at least make our spaces look good and function as well as possible ! 
+**My (frivolous) contribution** to the family baking escapades is to at least make our spaces look good and function as well as possible ! 
 
 | Materials | Cost (+ tax/shipping) | 
 |----|----------------------:|
