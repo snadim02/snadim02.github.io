@@ -17,13 +17,13 @@ Our food prep systems weren't *bad*. :shrug: But great organization is designed 
 
 | New Behavior | New Requirement | 
 |---|---|
-| My husband leveled up his cooking and baking skills! :man_cook: | He deserves the best tools and space. | 
-| Set of regularly-used spices and grains expanded & diversified. | Better storage! :hot_pepper: :garlic: :ear_of_rice: |
-| We host our friends *and their multiple kids* 1+ times/week for dinner. | Cooking/baking efficiently, cleanly, and *at scale* is critical. |
+| My husband leveled up his cooking and baking skills! :man_cook: | He deserves the best tools and space. :hugs: | 
+| Regularly-used spices & grains expanded and diversified. | Better storage! :hot_pepper: :garlic: :ear_of_rice: |
+| We host our friends and their kids 1+ times/week for dinner. | Cooking/baking efficiently, cleanly, and at scale is critical. |
 
 So for [Father's Day](https://en.wikipedia.org/wiki/Father%27s_Day) this year, I decided on a quick kitchen upgrade! 
 
-## Kitchen Upgrade Project #1: Spices
+## Kitchen Upgrade #1: Spices
 
 ### The Before: Original Spice Organization
 
@@ -41,27 +41,27 @@ Commonly-used spices were stored in a vertical rack in the cabinet right next to
 
 ![Spice jar size comparison](../assets/img/spices-jar-sizes.jpg){: .mx-auto.d-block :}
 
-:x: **Bulk salt is awkward to store.** Our (great!) stoveside [salt well](https://a.co/d/0cQhm1Dh) requires frequent refilling, but the larger (more efficient/economical) salt refill box is harder to store.
+:x: **Bulk salt is awkward to store.** Our (great!) stoveside [salt well](https://a.co/d/0cQhm1Dh) requires frequent refilling, but the more efficient/economical salt refill box is... large.
 
-### The Spices Fix! 
+### The Spices Fix
 
 So I got to work...
 
 ![Spices second iteration](../assets/img/spice-transfer-process.jpg){: .mx-auto.d-block :}
 
-I moved all of our spices into [4oz square jars](https://a.co/d/08B7kfnO) that won't roll around on a [new spice rack](https://www.walmart.com/ip/KFFKFF-Removable-Seasoning-Rack-Cabinets-Quadruple-Layered-Spice-Holder-Condiment-Containers-Kitchen-Organizer-Counter-Kitchen-Pantry-Cabinet-Dimensi/15749108088?sid=f61755bd-cc50-4222-9600-45e015b3bee1) that extends the full cabinet width. The salt refill box is now on the top cabinet shelf (instead of the [pantry closet](../2024-08-15-entry-closet)). 
+I moved all of our spices into [4oz square jars](https://a.co/d/08B7kfnO) that won't roll around on a [new spice rack](https://www.walmart.com/ip/KFFKFF-Removable-Seasoning-Rack-Cabinets-Quadruple-Layered-Spice-Holder-Condiment-Containers-Kitchen-Organizer-Counter-Kitchen-Pantry-Cabinet-Dimensi/15749108088?sid=f61755bd-cc50-4222-9600-45e015b3bee1) that now extends the full cabinet width. The salt refill box is now on the top cabinet shelf (instead of in the [pantry closet](../2024-08-15-entry-closet)). 
 
 ![Spices second iteration](../assets/img/spices-after1.jpg){: .mx-auto.d-block :}
 
 ![Spices first iteration](../assets/img/spices-icon.jpg){: .mx-auto.d-block :}
 
-The pantry now houses complementary (not overflow) spices that can be immediately transferred to 4oz jars with labeled lids! :relaxed: :star_struck:
+The pantry now stores complementary (not overflow) spices that can be immediately transferred to 4oz jars with labeled lids! :relaxed: :star_struck:
 
 ![Spices second iteration](../assets/img/spices-after2.jpg){: .mx-auto.d-block :}
 
 Ta da! :star_struck:
 
-## Kitchen Upgrade Project #2: Flour & baking
+## Kitchen Upgrade #2: Flours
 
 ### The Before: Bulk grain buckets
 
@@ -80,11 +80,11 @@ However...
 |---|---|
 | :x: **Grains were getting lost** in nondescript, opaque brown bags.<br> | Transparent, flour-ready containers! | 
 | :x: **Whole-wheat blends need multiple raw ingredients,** requiring storage of multiple (identical-looking) flours and their unprocessed groat/berry counterparts. :bread: :baguette_bread: :face_with_spiral_eyes: | Labels everywhere! :yum: |
-| :x: **Countertop [stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.kitchenaid-5-5-quart-bowl-lift-stand-mixer.KSM55SXXXAG.html) is far from baking ingredients.** Pantry baking ingredients are too far for our kiddo sous-chefs to transfer :cook:. | Countertop flour storage! | 
+| :x: **Countertop [stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.kitchenaid-5-5-quart-bowl-lift-stand-mixer.KSM55SXXXAG.html) is far from ingredients.** Pantry baking ingredients are too far for our kiddo sous-chefs to transfer :cook:. | Countertop flour storage! | 
 
-### The Flour Fix!
+### The Flour Fix
 
-So I began reading about professional baking kitchens. I decided on [ProKeeper+ containers](https://a.co/d/034c0FHA), which *may be* the overkill option, *but* we're committed to this optimization thing, and it's Father's Day, after all! :family_man_woman_boy_boy:
+So I began reading about professional baking kitchen solutions. I decided on [ProKeeper+ containers](https://a.co/d/034c0FHA), which *may be* the overkill option, *but* we're committed to this optimization thing, and it's Father's Day, after all! :family_man_woman_boy_boy:
 
 ![Flour counter storage](../assets/img/spices-cover.jpg){: .mx-auto.d-block :}
 *These [flour containers](https://shop.kingarthurbaking.com/items/prokeeper-flour-storage-container) fit standard-sized bags and [include magnetic levelers](https://shop.kingarthurbaking.com/items/small-flour-keeper)! I added an [expandable cabinet shelf](https://www.walmart.com/ip/KFFKFF-Removable-Seasoning-Rack-Cabinets-Quadruple-Layered-Spice-Holder-Condiment-Containers-Kitchen-Organizer-Counter-Kitchen-Pantry-Cabinet-Dimensi/15749108088?sid=f61755bd-cc50-4222-9600-45e015b3bee1) to stack more flours.*
