@@ -111,7 +111,7 @@ It feels silly to detail "costs", because the amazing bread and baked goodies al
 ![Flour counter storage](../assets/img/kids-baking2.jpg){: .mx-auto.d-block :}
 *Yum, our [Drożdżowe Bułki z Makiem](https://www.cookbookdivas.com/2025/05/14/cookbook-preview-dobre-dobre-polish-baking-book-october-2025/) (Polish poppy seed swirls).* :croissant: :bagel: :pretzel:
 
-**My (frivolous) contribution** to the family baking escapades is to at least make our spaces look good and function as well as possible ! 
+**My (minor, hopefully helpful) contribution** to the family baking escapades is to at least make our spaces look good and function as well as possible ! 
 
 | Materials | Cost (+ tax/shipping) | 
 |----|----------------------:|
