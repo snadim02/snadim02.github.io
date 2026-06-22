@@ -9,7 +9,7 @@ tags: [spices, flour, grains, baking, food backstock, specialty containers, ProK
 #author: Shilpa Kobren
 ---
 
-In our household, my husband owns the *"cooking"* stack (planning, shopping, dishwashing). **Pro:** Less managerial mental load. **Con:** I don't interact with (or regularly optimize 	:anguished:) our food prep systems. **Cue:** Our *long overdue* upgrade with specialized spice and baking storage! :muscle: :hot_pepper: :cake: 
+In our household, my husband owns the *"cooking"* stack (planning, shopping, dishwashing). **Pro:** Less managerial mental load. **Con:** I don't interact with (or regularly optimize 	:anguished:) our food prep systems. **Cue:** A *long overdue* upgrade with specialized spice and baking storage! :muscle: :hot_pepper: :cake: 
 
 ## Time for an Audit
 
