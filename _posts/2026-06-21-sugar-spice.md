@@ -21,7 +21,7 @@ Our food prep systems weren't *bad*. :shrug: But great organization is designed 
 | Regularly-used spices & grains expanded and diversified. | More, better storage! :hot_pepper: :garlic: :ear_of_rice: |
 | We host our friends and their kids 1+ times/week for dinner. | Cooking/baking efficiently, cleanly, and at scale is critical. |
 
-So for [Father's Day](https://en.wikipedia.org/wiki/Father%27s_Day) this year, I decided on a quick kitchen upgrade! 
+So for [Father's Day](https://en.wikipedia.org/wiki/Father%27s_Day) this year, I worked on two quick kitchen upgrades: [spice](#kitchen-upgrade-1-spices) and [flour](#kitchen-upgrade-2-flours) storage systems! 
 
 ## Kitchen Upgrade #1: Spices
 
