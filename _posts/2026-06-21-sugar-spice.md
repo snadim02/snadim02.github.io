@@ -77,12 +77,12 @@ However...
 | Problem | Fix | 
 |---|---|
 | :x: **Grains were getting lost** in nondescript, opaque brown bags.<br> | Transparent, flour-ready containers! | 
-| :x: **Whole-wheat blends need multiple raw ingredients,** requiring storage of multiple (identical-looking) flours and their unprocessed groat/berry counterparts. :bread: :baguette_bread: :face_with_spiral_eyes: | Labels everywhere! :yum: |
+| :x: **Whole-wheat blends need multiple raw ingredients,** requiring storage of (identical-looking) flours and their unprocessed groat/berry counterparts. :bread: :baguette_bread: :face_with_spiral_eyes: | Labels everywhere! :yum: |
 | :x: **Countertop [stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.kitchenaid-5-5-quart-bowl-lift-stand-mixer.KSM55SXXXAG.html) is far from ingredients.** Pantry baking ingredients are too far for our kiddo sous-chefs to transfer without spills. :cook: | Countertop flour storage! | 
 
 ### The Flour Fix
 
-So I began reading about professional baking kitchen solutions. I decided on [ProKeeper+ containers](https://a.co/d/034c0FHA), which *may be* the overkill option, *but* we're committed to this optimization thing, and it's Father's Day, after all! :family_man_woman_boy_boy:
+So I began reading about professional bakers' kitchen solutions. I decided on [ProKeeper+ containers](https://a.co/d/034c0FHA), which *may be* the overkill option, *but* we're committed to this optimization thing, and it's Father's Day, after all! :family_man_woman_boy_boy:
 
 ![Flour counter storage](../assets/img/spices-cover.jpg){: .mx-auto.d-block :}
 *[Flour containers](https://shop.kingarthurbaking.com/items/prokeeper-flour-storage-container) fit standard-sized bags and [include magnetic levelers](https://shop.kingarthurbaking.com/items/small-flour-keeper)! I added an [expandable cabinet shelf](https://www.walmart.com/ip/KFFKFF-Removable-Seasoning-Rack-Cabinets-Quadruple-Layered-Spice-Holder-Condiment-Containers-Kitchen-Organizer-Counter-Kitchen-Pantry-Cabinet-Dimensi/15749108088?sid=f61755bd-cc50-4222-9600-45e015b3bee1) to stack more flours.*
@@ -97,7 +97,7 @@ In the pantry, we finally [ditched](https://www.facebook.com/BuyNothingProject/)
 In the corner, I added a [15" lazy susan](https://www.target.com/p/15-34-lazy-susan-turn-table-brightroom-8482/-/A-83445782) for infrequently used baking ingredients.
 
 ![Flour counter storage](../assets/img/flour-pantry2.jpg){: .mx-auto.d-block :}
-*The [brown sugar container](https://shop.kingarthurbaking.com/items/prokeeper-brown-sugar-storage-container) includes a terracotta disc to prevent clumping, and the [powdered sugar container](https://shop.kingarthurbaking.com/items/prokeeper-powdered-sugar-storage-container) comes with a dusting spoon. How cool!*
+*The [powdered sugar container](https://shop.kingarthurbaking.com/items/prokeeper-powdered-sugar-storage-container) comes with a dusting spoon, and the [brown sugar container](https://shop.kingarthurbaking.com/items/prokeeper-brown-sugar-storage-container) includes a terracotta disc to prevent clumping. How cool!*
 
 ## Cost (New Products)
 
