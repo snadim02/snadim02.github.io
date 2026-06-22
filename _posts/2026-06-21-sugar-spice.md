@@ -3,7 +3,7 @@ layout: post
 title: Sugar and spice 
 subtitle: and (now) everything (is) nice!
 thumbnail-img: /assets/img/spices-icon2.jpg
-cover-img: /assets/img/spices-cover.jpg
+cover-img: /assets/img/spices-cover2.jpg
 share-img: /assets/img/spices-icon.jpg
 tags: [spices, flour, grains, baking, food backstock, specialty containers, ProKeeper+, jars]
 #author: Shilpa Kobren
@@ -18,7 +18,7 @@ Our food prep systems weren't *bad*. :shrug: But great organization is designed 
 | New Behavior | New Requirement | 
 |---|---|
 | My husband leveled up his cooking and baking skills! :man_cook: | He deserves the best tools and space. :hugs: | 
-| Regularly-used spices & grains expanded and diversified. | Better storage! :hot_pepper: :garlic: :ear_of_rice: |
+| Regularly-used spices & grains expanded and diversified. | More, better storage! :hot_pepper: :garlic: :ear_of_rice: |
 | We host our friends and their kids 1+ times/week for dinner. | Cooking/baking efficiently, cleanly, and at scale is critical. |
 
 So for [Father's Day](https://en.wikipedia.org/wiki/Father%27s_Day) this year, I decided on a quick kitchen upgrade! 
@@ -33,11 +33,11 @@ Commonly-used spices were stored in a vertical rack in the cabinet right next to
 
 ### Emerging Spicy Problems
 
-:x: **Complementary spices in the pantry are hard to see.** The pantry started storing additional (versus overflow) spices as recipes became more adventurous. :hot_pepper: :rice: Eventually, the hard-to-see pantry inventory led to accidental purchases of duplicate spices! :scream: :confounded:
+:x: **Spices in the pantry are hard to see.** We started storing complementary (not just overflow) spices in the pantry as recipes became more adventurous. :hot_pepper: :rice: Eventually, the hard-to-see pantry inventory led to accidental purchases of duplicate spices! :scream: :confounded:
 
 ![Spices first iteration](../assets/img/spices-before.jpg){: .mx-auto.d-block :}
 
-:x: **Store-bought spices don't fit in 3oz jars.** Spices are sold by weight, not volume. The full contents of newly-purchased spices rarely fit in 3oz jars.
+:x: **Newly-purchased spices are ~4oz.** Spices are sold by weight, not volume. The full contents of newly-purchased spices rarely fit in 3oz jars.
 
 ![Spice jar size comparison](../assets/img/spices-jar-sizes.jpg){: .mx-auto.d-block :}
 
@@ -55,11 +55,9 @@ I moved all of our spices into [4oz square jars](https://a.co/d/08B7kfnO) that w
 
 ![Spices first iteration](../assets/img/spices-icon.jpg){: .mx-auto.d-block :}
 
-The pantry now stores complementary (not overflow) spices that can be immediately transferred to 4oz jars with labeled lids! :relaxed: :star_struck:
+The pantry now stores less-frequently used spices that can be immediately transferred to 4oz jars (with labeled lids) upon purchase! :relaxed: :star_struck:
 
 ![Spices second iteration](../assets/img/spices-after2.jpg){: .mx-auto.d-block :}
-
-Ta da! :star_struck:
 
 ## Kitchen Upgrade #2: Flours
 
@@ -80,14 +78,14 @@ However...
 |---|---|
 | :x: **Grains were getting lost** in nondescript, opaque brown bags.<br> | Transparent, flour-ready containers! | 
 | :x: **Whole-wheat blends need multiple raw ingredients,** requiring storage of multiple (identical-looking) flours and their unprocessed groat/berry counterparts. :bread: :baguette_bread: :face_with_spiral_eyes: | Labels everywhere! :yum: |
-| :x: **Countertop [stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.kitchenaid-5-5-quart-bowl-lift-stand-mixer.KSM55SXXXAG.html) is far from ingredients.** Pantry baking ingredients are too far for our kiddo sous-chefs to transfer :cook:. | Countertop flour storage! | 
+| :x: **Countertop [stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.kitchenaid-5-5-quart-bowl-lift-stand-mixer.KSM55SXXXAG.html) is far from ingredients.** Pantry baking ingredients are too far for our kiddo sous-chefs to transfer without spills. :cook: | Countertop flour storage! | 
 
 ### The Flour Fix
 
 So I began reading about professional baking kitchen solutions. I decided on [ProKeeper+ containers](https://a.co/d/034c0FHA), which *may be* the overkill option, *but* we're committed to this optimization thing, and it's Father's Day, after all! :family_man_woman_boy_boy:
 
 ![Flour counter storage](../assets/img/spices-cover.jpg){: .mx-auto.d-block :}
-*These [flour containers](https://shop.kingarthurbaking.com/items/prokeeper-flour-storage-container) fit standard-sized bags and [include magnetic levelers](https://shop.kingarthurbaking.com/items/small-flour-keeper)! I added an [expandable cabinet shelf](https://www.walmart.com/ip/KFFKFF-Removable-Seasoning-Rack-Cabinets-Quadruple-Layered-Spice-Holder-Condiment-Containers-Kitchen-Organizer-Counter-Kitchen-Pantry-Cabinet-Dimensi/15749108088?sid=f61755bd-cc50-4222-9600-45e015b3bee1) to stack more flours.*
+*[Flour containers](https://shop.kingarthurbaking.com/items/prokeeper-flour-storage-container) fit standard-sized bags and [include magnetic levelers](https://shop.kingarthurbaking.com/items/small-flour-keeper)! I added an [expandable cabinet shelf](https://www.walmart.com/ip/KFFKFF-Removable-Seasoning-Rack-Cabinets-Quadruple-Layered-Spice-Holder-Condiment-Containers-Kitchen-Organizer-Counter-Kitchen-Pantry-Cabinet-Dimensi/15749108088?sid=f61755bd-cc50-4222-9600-45e015b3bee1) to stack more flours.*
 
 ![Flour counter storage](../assets/img/mixer-location.jpg){: .mx-auto.d-block :}
 *The whole baking setup is tucked out of sight behind the refrigerator.*
