@@ -78,7 +78,7 @@ However...
 |---|---|
 | :x: **Grains were getting lost** in nondescript, opaque brown bags.<br> | Transparent, flour-ready containers! | 
 | :x: **Whole-wheat blends need multiple raw ingredients,** requiring storage of (identical-looking) flours and their unprocessed groat/berry counterparts. :bread: :baguette_bread: :face_with_spiral_eyes: | Labels everywhere! :yum: |
-| :x: **Countertop [stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.kitchenaid-5-5-quart-bowl-lift-stand-mixer.KSM55SXXXAG.html) is far from ingredients.** Pantry baking ingredients are too far for our kiddo sous-chefs to transfer without spills. :cook: | Countertop flour storage! | 
+| :x: **Countertop [stand mixer](https://www.kitchenaid.com/countertop-appliances/stand-mixers/bowl-lift-stand-mixers/p.kitchenaid-5-5-quart-bowl-lift-stand-mixer.KSM55SXXXAG.html) is too far from pantry baking ingredients** for our kiddo sous-chefs to transfer without spills. :cook: | Countertop flour storage! | 
 
 ### The Flour Fix
 
