@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Master bathroom planning! 
-subtitle: how AI turned weeks of design work into one afternoon
+subtitle: with a leel AI assist
 thumbnail-img: /assets/img/masterbath-plan-icon.jpg
 cover-img: /assets/img/masterbath-inspo2.jpg
 share-img: /assets/img/masterbath-plan-icon.jpg
@@ -9,7 +9,7 @@ tags: [spices, flour, grains, baking, food backstock, specialty containers, ProK
 #author: Shilpa Kobren
 ---
 
-AI didn't design our bathroom, but it made it possible for me to design it myself before making any expensive mistakes! My mind is still blown with how I accomplished this complete design in one weekend. 
+Like everyone else, while scheming about redoing our bathroom, I tried to generate some AI renderings of our space and was met with disappointment. I did use AI to code a to-scale 3D rendering though, and my mind is blown with how I accomplished this complete design in one weekend before making any expensive mistakes. 
 
 ## The Constraints
 
@@ -26,25 +26,19 @@ Our current master bathroom is absolutely non-functional:
 Since we finally [moved our bedroom upstairs](../2025-03-15-master-bedroom) last year, we've been thinking hard
 about starting to use the master bathroom instead of sharing with our kids in the [downstairs bathroom](../2022-06-25-bathroom-reno).
 
-## The Before
+## The Inspiration (Renderings)
 
 ![Closet](../assets/img/masterbath-before1.jpg){: .mx-auto.d-block :}
 
-![Closet](../assets/img/masterbath-before2.jpg){: .mx-auto.d-block :}
-
-## The Inspiration (Renderings)
-
-I found this picture on Pinterest, and thought the colors and vibe matched what I'd want. 
-
-![Closet](../assets/img/masterbath-inspo.jpg){: .mx-auto.d-block :}
-
-So, I asked Gemini to rerender my starting (before) pictures in this style. I gave it a few extra instructions, like arched mirrors, a bumpout, some shelves, and a link to an example light fixture. Yay! 
-
 ![Closet](../assets/img/masterbath-inspo2.jpg){: .mx-auto.d-block :}
+
+And another angle, using Gemini to render the space according to my specifications: 
+
+![Closet](../assets/img/masterbath-before2.jpg){: .mx-auto.d-block :}
 
 ![Closet](../assets/img/masterbath-inspo3.jpg){: .mx-auto.d-block :}
 
-But clearly, random additions are made, and the true dimensions get warped. 
+Clearly, AI randomly switches up finishes, sizes, and dimensions, resulting in some slop where it's genuinely hard to imagine whether and how everything will fit. 
 
 ## Actual 3D Rendering
 
