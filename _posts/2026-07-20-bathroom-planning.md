@@ -62,6 +62,15 @@ zoom, right-drag to pan.**
   <a href="{{ '/bathroom/' | relative_url }}">Open the full-screen version →</a>
 </p>
 
+### Details
+
+|---|---|
+| :mirror: **Recessed mirror medicine cabinets** | I'll bump out the wall behind the 48" vanity by ~4.5" to recess the mirrors and install GFCI outlets inside each cabinet. [Hinge angle restrictors](https://www.kraftmaid.com/whisper-touch-angle-restrictor-clip-wtharc/) will prevent the doors from hitting the wall. |
+| :shower: **Wall-mounted faucets** | The bumped-out wall provides room for wall-mounted faucets. The vanity will be reduced from 21" to 18" deep, while the wall directly behind it remains unbumped so the plumbing stays accessible for repairs. |
+| :plunger: **18"H mini cabinet** | A fluted wooden sliding door between the floating shelves above the toilet conceals *cleaning products* (e.g., toilet bowl cleaner, Lysol spray). |
+| :door: **Regular swing door** | Replace the broken pocket door with a narrow, 24" mirrored door that swings out into the bedroom. |
+| :basket: **Hand and bath towels** | Hand towels will hang from low-protrusion [appliance pulls](https://www.rejuvenation.com/products/archie-appliance-pull/) on the vanity drawers, bath towels on [double robe hooks](https://www.fergusonhome.com/product/summary/1767933) by the door, and the floor towel on a low-mounted [towel rack](https://www.fergusonhome.com/product/summary/1746227?uid=4722885). |
+
 ## Costs
 
 To be clear, so far I have spent $0. But I did find exact products that will fit my needs (all in the above rendering)!
