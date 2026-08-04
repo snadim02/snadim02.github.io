@@ -67,7 +67,7 @@ zoom, right-drag to pan.**
 |---|---|
 | :mirror: **Recessed mirror medicine cabinets** | I'll bump out the wall behind the 48" vanity by ~4.5" to recess the mirrors and install GFCI outlets inside each cabinet. [Hinge angle restrictors](https://www.kraftmaid.com/whisper-touch-angle-restrictor-clip-wtharc/) will prevent the doors from hitting the wall. |
 | :shower: **Wall-mounted faucets** | The bumped-out wall provides room for wall-mounted faucets. The vanity will be reduced from 21" to 18" deep, while the wall directly behind it remains unbumped so the plumbing stays accessible for repairs. |
-| :plunger: **18"H mini cabinet** | A fluted wooden sliding door between the floating shelves above the toilet conceals *cleaning products* (e.g., toilet bowl cleaner, Lysol spray). |
+| :plunger: **12" high basket** | A jute basket, designed for storing toilet paper rolls, conceals *cleaning products* (e.g., toilet bowl cleaner, Lysol spray). |
 | :door: **Regular swing door** | Replace the broken pocket door with a narrow, 24" mirrored door that swings out into the bedroom. |
 | :basket: **Hand and bath towels** | Hand towels will hang from low-protrusion [appliance pulls](https://www.rejuvenation.com/products/archie-appliance-pull/) on the vanity drawers, bath towels on [double robe hooks](https://www.fergusonhome.com/product/summary/1767933) by the door, and the floor towel on a low-mounted [towel rack](https://www.fergusonhome.com/product/summary/1746227?uid=4722885). |
 
@@ -89,12 +89,14 @@ To be clear, so far I have spent $0. But I did find exact products that will fit
 | [shower knob](https://www.kohler.com/en/products/showers/shop-shower-trims-valves/elate-rite-temp-valve-trim-ts35320-4?skuId=TS35320-4-2MB) | $80.92 | 
 | five [bathroom hooks](https://www.wayfair.com/Delta--Cassidy%E2%84%A2-Wall-Mounted-Towel-Hook-79735-L7245-K~DLT6421.html) | $75.90 |
 | [14x22" arched shower niche](https://stonetooling.com/ez-niche-plus-arch-square-rectangle/) | $64.47 | 
+| [vintage Yiddish theater poster](https://www.etsy.com/listing/4330491924/yiddish-theatre-poster-bayes-theatre) | $63.27 | 
 | [toilet paper holder](https://www.wayfair.com/Delta--Tissue-Holder-76247-L6143-K~CBKB4233.html) | $40.86 | 
+| [wicker storage basket](https://a.co/d/0aC2Tgbo) for cleaning sprays | $39.99 | 
 | [offset toilet flange](https://www.homedepot.com/pep/Oatey-3-in-PVC-Open-Offset-Toilet-Flange-with-Stainless-Steel-Ring-436052/305248436) | $15.36 |
 | [mirror door angle restrictors](https://www.kraftmaid.com/whisper-touch-angle-restrictor-clip-wtharc/) | $5.00 | 
 | 2" white hex tile (to be sourced) | $0.00 | 
 | 2" terracota hex tile (to be sourced) | $0.00 | 
 | 24x80" [6-panel colonist mirror door slab](https://www.lowes.com/pd/JELD-WEN-Colonist-Primed-6-Panel-Hollow-Core-Mirrored-Glass-Molded-Composite-Slab-Door-Common-24-in-x-80-in-Actual-24-in-x-80-in/50018010) (to be sourced) | $0.00 | 
-| **TOTAL** |          **$5265.64** |
+| **TOTAL** |          **$5368.90** |
 
 Now, let's see how inspired I'm feeling to really get this project done... wish me luck!
